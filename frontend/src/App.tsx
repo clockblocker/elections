@@ -9,12 +9,16 @@ import { DEFAULT_STATE, parseAnalyticalState, readPreferences, savePreferences, 
 import type { AnalyticalState, DatasetStatus, FilterMetadata, Point, PrecinctDetail } from "./types";
 import "./styles.css";
 
+const findDefaultParty = (metadata: FilterMetadata) =>
+  metadata.parties.find((party) => /united russia|единая россия/i.test(party.name));
+
 export default function App() {
   const [state, setState] = useState(() => parseAnalyticalState(window.location.search));
   const [preferences, setPreferences] = useState(readPreferences);
   const [metadata, setMetadata] = useState<FilterMetadata | null>(null);
   const [status, setStatus] = useState<DatasetStatus | null>(null);
   const [points, setPoints] = useState<Point[]>([]);
+  const [pointTotal, setPointTotal] = useState<number | null>(null);
   const [detail, setDetail] = useState<PrecinctDetail | null>(null);
   const [loading, setLoading] = useState(true);
   const [detailLoading, setDetailLoading] = useState(false);
@@ -42,7 +46,7 @@ export default function App() {
         const resolvedMetadata = { ...nextMetadata, sourceVersion: nextStatus.sourceVersion };
         setStatus(nextStatus); setMetadata(resolvedMetadata);
         setState((current) => {
-          const defaultParty = resolvedMetadata.parties.find((party) => /united russia/i.test(party.name));
+          const defaultParty = findDefaultParty(resolvedMetadata);
           const partyIds = current.partyIds.includes("united-russia") && defaultParty ? [defaultParty.id] : current.partyIds;
           const federal = resolvedMetadata.ballots.find((ballot) => ballot.kind === "party_list");
           const district = resolvedMetadata.districts.find((item) => item.id === current.districtId);
@@ -57,9 +61,11 @@ export default function App() {
 
   useEffect(() => {
     if (!metadata) return;
-    if (demo) { setPoints(demoPoints(pointQuery)); setLoading(false); setError(null); return; }
-    const controller = new AbortController(); setLoading(true);
-    api.points(pointQuery, metadata, controller.signal)
+    if (demo) { const nextPoints = demoPoints(pointQuery); setPoints(nextPoints); setPointTotal(nextPoints.length); setLoading(false); setError(null); return; }
+    const controller = new AbortController(); setPoints([]); setPointTotal(null); setLoading(true); setError(null);
+    api.points(pointQuery, metadata, controller.signal, (nextPoints, total) => {
+      if (!controller.signal.aborted) { setPoints(nextPoints); setPointTotal(total); }
+    })
       .then(setPoints)
       .catch((reason: unknown) => { if (!controller.signal.aborted) setError(reason instanceof Error ? reason.message : "The API did not return a response."); })
       .finally(() => { if (!controller.signal.aborted) setLoading(false); });
@@ -83,7 +89,7 @@ export default function App() {
   };
   const resetState = () => {
     const available = metadata || demoMetadata;
-    const defaultParty = available.parties.find((party) => /united russia/i.test(party.name));
+    const defaultParty = findDefaultParty(available);
     const federal = available.ballots.find((ballot) => ballot.kind === "party_list");
     setState({ ...DEFAULT_STATE, partyIds: defaultParty ? [defaultParty.id] : [], ballotId: federal?.id || null });
   };
@@ -109,7 +115,7 @@ export default function App() {
     <main className="workspace">
       <Filters state={state} metadata={activeMetadata} onChange={setState} onReset={resetState} />
       <div className="analysis">
-        <div className="analysis-meta"><div><span className="eyebrow">Current view</span><h1>Precinct result field</h1></div><div className="filter-summary"><strong>{points.length.toLocaleString()}</strong><span>visible marks</span>{appliedCount > 0 && <em>{appliedCount} filters applied</em>}</div></div>
+        <div className="analysis-meta"><div><span className="eyebrow">Current view</span><h1>Precinct result field</h1></div><div className="filter-summary"><strong>{points.length.toLocaleString()}</strong><span>visible marks</span>{loading && <em>{pointTotal === null ? "Loading observations…" : `Loading ${points.length.toLocaleString()} of ${pointTotal.toLocaleString()}…`}</em>}{appliedCount > 0 && <em>{appliedCount} filters applied</em>}</div></div>
         {!loading && !error && points.length === 0 ? <div className="empty-state"><span className="index-mark">00</span><h2>No precincts match this field</h2><p>Broaden the turnout or result range, or clear geography and metadata filters.</p><button onClick={resetState}>Reset analytical state</button></div> : <Scatterplot points={points} parties={activeSeries} selectedId={state.selectedId} onSelect={selectPoint} pointSize={preferences.pointSize} showGrid={preferences.showGrid} registerPng={registerPng} />}
       </div>
       <DetailPanel point={selectedPoint} detail={detail} loading={detailLoading} error={detailError} onClose={() => setState((current) => ({ ...current, selectedId: null }))} />

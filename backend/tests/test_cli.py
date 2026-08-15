@@ -45,6 +45,13 @@ def test_default_database_is_independent_of_working_directory(
     engine.dispose()
 
 
+def test_project_root_honors_container_configuration(tmp_path: Path, monkeypatch) -> None:
+    project_root = tmp_path / "mounted-project"
+    monkeypatch.setenv("ELECTIONS_PROJECT_ROOT", str(project_root))
+
+    assert cli.resolve_project_root() == project_root.resolve()
+
+
 def test_verify_complete_writes_report_and_returns_not_ready(
     tmp_path: Path, capsys
 ) -> None:

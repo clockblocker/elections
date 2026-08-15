@@ -1,10 +1,9 @@
 import createREGL, { type Regl } from "regl";
 import { useCallback, useEffect, useMemo, useRef, useState } from "react";
+import { boundChartView, FULL_CHART_VIEW, type ChartView } from "../chartView";
 import type { Party, Point } from "../types";
 
-type View = { x0: number; x1: number; y0: number; y1: number };
-type Drag = { startX: number; startY: number; view: View; box: boolean } | null;
-const FULL_VIEW: View = { x0: 0, x1: 100, y0: 0, y1: 100 };
+type Drag = { startX: number; startY: number; view: ChartView; box: boolean } | null;
 const MARGIN = { left: 52, right: 20, top: 18, bottom: 46 };
 
 interface Props {
@@ -23,12 +22,13 @@ export function Scatterplot({ points, parties, selectedId, onSelect, pointSize, 
   const reglRef = useRef<Regl | null>(null);
   const drawRef = useRef<(() => void) | null>(null);
   const dragRef = useRef<Drag>(null);
-  const [view, setView] = useState<View>(FULL_VIEW);
+  const [view, setView] = useState<ChartView>(FULL_CHART_VIEW);
   const viewRef = useRef(view);
   const [size, setSize] = useState({ width: 900, height: 600 });
   const [hover, setHover] = useState<{ point: Point; candidates: Point[]; x: number; y: number } | null>(null);
   const [box, setBox] = useState<{ x: number; y: number; width: number; height: number } | null>(null);
   const [mode, setMode] = useState<"pan" | "box">("pan");
+  const applyView = useCallback((next: ChartView) => setView(boundChartView(next)), []);
 
   useEffect(() => { viewRef.current = view; drawRef.current?.(); }, [view]);
   useEffect(() => {
@@ -57,8 +57,14 @@ export function Scatterplot({ points, parties, selectedId, onSelect, pointSize, 
   useEffect(() => {
     const canvas = canvasRef.current;
     if (!canvas) return;
+    const attributes: WebGLContextAttributes = {
+      antialias: true,
+      preserveDrawingBuffer: true,
+    };
+    const gl = canvas.getContext("webgl", attributes);
+    if (!gl) return;
     let regl: Regl;
-    try { regl = createREGL({ canvas, attributes: { antialias: true, preserveDrawingBuffer: true } }); }
+    try { regl = createREGL({ gl }); }
     catch { return; }
     reglRef.current = regl;
     const positions = points.map((point) => [point.turnout, point.partyShare]);
@@ -131,7 +137,7 @@ export function Scatterplot({ points, parties, selectedId, onSelect, pointSize, 
       if (drag.box) setBox({ x: Math.min(p.x, drag.startX), y: Math.min(p.y, drag.startY), width: Math.abs(p.x - drag.startX), height: Math.abs(p.y - drag.startY) });
       else {
         const d = dimensions(); const dx = (p.x - drag.startX) / d.width * (drag.view.x1 - drag.view.x0); const dy = (p.y - drag.startY) / d.height * (drag.view.y1 - drag.view.y0);
-        setView({ x0: drag.view.x0 - dx, x1: drag.view.x1 - dx, y0: drag.view.y0 + dy, y1: drag.view.y1 + dy });
+        applyView({ x0: drag.view.x0 - dx, x1: drag.view.x1 - dx, y0: drag.view.y0 + dy, y1: drag.view.y1 + dy });
       }
       return;
     }
@@ -141,18 +147,28 @@ export function Scatterplot({ points, parties, selectedId, onSelect, pointSize, 
     const p = pointerPosition(event); const drag = dragRef.current; dragRef.current = null;
     if (drag?.box && Math.abs(p.x - drag.startX) > 8 && Math.abs(p.y - drag.startY) > 8) {
       const a = fromPixel(Math.min(p.x, drag.startX), Math.max(p.y, drag.startY), drag.view); const b = fromPixel(Math.max(p.x, drag.startX), Math.min(p.y, drag.startY), drag.view);
-      setView({ x0: a.x, x1: b.x, y0: a.y, y1: b.y });
+      applyView({ x0: a.x, x1: b.x, y0: a.y, y1: b.y });
     } else if (!drag || (Math.abs(p.x - drag.startX) < 4 && Math.abs(p.y - drag.startY) < 4)) { const hit = hitTest(p.x, p.y); if (hit) onSelect(hit.point); }
     setBox(null);
   };
-  const onWheel = (event: React.WheelEvent) => {
-    event.preventDefault(); const rect = event.currentTarget.getBoundingClientRect(); const px = event.clientX - rect.left; const py = event.clientY - rect.top;
-    const anchor = fromPixel(px, py); const current = viewRef.current; const factor = Math.exp(event.deltaY * 0.0015);
-    setView({ x0: anchor.x - (anchor.x - current.x0) * factor, x1: anchor.x + (current.x1 - anchor.x) * factor, y0: anchor.y - (anchor.y - current.y0) * factor, y1: anchor.y + (current.y1 - anchor.y) * factor });
-  };
+  useEffect(() => {
+    const shell = shellRef.current;
+    if (!shell) return;
+    const onWheel = (event: WheelEvent) => {
+      event.preventDefault();
+      event.stopPropagation();
+      const rect = shell.getBoundingClientRect();
+      const anchor = fromPixel(event.clientX - rect.left, event.clientY - rect.top);
+      const current = viewRef.current;
+      const factor = Math.exp(event.deltaY * 0.0015);
+      applyView({ x0: anchor.x - (anchor.x - current.x0) * factor, x1: anchor.x + (current.x1 - anchor.x) * factor, y0: anchor.y - (anchor.y - current.y0) * factor, y1: anchor.y + (current.y1 - anchor.y) * factor });
+    };
+    shell.addEventListener("wheel", onWheel, { passive: false });
+    return () => shell.removeEventListener("wheel", onWheel);
+  }, [applyView, fromPixel]);
   const fitSelected = () => {
     const selected = points.find((point) => point.id === selectedId || point.uikId === selectedId);
-    if (selected) setView({ x0: Math.max(0, selected.turnout - 7), x1: Math.min(100, selected.turnout + 7), y0: Math.max(0, selected.partyShare - 7), y1: Math.min(100, selected.partyShare + 7) });
+    if (selected) applyView({ x0: selected.turnout - 7, x1: selected.turnout + 7, y0: selected.partyShare - 7, y1: selected.partyShare + 7 });
   };
   const ticks = [0, 20, 40, 60, 80, 100];
   const reference = useMemo(() => {
@@ -169,11 +185,11 @@ export function Scatterplot({ points, parties, selectedId, onSelect, pointSize, 
       <div className="tool-buttons" role="toolbar" aria-label="Chart navigation">
         <button className={mode === "pan" ? "active" : ""} aria-pressed={mode === "pan"} onClick={() => setMode("pan")}>↔ Pan</button>
         <button className={mode === "box" ? "active" : ""} aria-pressed={mode === "box"} onClick={() => setMode("box")}>⌗ Box</button>
-        <button onClick={() => setView(FULL_VIEW)}>Reset</button>
+        <button onClick={() => applyView(FULL_CHART_VIEW)}>Reset</button>
         <button onClick={fitSelected} disabled={!selectedId}>Fit selected</button>
       </div>
     </div>
-    <div className={`plot-shell mode-${mode}`} ref={shellRef} onPointerDown={onPointerDown} onPointerMove={onPointerMove} onPointerUp={onPointerUp} onPointerCancel={() => { dragRef.current = null; setBox(null); }} onPointerLeave={() => setHover(null)} onWheel={onWheel}>
+    <div className={`plot-shell mode-${mode}`} ref={shellRef} onPointerDown={onPointerDown} onPointerMove={onPointerMove} onPointerUp={onPointerUp} onPointerCancel={() => { dragRef.current = null; setBox(null); }} onPointerLeave={() => setHover(null)}>
       <svg className="plot-grid" width={size.width} height={size.height} aria-hidden="true">{showGrid && ticks.map((tick) => <g key={`x-${tick}`}><line x1={MARGIN.left + tick / 100 * (size.width - MARGIN.left - MARGIN.right)} y1={MARGIN.top} x2={MARGIN.left + tick / 100 * (size.width - MARGIN.left - MARGIN.right)} y2={size.height - MARGIN.bottom} /><text x={MARGIN.left + tick / 100 * (size.width - MARGIN.left - MARGIN.right)} y={size.height - 19}>{Math.round(view.x0 + tick / 100 * (view.x1 - view.x0))}</text></g>)}{showGrid && ticks.map((tick) => <g key={`y-${tick}`}><line x1={MARGIN.left} y1={MARGIN.top + tick / 100 * (size.height - MARGIN.top - MARGIN.bottom)} x2={size.width - MARGIN.right} y2={MARGIN.top + tick / 100 * (size.height - MARGIN.top - MARGIN.bottom)} /><text x={MARGIN.left - 10} y={size.height - MARGIN.bottom - tick / 100 * (size.height - MARGIN.top - MARGIN.bottom)}>{Math.round(view.y0 + tick / 100 * (view.y1 - view.y0))}</text></g>)}
         {reference.turnout >= view.x0 && reference.turnout <= view.x1 && <line className="reference-line" x1={MARGIN.left + (reference.turnout - view.x0) / (view.x1 - view.x0) * (size.width - MARGIN.left - MARGIN.right)} x2={MARGIN.left + (reference.turnout - view.x0) / (view.x1 - view.x0) * (size.width - MARGIN.left - MARGIN.right)} y1={MARGIN.top} y2={size.height - MARGIN.bottom} />}
         {reference.result >= view.y0 && reference.result <= view.y1 && <line className="reference-line" x1={MARGIN.left} x2={size.width - MARGIN.right} y1={size.height - MARGIN.bottom - (reference.result - view.y0) / (view.y1 - view.y0) * (size.height - MARGIN.top - MARGIN.bottom)} y2={size.height - MARGIN.bottom - (reference.result - view.y0) / (view.y1 - view.y0) * (size.height - MARGIN.top - MARGIN.bottom)} />}

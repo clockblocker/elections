@@ -26,7 +26,26 @@ from elections.validation import (
 from elections.verification import verify_complete_dataset
 
 BACKEND_ROOT = Path(__file__).resolve().parents[1]
-PROJECT_ROOT = BACKEND_ROOT.parent if BACKEND_ROOT.name == "backend" else BACKEND_ROOT
+
+
+def resolve_project_root() -> Path:
+    configured = os.environ.get("ELECTIONS_PROJECT_ROOT")
+    if configured:
+        return Path(configured).expanduser().resolve()
+    if BACKEND_ROOT.name == "backend":
+        return BACKEND_ROOT.parent
+    working_directory = Path.cwd()
+    if (working_directory / "data" / "source-manifest.json").exists():
+        return working_directory
+    return BACKEND_ROOT
+
+
+PROJECT_ROOT = resolve_project_root()
+DEFAULT_ALEMBIC_CONFIG = (
+    PROJECT_ROOT / "backend" / "alembic.ini"
+    if (PROJECT_ROOT / "backend" / "alembic.ini").exists()
+    else PROJECT_ROOT / "alembic.ini"
+)
 DEFAULT_MANIFEST = PROJECT_ROOT / "data/source-manifest.json"
 DEFAULT_SINGLE_MEMBER_PLAN = PROJECT_ROOT / "data/single-member-sources-2021.json"
 DEFAULT_RAW_DIR = PROJECT_ROOT / "data/raw"
@@ -58,7 +77,7 @@ def build_parser() -> argparse.ArgumentParser:
     subparsers = parser.add_subparsers(dest="command", required=True)
 
     migrate = subparsers.add_parser("migrate", help="migrate the database to Alembic head")
-    migrate.add_argument("--config", type=Path, default=BACKEND_ROOT / "alembic.ini")
+    migrate.add_argument("--config", type=Path, default=DEFAULT_ALEMBIC_CONFIG)
 
     download = subparsers.add_parser("download", help="download and verify every source")
     download.add_argument("--manifest", type=Path, default=DEFAULT_MANIFEST)

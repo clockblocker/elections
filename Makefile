@@ -1,6 +1,6 @@
 SINGLE_MEMBER_TOTALS ?= data/published-single-member-totals-2021.json
 
-.PHONY: dev down rebuild-db rebuild-data test validate verify-complete
+.PHONY: dev down rebuild-db rebuild-data test test-e2e validate verify-complete
 
 dev:
 	docker compose up --build --wait
@@ -36,6 +36,9 @@ rebuild-data:
 test:
 	docker compose run --rm api pytest
 	docker compose run --rm web npm test -- --run
+
+test-e2e:
+	cd frontend && npm run test:e2e
 
 validate:
 	docker compose run --rm api elections-data validate

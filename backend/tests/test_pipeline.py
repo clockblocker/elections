@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import json
+from decimal import Decimal
 from pathlib import Path
 
 from sqlalchemy import func, select
@@ -15,11 +16,38 @@ from elections.models import (
     MatchEvidence,
     MatchStatus,
     ResultRecord,
+    SpecialType,
     ValidationFinding,
     ValidationStatus,
     Vote,
 )
-from elections.validation import load_published_totals, validate_dataset
+from elections.validation import _aggregate_rows, load_published_totals, validate_dataset
+
+
+def test_aggregate_rows_normalizes_mysql_decimal_sums() -> None:
+    class DecimalAggregateSession:
+        def execute(self, _statement):
+            return [
+                (
+                    "Moscow",
+                    "Central TIK",
+                    SpecialType.NONE,
+                    1,
+                    Decimal("100"),
+                    Decimal("60"),
+                    Decimal("2"),
+                )
+            ]
+
+    assert _aggregate_rows(DecimalAggregateSession())[0] == {
+        "region": "Moscow",
+        "tik": "Central TIK",
+        "special_type": "none",
+        "result_records": 1,
+        "registered_voters": 100,
+        "valid_ballots": 60,
+        "invalid_ballots": 2,
+    }
 
 
 def test_end_to_end_import_match_and_validate(

@@ -62,8 +62,17 @@ function queryFor(state: AnalyticalState, metadata: FilterMetadata): URLSearchPa
 export interface ApiClient {
   status(signal?: AbortSignal): Promise<DatasetStatus>;
   filters(signal?: AbortSignal): Promise<FilterMetadata>;
-  points(state: AnalyticalState, metadata: FilterMetadata, signal?: AbortSignal): Promise<Point[]>;
+  points(state: AnalyticalState, metadata: FilterMetadata, signal?: AbortSignal, onProgress?: (points: Point[], total: number) => void): Promise<Point[]>;
   precinct(resultRecordId: string, signal?: AbortSignal): Promise<PrecinctDetail>;
+}
+
+function pointFromWire(wire: PointWire, parties: Map<string, Party>): Point {
+  const candidateKey = wire.candidate_id == null ? null : `candidate:${wire.candidate_id}`;
+  const party = wire.party_id == null ? null : parties.get(String(wire.party_id));
+  const uikId = String(wire.result_record_id);
+  const seriesId = candidateKey || String(wire.party_id);
+  const missingFlags = [wire.turnout_percent === null ? "missing_turnout" : "", wire.party_percent === null ? "missing_result" : ""].filter(Boolean);
+  return { id: `${uikId}:${seriesId}`, uikId, uikNumber: wire.uik_number, tikId: wire.tik_name || "", tikName: wire.tik_name || "TIK not recorded", regionId: wire.region_name, regionName: wire.region_name, partyId: seriesId, partyName: wire.candidate_name || party?.name || `Option ${seriesId}`, ballotId: String(wire.ballot_id || ""), ballotKind: wire.ballot_kind || "party_list", districtId: wire.oik_id == null ? null : String(wire.oik_id), candidateId: wire.candidate_id == null ? null : String(wire.candidate_id), affiliation: wire.party_affiliation || null, winner: wire.is_winner || false, registeredVoters: wire.registered_voters, ballotsIssued: wire.ballots_counted, turnout: wire.turnout_percent ?? 0, partyVotes: wire.party_votes, partyShare: wire.party_percent ?? 0, specialFlags: [...wire.flags, ...missingFlags, ...(wire.special_type ? [wire.special_type] : []), ...(wire.is_deg ? ["deg"] : [])].filter((value, index, all) => all.indexOf(value) === index), matchStatus: normalizeMatch(wire.match_status), validationStatus: wire.validation_status };
 }
 
 export const api: ApiClient = {
@@ -76,17 +85,18 @@ export const api: ApiClient = {
     const normalizedParties: Party[] = parties.map((party, index) => ({ id: String(party.id), name: party.name, shortName: party.short_name || party.name, color: palette[index % palette.length] }));
     return { parties: normalizedParties, ballots: ballots.map((ballot) => ({ id: String(ballot.id), kind: ballot.kind, name: ballot.name, scopeKey: ballot.scope_key, districtId: ballot.oik_id ? String(ballot.oik_id) : undefined })), districts: districts.map((district) => ({ id: String(district.id), code: district.code, name: `${district.code} · ${district.name}`, regionName: district.region_name || undefined, ballotId: String(district.ballot_id), count: district.result_records })), candidates: candidates.map((candidate) => ({ id: String(candidate.id), name: candidate.full_name, ballotId: String(candidate.ballot_id), districtId: String(candidate.oik_id), affiliation: candidate.party_affiliation || undefined, winner: candidate.is_winner, position: candidate.position })), affiliations: affiliations.map((item) => ({ id: item.value, name: item.value, count: item.candidates })), regions: regions.map((region) => ({ id: region.name, name: region.name, count: region.result_records })), tiks: tiks.map((tik) => ({ id: tik.name, name: `${tik.name} · ${tik.region_name}`, count: tik.result_records })), specialTypes: special.map((item) => ({ id: item.value, name: item.label, count: item.result_records })), matchStatuses: ["matched", "partial", "unmatched"], sourceVersion: "pending-status" };
   },
-  async points(state, metadata, signal) {
-    const params = queryFor(state, metadata); const wires: PointWire[] = [];
-    for (let offset = 0; ; offset += 20000) {
-      params.set("offset", String(offset)); const page = await get<PageWire>(`/points?${params}`, signal); wires.push(...page.items); if (!page.has_more) break;
-    }
+  async points(state, metadata, signal, onProgress) {
+    const params = queryFor(state, metadata);
     const parties = new Map(metadata.parties.map((party) => [party.id, party]));
-    return wires.map((wire) => {
-      const candidateKey = wire.candidate_id == null ? null : `candidate:${wire.candidate_id}`; const party = wire.party_id == null ? null : parties.get(String(wire.party_id)); const uikId = String(wire.result_record_id); const seriesId = candidateKey || String(wire.party_id);
-      const missingFlags = [wire.turnout_percent === null ? "missing_turnout" : "", wire.party_percent === null ? "missing_result" : ""].filter(Boolean);
-      return { id: `${uikId}:${seriesId}`, uikId, uikNumber: wire.uik_number, tikId: wire.tik_name || "", tikName: wire.tik_name || "TIK not recorded", regionId: wire.region_name, regionName: wire.region_name, partyId: seriesId, partyName: wire.candidate_name || party?.name || `Option ${seriesId}`, ballotId: String(wire.ballot_id || ""), ballotKind: wire.ballot_kind || "party_list", districtId: wire.oik_id == null ? null : String(wire.oik_id), candidateId: wire.candidate_id == null ? null : String(wire.candidate_id), affiliation: wire.party_affiliation || null, winner: wire.is_winner || false, registeredVoters: wire.registered_voters, ballotsIssued: wire.ballots_counted, turnout: wire.turnout_percent ?? 0, partyVotes: wire.party_votes, partyShare: wire.party_percent ?? 0, specialFlags: [...wire.flags, ...missingFlags, ...(wire.special_type ? [wire.special_type] : []), ...(wire.is_deg ? ["deg"] : [])].filter((value, index, all) => all.indexOf(value) === index), matchStatus: normalizeMatch(wire.match_status), validationStatus: wire.validation_status };
-    });
+    const points: Point[] = [];
+    for (let offset = 0; ; offset += 20000) {
+      params.set("offset", String(offset));
+      const page = await get<PageWire>(`/points?${params}`, signal);
+      points.push(...page.items.map((wire) => pointFromWire(wire, parties)));
+      onProgress?.([...points], page.total);
+      if (!page.has_more) break;
+    }
+    return points;
   },
   async precinct(resultRecordId, signal) {
     const wire = await get<DetailWire>(`/uiks/${encodeURIComponent(resultRecordId)}`, signal);

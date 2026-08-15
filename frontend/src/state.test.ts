@@ -13,6 +13,7 @@ describe("analytical URL state", () => {
     expect(state.turnoutMin).toBe(0);
     expect(state.turnoutMax).toBe(100);
     expect(state.resultMin).toBe(0);
+    expect(state.resultMax).toBe(100);
   });
 
   it("restores district, candidate, winner, and pinned UIK state", () => {

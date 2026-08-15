@@ -75,5 +75,5 @@ export function Filters({ state, metadata, onChange, onReset }: Props) {
 }
 
 function FilterSelect({ label, value, options, onChange, allLabel = "All" }: { label: string; value: string; options: Array<{ id: string; name: string; count?: number }>; onChange(value: string): void; allLabel?: string }) {
-  return <label className="select-field"><span>{label}</span><select value={value} onChange={(event) => onChange(event.target.value)}><option value="">{allLabel}</option>{options.map((option) => <option value={option.id} key={option.id}>{option.name}{option.count === undefined ? "" : ` · ${option.count}`}</option>)}</select></label>;
+  return <label className="select-field"><span>{label}</span><select value={value} onChange={(event) => onChange(event.target.value)}><option value="">{allLabel}</option>{options.map((option) => <option value={option.id} key={`${option.id}:${option.name}`}>{option.name}{option.count === undefined ? "" : ` · ${option.count}`}</option>)}</select></label>;
 }

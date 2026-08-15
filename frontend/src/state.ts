@@ -21,6 +21,7 @@ export const DEFAULT_STATE: AnalyticalState = {
 
 const array = (p: URLSearchParams, key: string) => p.getAll(key).filter(Boolean);
 const boundedNumber = (value: string | null, fallback: number) => {
+  if (value === null || value.trim() === "") return fallback;
   const parsed = Number(value);
   return Number.isFinite(parsed) ? Math.max(0, Math.min(100, parsed)) : fallback;
 };

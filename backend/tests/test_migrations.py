@@ -5,11 +5,19 @@ from io import StringIO
 from pathlib import Path
 
 from alembic.config import Config
-from sqlalchemy import create_engine, inspect, select, text
+from sqlalchemy import UniqueConstraint, create_engine, inspect, select, text
 from sqlalchemy.orm import Session
 
 from alembic import command
-from elections.models import Ballot, BallotKind, Candidate, Election, Geography, GeographyType
+from elections.models import (
+    Ballot,
+    BallotKind,
+    Base,
+    Candidate,
+    Election,
+    Geography,
+    GeographyType,
+)
 
 
 def migration_config(database_url: str, *, output_buffer: StringIO | None = None) -> Config:
@@ -162,5 +170,29 @@ def test_mysql_migration_sql_contains_district_candidate_and_vote_ddl() -> None:
     assert "CREATE TABLE candidates" in sql
     assert "uq_ballot_election_kind_scope" in sql
     assert "uq_ballot_election_kind_oik" in sql
+    assert sql.index("ADD CONSTRAINT uq_ballot_election_kind_scope") < sql.index(
+        "DROP INDEX uq_ballot_election_kind"
+    )
     assert "ADD COLUMN candidate_id INTEGER" in sql
     assert "ck_vote_exactly_one_target" in sql
+
+
+def test_all_indexed_keys_fit_mysql_utf8mb4_limit() -> None:
+    # MySQL InnoDB allows 3072 bytes per index. utf8mb4 VARCHAR columns can
+    # consume four bytes per declared character. Eight bytes for fixed-size
+    # columns is conservative for the integer and boolean keys in this schema.
+    oversized: list[tuple[str, int]] = []
+    for table in Base.metadata.tables.values():
+        keys = list(table.indexes)
+        keys.extend(
+            item for item in table.constraints if isinstance(item, UniqueConstraint)
+        )
+        for key in keys:
+            key_bytes = sum(
+                (length * 4 if (length := getattr(column.type, "length", None)) else 8)
+                for column in key.columns
+            )
+            if key_bytes > 3072:
+                oversized.append((key.name or "<unnamed>", key_bytes))
+
+    assert oversized == []

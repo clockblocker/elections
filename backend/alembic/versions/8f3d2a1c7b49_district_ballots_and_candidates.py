@@ -31,7 +31,6 @@ def upgrade() -> None:
             )
         )
         batch_op.add_column(sa.Column("oik_id", sa.Integer(), nullable=True))
-        batch_op.drop_constraint("uq_ballot_election_kind", type_="unique")
         batch_op.create_foreign_key(
             "fk_ballots_oik_id_geographies", "geographies", ["oik_id"], ["id"]
         )
@@ -41,6 +40,10 @@ def upgrade() -> None:
         batch_op.create_unique_constraint(
             "uq_ballot_election_kind_oik", ["election_id", "kind", "oik_id"]
         )
+        # MySQL uses the old unique index to support the election_id foreign
+        # key. Create a replacement with the same leading column before
+        # dropping it, or MySQL rejects the DROP INDEX operation.
+        batch_op.drop_constraint("uq_ballot_election_kind", type_="unique")
         batch_op.create_check_constraint(
             "ck_ballot_kind_scope",
             "(kind = 'PARTY_LIST' AND oik_id IS NULL AND scope_key = 'federal') OR "

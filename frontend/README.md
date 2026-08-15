@@ -7,6 +7,16 @@ npm install
 npm run dev
 ```
 
+With the Compose stack running, install Playwright's Chromium once and run the
+rendered browser flow against the reconciled local dataset:
+
+```sh
+npx playwright install chromium
+npm run test:e2e
+```
+
+Override the target with `PLAYWRIGHT_BASE_URL` when the UI is not on port 5173.
+
 The analytical state (filters and selection) is encoded in the URL. Point size, grid visibility, and contrast are cosmetic preferences kept in local storage. Chart navigation is entirely local after point data loads. CSV and JSON exports include the API source version and active filters; the JSON also records the displayed formulas.
 
 If the API is unavailable, the error screen can open a deterministic demonstration snapshot. It is visibly labelled and is never confused with reconciled source data.

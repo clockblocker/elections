@@ -241,10 +241,10 @@ def _aggregate_rows(session: Session) -> list[dict[str, Any]]:
             "region": region,
             "tik": tik,
             "special_type": special.value,
-            "result_records": count,
-            "registered_voters": registered,
-            "valid_ballots": valid,
-            "invalid_ballots": invalid,
+            "result_records": int(count or 0),
+            "registered_voters": int(registered or 0),
+            "valid_ballots": int(valid or 0),
+            "invalid_ballots": int(invalid or 0),
         }
         for region, tik, special, count, registered, valid, invalid in session.execute(statement)
     ]
