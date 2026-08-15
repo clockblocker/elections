@@ -44,6 +44,43 @@ class Party(ApiModel):
     position: int | None = None
 
 
+class BallotSummary(ApiModel):
+    id: int
+    election_id: int
+    kind: str
+    name: str
+    scope_key: str
+    oik_id: int | None = None
+
+
+class District(ApiModel):
+    id: int
+    code: str
+    name: str
+    region_name: str | None = None
+    ballot_id: int
+    candidate_count: int = 0
+    result_records: int = 0
+
+
+class CandidateSummary(ApiModel):
+    id: int
+    ballot_id: int
+    oik_id: int
+    district_code: str
+    position: int
+    full_name: str
+    party_affiliation: str | None = None
+    is_self_nominated: bool = False
+    registration_status: str | None = None
+    is_winner: bool = False
+
+
+class Affiliation(ApiModel):
+    value: str
+    candidates: int = 0
+
+
 class Region(ApiModel):
     id: int | None = None
     name: str
@@ -67,7 +104,13 @@ class SpecialType(ApiModel):
 
 
 class PointFilters(ApiModel):
+    ballot_kinds: list[str] = Field(default_factory=list)
+    ballot_ids: list[int] = Field(default_factory=list)
+    oik_ids: list[int] = Field(default_factory=list)
     party_ids: list[int] = Field(default_factory=list)
+    candidate_ids: list[int] = Field(default_factory=list)
+    affiliations: list[str] = Field(default_factory=list)
+    winner: bool | None = None
     regions: list[str] = Field(default_factory=list)
     tiks: list[str] = Field(default_factory=list)
     special_types: list[str] = Field(default_factory=list)
@@ -84,7 +127,15 @@ class PointFilters(ApiModel):
 
 class ScatterPoint(ApiModel):
     result_record_id: int
-    party_id: int
+    ballot_id: int | None = None
+    ballot_kind: str = "party_list"
+    scope_key: str = "federal"
+    oik_id: int | None = None
+    party_id: int | None = None
+    candidate_id: int | None = None
+    candidate_name: str | None = None
+    party_affiliation: str | None = None
+    is_winner: bool = False
     uik_number: str
     tik_name: str | None = None
     region_name: str
@@ -144,6 +195,18 @@ class PartyResult(ApiModel):
     percent: Percentage | None = None
 
 
+class CandidateResult(ApiModel):
+    candidate_id: int
+    full_name: str
+    position: int
+    party_affiliation: str | None = None
+    is_self_nominated: bool = False
+    registration_status: str | None = None
+    votes: int = Field(ge=0)
+    percent: Percentage | None = None
+    is_winner: bool = False
+
+
 class CommissionMember(ApiModel):
     full_name: str
     role: str | None = None
@@ -180,6 +243,24 @@ class SourceLink(ApiModel):
     retrieved_at: datetime | None = None
 
 
+class UikProtocol(ApiModel):
+    result_record_id: int
+    ballot_id: int
+    ballot_kind: str
+    ballot_name: str
+    scope_key: str
+    accounting: Accounting
+    turnout_percent: Percentage | None = None
+    party_results: list[PartyResult] = Field(default_factory=list)
+    candidate_results: list[CandidateResult] = Field(default_factory=list)
+    match_status: str
+    validation_status: str | None = None
+    special_type: str | None = None
+    is_deg: bool = False
+    flags: list[str] = Field(default_factory=list)
+    sources: list[SourceLink] = Field(default_factory=list)
+
+
 class UikDetail(ApiModel):
     result_record_id: int
     uik_number: str
@@ -188,7 +269,9 @@ class UikDetail(ApiModel):
     hierarchy: Hierarchy
     accounting: Accounting
     turnout_percent: Percentage | None = None
-    party_results: list[PartyResult]
+    party_results: list[PartyResult] = Field(default_factory=list)
+    candidate_results: list[CandidateResult] = Field(default_factory=list)
+    protocols: list[UikProtocol] = Field(default_factory=list)
     commission: CommissionMetadata | None = None
     match_status: str
     validation_status: str | None = None

@@ -2,14 +2,18 @@
 
 from __future__ import annotations
 
-from typing import Annotated
+from typing import Annotated, Literal
 
 from fastapi import APIRouter, Depends, HTTPException, Query, Request, status
 from pydantic import Field
 
 from elections.api.repository import ElectionRepository
 from elections.api.schemas import (
+    Affiliation,
+    BallotSummary,
+    CandidateSummary,
     DatasetStatus,
+    District,
     Party,
     PointFilters,
     PointPage,
@@ -44,6 +48,44 @@ def parties(repository: Repository) -> list[Party]:
     return repository.list_parties()
 
 
+@router.get("/ballots", response_model=list[BallotSummary], summary="List ballot filters")
+def ballots(repository: Repository) -> list[BallotSummary]:
+    return repository.list_ballots()
+
+
+@router.get("/districts", response_model=list[District], summary="List OIK filters")
+def districts(repository: Repository) -> list[District]:
+    return repository.list_districts()
+
+
+@router.get("/candidates", response_model=list[CandidateSummary], summary="List candidates")
+def candidates(
+    repository: Repository,
+    ballot_id: Annotated[int | None, Query(ge=1)] = None,
+    oik_id: Annotated[int | None, Query(ge=1)] = None,
+    affiliation: str | None = None,
+    winner: bool | None = None,
+) -> list[CandidateSummary]:
+    return repository.list_candidates(
+        ballot_id=ballot_id,
+        oik_id=oik_id,
+        affiliation=affiliation,
+        winner=winner,
+    )
+
+
+@router.get(
+    "/affiliations",
+    response_model=list[Affiliation],
+    summary="List candidate affiliations",
+)
+def affiliations(
+    repository: Repository,
+    oik_id: Annotated[int | None, Query(ge=1)] = None,
+) -> list[Affiliation]:
+    return repository.list_affiliations(oik_id=oik_id)
+
+
 @router.get("/regions", response_model=list[Region], summary="List region filters")
 def regions(repository: Repository) -> list[Region]:
     return repository.list_regions()
@@ -73,7 +115,15 @@ def special_types(repository: Repository) -> list[SpecialType]:
 )
 def points(
     repository: Repository,
+    ballot_kind: Annotated[
+        list[Literal["party_list", "single_member"]] | None, Query()
+    ] = None,
+    ballot_id: Annotated[list[PartyId] | None, Query()] = None,
+    oik_id: Annotated[list[PartyId] | None, Query()] = None,
     party_id: Annotated[list[PartyId] | None, Query()] = None,
+    candidate_id: Annotated[list[PartyId] | None, Query()] = None,
+    affiliation: Annotated[list[str] | None, Query()] = None,
+    winner: bool | None = None,
     region: Annotated[list[str] | None, Query()] = None,
     tik: Annotated[list[str] | None, Query()] = None,
     special_type: Annotated[list[str] | None, Query()] = None,
@@ -99,7 +149,13 @@ def points(
         )
     return repository.list_points(
         PointFilters(
+            ballot_kinds=ballot_kind or [],
+            ballot_ids=ballot_id or [],
+            oik_ids=oik_id or [],
             party_ids=party_id or [],
+            candidate_ids=candidate_id or [],
+            affiliations=affiliation or [],
+            winner=winner,
             regions=region or [],
             tiks=tik or [],
             special_types=special_type or [],

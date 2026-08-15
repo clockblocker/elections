@@ -10,19 +10,29 @@ from alembic.config import Config
 from sqlalchemy import select
 
 from alembic import command
+from elections.acquisition import BLOCKING_GAP_STATUSES, acquire_snapshot, verify_snapshot
 from elections.db import build_engine, session_scope
 from elections.ingest.commissions import import_commissions
 from elections.ingest.results import import_results
+from elections.ingest.single_member import import_single_member_snapshot
 from elections.matching import match_results
 from elections.models import Ballot, BallotKind
 from elections.sources import download_all, load_manifest
-from elections.validation import load_published_totals, validate_dataset
+from elections.validation import (
+    load_published_totals,
+    load_single_member_published_totals,
+    validate_dataset,
+)
+from elections.verification import verify_complete_dataset
 
 BACKEND_ROOT = Path(__file__).resolve().parents[1]
 PROJECT_ROOT = BACKEND_ROOT.parent if BACKEND_ROOT.name == "backend" else BACKEND_ROOT
 DEFAULT_MANIFEST = PROJECT_ROOT / "data/source-manifest.json"
+DEFAULT_SINGLE_MEMBER_PLAN = PROJECT_ROOT / "data/single-member-sources-2021.json"
 DEFAULT_RAW_DIR = PROJECT_ROOT / "data/raw"
+DEFAULT_SINGLE_MEMBER_MANIFEST = PROJECT_ROOT / "reports/generated/single-member-snapshot.json"
 DEFAULT_PUBLISHED_TOTALS = PROJECT_ROOT / "data/published-totals-2021.json"
+DEFAULT_COMPLETE_REPORT = PROJECT_ROOT / "reports/generated/complete-dataset-2021.json"
 DEFAULT_LOCAL_DATABASE_URL = f"sqlite:///{PROJECT_ROOT / 'data/elections.sqlite3'}"
 
 
@@ -55,6 +65,21 @@ def build_parser() -> argparse.ArgumentParser:
     download.add_argument("--raw-dir", type=Path, default=DEFAULT_RAW_DIR)
     download.add_argument("--force", action="store_true")
 
+    acquire = subparsers.add_parser(
+        "acquire-single-member",
+        help="acquire or verify the preserved 2021 single-member CEC snapshot",
+    )
+    acquire.add_argument("--plan", type=Path, default=DEFAULT_SINGLE_MEMBER_PLAN)
+    acquire.add_argument("--raw-dir", type=Path, default=DEFAULT_RAW_DIR)
+    acquire.add_argument("--manifest", type=Path, default=DEFAULT_SINGLE_MEMBER_MANIFEST)
+    acquire.add_argument("--force", action="store_true")
+    acquire.add_argument("--rate-limit", type=float)
+    acquire.add_argument("--timeout", type=float, default=120)
+    acquire.add_argument("--verify-only", action="store_true")
+    acquire.add_argument(
+        "--allow-gaps", action="store_true", help="return success while retaining explicit gaps"
+    )
+
     for name, default_artifact in (
         ("import-results", "duma-2021-party-list-results"),
         ("import-commissions", "commissions-2021-09-14"),
@@ -64,6 +89,13 @@ def build_parser() -> argparse.ArgumentParser:
         subparser.add_argument("--artifact", default=default_artifact)
         subparser.add_argument("--raw-dir", type=Path, default=DEFAULT_RAW_DIR)
         subparser.add_argument("--path", type=Path)
+
+    import_single = subparsers.add_parser(
+        "import-single-member",
+        help="verify and import candidate protocols from the preserved snapshot",
+    )
+    import_single.add_argument("--manifest", type=Path, default=DEFAULT_SINGLE_MEMBER_MANIFEST)
+    import_single.add_argument("--raw-dir", type=Path, default=DEFAULT_RAW_DIR)
 
     match = subparsers.add_parser("match", help="match results to commissions")
     match.add_argument(
@@ -75,7 +107,14 @@ def build_parser() -> argparse.ArgumentParser:
         "--report", type=Path, default=PROJECT_ROOT / "reports/generated/validation.json"
     )
     validate.add_argument("--published-totals", type=Path, default=DEFAULT_PUBLISHED_TOTALS)
+    validate.add_argument("--single-member-published-totals", type=Path)
     validate.add_argument("--ballot-id", type=int, help="ballot for --published-totals")
+    verify = subparsers.add_parser(
+        "verify-complete", help="write final two-ballot counts and readiness report"
+    )
+    verify.add_argument("--report", type=Path, default=DEFAULT_COMPLETE_REPORT)
+    verify.add_argument("--snapshot-manifest", type=Path, default=DEFAULT_SINGLE_MEMBER_MANIFEST)
+    verify.add_argument("--raw-dir", type=Path, default=DEFAULT_RAW_DIR)
     return parser
 
 
@@ -89,6 +128,34 @@ def main(argv: list[str] | None = None) -> int:
             }
         )
         return 0
+    if args.command == "acquire-single-member":
+        if args.verify_only:
+            _json(
+                verify_snapshot(
+                    args.manifest, args.raw_dir, require_complete=not args.allow_gaps
+                )
+            )
+            return 0
+        report = acquire_snapshot(
+            args.plan,
+            args.raw_dir,
+            args.manifest,
+            force=args.force,
+            rate_limit_seconds=args.rate_limit,
+            timeout=args.timeout,
+        )
+        _json(
+            {
+                "manifest": str(args.manifest),
+                "coverage": report["coverage"],
+                "gaps": len(report["gaps"]),
+                "run": report["run"],
+            }
+        )
+        blocking_gaps = any(
+            gap["status"] in BLOCKING_GAP_STATUSES for gap in report["gaps"]
+        )
+        return 2 if blocking_gaps and not args.allow_gaps else 0
     if args.command == "migrate":
         config = Config(str(args.config))
         config.set_main_option(
@@ -105,6 +172,13 @@ def main(argv: list[str] | None = None) -> int:
         if args.command == "import-results":
             artifact, path = _artifact(args)
             _json(import_results(session, artifact, path))
+        elif args.command == "import-single-member":
+            if not args.manifest.exists():
+                raise SystemExit(
+                    f"snapshot manifest does not exist: {args.manifest}; "
+                    "run `elections-data acquire-single-member`"
+                )
+            _json(import_single_member_snapshot(session, args.manifest, args.raw_dir))
         elif args.command == "import-commissions":
             artifact, path = _artifact(args)
             _json(import_commissions(session, artifact, path))
@@ -123,8 +197,26 @@ def main(argv: list[str] | None = None) -> int:
                         f"published totals file does not exist: {args.published_totals}"
                     )
                 load_published_totals(session, args.published_totals, args.ballot_id)
+            if args.single_member_published_totals:
+                if not args.single_member_published_totals.exists():
+                    raise SystemExit(
+                        "single-member published totals file does not exist: "
+                        f"{args.single_member_published_totals}"
+                    )
+                load_single_member_published_totals(
+                    session, args.single_member_published_totals
+                )
             report = validate_dataset(session, args.report)
             _json(report["summary"])
+        elif args.command == "verify-complete":
+            report = verify_complete_dataset(
+                session,
+                args.report,
+                snapshot_manifest_path=args.snapshot_manifest,
+                raw_dir=args.raw_dir,
+            )
+            _json(report)
+            return 0 if report["ready"] else 2
     return 0
 
 

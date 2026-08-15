@@ -13,7 +13,7 @@ The first complete vertical slice is the **2021 State Duma election**:
 - region, district, TIK, and UIK hierarchy;
 - DEG represented explicitly, never silently merged with physical precincts;
 - UIK/TIK membership snapshot from 14 September 2021;
-- interactive turnout and vote-share analysis for the party-list ballot.
+- interactive turnout and vote-share analysis for party-list and district candidates.
 
 Presidential elections, the 2020 constitutional vote, and earlier Duma elections follow only after the 2021 pipeline is reproducible and validated.
 
@@ -150,6 +150,12 @@ The executable MVP queue lives in [GitHub Issues](https://github.com/clockblocke
 | [10](https://github.com/clockblocker/elections/issues/10) | Implement the WebGL Shpilkin-style scatterplot | 8, 9 |
 | [11](https://github.com/clockblocker/elections/issues/11) | Add UIK hover, selection, and full metadata inspection | 8, 10 |
 | [12](https://github.com/clockblocker/elections/issues/12) | Add exports and verify the complete local MVP | 7, 10, 11 |
+| [14](https://github.com/clockblocker/elections/issues/14) | Acquire and preserve 2021 single-member UIK result sources | 3 |
+| [15](https://github.com/clockblocker/elections/issues/15) | Model district-scoped ballots and candidates | 2 |
+| [16](https://github.com/clockblocker/elections/issues/16) | Import 2021 single-member UIK candidate results | 14, 15 |
+| [17](https://github.com/clockblocker/elections/issues/17) | Validate and reconcile all 225 single-member districts | 16 |
+| [18](https://github.com/clockblocker/elections/issues/18) | Add candidate and district exploration to the API and UI | 16, 8–11 |
+| [19](https://github.com/clockblocker/elections/issues/19) | Verify and export the complete two-ballot dataset | 12, 17, 18 |
 
 Each issue contains its own outcome, scope, and acceptance criteria. Update the issue first when ticket scope changes, then keep this dependency map aligned.
 
@@ -164,7 +170,7 @@ Each issue contains its own outcome, scope, and acceptance criteria. Update the 
 ## Definition of done for 2021
 
 - A fresh checkout can build the database from documented inputs.
-- National and regional totals reconcile to published CEC totals.
+- Party-list national totals and all 225 single-member OIK totals reconcile to published CEC totals.
 - The UI displays linked turnout, vote-share, and excess-vote views.
 - DEG treatment is explicit.
 - Every estimate is reproducible from saved parameters.

@@ -161,9 +161,11 @@ export function Scatterplot({ points, parties, selectedId, onSelect, pointSize, 
     const partyVotes = points.reduce((sum, point) => sum + point.partyVotes, 0);
     return { turnout: voters ? ballots / voters * 100 : 0, result: ballots ? partyVotes / ballots * 100 : 0 };
   }, [points]);
-  return <section className="plot-card" aria-label="Turnout and party result scatterplot">
+  const candidateMode = points.some((point) => point.ballotKind === "single_member");
+  const resultLabel = candidateMode ? "candidate result" : "party result";
+  return <section className="plot-card" aria-label={`Turnout and ${resultLabel} scatterplot`}>
     <div className="plot-toolbar">
-      <div><span className="eyebrow">All-Russia reference graph</span><h2>Turnout × party result</h2></div>
+      <div><span className="eyebrow">UIK evidence graph</span><h2>Turnout × {resultLabel}</h2></div>
       <div className="tool-buttons" role="toolbar" aria-label="Chart navigation">
         <button className={mode === "pan" ? "active" : ""} aria-pressed={mode === "pan"} onClick={() => setMode("pan")}>↔ Pan</button>
         <button className={mode === "box" ? "active" : ""} aria-pressed={mode === "box"} onClick={() => setMode("box")}>⌗ Box</button>
@@ -176,12 +178,12 @@ export function Scatterplot({ points, parties, selectedId, onSelect, pointSize, 
         {reference.turnout >= view.x0 && reference.turnout <= view.x1 && <line className="reference-line" x1={MARGIN.left + (reference.turnout - view.x0) / (view.x1 - view.x0) * (size.width - MARGIN.left - MARGIN.right)} x2={MARGIN.left + (reference.turnout - view.x0) / (view.x1 - view.x0) * (size.width - MARGIN.left - MARGIN.right)} y1={MARGIN.top} y2={size.height - MARGIN.bottom} />}
         {reference.result >= view.y0 && reference.result <= view.y1 && <line className="reference-line" x1={MARGIN.left} x2={size.width - MARGIN.right} y1={size.height - MARGIN.bottom - (reference.result - view.y0) / (view.y1 - view.y0) * (size.height - MARGIN.top - MARGIN.bottom)} y2={size.height - MARGIN.bottom - (reference.result - view.y0) / (view.y1 - view.y0) * (size.height - MARGIN.top - MARGIN.bottom)} />}
       </svg>
-      <canvas ref={canvasRef} width={size.width} height={size.height} aria-label={`${points.length.toLocaleString()} precinct-party observations. Turnout on x-axis; party result on y-axis.`} role="img" />
-      <span className="axis-label axis-x">Turnout, % of registered voters</span><span className="axis-label axis-y">Party result, % of valid votes</span>
+      <canvas ref={canvasRef} width={size.width} height={size.height} aria-label={`${points.length.toLocaleString()} precinct observations. Turnout on x-axis; ${resultLabel} on y-axis.`} role="img" />
+      <span className="axis-label axis-x">Turnout, % of registered voters</span><span className="axis-label axis-y">{candidateMode ? "Candidate" : "Party"} result, % of valid votes</span>
       {box && <span className="zoom-box" style={box} />}
       {hover && <HoverCard {...hover} onSelect={onSelect} />}
     </div>
-    <footer className="plot-caption"><span><strong>{points.length.toLocaleString()}</strong> UIK–party observations</span><span>One mark = one UIK result</span><span>Wheel/pinch to zoom · drag to pan · Shift+drag to box zoom</span></footer>
+    <footer className="plot-caption"><span><strong>{points.length.toLocaleString()}</strong> UIK–{candidateMode ? "candidate" : "party"} observations</span><span>One mark = one UIK protocol result</span><span>Wheel/pinch to zoom · drag to pan · Shift+drag to box zoom</span></footer>
   </section>;
 }
 

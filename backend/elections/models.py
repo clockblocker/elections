@@ -143,15 +143,32 @@ class Election(Base):
 
 class Ballot(Base):
     __tablename__ = "ballots"
-    __table_args__ = (UniqueConstraint("election_id", "kind", name="uq_ballot_election_kind"),)
+    __table_args__ = (
+        UniqueConstraint(
+            "election_id", "kind", "scope_key", name="uq_ballot_election_kind_scope"
+        ),
+        UniqueConstraint(
+            "election_id", "kind", "oik_id", name="uq_ballot_election_kind_oik"
+        ),
+        CheckConstraint(
+            "(kind = 'PARTY_LIST' AND oik_id IS NULL AND scope_key = 'federal') OR "
+            "(kind = 'SINGLE_MEMBER' AND oik_id IS NOT NULL "
+            "AND scope_key <> 'federal' AND scope_key <> '')",
+            name="ck_ballot_kind_scope",
+        ),
+    )
 
     id: Mapped[int] = mapped_column(primary_key=True)
     election_id: Mapped[int] = mapped_column(ForeignKey("elections.id", ondelete="CASCADE"))
     kind: Mapped[BallotKind] = mapped_column(Enum(BallotKind, native_enum=False, length=30))
+    scope_key: Mapped[str] = mapped_column(String(120), default="federal", server_default="federal")
+    oik_id: Mapped[int | None] = mapped_column(ForeignKey("geographies.id"))
     name: Mapped[str] = mapped_column(String(255))
 
     election: Mapped[Election] = relationship(back_populates="ballots")
+    oik: Mapped[Geography | None] = relationship()
     options: Mapped[list[BallotOption]] = relationship(back_populates="ballot")
+    candidates: Mapped[list[Candidate]] = relationship(back_populates="ballot")
 
 
 class Geography(Base):
@@ -184,6 +201,37 @@ class BallotOption(Base):
     short_name: Mapped[str | None] = mapped_column(String(160))
 
     ballot: Mapped[Ballot] = relationship(back_populates="options")
+
+
+class Candidate(Base):
+    __tablename__ = "candidates"
+    __table_args__ = (
+        UniqueConstraint("ballot_id", "position", name="uq_candidate_ballot_position"),
+        UniqueConstraint(
+            "ballot_id",
+            "source_artifact_id",
+            "source_record_id",
+            name="uq_candidate_ballot_source_record",
+        ),
+        CheckConstraint("position > 0", name="ck_candidate_position_positive"),
+        Index("ix_candidates_ballot_name", "ballot_id", "full_name"),
+        Index("ix_candidates_gas_id", "gas_vybory_id"),
+    )
+
+    id: Mapped[int] = mapped_column(primary_key=True)
+    ballot_id: Mapped[int] = mapped_column(ForeignKey("ballots.id", ondelete="CASCADE"))
+    position: Mapped[int]
+    full_name: Mapped[str] = mapped_column(String(500))
+    party_affiliation: Mapped[str | None] = mapped_column(String(500))
+    is_self_nominated: Mapped[bool] = mapped_column(Boolean, default=False)
+    registration_status: Mapped[str | None] = mapped_column(String(120))
+    source_artifact_id: Mapped[int | None] = mapped_column(ForeignKey("source_artifacts.id"))
+    source_record_id: Mapped[str | None] = mapped_column(String(120))
+    gas_vybory_id: Mapped[str | None] = mapped_column(String(120))
+    raw_json: Mapped[dict[str, Any]] = mapped_column(JSON, default=dict)
+
+    ballot: Mapped[Ballot] = relationship(back_populates="candidates")
+    source_artifact: Mapped[SourceArtifact | None] = relationship()
 
 
 class Commission(Base):
@@ -245,6 +293,7 @@ class ResultRecord(Base):
         UniqueConstraint("source_artifact_id", "source_row_number", name="uq_result_source_row"),
         Index("ix_results_region_tik_uik", "region_name", "tik_name", "uik_number"),
         Index("ix_results_ballot_special", "ballot_id", "special_type"),
+        Index("ix_results_ballot_uik", "ballot_id", "uik_number"),
         Index("ix_results_match_status", "match_status"),
         Index("ix_results_validation_status", "validation_status"),
     )
@@ -312,19 +361,28 @@ class Vote(Base):
     __tablename__ = "votes"
     __table_args__ = (
         UniqueConstraint("result_record_id", "option_id", name="uq_vote_result_option"),
+        UniqueConstraint("result_record_id", "candidate_id", name="uq_vote_result_candidate"),
+        CheckConstraint(
+            "(option_id IS NOT NULL AND candidate_id IS NULL) OR "
+            "(option_id IS NULL AND candidate_id IS NOT NULL)",
+            name="ck_vote_exactly_one_target",
+        ),
         CheckConstraint("votes >= 0", name="ck_votes_nonnegative"),
         Index("ix_votes_option_result", "option_id", "result_record_id"),
+        Index("ix_votes_candidate_result", "candidate_id", "result_record_id"),
     )
 
     id: Mapped[int] = mapped_column(primary_key=True)
     result_record_id: Mapped[int] = mapped_column(
         ForeignKey("result_records.id", ondelete="CASCADE")
     )
-    option_id: Mapped[int] = mapped_column(ForeignKey("ballot_options.id"))
+    option_id: Mapped[int | None] = mapped_column(ForeignKey("ballot_options.id"))
+    candidate_id: Mapped[int | None] = mapped_column(ForeignKey("candidates.id"))
     votes: Mapped[int]
 
     result_record: Mapped[ResultRecord] = relationship(back_populates="votes")
-    option: Mapped[BallotOption] = relationship()
+    option: Mapped[BallotOption | None] = relationship()
+    candidate: Mapped[Candidate | None] = relationship()
 
 
 class MatchEvidence(Base):

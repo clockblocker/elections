@@ -14,4 +14,10 @@ describe("analytical URL state", () => {
     expect(state.turnoutMax).toBe(100);
     expect(state.resultMin).toBe(0);
   });
+
+  it("restores district, candidate, winner, and pinned UIK state", () => {
+    const state = parseAnalyticalState("?ballotKind=single_member&ballot=301&district=77&candidate=900&affiliation=Example+Party&winner=true&uik=42%3Acandidate%3A900");
+    expect(state).toEqual(expect.objectContaining({ ballotKind: "single_member", ballotId: "301", districtId: "77", candidateId: "900", affiliations: ["Example Party"], winner: true, selectedId: "42:candidate:900" }));
+    expect(parseAnalyticalState(serializeAnalyticalState(state))).toEqual(state);
+  });
 });

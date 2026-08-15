@@ -7,6 +7,10 @@ export const demoMetadata: FilterMetadata = {
     { id: "ldpr", name: "Liberal Democratic Party", shortName: "LDPR", color: "#2f6690" },
     { id: "new-people", name: "New People", shortName: "NP", color: "#5b8e7d" },
   ],
+  ballots: [{ id: "demo-party-list", kind: "party_list", name: "Federal party list", scopeKey: "federal" }],
+  districts: [],
+  candidates: [],
+  affiliations: [],
   regions: [
     { id: "moscow", name: "Moscow" }, { id: "tatarstan", name: "Republic of Tatarstan" },
     { id: "novosibirsk", name: "Novosibirsk Oblast" }, { id: "perm", name: "Perm Krai" },
@@ -41,6 +45,12 @@ const allDemoPoints: Point[] = Array.from({ length: 4800 }, (_, index) => {
     regionName: region.name,
     partyId: party.id,
     partyName: party.name,
+    ballotId: "demo-party-list",
+    ballotKind: "party_list",
+    districtId: null,
+    candidateId: null,
+    affiliation: null,
+    winner: false,
     registeredVoters,
     ballotsIssued,
     turnout,
@@ -52,6 +62,7 @@ const allDemoPoints: Point[] = Array.from({ length: 4800 }, (_, index) => {
 });
 
 export function demoPoints(state: AnalyticalState): Point[] {
+  if (state.ballotKind === "single_member") return [];
   const parties = state.partyIds.length ? state.partyIds : demoMetadata.parties.map((x) => x.id);
   return allDemoPoints.filter((point) =>
     parties.includes(point.partyId) &&
@@ -74,6 +85,8 @@ export function demoDetail(uikId: string): PrecinctDetail {
     members: [{ name: "Membership snapshot record", role: "Voting member", nominator: "Political party" }],
     accounting: { registeredVoters: first.registeredVoters, ballotsIssued: first.ballotsIssued, validBallots: Math.max(0, first.ballotsIssued - 7), invalidBallots: 7 },
     partyResults: points.map((point) => ({ partyId: point.partyId, partyName: point.partyName, votes: point.partyVotes, share: point.partyShare })),
+    candidateResults: [],
+    protocols: [],
     specialFlags: first.specialFlags, matchStatus: first.matchStatus,
     validationMessages: first.matchStatus === "matched" ? [] : ["Commission metadata match requires review."],
     sources: [{ label: "CEC election result", url: "https://www.vybory.izbirkom.ru/" }, { label: "Commission membership snapshot", url: "https://www.cikrf.ru/" }],

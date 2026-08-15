@@ -216,3 +216,170 @@ def test_query_complete_uik_detail(repository: SqlElectionRepository) -> None:
 
 def test_missing_uik_returns_none(repository: SqlElectionRepository) -> None:
     assert repository.get_uik(9999) is None
+
+
+def _add_single_member_protocol(repository: SqlElectionRepository) -> int:
+    with repository._sessions.begin() as session:
+        election = session.query(models.Election).one()
+        artifact = session.query(models.SourceArtifact).filter_by(key="results").one()
+        commission = session.query(models.Commission).one()
+        region = models.Geography(
+            type=models.GeographyType.REGION, code="77", name="Moscow"
+        )
+        oik = models.Geography(
+            type=models.GeographyType.OIK,
+            code="77-001",
+            name="OIK 1",
+            parent=region,
+        )
+        ballot = models.Ballot(
+            election=election,
+            kind=models.BallotKind.SINGLE_MEMBER,
+            scope_key=oik.code,
+            oik=oik,
+            name="OIK 1 single-member ballot",
+        )
+        winner = models.Candidate(
+            ballot=ballot,
+            position=1,
+            full_name="Candidate Winner",
+            party_affiliation="Example Party",
+            registration_status="registered",
+        )
+        other = models.Candidate(
+            ballot=ballot,
+            position=2,
+            full_name="Candidate Other",
+            is_self_nominated=True,
+            registration_status="registered",
+        )
+        result = models.ResultRecord(
+            source_artifact=artifact,
+            source_row_number=11,
+            ballot=ballot,
+            region_name="Moscow",
+            oik_name="OIK 1",
+            tik_name="Central TIK",
+            uik_number="123",
+            source_url="https://example.test/result/123/district",
+            special_type=models.SpecialType.NONE,
+            is_deg=False,
+            raw_json={},
+            match_status=models.MatchStatus.MATCHED,
+            matched_commission=commission,
+            validation_status=models.ValidationStatus.VALID,
+        )
+        result.accounting = models.BallotAccounting(
+            registered_voters=1000,
+            ballots_received=900,
+            ballots_issued_early=10,
+            ballots_issued_at_station=490,
+            ballots_issued_outside=10,
+            ballots_cancelled=390,
+            portable_boxes_ballots=10,
+            stationary_boxes_ballots=500,
+            invalid_ballots=10,
+            valid_ballots=500,
+            lost_ballots=0,
+            unaccounted_ballots=0,
+        )
+        result.votes = [
+            models.Vote(candidate=winner, votes=320),
+            models.Vote(candidate=other, votes=180),
+        ]
+        session.add(result)
+        session.flush()
+        session.add_all(
+            [
+                models.PublishedTotal(
+                    ballot_id=ballot.id,
+                    level="oik",
+                    scope_identifier=oik.code,
+                    metric="votes",
+                    option_name=winner.full_name,
+                    value=320,
+                ),
+                models.PublishedTotal(
+                    ballot_id=ballot.id,
+                    level="oik",
+                    scope_identifier=oik.code,
+                    metric="votes",
+                    option_name=other.full_name,
+                    value=180,
+                ),
+                models.PublishedTotal(
+                    ballot_id=ballot.id,
+                    level="oik",
+                    scope_identifier=oik.code,
+                    metric="winner",
+                    option_name=winner.full_name,
+                    value=1,
+                ),
+            ]
+        )
+        return result.id
+
+
+def test_candidate_metadata_and_filtered_points(repository: SqlElectionRepository) -> None:
+    _add_single_member_protocol(repository)
+
+    district = repository.list_districts()[0]
+    candidates = repository.list_candidates(oik_id=district.id)
+    affiliations = repository.list_affiliations(oik_id=district.id)
+    page = repository.list_points(
+        PointFilters(
+            ballot_kinds=["single_member"],
+            oik_ids=[district.id],
+            candidate_ids=[candidates[0].id],
+            affiliations=["Example Party"],
+            winner=True,
+        )
+    )
+
+    assert district.candidate_count == 2
+    assert [candidate.full_name for candidate in candidates] == [
+        "Candidate Winner",
+        "Candidate Other",
+    ]
+    assert candidates[0].is_winner is True
+    assert affiliations[0].model_dump() == {"value": "Example Party", "candidates": 1}
+    assert page.total == 1
+    assert page.items[0].candidate_name == "Candidate Winner"
+    assert page.items[0].party_affiliation == "Example Party"
+    assert page.items[0].party_id is None
+    assert page.items[0].is_winner is True
+
+
+def test_uik_detail_contains_both_ballot_protocols(repository: SqlElectionRepository) -> None:
+    result_id = _add_single_member_protocol(repository)
+
+    detail = repository.get_uik(result_id)
+
+    assert detail is not None
+    assert {protocol.ballot_kind for protocol in detail.protocols} == {
+        "party_list",
+        "single_member",
+    }
+    district_protocol = next(
+        protocol for protocol in detail.protocols if protocol.ballot_kind == "single_member"
+    )
+    assert district_protocol.candidate_results[0].full_name == "Candidate Winner"
+    assert district_protocol.candidate_results[0].is_winner is True
+
+
+def test_candidate_points_keep_missing_accounting_visible(
+    repository: SqlElectionRepository,
+) -> None:
+    result_id = _add_single_member_protocol(repository)
+    with repository._sessions.begin() as session:
+        session.execute(
+            delete(models.BallotAccounting).where(
+                models.BallotAccounting.result_record_id == result_id
+            )
+        )
+
+    page = repository.list_points(PointFilters(ballot_kinds=["single_member"]))
+
+    assert page.total == 2
+    assert {point.turnout_percent for point in page.items} == {None}
+    assert {point.registered_voters for point in page.items} == {0}

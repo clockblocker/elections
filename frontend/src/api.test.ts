@@ -19,4 +19,17 @@ describe("API wire adapters", () => {
     expect(fetchMock.mock.calls[0][0]).toContain("party_id=1");
     expect(fetchMock.mock.calls[1][0]).toContain("offset=20000");
   });
+
+  it("requests and maps district candidate observations", async () => {
+    const fetchMock = vi.fn().mockResolvedValue(new Response(JSON.stringify({ items: [{ result_record_id: 42, ballot_id: 301, ballot_kind: "single_member", scope_key: "77-001", oik_id: 77, party_id: null, candidate_id: 900, candidate_name: "Example Candidate", party_affiliation: "Example Party", is_winner: true, uik_number: "123", tik_name: "Central TIK", region_name: "Moscow", registered_voters: 1000, ballots_counted: 500, party_votes: 320, turnout_percent: 50, party_percent: 64, match_status: "matched", validation_status: "valid", special_type: "none", is_deg: false, flags: [] }], offset: 0, limit: 20000, total: 1, has_more: false }), { status: 200 }));
+    vi.stubGlobal("fetch", fetchMock);
+    const metadata = { ...demoMetadata, candidates: [{ id: "900", name: "Example Candidate", ballotId: "301", districtId: "77", affiliation: "Example Party", winner: true, position: 1 }] };
+    const points = await api.points({ ...DEFAULT_STATE, ballotKind: "single_member", ballotId: "301", districtId: "77", candidateId: "900", affiliations: ["Example Party"], winner: true }, metadata);
+    expect(points[0]).toEqual(expect.objectContaining({ id: "42:candidate:900", ballotKind: "single_member", districtId: "77", candidateId: "900", winner: true, partyName: "Example Candidate" }));
+    const url = fetchMock.mock.calls[0][0] as string;
+    expect(url).toContain("ballot_kind=single_member");
+    expect(url).toContain("oik_id=77");
+    expect(url).toContain("candidate_id=900");
+    expect(url).toContain("winner=true");
+  });
 });

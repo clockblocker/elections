@@ -51,6 +51,36 @@ votes(election, ballot_type, region, district, tik, uik, option, votes)
 
 A long `votes` table avoids schema changes when parties and candidates differ between elections.
 
+## Preserved 2021 single-member source
+
+The acquisition seed for the single-member ballot is the Internet Archive capture from
+**28 September 2021 at 19:02:57 UTC** of the official CEC/GAS Vybory form 1.31/1.32
+results index (`vrn=100100225883172`, `type=463`). This is preferred to the mutable
+live portal: the publisher is still the CEC, while the response is addressed through a
+dated preservation service. Links discovered in that response are rewritten through the
+same Wayback timestamp before they are fetched.
+
+`data/single-member-sources-2021.json` is the committed acquisition plan. It explicitly
+enumerates OIK numbers 1 through 225, pins the election identifier and capture timestamp,
+limits discovery to the preservation host, and sets a one-request-per-second crawl rate.
+The national seed is only a discovery page; OIK coverage is credited only when an
+OIK-scoped response is preserved.
+
+Raw responses are stored byte-for-byte below
+`data/raw/duma-2021-single-member-cec/`. The generated
+`reports/generated/single-member-snapshot.json` is the parser boundary and contains:
+
+- an explicit `expected_oiks` list and `coverage.by_oik` entries for all 225 districts;
+- each payload's OIK/TIK/UIK hints, original and final URL, retrieval time, relative raw
+  path, byte size, media type, HTTP status, and SHA-256;
+- `unavailable`, `malformed`, `redirected`, and `inconsistent` gap records instead of
+  silently dropping source material.
+
+The hierarchy hints are acquisition metadata, not normalized election results. Candidate
+names, accounting fields, and vote values must be parsed from verified raw payloads by the
+single-member importer. A Wayback redirect is preserved and checksummed but also remains
+visible in the gap report because it may point at a different capture time.
+
 ## UIK and TIK leadership
 
 Leadership is not included in the result tables. It is published separately in the CEC commission directory.
@@ -78,6 +108,7 @@ The membership snapshot predates voting by three days. Check later appointment/r
 ## Sources
 
 - [CEC/GAS Vybory portal](http://www.cikrf.ru/gas/)
+- [Frozen CEC single-member results index (28 September 2021)](https://web.archive.org/web/20210928190257/http://www.vybory.izbirkom.ru/region/region/izbirkom?action=show&root=1&tvd=100100225883177&vrn=100100225883172&region=0&global=1&sub_region=0&prver=0&pronetvd=0&vibid=100100225883177&type=463)
 - [CEC rules and result-table specifications](https://www.garant.ru/products/ipo/prime/doc/402591545/)
 - [GIS-Lab: machine-readable commission data and 14 September 2021 snapshot](https://gis-lab.info/qa/cik-data.html)
 - [CEC archive-content rules](https://normativ.kontur.ru/document?documentId=127366&moduleId=1)

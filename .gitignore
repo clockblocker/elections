@@ -19,7 +19,7 @@ frontend/coverage/
 data/raw/
 data/processed/
 data/exports/
+data/published-single-member-totals-2021.json
 reports/generated/
 *.sqlite
 *.sqlite3
-

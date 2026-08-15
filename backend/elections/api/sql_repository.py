@@ -4,15 +4,20 @@ from __future__ import annotations
 
 from functools import lru_cache
 
-from sqlalchemy import case, func, select
-from sqlalchemy.orm import Session, joinedload, selectinload, sessionmaker
+from sqlalchemy import case, func, or_, select
+from sqlalchemy.orm import Session, aliased, joinedload, selectinload, sessionmaker
 
 from elections import models
 from elections.api.schemas import (
     Accounting,
+    Affiliation,
+    BallotSummary,
+    CandidateResult,
+    CandidateSummary,
     CommissionMember,
     CommissionMetadata,
     DatasetStatus,
+    District,
     Hierarchy,
     Party,
     PartyResult,
@@ -24,9 +29,11 @@ from elections.api.schemas import (
     SpecialType,
     Tik,
     UikDetail,
+    UikProtocol,
     ValidationFinding,
 )
 from elections.db import session_factory
+from elections.reconciliation import single_member_ready_for_api
 
 
 def _enum_value(value: object) -> str:
@@ -51,6 +58,22 @@ def _flags(record: models.ResultRecord) -> list[str]:
     if record.is_deg and models.SpecialType.DEG.value not in flags:
         flags.append(models.SpecialType.DEG.value)
     return flags
+
+
+WINNER_METRICS = ("winner", "declared_winner")
+
+
+def _winner_expression():
+    return (
+        select(models.PublishedTotal.id)
+        .where(
+            models.PublishedTotal.ballot_id == models.Candidate.ballot_id,
+            models.PublishedTotal.metric.in_(WINNER_METRICS),
+            models.PublishedTotal.option_name == models.Candidate.full_name,
+            models.PublishedTotal.value > 0,
+        )
+        .exists()
+    )
 
 
 class SqlElectionRepository:
@@ -117,6 +140,7 @@ class SqlElectionRepository:
             ingestion_succeeded = bool(
                 latest_run and latest_run.status == models.RunStatus.SUCCEEDED
             )
+            single_member_ready = single_member_ready_for_api(session)
             return DatasetStatus(
                 election_slug=election.slug if election else None,
                 election_name=election.name if election else None,
@@ -128,6 +152,7 @@ class SqlElectionRepository:
                     and published_totals
                     and not validation_errors
                     and not not_validated
+                    and single_member_ready
                 ),
                 imported_at=latest_run.finished_at if latest_run else None,
                 result_records=result_records,
@@ -157,6 +182,120 @@ class SqlElectionRepository:
                     position=option.position,
                 )
                 for option in options
+            ]
+
+    def list_ballots(self) -> list[BallotSummary]:
+        with self._sessions() as session:
+            ballots = session.scalars(
+                select(models.Ballot).order_by(
+                    models.Ballot.kind, models.Ballot.scope_key, models.Ballot.id
+                )
+            ).all()
+            return [
+                BallotSummary(
+                    id=ballot.id,
+                    election_id=ballot.election_id,
+                    kind=_enum_value(ballot.kind),
+                    name=ballot.name,
+                    scope_key=ballot.scope_key,
+                    oik_id=ballot.oik_id,
+                )
+                for ballot in ballots
+            ]
+
+    def list_districts(self) -> list[District]:
+        region = aliased(models.Geography)
+        statement = (
+            select(models.Ballot, models.Geography, region.name)
+            .join(models.Geography, models.Geography.id == models.Ballot.oik_id)
+            .outerjoin(region, region.id == models.Geography.parent_id)
+            .where(models.Ballot.kind == models.BallotKind.SINGLE_MEMBER)
+            .order_by(models.Ballot.scope_key, models.Ballot.id)
+        )
+        with self._sessions() as session:
+            candidate_counts = dict(
+                session.execute(
+                    select(models.Candidate.ballot_id, func.count(models.Candidate.id)).group_by(
+                        models.Candidate.ballot_id
+                    )
+                ).all()
+            )
+            result_counts = dict(
+                session.execute(
+                    select(
+                        models.ResultRecord.ballot_id, func.count(models.ResultRecord.id)
+                    ).group_by(models.ResultRecord.ballot_id)
+                ).all()
+            )
+            rows = session.execute(statement).all()
+            return [
+                District(
+                    id=oik.id,
+                    code=oik.code,
+                    name=oik.name,
+                    region_name=region_name,
+                    ballot_id=ballot.id,
+                    candidate_count=candidate_counts.get(ballot.id, 0),
+                    result_records=result_counts.get(ballot.id, 0),
+                )
+                for ballot, oik, region_name in rows
+            ]
+
+    def list_candidates(
+        self,
+        *,
+        ballot_id: int | None = None,
+        oik_id: int | None = None,
+        affiliation: str | None = None,
+        winner: bool | None = None,
+    ) -> list[CandidateSummary]:
+        is_winner = _winner_expression()
+        statement = (
+            select(models.Candidate, models.Ballot, models.Geography.code, is_winner)
+            .join(models.Ballot, models.Ballot.id == models.Candidate.ballot_id)
+            .join(models.Geography, models.Geography.id == models.Ballot.oik_id)
+            .order_by(models.Ballot.scope_key, models.Candidate.position, models.Candidate.id)
+        )
+        if ballot_id is not None:
+            statement = statement.where(models.Candidate.ballot_id == ballot_id)
+        if oik_id is not None:
+            statement = statement.where(models.Ballot.oik_id == oik_id)
+        if affiliation is not None:
+            statement = statement.where(models.Candidate.party_affiliation == affiliation)
+        if winner is not None:
+            statement = statement.where(is_winner if winner else ~is_winner)
+        with self._sessions() as session:
+            rows = session.execute(statement).all()
+            return [
+                CandidateSummary(
+                    id=candidate.id,
+                    ballot_id=candidate.ballot_id,
+                    oik_id=ballot.oik_id,
+                    district_code=district_code,
+                    position=candidate.position,
+                    full_name=candidate.full_name,
+                    party_affiliation=candidate.party_affiliation,
+                    is_self_nominated=candidate.is_self_nominated,
+                    registration_status=candidate.registration_status,
+                    is_winner=bool(candidate_is_winner),
+                )
+                for candidate, ballot, district_code, candidate_is_winner in rows
+            ]
+
+    def list_affiliations(self, *, oik_id: int | None = None) -> list[Affiliation]:
+        statement = (
+            select(models.Candidate.party_affiliation, func.count(models.Candidate.id))
+            .join(models.Ballot, models.Ballot.id == models.Candidate.ballot_id)
+            .where(models.Candidate.party_affiliation.is_not(None))
+            .group_by(models.Candidate.party_affiliation)
+            .order_by(models.Candidate.party_affiliation)
+        )
+        if oik_id is not None:
+            statement = statement.where(models.Ballot.oik_id == oik_id)
+        with self._sessions() as session:
+            return [
+                Affiliation(value=value, candidates=count)
+                for value, count in session.execute(statement)
             ]
 
     def list_regions(self) -> list[Region]:
@@ -215,10 +354,12 @@ class SqlElectionRepository:
         ]
 
     def list_points(self, filters: PointFilters) -> PointPage:
-        accounted_ballots = (
-            models.BallotAccounting.portable_boxes_ballots
-            + models.BallotAccounting.stationary_boxes_ballots
+        accounted_ballots = func.coalesce(
+            models.BallotAccounting.portable_boxes_ballots, 0
+        ) + func.coalesce(
+            models.BallotAccounting.stationary_boxes_ballots, 0
         )
+        registered_voters = func.coalesce(models.BallotAccounting.registered_voters, 0)
         turnout = case(
             (
                 models.BallotAccounting.registered_voters > 0,
@@ -226,16 +367,33 @@ class SqlElectionRepository:
             ),
             else_=None,
         )
-        party_percent = case(
+        result_percent = case(
             (
                 models.BallotAccounting.valid_ballots > 0,
                 100.0 * models.Vote.votes / models.BallotAccounting.valid_ballots,
             ),
             else_=None,
         )
-        conditions = [models.Ballot.kind == models.BallotKind.PARTY_LIST]
+        try:
+            ballot_kinds = [models.BallotKind(value) for value in filters.ballot_kinds]
+        except ValueError:
+            ballot_kinds = []
+        conditions = [
+            models.Ballot.kind.in_(ballot_kinds or [models.BallotKind.PARTY_LIST])
+        ]
+        if filters.ballot_ids:
+            conditions.append(models.Ballot.id.in_(filters.ballot_ids))
+        if filters.oik_ids:
+            conditions.append(models.Ballot.oik_id.in_(filters.oik_ids))
         if filters.party_ids:
             conditions.append(models.Vote.option_id.in_(filters.party_ids))
+        if filters.candidate_ids:
+            conditions.append(models.Vote.candidate_id.in_(filters.candidate_ids))
+        if filters.affiliations:
+            conditions.append(models.Candidate.party_affiliation.in_(filters.affiliations))
+        is_winner = _winner_expression()
+        if filters.winner is not None:
+            conditions.append(is_winner if filters.winner else ~is_winner)
         if filters.regions:
             conditions.append(models.ResultRecord.region_name.in_(filters.regions))
         if filters.tiks:
@@ -255,31 +413,39 @@ class SqlElectionRepository:
         if filters.turnout_max is not None:
             conditions.append(turnout <= filters.turnout_max)
         if filters.result_min is not None:
-            conditions.append(party_percent >= filters.result_min)
+            conditions.append(result_percent >= filters.result_min)
         if filters.result_max is not None:
-            conditions.append(party_percent <= filters.result_max)
+            conditions.append(result_percent <= filters.result_max)
 
         base = (
             select(
                 models.ResultRecord,
+                models.Ballot,
                 models.Vote.option_id,
-                models.BallotAccounting.registered_voters,
+                models.Candidate,
+                is_winner.label("is_winner"),
+                registered_voters.label("registered_voters"),
                 accounted_ballots.label("accounted_ballots"),
                 models.Vote.votes,
                 turnout.label("turnout"),
-                party_percent.label("party_percent"),
+                result_percent.label("result_percent"),
             )
             .join(models.Ballot, models.Ballot.id == models.ResultRecord.ballot_id)
-            .join(
+            .outerjoin(
                 models.BallotAccounting,
                 models.BallotAccounting.result_record_id == models.ResultRecord.id,
             )
             .join(models.Vote, models.Vote.result_record_id == models.ResultRecord.id)
+            .outerjoin(models.Candidate, models.Candidate.id == models.Vote.candidate_id)
             .where(*conditions)
         )
         count_statement = select(func.count()).select_from(base.order_by(None).subquery())
         page_statement = (
-            base.order_by(models.ResultRecord.id, models.Vote.option_id)
+            base.order_by(
+                models.ResultRecord.id,
+                models.Vote.option_id,
+                models.Vote.candidate_id,
+            )
             .offset(filters.offset)
             .limit(filters.limit)
         )
@@ -289,7 +455,15 @@ class SqlElectionRepository:
             items = [
                 ScatterPoint(
                     result_record_id=record.id,
+                    ballot_id=ballot.id,
+                    ballot_kind=_enum_value(ballot.kind),
+                    scope_key=ballot.scope_key,
+                    oik_id=ballot.oik_id,
                     party_id=party_id,
+                    candidate_id=candidate.id if candidate else None,
+                    candidate_name=candidate.full_name if candidate else None,
+                    party_affiliation=candidate.party_affiliation if candidate else None,
+                    is_winner=bool(candidate_is_winner),
                     uik_number=_uik_label(record.uik_number),
                     tik_name=record.tik_name,
                     region_name=record.region_name,
@@ -298,7 +472,7 @@ class SqlElectionRepository:
                     party_votes=party_votes,
                     turnout_percent=float(turnout_value) if turnout_value is not None else None,
                     party_percent=(
-                        float(party_percent_value) if party_percent_value is not None else None
+                        float(result_percent_value) if result_percent_value is not None else None
                     ),
                     match_status=_enum_value(record.match_status),
                     validation_status=_enum_value(record.validation_status),
@@ -308,12 +482,15 @@ class SqlElectionRepository:
                 )
                 for (
                     record,
+                    ballot,
                     party_id,
+                    candidate,
+                    candidate_is_winner,
                     registered_voters,
                     ballots_counted,
                     party_votes,
                     turnout_value,
-                    party_percent_value,
+                    result_percent_value,
                 ) in rows
             ]
         return PointPage(
@@ -333,6 +510,7 @@ class SqlElectionRepository:
                 joinedload(models.ResultRecord.source_artifact),
                 joinedload(models.ResultRecord.accounting),
                 selectinload(models.ResultRecord.votes).joinedload(models.Vote.option),
+                selectinload(models.ResultRecord.votes).joinedload(models.Vote.candidate),
                 joinedload(models.ResultRecord.matched_commission).joinedload(
                     models.Commission.source_artifact
                 ),
@@ -345,17 +523,61 @@ class SqlElectionRepository:
             record = session.scalar(statement)
             if record is None:
                 return None
+            linked_statement = (
+                select(models.ResultRecord)
+                .join(models.Ballot)
+                .where(
+                    models.Ballot.election_id == record.ballot.election_id,
+                    or_(
+                        (
+                            models.ResultRecord.matched_commission_id
+                            == record.matched_commission_id
+                        )
+                        if record.matched_commission_id is not None
+                        else False,
+                        (
+                            (models.ResultRecord.region_name == record.region_name)
+                            & (models.ResultRecord.tik_name == record.tik_name)
+                            & (models.ResultRecord.uik_number == record.uik_number)
+                        )
+                        if record.uik_number is not None
+                        else False,
+                        models.ResultRecord.id == record.id,
+                    ),
+                )
+                .options(
+                    joinedload(models.ResultRecord.ballot).joinedload(models.Ballot.election),
+                    joinedload(models.ResultRecord.source_artifact),
+                    joinedload(models.ResultRecord.accounting),
+                    selectinload(models.ResultRecord.votes).joinedload(models.Vote.option),
+                    selectinload(models.ResultRecord.votes).joinedload(models.Vote.candidate),
+                )
+                .order_by(models.Ballot.kind, models.ResultRecord.id)
+            )
+            linked_records = list(session.scalars(linked_statement).unique())
+            ballot_ids = {item.ballot_id for item in linked_records}
+            winner_rows = session.execute(
+                select(models.PublishedTotal.ballot_id, models.PublishedTotal.option_name).where(
+                    models.PublishedTotal.ballot_id.in_(ballot_ids),
+                    models.PublishedTotal.metric.in_(WINNER_METRICS),
+                    models.PublishedTotal.value > 0,
+                )
+            )
+            winner_names = {(ballot_id, name) for ballot_id, name in winner_rows}
             findings = session.scalars(
                 select(models.ValidationFinding)
                 .where(models.ValidationFinding.result_record_id == record.id)
                 .order_by(models.ValidationFinding.id)
             ).all()
-            return self._detail(record, findings)
+            protocols = [self._protocol(item, winner_names) for item in linked_records]
+            return self._detail(record, findings, protocols, winner_names)
 
     @staticmethod
     def _detail(
         record: models.ResultRecord,
         findings: list[models.ValidationFinding],
+        protocols: list[UikProtocol],
+        winner_names: set[tuple[int, str]],
     ) -> UikDetail:
         accounting = record.accounting
         counted = (
@@ -372,8 +594,12 @@ class SqlElectionRepository:
                 votes=vote.votes,
                 percent=_percentage(vote.votes, accounting.valid_ballots if accounting else None),
             )
-            for vote in sorted(record.votes, key=lambda item: (item.option.position, item.id))
+            for vote in sorted(
+                (item for item in record.votes if item.option is not None),
+                key=lambda item: (item.option.position, item.id),
+            )
         ]
+        candidate_results = SqlElectionRepository._candidate_results(record, winner_names)
         return UikDetail(
             result_record_id=record.id,
             uik_number=_uik_label(record.uik_number),
@@ -411,6 +637,8 @@ class SqlElectionRepository:
                 counted, accounting.registered_voters if accounting else None
             ),
             party_results=party_results,
+            candidate_results=candidate_results,
+            protocols=protocols,
             commission=SqlElectionRepository._commission(record.matched_commission),
             match_status=_enum_value(record.match_status),
             validation_status=_enum_value(record.validation_status),
@@ -431,6 +659,96 @@ class SqlElectionRepository:
                 )
                 for finding in findings
             ],
+            sources=SqlElectionRepository._sources(record),
+        )
+
+    @staticmethod
+    def _accounting(value: models.BallotAccounting | None) -> Accounting:
+        return Accounting(
+            registered_voters=value.registered_voters if value else None,
+            ballots_received=value.ballots_received if value else None,
+            ballots_issued_early=value.ballots_issued_early if value else None,
+            ballots_issued_at_station=value.ballots_issued_at_station if value else None,
+            ballots_issued_outside_station=value.ballots_issued_outside if value else None,
+            ballots_cancelled=value.ballots_cancelled if value else None,
+            ballots_in_mobile_boxes=value.portable_boxes_ballots if value else None,
+            ballots_in_stationary_boxes=value.stationary_boxes_ballots if value else None,
+            invalid_ballots=value.invalid_ballots if value else None,
+            valid_ballots=value.valid_ballots if value else None,
+            lost_ballots=value.lost_ballots if value else None,
+            unaccounted_ballots=value.unaccounted_ballots if value else None,
+        )
+
+    @staticmethod
+    def _candidate_results(
+        record: models.ResultRecord,
+        winner_names: set[tuple[int, str]],
+    ) -> list[CandidateResult]:
+        accounting = record.accounting
+        return [
+            CandidateResult(
+                candidate_id=vote.candidate.id,
+                full_name=vote.candidate.full_name,
+                position=vote.candidate.position,
+                party_affiliation=vote.candidate.party_affiliation,
+                is_self_nominated=vote.candidate.is_self_nominated,
+                registration_status=vote.candidate.registration_status,
+                votes=vote.votes,
+                percent=_percentage(
+                    vote.votes, accounting.valid_ballots if accounting else None
+                ),
+                is_winner=(record.ballot_id, vote.candidate.full_name) in winner_names,
+            )
+            for vote in sorted(
+                (item for item in record.votes if item.candidate is not None),
+                key=lambda item: (item.candidate.position, item.id),
+            )
+        ]
+
+    @staticmethod
+    def _protocol(
+        record: models.ResultRecord,
+        winner_names: set[tuple[int, str]],
+    ) -> UikProtocol:
+        accounting = record.accounting
+        counted = (
+            accounting.portable_boxes_ballots + accounting.stationary_boxes_ballots
+            if accounting
+            else None
+        )
+        party_results = [
+            PartyResult(
+                party_id=vote.option_id,
+                name=vote.option.name,
+                short_name=vote.option.short_name,
+                position=vote.option.position,
+                votes=vote.votes,
+                percent=_percentage(
+                    vote.votes, accounting.valid_ballots if accounting else None
+                ),
+            )
+            for vote in sorted(
+                (item for item in record.votes if item.option is not None),
+                key=lambda item: (item.option.position, item.id),
+            )
+        ]
+        return UikProtocol(
+            result_record_id=record.id,
+            ballot_id=record.ballot_id,
+            ballot_kind=_enum_value(record.ballot.kind),
+            ballot_name=record.ballot.name,
+            scope_key=record.ballot.scope_key,
+            accounting=SqlElectionRepository._accounting(accounting),
+            turnout_percent=_percentage(
+                counted, accounting.registered_voters if accounting else None
+            ),
+            party_results=party_results,
+            candidate_results=SqlElectionRepository._candidate_results(record, winner_names),
+            match_status=_enum_value(record.match_status),
+            validation_status=_enum_value(record.validation_status),
+            special_type=_enum_value(record.special_type),
+            is_deg=record.is_deg,
+            flags=_flags(record),
             sources=SqlElectionRepository._sources(record),
         )
 
@@ -490,6 +808,10 @@ class SqlElectionRepository:
 
         add("Election result", record.source_url, record.source_artifact)
         add("Result source artifact", record.source_artifact.url, record.source_artifact)
+        for vote in record.votes:
+            if vote.candidate is not None and vote.candidate.source_artifact is not None:
+                artifact = vote.candidate.source_artifact
+                add("Candidate roster source", artifact.url, artifact)
         if record.matched_commission is not None:
             artifact = record.matched_commission.source_artifact
             add("Commission snapshot", artifact.url, artifact)

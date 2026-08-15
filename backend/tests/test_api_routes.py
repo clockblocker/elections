@@ -5,7 +5,11 @@ from fastapi.testclient import TestClient
 from elections.api.app import create_app
 from elections.api.schemas import (
     Accounting,
+    Affiliation,
+    BallotSummary,
+    CandidateSummary,
     DatasetStatus,
+    District,
     Hierarchy,
     Party,
     PartyResult,
@@ -35,6 +39,54 @@ class FakeRepository:
 
     def list_parties(self) -> list[Party]:
         return [Party(id=7, ballot_id=2, name="Example Party", position=1)]
+
+    def list_ballots(self) -> list[BallotSummary]:
+        return [
+            BallotSummary(
+                id=2,
+                election_id=1,
+                kind="party_list",
+                name="Federal party list",
+                scope_key="federal",
+            )
+        ]
+
+    def list_districts(self) -> list[District]:
+        return [
+            District(
+                id=77,
+                code="77-001",
+                name="OIK 1",
+                region_name="Moscow",
+                ballot_id=3,
+                candidate_count=2,
+                result_records=1,
+            )
+        ]
+
+    def list_candidates(
+        self,
+        *,
+        ballot_id: int | None = None,
+        oik_id: int | None = None,
+        affiliation: str | None = None,
+        winner: bool | None = None,
+    ) -> list[CandidateSummary]:
+        return [
+            CandidateSummary(
+                id=10,
+                ballot_id=3,
+                oik_id=77,
+                district_code="77-001",
+                position=1,
+                full_name="Example Candidate",
+                party_affiliation="Example Party",
+                is_winner=True,
+            )
+        ]
+
+    def list_affiliations(self, *, oik_id: int | None = None) -> list[Affiliation]:
+        return [Affiliation(value="Example Party", candidates=1)]
 
     def list_regions(self) -> list[Region]:
         return [Region(name="Moscow", result_records=1)]
@@ -122,6 +174,10 @@ def test_filter_metadata() -> None:
         client.get("/api/v1/tiks", params={"region": "Moscow"}).json()[0]["name"] == "Central TIK"
     )
     assert client.get("/api/v1/special-types").json()[0]["is_deg"] is True
+    assert client.get("/api/v1/ballots").json()[0]["kind"] == "party_list"
+    assert client.get("/api/v1/districts").json()[0]["code"] == "77-001"
+    assert client.get("/api/v1/candidates?oik_id=77").json()[0]["id"] == 10
+    assert client.get("/api/v1/affiliations?oik_id=77").json()[0]["value"] == "Example Party"
 
 
 def test_points_forward_filters_and_pagination() -> None:
@@ -131,6 +187,12 @@ def test_points_forward_filters_and_pagination() -> None:
         params=[
             ("party_id", "7"),
             ("party_id", "8"),
+            ("ballot_kind", "single_member"),
+            ("ballot_id", "3"),
+            ("oik_id", "77"),
+            ("candidate_id", "10"),
+            ("affiliation", "Example Party"),
+            ("winner", "true"),
             ("region", "Moscow"),
             ("match_status", "matched"),
             ("match_status", "special"),
@@ -145,7 +207,13 @@ def test_points_forward_filters_and_pagination() -> None:
     assert response.status_code == 200
     assert response.json()["items"][0]["party_votes"] == 300
     assert repository.point_filters == PointFilters(
+        ballot_kinds=["single_member"],
+        ballot_ids=[3],
+        oik_ids=[77],
         party_ids=[7, 8],
+        candidate_ids=[10],
+        affiliations=["Example Party"],
+        winner=True,
         regions=["Moscow"],
         match_statuses=["matched", "special"],
         is_deg=False,
@@ -182,6 +250,10 @@ def test_openapi_documents_only_read_operations() -> None:
         "/health",
         "/api/v1/dataset/status",
         "/api/v1/parties",
+        "/api/v1/ballots",
+        "/api/v1/districts",
+        "/api/v1/candidates",
+        "/api/v1/affiliations",
         "/api/v1/regions",
         "/api/v1/tiks",
         "/api/v1/special-types",

@@ -11,6 +11,7 @@ const toggle = (values: string[], value: string) => values.includes(value) ? val
 
 export function Filters({ state, metadata, onChange, onReset }: Props) {
   const setRange = (key: "turnoutMin" | "turnoutMax" | "resultMin" | "resultMax", value: string) => onChange({ ...state, [key]: Number(value) });
+  const districtCandidates = state.districtId ? metadata.candidates.filter((candidate) => candidate.districtId === state.districtId) : [];
   return (
     <aside className="filters" aria-label="Analysis filters">
       <div className="panel-heading">
@@ -18,7 +19,13 @@ export function Filters({ state, metadata, onChange, onReset }: Props) {
         <button className="text-button" onClick={onReset}>Clear</button>
       </div>
 
-      <fieldset>
+      <FilterSelect label="Ballot" value={state.ballotKind} allLabel="Choose ballot" options={[{ id: "party_list", name: "Party list" }, { id: "single_member", name: "Single-member district" }]} onChange={(value) => {
+        const ballotKind = value === "single_member" ? "single_member" : "party_list";
+        const federal = metadata.ballots.find((ballot) => ballot.kind === "party_list");
+        onChange({ ...state, ballotKind, ballotId: ballotKind === "party_list" ? federal?.id || null : null, districtId: null, candidateId: null, affiliations: [], winner: null, selectedId: null });
+      }} />
+
+      {state.ballotKind === "party_list" ? <fieldset>
         <legend>Party result</legend>
         <div className="choice-list">
           {metadata.parties.map((party) => <label className="check-row" key={party.id}>
@@ -26,7 +33,15 @@ export function Filters({ state, metadata, onChange, onReset }: Props) {
             <span className="swatch" style={{ background: party.color }} aria-hidden="true" /><span>{party.name}</span>
           </label>)}
         </div>
-      </fieldset>
+      </fieldset> : <>
+        <FilterSelect label="Single-member district (OIK)" value={state.districtId || ""} options={metadata.districts} onChange={(value) => {
+          const district = metadata.districts.find((item) => item.id === value);
+          onChange({ ...state, districtId: value || null, ballotId: district?.ballotId || null, candidateId: null, selectedId: null });
+        }} />
+        <FilterSelect label="Candidate" value={state.candidateId || ""} options={districtCandidates} onChange={(value) => onChange({ ...state, candidateId: value || null, selectedId: null })} />
+        <FilterSelect label="Affiliation" value={state.affiliations[0] || ""} options={metadata.affiliations} onChange={(value) => onChange({ ...state, affiliations: value ? [value] : [], selectedId: null })} />
+        <FilterSelect label="Winner status" value={state.winner === null ? "" : String(state.winner)} options={[{ id: "true", name: "Official winners" }, { id: "false", name: "Other candidates" }]} onChange={(value) => onChange({ ...state, winner: value ? value === "true" : null, selectedId: null })} />
+      </>}
 
       <FilterSelect label="Region" value={state.regionIds[0] || ""} options={metadata.regions} onChange={(value) => onChange({ ...state, regionIds: value ? [value] : [], tikIds: [] })} />
       <FilterSelect label="Territorial commission (TIK)" value={state.tikIds[0] || ""} options={metadata.tiks} onChange={(value) => onChange({ ...state, tikIds: value ? [value] : [] })} />
@@ -59,6 +74,6 @@ export function Filters({ state, metadata, onChange, onReset }: Props) {
   );
 }
 
-function FilterSelect({ label, value, options, onChange }: { label: string; value: string; options: Array<{ id: string; name: string; count?: number }>; onChange(value: string): void }) {
-  return <label className="select-field"><span>{label}</span><select value={value} onChange={(event) => onChange(event.target.value)}><option value="">All</option>{options.map((option) => <option value={option.id} key={option.id}>{option.name}{option.count === undefined ? "" : ` · ${option.count}`}</option>)}</select></label>;
+function FilterSelect({ label, value, options, onChange, allLabel = "All" }: { label: string; value: string; options: Array<{ id: string; name: string; count?: number }>; onChange(value: string): void; allLabel?: string }) {
+  return <label className="select-field"><span>{label}</span><select value={value} onChange={(event) => onChange(event.target.value)}><option value="">{allLabel}</option>{options.map((option) => <option value={option.id} key={option.id}>{option.name}{option.count === undefined ? "" : ` · ${option.count}`}</option>)}</select></label>;
 }
