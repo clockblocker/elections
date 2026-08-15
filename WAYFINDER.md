@@ -132,6 +132,27 @@ Each chart must expose its denominator, filters, bin width, and excluded records
 - Document methodology, limitations, and known data gaps.
 - Add deployment only after local reproducibility is established.
 
+## Ticket breakdown
+
+The executable MVP queue lives in [GitHub Issues](https://github.com/clockblocker/elections/issues). Tickets are ordered by dependency, not necessarily by final execution order.
+
+| # | Ticket | Depends on |
+|---|---|---|
+| [1](https://github.com/clockblocker/elections/issues/1) | Bootstrap the local development environment | — |
+| [2](https://github.com/clockblocker/elections/issues/2) | Define the MySQL schema and migrations | 1 |
+| [3](https://github.com/clockblocker/elections/issues/3) | Create the source manifest and deterministic downloader | — |
+| [4](https://github.com/clockblocker/elections/issues/4) | Import 2021 State Duma party-list UIK results | 2, 3 |
+| [5](https://github.com/clockblocker/elections/issues/5) | Import the 14 September 2021 UIK and TIK snapshot | 2, 3 |
+| [6](https://github.com/clockblocker/elections/issues/6) | Match election results to UIK and TIK metadata | 4, 5 |
+| [7](https://github.com/clockblocker/elections/issues/7) | Validate and reconcile the 2021 dataset | 4, 6 |
+| [8](https://github.com/clockblocker/elections/issues/8) | Implement the read-only FastAPI exploration API | 2, 6, 7 |
+| [9](https://github.com/clockblocker/elections/issues/9) | Build the custom-styled React research interface | 1, 8 |
+| [10](https://github.com/clockblocker/elections/issues/10) | Implement the WebGL Shpilkin-style scatterplot | 8, 9 |
+| [11](https://github.com/clockblocker/elections/issues/11) | Add UIK hover, selection, and full metadata inspection | 8, 10 |
+| [12](https://github.com/clockblocker/elections/issues/12) | Add exports and verify the complete local MVP | 7, 10, 11 |
+
+Each issue contains its own outcome, scope, and acceptance criteria. Update the issue first when ticket scope changes, then keep this dependency map aligned.
+
 ## Decisions to make before implementation
 
 - Ingestion language and parser ownership.
