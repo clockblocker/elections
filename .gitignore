@@ -1,0 +1,25 @@
+.env
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+*.egg-info/
+
+# JavaScript
+node_modules/
+frontend/dist/
+frontend/coverage/
+
+# Local election data and generated artifacts
+data/raw/
+data/processed/
+data/exports/
+reports/generated/
+*.sqlite
+*.sqlite3
+

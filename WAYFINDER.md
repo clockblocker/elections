@@ -45,7 +45,7 @@ analytical database
 React client
 ```
 
-The 2021 dataset fits comfortably in SQLite. Keep ingestion and query boundaries database-agnostic so PostgreSQL remains an uncomplicated deployment option.
+MySQL 8.4 is the reproducible development database. The SQLAlchemy boundary and SQLite test coverage keep ingestion and queries portable without weakening the MySQL migration target.
 
 ## Core data model
 
@@ -153,13 +153,13 @@ The executable MVP queue lives in [GitHub Issues](https://github.com/clockblocke
 
 Each issue contains its own outcome, scope, and acceptance criteria. Update the issue first when ticket scope changes, then keep this dependency map aligned.
 
-## Decisions to make before implementation
+## Implementation decisions
 
-- Ingestion language and parser ownership.
-- SQLite-only local application versus PostgreSQL-backed deployment.
-- API framework and deployment target.
-- Exact mathematical definition of the reference Shpilkin analysis.
-- Storage policy for large raw artifacts that should not live in Git.
+- Python owns ingestion, matching, validation, and the FastAPI read-only query layer.
+- MySQL 8.4 is the local application database; SQLite is used for fast isolated tests.
+- React/Vite and regl provide the browser workbench and WebGL point rendering.
+- Raw archives live under ignored `data/raw/`; only the URL/checksum manifest is committed.
+- The first delivered graph is the descriptive turnout/result field. A parameterized excess-vote estimator remains a later analytical slice and must define its mathematics before implementation.
 
 ## Definition of done for 2021
 
