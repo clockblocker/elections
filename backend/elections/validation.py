@@ -360,6 +360,7 @@ def validate_dataset(
             MatchStatus.RESULT_ONLY,
             MatchStatus.AMBIGUOUS,
             MatchStatus.PENDING,
+            MatchStatus.DATA_INTEGRITY_ERROR,
         }:
             _finding(
                 session,

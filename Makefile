@@ -27,6 +27,7 @@ rebuild-data:
 	docker compose run --rm api elections-data import-results
 	docker compose run --rm api elections-data import-single-member
 	docker compose run --rm api elections-data import-commissions
+	docker compose run --rm api elections-data resolve-gas-ids
 	docker compose run --rm api elections-data match
 	docker compose run --rm api elections-data validate \
 		--published-totals data/published-totals-2021.json \
@@ -45,3 +46,7 @@ validate:
 
 verify-complete:
 	docker compose run --rm api elections-data verify-complete
+
+.PHONY: resolve-gas-ids
+resolve-gas-ids:
+	docker compose run --rm api elections-data resolve-gas-ids

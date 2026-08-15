@@ -12,6 +12,7 @@ from sqlalchemy import select
 from alembic import command
 from elections.acquisition import BLOCKING_GAP_STATUSES, acquire_snapshot, verify_snapshot
 from elections.db import build_engine, session_scope
+from elections.gas_resolution import resolve_gas_ids
 from elections.ingest.commissions import import_commissions
 from elections.ingest.results import import_results
 from elections.ingest.single_member import import_single_member_snapshot
@@ -52,6 +53,9 @@ DEFAULT_RAW_DIR = PROJECT_ROOT / "data/raw"
 DEFAULT_SINGLE_MEMBER_MANIFEST = PROJECT_ROOT / "reports/generated/single-member-snapshot.json"
 DEFAULT_PUBLISHED_TOTALS = PROJECT_ROOT / "data/published-totals-2021.json"
 DEFAULT_COMPLETE_REPORT = PROJECT_ROOT / "reports/generated/complete-dataset-2021.json"
+DEFAULT_GAS_CACHE = PROJECT_ROOT / "data/raw/gas-id-resolution"
+DEFAULT_GAS_REPORT = PROJECT_ROOT / "reports/generated/gas-id-resolution.json"
+DEFAULT_GAS_HUMAN_REPORT = PROJECT_ROOT / "reports/generated/gas-id-resolution.md"
 DEFAULT_LOCAL_DATABASE_URL = f"sqlite:///{PROJECT_ROOT / 'data/elections.sqlite3'}"
 
 
@@ -121,6 +125,25 @@ def build_parser() -> argparse.ArgumentParser:
         "--audit", type=Path, default=PROJECT_ROOT / "reports/generated/matches.json"
     )
 
+    resolve_gas = subparsers.add_parser(
+        "resolve-gas-ids",
+        help="resume exact GAS commission-ID resolution from cached official pages",
+    )
+    resolve_gas.add_argument("--cache-dir", type=Path, default=DEFAULT_GAS_CACHE)
+    resolve_gas.add_argument("--report", type=Path, default=DEFAULT_GAS_REPORT)
+    resolve_gas.add_argument("--human-report", type=Path, default=DEFAULT_GAS_HUMAN_REPORT)
+    resolve_gas.add_argument("--commission-artifact-key", default="commissions-2021-09-14")
+    resolve_gas.add_argument("--timeout", type=float, default=30)
+    resolve_gas.add_argument("--retries", type=int, default=3)
+    resolve_gas.add_argument("--rate-limit", type=float, default=0.5)
+    resolve_gas.add_argument("--concurrency", type=int, default=4)
+    resolve_gas.add_argument("--offline", action="store_true")
+    resolve_gas.add_argument(
+        "--max-parent-urls",
+        type=int,
+        help="bounded smoke-test mode; resolve only the first N unique parent URLs",
+    )
+
     validate = subparsers.add_parser("validate", help="validate and reconcile imported data")
     validate.add_argument(
         "--report", type=Path, default=PROJECT_ROOT / "reports/generated/validation.json"
@@ -150,9 +173,7 @@ def main(argv: list[str] | None = None) -> int:
     if args.command == "acquire-single-member":
         if args.verify_only:
             _json(
-                verify_snapshot(
-                    args.manifest, args.raw_dir, require_complete=not args.allow_gaps
-                )
+                verify_snapshot(args.manifest, args.raw_dir, require_complete=not args.allow_gaps)
             )
             return 0
         report = acquire_snapshot(
@@ -171,9 +192,7 @@ def main(argv: list[str] | None = None) -> int:
                 "run": report["run"],
             }
         )
-        blocking_gaps = any(
-            gap["status"] in BLOCKING_GAP_STATUSES for gap in report["gaps"]
-        )
+        blocking_gaps = any(gap["status"] in BLOCKING_GAP_STATUSES for gap in report["gaps"])
         return 2 if blocking_gaps and not args.allow_gaps else 0
     if args.command == "migrate":
         config = Config(str(args.config))
@@ -203,6 +222,21 @@ def main(argv: list[str] | None = None) -> int:
             _json(import_commissions(session, artifact, path))
         elif args.command == "match":
             _json(match_results(session, args.audit))
+        elif args.command == "resolve-gas-ids":
+            report = resolve_gas_ids(
+                session,
+                cache_dir=args.cache_dir,
+                report_path=args.report,
+                human_report_path=args.human_report,
+                commission_artifact_key=args.commission_artifact_key,
+                timeout=args.timeout,
+                retries=args.retries,
+                rate_limit_seconds=args.rate_limit,
+                concurrency=args.concurrency,
+                offline=args.offline,
+                max_parent_urls=args.max_parent_urls,
+            )
+            _json(report["summary"])
         elif args.command == "validate":
             if args.published_totals:
                 if args.ballot_id is None:
@@ -222,9 +256,7 @@ def main(argv: list[str] | None = None) -> int:
                         "single-member published totals file does not exist: "
                         f"{args.single_member_published_totals}"
                     )
-                load_single_member_published_totals(
-                    session, args.single_member_published_totals
-                )
+                load_single_member_published_totals(session, args.single_member_published_totals)
             report = validate_dataset(session, args.report)
             _json(report["summary"])
         elif args.command == "verify-complete":

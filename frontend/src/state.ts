@@ -1,3 +1,4 @@
+import { MATCH_STATUSES } from "./types";
 import type { AnalyticalState, CosmeticPreferences, MatchStatus } from "./types";
 
 export const DEFAULT_STATE: AnalyticalState = {
@@ -39,7 +40,7 @@ export function parseAnalyticalState(search: string): AnalyticalState {
     regionIds: array(p, "region"),
     tikIds: array(p, "tik"),
     specialTypes: array(p, "special"),
-    matchStatuses: array(p, "match").filter((x): x is MatchStatus => ["matched", "partial", "unmatched"].includes(x)),
+    matchStatuses: array(p, "match").filter((x): x is MatchStatus => (MATCH_STATUSES as readonly string[]).includes(x)),
     turnoutMin: boundedNumber(p.get("turnoutMin"), 0),
     turnoutMax: boundedNumber(p.get("turnoutMax"), 100),
     resultMin: boundedNumber(p.get("resultMin"), 0),

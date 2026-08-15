@@ -6,7 +6,7 @@ from pathlib import Path
 
 from sqlalchemy import func, select
 
-from elections.ingest.commissions import import_commissions
+from elections.ingest.commissions import _official_gas_id, import_commissions
 from elections.ingest.results import import_results
 from elections.matching import match_results
 from elections.models import (
@@ -16,6 +16,7 @@ from elections.models import (
     MatchEvidence,
     MatchStatus,
     ResultRecord,
+    SourceArtifact,
     SpecialType,
     ValidationFinding,
     ValidationStatus,
@@ -50,6 +51,12 @@ def test_aggregate_rows_normalizes_mysql_decimal_sums() -> None:
     }
 
 
+def test_commission_import_rejects_synthetic_negative_iz_ids_as_gas_identity() -> None:
+    assert _official_gas_id(4014005258649) == "4014005258649"
+    assert _official_gas_id(-4014005258649) is None
+    assert _official_gas_id("not-an-id") is None
+
+
 def test_end_to_end_import_match_and_validate(
     session, results_source, commission_source, tmp_path: Path
 ) -> None:
@@ -77,6 +84,9 @@ def test_end_to_end_import_match_and_validate(
     assert session.scalar(select(func.count(CommissionMembership.id))) == 1
     uik = session.scalar(select(Commission).where(Commission.number == "1"))
     assert uik is not None
+    assert uik.parent_id is not None
+    assert uik.latitude == Decimal("50.0000000")
+    assert uik.longitude == Decimal("10.0000000")
     assert "phone" not in uik.raw_json
     assert "email" not in uik.raw_json
 
@@ -172,3 +182,47 @@ def test_matching_bulk_path_preserves_explicit_ambiguity(
     assert report["unresolved"][0]["candidate_commission_ids"] == [
         item.commission_id for item in evidence
     ]
+
+
+def test_matching_rejects_duplicate_exact_candidates_across_snapshots(
+    session, results_source, commission_source
+) -> None:
+    result_path, result_artifact = results_source
+    commission_path, commission_artifact = commission_source
+    import_results(session, result_artifact, result_path)
+    import_commissions(session, commission_artifact, commission_path)
+    original = session.scalar(select(Commission).where(Commission.gas_vybory_id == "1001"))
+    result = session.scalar(select(ResultRecord).where(ResultRecord.uik_number == "1"))
+    assert original is not None and result is not None
+    second_snapshot = SourceArtifact(
+        key="second-commission-snapshot",
+        url="https://example.test/second.sqlite",
+        sha256="f" * 64,
+        metadata_json={},
+    )
+    session.add(second_snapshot)
+    session.flush()
+    session.add(
+        Commission(
+            source_artifact_id=second_snapshot.id,
+            source_record_id="same-id-new-snapshot",
+            gas_vybory_id="1001",
+            type=original.type,
+            region=original.region,
+            name=original.name,
+            number=original.number,
+            raw_json={},
+        )
+    )
+    result.gas_vybory_id = "1001"
+    session.flush()
+
+    counts = match_results(session)
+
+    assert counts[MatchStatus.DATA_INTEGRITY_ERROR.value] == 1
+    assert result.matched_commission_id is None
+    evidence = session.scalars(
+        select(MatchEvidence).where(MatchEvidence.result_record_id == result.id)
+    ).all()
+    assert len(evidence) == 2
+    assert all(not item.selected for item in evidence)

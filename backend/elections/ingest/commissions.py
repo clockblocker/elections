@@ -9,7 +9,7 @@ from pathlib import Path
 from typing import Any
 
 import py7zr
-from sqlalchemy import delete, insert, select, update
+from sqlalchemy import bindparam, delete, insert, select, update
 from sqlalchemy.orm import Session
 
 from elections.ingest.common import (
@@ -65,6 +65,18 @@ def _decimal(value: Any) -> Decimal | None:
         return None
 
 
+def _official_gas_id(value: Any) -> str | None:
+    """GIS-Lab uses negative ``iz_id`` values for synthetic fallback identities."""
+
+    cleaned = clean(value)
+    if cleaned is None:
+        return None
+    try:
+        return cleaned if int(cleaned) > 0 else None
+    except ValueError:
+        return None
+
+
 def _rows(connection: sqlite3.Connection, table: str) -> Iterator[dict[str, Any]]:
     connection.row_factory = sqlite3.Row
     cursor = connection.execute(f"SELECT * FROM {table}")  # noqa: S608 - fixed table names only
@@ -101,6 +113,7 @@ def import_commissions(session: Session, artifact: Artifact, path: Path) -> dict
     memberships_raw: list[dict[str, Any]] = []
     rejected = 0
     ignored_non_uik_tik = 0
+    synthetic_ids = 0
     with _database_path(path) as database:
         with sqlite3.connect(database) as connection:
             for row_number, raw in enumerate(_rows(connection, "cik_uik"), start=1):
@@ -116,11 +129,13 @@ def import_commissions(session: Session, artifact: Artifact, path: Path) -> dict
                     region = clean(raw.get("region"))
                     if not name or not region:
                         raise ValueError("commission name or region is empty")
+                    gas_vybory_id = _official_gas_id(raw.get("iz_id"))
+                    synthetic_ids += int(raw.get("iz_id") is not None and gas_vybory_id is None)
                     commissions.append(
                         {
                             "source_artifact_id": source.id,
                             "source_record_id": source_id,
-                            "gas_vybory_id": clean(raw.get("iz_id")),
+                            "gas_vybory_id": gas_vybory_id,
                             "parent_source_id": clean(raw.get("parent_id")),
                             "type": CommissionType(type_value),
                             "region": region,
@@ -158,14 +173,21 @@ def import_commissions(session: Session, artifact: Artifact, path: Path) -> dict
             )
         ).all()
     )
-    for row in commissions:
-        parent_id = commission_ids.get(row["parent_source_id"])
-        if parent_id:
-            session.execute(
-                update(Commission)
-                .where(Commission.id == commission_ids[row["source_record_id"]])
-                .values(parent_id=parent_id)
-            )
+    parent_updates = [
+        {
+            "commission_id": commission_ids[row["source_record_id"]],
+            "commission_parent_id": parent_id,
+        }
+        for row in commissions
+        if (parent_id := commission_ids.get(row["parent_source_id"])) is not None
+    ]
+    if parent_updates:
+        session.execute(
+            update(Commission.__table__)
+            .where(Commission.__table__.c.id == bindparam("commission_id"))
+            .values(parent_id=bindparam("commission_parent_id")),
+            parent_updates,
+        )
 
     membership_rows: list[dict[str, Any]] = []
     orphan_memberships = 0
@@ -214,6 +236,7 @@ def import_commissions(session: Session, artifact: Artifact, path: Path) -> dict
         "ignored_non_uik_tik": ignored_non_uik_tik,
         "ignored_memberships_for_other_types": orphan_memberships,
         "rejected_records": rejected,
+        "synthetic_or_invalid_iz_ids": synthetic_ids,
     }
     finish_run(run, stats)
     session.flush()

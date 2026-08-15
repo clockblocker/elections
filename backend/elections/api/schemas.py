@@ -145,6 +145,7 @@ class ScatterPoint(ApiModel):
     turnout_percent: Percentage | None = None
     party_percent: Percentage | None = None
     match_status: str
+    matching_method: str | None = None
     validation_status: str | None = None
     special_type: str | None = None
     is_deg: bool = False
@@ -254,6 +255,7 @@ class UikProtocol(ApiModel):
     party_results: list[PartyResult] = Field(default_factory=list)
     candidate_results: list[CandidateResult] = Field(default_factory=list)
     match_status: str
+    matching_method: str | None = None
     validation_status: str | None = None
     special_type: str | None = None
     is_deg: bool = False
@@ -274,6 +276,9 @@ class UikDetail(ApiModel):
     protocols: list[UikProtocol] = Field(default_factory=list)
     commission: CommissionMetadata | None = None
     match_status: str
+    matching_method: str | None = None
+    gas_resolution_status: str | None = None
+    gas_resolution_reason: str | None = None
     validation_status: str | None = None
     special_type: str | None = None
     is_deg: bool = False

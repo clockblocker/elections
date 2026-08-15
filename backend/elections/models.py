@@ -60,6 +60,7 @@ class MatchStatus(StrEnum):
     COMMISSION_ONLY = "commission_only"
     AMBIGUOUS = "ambiguous"
     SPECIAL = "special"
+    DATA_INTEGRITY_ERROR = "data_integrity_error"
 
 
 class ValidationStatus(StrEnum):
@@ -144,12 +145,8 @@ class Election(Base):
 class Ballot(Base):
     __tablename__ = "ballots"
     __table_args__ = (
-        UniqueConstraint(
-            "election_id", "kind", "scope_key", name="uq_ballot_election_kind_scope"
-        ),
-        UniqueConstraint(
-            "election_id", "kind", "oik_id", name="uq_ballot_election_kind_oik"
-        ),
+        UniqueConstraint("election_id", "kind", "scope_key", name="uq_ballot_election_kind_scope"),
+        UniqueConstraint("election_id", "kind", "oik_id", name="uq_ballot_election_kind_oik"),
         CheckConstraint(
             "(kind = 'PARTY_LIST' AND oik_id IS NULL AND scope_key = 'federal') OR "
             "(kind = 'SINGLE_MEMBER' AND oik_id IS NOT NULL "
@@ -240,6 +237,9 @@ class Commission(Base):
         UniqueConstraint(
             "source_artifact_id", "source_record_id", name="uq_commission_source_record"
         ),
+        UniqueConstraint(
+            "source_artifact_id", "gas_vybory_id", name="uq_commission_snapshot_gas_id"
+        ),
         Index("ix_commissions_gas_id", "gas_vybory_id"),
         Index("ix_commissions_region_type_number", "region", "type", "number"),
         Index("ix_commissions_parent", "parent_id"),
@@ -296,6 +296,7 @@ class ResultRecord(Base):
         Index("ix_results_ballot_uik", "ballot_id", "uik_number"),
         Index("ix_results_match_status", "match_status"),
         Index("ix_results_validation_status", "validation_status"),
+        Index("ix_results_gas_id", "gas_vybory_id"),
     )
 
     id: Mapped[int] = mapped_column(primary_key=True)
@@ -330,6 +331,46 @@ class ResultRecord(Base):
     )
     votes: Mapped[list[Vote]] = relationship(back_populates="result_record")
     match_evidence: Mapped[list[MatchEvidence]] = relationship(back_populates="result_record")
+    gas_resolution: Mapped[GasIdResolution | None] = relationship(
+        back_populates="result_record", uselist=False
+    )
+
+
+class GasIdResolution(Base):
+    """Auditable outcome of resolving one result protocol to a GAS commission ID."""
+
+    __tablename__ = "gas_id_resolutions"
+    __table_args__ = (
+        Index("ix_gas_resolutions_status_reason", "status", "reason_code"),
+        Index("ix_gas_resolutions_gas_id", "gas_vybory_id"),
+    )
+
+    result_record_id: Mapped[int] = mapped_column(
+        ForeignKey("result_records.id", ondelete="CASCADE"), primary_key=True
+    )
+    status: Mapped[str] = mapped_column(String(40))
+    reason_code: Mapped[str | None] = mapped_column(String(80))
+    gas_vybory_id: Mapped[str | None] = mapped_column(String(120))
+    parent_source_artifact_id: Mapped[int | None] = mapped_column(ForeignKey("source_artifacts.id"))
+    detail_source_artifact_id: Mapped[int | None] = mapped_column(ForeignKey("source_artifacts.id"))
+    commission_source_artifact_id: Mapped[int | None] = mapped_column(
+        ForeignKey("source_artifacts.id")
+    )
+    evidence_json: Mapped[dict[str, Any]] = mapped_column(JSON, default=dict)
+    resolved_at: Mapped[datetime] = mapped_column(
+        DateTime(timezone=True), server_default=func.now(), onupdate=func.now()
+    )
+
+    result_record: Mapped[ResultRecord] = relationship(back_populates="gas_resolution")
+    parent_source_artifact: Mapped[SourceArtifact | None] = relationship(
+        foreign_keys=[parent_source_artifact_id]
+    )
+    detail_source_artifact: Mapped[SourceArtifact | None] = relationship(
+        foreign_keys=[detail_source_artifact_id]
+    )
+    commission_source_artifact: Mapped[SourceArtifact | None] = relationship(
+        foreign_keys=[commission_source_artifact_id]
+    )
 
 
 class BallotAccounting(Base):

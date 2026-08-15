@@ -35,6 +35,7 @@ UNRESOLVED_MATCH_STATUSES = {
     MatchStatus.PENDING,
     MatchStatus.RESULT_ONLY,
     MatchStatus.AMBIGUOUS,
+    MatchStatus.DATA_INTEGRITY_ERROR,
 }
 
 

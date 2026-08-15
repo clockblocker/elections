@@ -11,6 +11,7 @@ elections-data acquire-single-member
 elections-data import-results
 elections-data import-single-member
 elections-data import-commissions
+elections-data resolve-gas-ids
 elections-data match
 elections-data validate \
   --published-totals data/published-totals-2021.json \
@@ -97,6 +98,36 @@ Matching first uses a stable GAS Vybory ID. The fallback uses UIK number plus
 normalized region/address and parent-TIK evidence. Every candidate and score is
 stored in `match_evidence`; a tie is classified `ambiguous`, never silently chosen.
 The default audit is `reports/generated/matches.json`.
+
+`resolve-gas-ids` starts from each stored result URL, downloads every distinct parent
+result table once, follows the explicit UIK result link, and accepts an identity only from
+the commission link whose request is `action=ik&vrn=<commission-id>`. The `vrn` on an
+`action=show` result URL remains an election identifier and is never used as a commission
+identifier. Responses and their checksums are preserved below
+`data/raw/gas-id-resolution/`; per-result evidence is stored in `gas_id_resolutions` and
+the machine/human audits are written to `reports/generated/gas-id-resolution.json` and
+`.md`. Conflicts and IDs missing from the selected commission snapshot fail closed.
+Research against preserved official responses found no result-to-commission link in the
+sampled 2021 result pages, so those pages remain explicitly unresolved; see
+`docs/gas-id-resolution.md`. The importer also leaves negative GIS-Lab `iz_id` values out
+of `gas_vybory_id`, because the extractor generated those locally as fallback identities
+rather than receiving them from GAS.
+
+Resume the national run without rebuilding or re-downloading successful responses:
+
+```sh
+docker compose run --rm api elections-data resolve-gas-ids
+```
+
+Verify and parse a fully cached run without network access with:
+
+```sh
+docker compose run --rm api elections-data resolve-gas-ids --offline
+```
+
+Use `--max-parent-urls 3` for a bounded smoke test. Timeouts, retries, request spacing,
+and bounded parallelism are configurable with `--timeout`, `--retries`, `--rate-limit`,
+and `--concurrency`. `make resolve-gas-ids` is the resumable Docker shorthand.
 
 Validation checks the two ballot-accounting identities, party-vote totals,
 registered-voter bounds, duplicate or missing UIK identities, and unresolved

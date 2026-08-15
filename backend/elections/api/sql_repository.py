@@ -109,6 +109,7 @@ class SqlElectionRepository:
                                 models.MatchStatus.PENDING,
                                 models.MatchStatus.RESULT_ONLY,
                                 models.MatchStatus.AMBIGUOUS,
+                                models.MatchStatus.DATA_INTEGRITY_ERROR,
                             ]
                         )
                     )
@@ -356,9 +357,7 @@ class SqlElectionRepository:
     def list_points(self, filters: PointFilters) -> PointPage:
         accounted_ballots = func.coalesce(
             models.BallotAccounting.portable_boxes_ballots, 0
-        ) + func.coalesce(
-            models.BallotAccounting.stationary_boxes_ballots, 0
-        )
+        ) + func.coalesce(models.BallotAccounting.stationary_boxes_ballots, 0)
         registered_voters = func.coalesce(models.BallotAccounting.registered_voters, 0)
         turnout = case(
             (
@@ -374,13 +373,20 @@ class SqlElectionRepository:
             ),
             else_=None,
         )
+        matching_method = (
+            select(models.MatchEvidence.method)
+            .where(
+                models.MatchEvidence.result_record_id == models.ResultRecord.id,
+                models.MatchEvidence.selected.is_(True),
+            )
+            .limit(1)
+            .scalar_subquery()
+        )
         try:
             ballot_kinds = [models.BallotKind(value) for value in filters.ballot_kinds]
         except ValueError:
             ballot_kinds = []
-        conditions = [
-            models.Ballot.kind.in_(ballot_kinds or [models.BallotKind.PARTY_LIST])
-        ]
+        conditions = [models.Ballot.kind.in_(ballot_kinds or [models.BallotKind.PARTY_LIST])]
         if filters.ballot_ids:
             conditions.append(models.Ballot.id.in_(filters.ballot_ids))
         if filters.oik_ids:
@@ -429,6 +435,7 @@ class SqlElectionRepository:
                 models.Vote.votes,
                 turnout.label("turnout"),
                 result_percent.label("result_percent"),
+                matching_method.label("matching_method"),
             )
             .join(models.Ballot, models.Ballot.id == models.ResultRecord.ballot_id)
             .outerjoin(
@@ -475,6 +482,7 @@ class SqlElectionRepository:
                         float(result_percent_value) if result_percent_value is not None else None
                     ),
                     match_status=_enum_value(record.match_status),
+                    matching_method=method,
                     validation_status=_enum_value(record.validation_status),
                     special_type=_enum_value(record.special_type),
                     is_deg=record.is_deg,
@@ -491,6 +499,7 @@ class SqlElectionRepository:
                     party_votes,
                     turnout_value,
                     result_percent_value,
+                    method,
                 ) in rows
             ]
         return PointPage(
@@ -517,6 +526,13 @@ class SqlElectionRepository:
                 joinedload(models.ResultRecord.matched_commission).selectinload(
                     models.Commission.memberships
                 ),
+                selectinload(models.ResultRecord.match_evidence),
+                joinedload(models.ResultRecord.gas_resolution).joinedload(
+                    models.GasIdResolution.parent_source_artifact
+                ),
+                joinedload(models.ResultRecord.gas_resolution).joinedload(
+                    models.GasIdResolution.detail_source_artifact
+                ),
             )
         )
         with self._sessions() as session:
@@ -529,10 +545,7 @@ class SqlElectionRepository:
                 .where(
                     models.Ballot.election_id == record.ballot.election_id,
                     or_(
-                        (
-                            models.ResultRecord.matched_commission_id
-                            == record.matched_commission_id
-                        )
+                        (models.ResultRecord.matched_commission_id == record.matched_commission_id)
                         if record.matched_commission_id is not None
                         else False,
                         (
@@ -551,6 +564,13 @@ class SqlElectionRepository:
                     joinedload(models.ResultRecord.accounting),
                     selectinload(models.ResultRecord.votes).joinedload(models.Vote.option),
                     selectinload(models.ResultRecord.votes).joinedload(models.Vote.candidate),
+                    selectinload(models.ResultRecord.match_evidence),
+                    joinedload(models.ResultRecord.gas_resolution).joinedload(
+                        models.GasIdResolution.parent_source_artifact
+                    ),
+                    joinedload(models.ResultRecord.gas_resolution).joinedload(
+                        models.GasIdResolution.detail_source_artifact
+                    ),
                 )
                 .order_by(models.Ballot.kind, models.ResultRecord.id)
             )
@@ -641,6 +661,11 @@ class SqlElectionRepository:
             protocols=protocols,
             commission=SqlElectionRepository._commission(record.matched_commission),
             match_status=_enum_value(record.match_status),
+            matching_method=SqlElectionRepository._matching_method(record),
+            gas_resolution_status=(record.gas_resolution.status if record.gas_resolution else None),
+            gas_resolution_reason=(
+                record.gas_resolution.reason_code if record.gas_resolution else None
+            ),
             validation_status=_enum_value(record.validation_status),
             special_type=_enum_value(record.special_type),
             is_deg=record.is_deg,
@@ -694,9 +719,7 @@ class SqlElectionRepository:
                 is_self_nominated=vote.candidate.is_self_nominated,
                 registration_status=vote.candidate.registration_status,
                 votes=vote.votes,
-                percent=_percentage(
-                    vote.votes, accounting.valid_ballots if accounting else None
-                ),
+                percent=_percentage(vote.votes, accounting.valid_ballots if accounting else None),
                 is_winner=(record.ballot_id, vote.candidate.full_name) in winner_names,
             )
             for vote in sorted(
@@ -723,9 +746,7 @@ class SqlElectionRepository:
                 short_name=vote.option.short_name,
                 position=vote.option.position,
                 votes=vote.votes,
-                percent=_percentage(
-                    vote.votes, accounting.valid_ballots if accounting else None
-                ),
+                percent=_percentage(vote.votes, accounting.valid_ballots if accounting else None),
             )
             for vote in sorted(
                 (item for item in record.votes if item.option is not None),
@@ -745,6 +766,7 @@ class SqlElectionRepository:
             party_results=party_results,
             candidate_results=SqlElectionRepository._candidate_results(record, winner_names),
             match_status=_enum_value(record.match_status),
+            matching_method=SqlElectionRepository._matching_method(record),
             validation_status=_enum_value(record.validation_status),
             special_type=_enum_value(record.special_type),
             is_deg=record.is_deg,
@@ -788,6 +810,11 @@ class SqlElectionRepository:
         )
 
     @staticmethod
+    def _matching_method(record: models.ResultRecord) -> str | None:
+        selected = [item.method for item in record.match_evidence if item.selected]
+        return selected[0] if len(selected) == 1 else None
+
+    @staticmethod
     def _sources(record: models.ResultRecord) -> list[SourceLink]:
         sources: list[SourceLink] = []
         seen: set[str] = set()
@@ -815,6 +842,25 @@ class SqlElectionRepository:
         if record.matched_commission is not None:
             artifact = record.matched_commission.source_artifact
             add("Commission snapshot", artifact.url, artifact)
+        if record.gas_resolution is not None:
+            add(
+                "GAS parent result table",
+                (
+                    record.gas_resolution.parent_source_artifact.url
+                    if record.gas_resolution.parent_source_artifact
+                    else None
+                ),
+                record.gas_resolution.parent_source_artifact,
+            )
+            add(
+                "GAS exact commission identity",
+                (
+                    record.gas_resolution.detail_source_artifact.url
+                    if record.gas_resolution.detail_source_artifact
+                    else None
+                ),
+                record.gas_resolution.detail_source_artifact,
+            )
         return sources
 
 

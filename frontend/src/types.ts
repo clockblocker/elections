@@ -1,4 +1,16 @@
-export type MatchStatus = "matched" | "partial" | "unmatched";
+export const MATCH_STATUSES = [
+  "matched",
+  "ambiguous",
+  "result_only",
+  "pending",
+  "special",
+  "commission_only",
+  "data_integrity_error",
+  // Kept for imported/demo API payloads created before exact backend statuses were exposed.
+  "partial",
+  "unmatched",
+] as const;
+export type MatchStatus = (typeof MATCH_STATUSES)[number];
 export type BallotKind = "party_list" | "single_member";
 
 export interface Party {
@@ -51,6 +63,7 @@ export interface Point {
   partyShare: number;
   specialFlags: string[];
   matchStatus: MatchStatus;
+  matchingMethod?: string | null;
   validationStatus?: string | null;
 }
 
@@ -89,6 +102,10 @@ export interface PrecinctDetail {
   }>;
   specialFlags: string[];
   matchStatus: MatchStatus;
+  matchingMethod?: string | null;
+  gasVyboryId?: string | null;
+  gasResolutionStatus?: string | null;
+  gasResolutionReason?: string | null;
   validationMessages?: string[];
   sources: SourceLink[];
 }

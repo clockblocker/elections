@@ -39,7 +39,15 @@ def test_migrations_run_from_zero_and_can_rebuild(tmp_path: Path) -> None:
         "commissions",
         "validation_findings",
         "candidates",
+        "gas_id_resolutions",
     } <= tables
+    inspector = inspect(create_engine(f"sqlite:///{database}"))
+    assert "ix_results_gas_id" in {
+        item["name"] for item in inspector.get_indexes("result_records")
+    }
+    assert "uq_commission_snapshot_gas_id" in {
+        item["name"] for item in inspector.get_unique_constraints("commissions")
+    }
 
     command.downgrade(config, "base")
     command.upgrade(config, "head")
@@ -175,6 +183,9 @@ def test_mysql_migration_sql_contains_district_candidate_and_vote_ddl() -> None:
     )
     assert "ADD COLUMN candidate_id INTEGER" in sql
     assert "ck_vote_exactly_one_target" in sql
+    assert "CREATE TABLE gas_id_resolutions" in sql
+    assert "uq_commission_snapshot_gas_id" in sql
+    assert "CREATE INDEX ix_results_gas_id" in sql
 
 
 def test_all_indexed_keys_fit_mysql_utf8mb4_limit() -> None:

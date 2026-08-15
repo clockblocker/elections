@@ -34,6 +34,20 @@ def repository() -> SqlElectionRepository:
             retrieved_at=datetime(2021, 9, 14, tzinfo=UTC),
             metadata_json={},
         )
+        gas_parent_artifact = models.SourceArtifact(
+            key="gas-parent",
+            url="https://example.test/gas/parent",
+            sha256="c" * 64,
+            retrieved_at=datetime(2021, 9, 21, tzinfo=UTC),
+            metadata_json={},
+        )
+        gas_detail_artifact = models.SourceArtifact(
+            key="gas-detail",
+            url="https://example.test/gas/uik-123",
+            sha256="d" * 64,
+            retrieved_at=datetime(2021, 9, 21, tzinfo=UTC),
+            metadata_json={},
+        )
         election = models.Election(
             slug="duma-2021",
             name="2021 State Duma",
@@ -117,6 +131,27 @@ def repository() -> SqlElectionRepository:
         )
         session.flush()
         session.add(
+            models.GasIdResolution(
+                result_record_id=result.id,
+                status="resolved",
+                gas_vybory_id="gas-123",
+                parent_source_artifact=gas_parent_artifact,
+                detail_source_artifact=gas_detail_artifact,
+                commission_source_artifact=commission_artifact,
+                evidence_json={"commission_parameter": "action=ik&vrn"},
+            )
+        )
+        session.add(
+            models.MatchEvidence(
+                result_record_id=result.id,
+                commission_id=commission.id,
+                method="gas_vybory_id",
+                score=1,
+                evidence_json={"selection_decision": "selected_unique_exact_candidate"},
+                selected=True,
+            )
+        )
+        session.add(
             models.PublishedTotal(
                 ballot_id=ballot.id,
                 level="national",
@@ -188,6 +223,7 @@ def test_query_compact_filtered_points(repository: SqlElectionRepository) -> Non
     assert point.party_votes == 300
     assert point.turnout_percent == pytest.approx(51)
     assert point.party_percent == pytest.approx(60)
+    assert point.matching_method == "gas_vybory_id"
 
 
 def test_query_complete_uik_detail(repository: SqlElectionRepository) -> None:
@@ -207,10 +243,15 @@ def test_query_complete_uik_detail(repository: SqlElectionRepository) -> None:
     assert detail.commission is not None
     assert detail.commission.chairperson.full_name == "Example Chair"
     assert detail.validation_findings[0].code == "accounting_identity"
+    assert detail.gas_vybory_id == "gas-123"
+    assert detail.matching_method == "gas_vybory_id"
+    assert detail.gas_resolution_status == "resolved"
     assert {source.label for source in detail.sources} == {
         "Election result",
         "Result source artifact",
         "Commission snapshot",
+        "GAS parent result table",
+        "GAS exact commission identity",
     }
 
 
@@ -223,9 +264,7 @@ def _add_single_member_protocol(repository: SqlElectionRepository) -> int:
         election = session.query(models.Election).one()
         artifact = session.query(models.SourceArtifact).filter_by(key="results").one()
         commission = session.query(models.Commission).one()
-        region = models.Geography(
-            type=models.GeographyType.REGION, code="77", name="Moscow"
-        )
+        region = models.Geography(type=models.GeographyType.REGION, code="77", name="Moscow")
         oik = models.Geography(
             type=models.GeographyType.OIK,
             code="77-001",

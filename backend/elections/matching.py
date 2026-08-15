@@ -15,6 +15,7 @@ from elections.ingest.common import normalized_name
 from elections.models import (
     Commission,
     CommissionType,
+    GasIdResolution,
     MatchEvidence,
     MatchStatus,
     ResultRecord,
@@ -70,6 +71,7 @@ class Candidate:
 @dataclass(frozen=True)
 class CommissionProfile:
     commission_id: int
+    source_artifact_id: int
     region: str
     parent_name: str | None
     region_tokens: frozenset[str]
@@ -85,6 +87,10 @@ class ResultProfile:
     uik_number: str | None
     gas_vybory_id: str | None
     special_type: SpecialType
+    gas_resolution_status: str | None
+    gas_resolution_reason: str | None
+    commission_source_artifact_id: int | None
+    detail_source_artifact_id: int | None
 
 
 def _candidate_rows(
@@ -97,6 +103,7 @@ def _candidate_rows(
     rows = session.execute(
         select(
             Commission.id,
+            Commission.source_artifact_id,
             Commission.gas_vybory_id,
             Commission.parent_id,
             Commission.type,
@@ -116,12 +123,17 @@ def _candidate_rows(
         region_context = " ".join(value for value in (row.region, row.address, row.name) if value)
         profile = CommissionProfile(
             commission_id=row.id,
+            source_artifact_id=row.source_artifact_id,
             region=row.region,
             parent_name=parent_name,
             region_tokens=_tokens(region_context),
             tik_tokens=_tokens(parent_name),
         )
-        if row.gas_vybory_id:
+        if (
+            row.gas_vybory_id
+            and row.gas_vybory_id.isdigit()
+            and int(row.gas_vybory_id) > 0
+        ):
             by_gas[row.gas_vybory_id].append(profile)
         if row.type == CommissionType.UIK and row.number:
             by_number[row.number].append(profile)
@@ -134,13 +146,27 @@ def _candidates(
     by_number: dict[str, list[CommissionProfile]],
 ) -> list[Candidate]:
     if result.gas_vybory_id:
-        stable = by_gas.get(result.gas_vybory_id, [])
+        stable = [
+            commission
+            for commission in by_gas.get(result.gas_vybory_id, [])
+            if result.commission_source_artifact_id is None
+            or commission.source_artifact_id == result.commission_source_artifact_id
+        ]
         return [
             Candidate(
                 commission.commission_id,
                 "gas_vybory_id",
                 1.0,
-                {"gas_vybory_id": result.gas_vybory_id},
+                {
+                    "gas_vybory_id": result.gas_vybory_id,
+                    "source_artifact_id": result.detail_source_artifact_id,
+                    "commission_source_artifact_id": result.commission_source_artifact_id,
+                    "selection_decision": (
+                        "selected_unique_exact_candidate"
+                        if len(stable) == 1
+                        else "rejected_conflicting_exact_candidates"
+                    ),
+                },
             )
             for commission in stable
         ]
@@ -218,20 +244,38 @@ def match_results(session: Session, audit_path: Path | None = None) -> dict[str,
     evidence_rows: list[dict[str, Any]] = []
     result_rows: list[dict[str, Any]] = []
 
-    statement = select(
-        ResultRecord.id,
-        ResultRecord.source_row_number,
-        ResultRecord.region_name,
-        ResultRecord.tik_name,
-        ResultRecord.uik_number,
-        ResultRecord.gas_vybory_id,
-        ResultRecord.special_type,
-    ).order_by(ResultRecord.id)
+    statement = (
+        select(
+            ResultRecord.id,
+            ResultRecord.source_row_number,
+            ResultRecord.region_name,
+            ResultRecord.tik_name,
+            ResultRecord.uik_number,
+            ResultRecord.gas_vybory_id,
+            ResultRecord.special_type,
+            GasIdResolution.status,
+            GasIdResolution.reason_code,
+            GasIdResolution.commission_source_artifact_id,
+            GasIdResolution.detail_source_artifact_id,
+        )
+        .outerjoin(GasIdResolution, GasIdResolution.result_record_id == ResultRecord.id)
+        .order_by(ResultRecord.id)
+    )
     for row in session.execute(statement).yield_per(BATCH_SIZE):
         result = ResultProfile(*row)
         candidates: list[Candidate] = []
         selected: Candidate | None = None
-        if result.special_type != SpecialType.NONE:
+        if result.gas_resolution_status == "conflict":
+            status = MatchStatus.DATA_INTEGRITY_ERROR
+        elif result.gas_vybory_id:
+            candidates = _candidates(result, by_gas, by_number)
+            if len(candidates) == 1:
+                selected = candidates[0]
+                status = MatchStatus.MATCHED
+                selected_commissions.add(selected.commission_id)
+            else:
+                status = MatchStatus.DATA_INTEGRITY_ERROR
+        elif result.special_type != SpecialType.NONE:
             status = MatchStatus.SPECIAL
         else:
             candidates = _candidates(result, by_gas, by_number)
@@ -253,18 +297,26 @@ def match_results(session: Session, audit_path: Path | None = None) -> dict[str,
             }
         )
         for candidate in candidates:
+            is_selected = selected is not None and candidate.commission_id == selected.commission_id
             evidence_rows.append(
                 {
                     "result_record_id": result.result_id,
                     "commission_id": candidate.commission_id,
                     "method": candidate.method,
                     "score": Decimal(f"{candidate.score:.5f}"),
-                    "evidence_json": candidate.evidence,
-                    "selected": selected is not None
-                    and candidate.commission_id == selected.commission_id,
+                    "evidence_json": {
+                        **candidate.evidence,
+                        "selection_decision": candidate.evidence.get("selection_decision")
+                        or ("selected" if is_selected else "not_selected"),
+                    },
+                    "selected": is_selected,
                 }
             )
-        if status in {MatchStatus.AMBIGUOUS, MatchStatus.RESULT_ONLY}:
+        if status in {
+            MatchStatus.AMBIGUOUS,
+            MatchStatus.RESULT_ONLY,
+            MatchStatus.DATA_INTEGRITY_ERROR,
+        }:
             unresolved.append(
                 {
                     "result_record_id": result.result_id,
@@ -274,6 +326,8 @@ def match_results(session: Session, audit_path: Path | None = None) -> dict[str,
                     "tik": result.tik_name,
                     "uik": result.uik_number,
                     "candidate_commission_ids": [item.commission_id for item in candidates],
+                    "gas_vybory_id": result.gas_vybory_id,
+                    "gas_resolution_reason": result.gas_resolution_reason,
                 }
             )
         if len(result_rows) >= BATCH_SIZE or len(evidence_rows) >= BATCH_SIZE:
