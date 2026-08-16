@@ -1,7 +1,7 @@
 from datetime import UTC, date, datetime
 
 import pytest
-from sqlalchemy import create_engine, delete
+from sqlalchemy import create_engine, delete, event
 from sqlalchemy.orm import sessionmaker
 from sqlalchemy.pool import StaticPool
 
@@ -223,7 +223,68 @@ def test_query_compact_filtered_points(repository: SqlElectionRepository) -> Non
     assert point.party_votes == 300
     assert point.turnout_percent == pytest.approx(51)
     assert point.party_percent == pytest.approx(60)
-    assert point.matching_method == "gas_vybory_id"
+    assert point.matching_method is None
+
+
+def test_point_queries_do_not_select_detail_payloads(
+    repository: SqlElectionRepository,
+) -> None:
+    engine = repository._sessions.kw["bind"]
+    statements: list[str] = []
+
+    def capture_statement(
+        _connection: object,
+        _cursor: object,
+        statement: str,
+        _parameters: object,
+        _context: object,
+        _executemany: bool,
+    ) -> None:
+        statements.append(statement)
+
+    event.listen(engine, "before_cursor_execute", capture_statement)
+    try:
+        repository.list_points(PointFilters(party_ids=[1], limit=1))
+    finally:
+        event.remove(engine, "before_cursor_execute", capture_statement)
+
+    point_statements = [
+        statement
+        for statement in statements
+        if "result_records" in statement and "votes" in statement
+    ]
+    assert len(point_statements) == 2
+    assert all("raw_json" not in statement for statement in point_statements)
+
+
+def test_later_point_pages_skip_the_total_count(
+    repository: SqlElectionRepository,
+) -> None:
+    engine = repository._sessions.kw["bind"]
+    statements: list[str] = []
+
+    def capture_statement(
+        _connection: object,
+        _cursor: object,
+        statement: str,
+        _parameters: object,
+        _context: object,
+        _executemany: bool,
+    ) -> None:
+        statements.append(statement)
+
+    event.listen(engine, "before_cursor_execute", capture_statement)
+    try:
+        page = repository.list_points(
+            PointFilters(party_ids=[1], limit=1, include_total=False)
+        )
+    finally:
+        event.remove(engine, "before_cursor_execute", capture_statement)
+
+    assert page.total is None
+    assert page.has_more is False
+    assert len(statements) == 1
+    assert "count(" not in statements[0].lower()
 
 
 def test_query_complete_uik_detail(repository: SqlElectionRepository) -> None:

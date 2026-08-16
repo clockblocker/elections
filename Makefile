@@ -4,7 +4,7 @@ SINGLE_MEMBER_TOTALS ?= data/published-single-member-totals-2021.json
 
 dev:
 	docker compose up --build --wait
-	@ui_port=$$(docker compose port web 5173 | sed 's/.*://'); \
+	@ui_port=$$(docker compose port web 45173 | sed 's/.*://'); \
 		echo "Open the UI: http://localhost:$${ui_port}"
 
 down:

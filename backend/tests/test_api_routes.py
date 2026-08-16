@@ -159,10 +159,10 @@ def test_local_frontend_cors_for_read_requests() -> None:
 
     response = client.get(
         "/health",
-        headers={"Origin": "http://localhost:5173"},
+        headers={"Origin": "http://localhost:45173"},
     )
 
-    assert response.headers["access-control-allow-origin"] == "http://localhost:5173"
+    assert response.headers["access-control-allow-origin"] == "http://localhost:45173"
 
 
 def test_filter_metadata() -> None:
@@ -199,13 +199,15 @@ def test_points_forward_filters_and_pagination() -> None:
             ("is_deg", "false"),
             ("turnout_min", "25"),
             ("result_max", "80"),
+            ("include_total", "false"),
             ("offset", "10"),
-            ("limit", "100"),
+            ("limit", "100000"),
         ],
     )
 
     assert response.status_code == 200
     assert response.json()["items"][0]["party_votes"] == 300
+    assert "matching_method" not in response.json()["items"][0]
     assert repository.point_filters == PointFilters(
         ballot_kinds=["single_member"],
         ballot_ids=[3],
@@ -219,8 +221,9 @@ def test_points_forward_filters_and_pagination() -> None:
         is_deg=False,
         turnout_min=25,
         result_max=80,
+        include_total=False,
         offset=10,
-        limit=100,
+        limit=100000,
     )
 
 
@@ -230,6 +233,14 @@ def test_points_reject_inverted_ranges() -> None:
     response = client.get("/api/v1/points?turnout_min=70&turnout_max=50")
     assert response.status_code == 422
     assert response.json()["detail"] == "turnout_min must not exceed turnout_max"
+
+
+def test_points_reject_pages_larger_than_scatterplot_capacity() -> None:
+    client, _ = make_client()
+
+    response = client.get("/api/v1/points?limit=100001")
+
+    assert response.status_code == 422
 
 
 def test_uik_detail_and_missing_result() -> None:

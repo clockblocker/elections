@@ -26,8 +26,8 @@ type AffiliationWire = { value: string; candidates: number };
 type RegionWire = { id: number | null; name: string; code: string | null; result_records: number };
 type TikWire = { id: number | null; name: string; region_name: string; number: string | null; result_records: number };
 type SpecialWire = { value: string; label: string; result_records: number; is_deg: boolean };
-type PointWire = { result_record_id: number; ballot_id: number | null; ballot_kind: BallotKind; scope_key: string; oik_id: number | null; party_id: number | null; candidate_id: number | null; candidate_name: string | null; party_affiliation: string | null; is_winner: boolean; uik_number: string; tik_name: string | null; region_name: string; registered_voters: number; ballots_counted: number; party_votes: number; turnout_percent: number | null; party_percent: number | null; match_status: MatchStatus; matching_method: string | null; validation_status: string | null; special_type: string | null; is_deg: boolean; flags: string[] };
-type PageWire = { items: PointWire[]; offset: number; limit: number; total: number; has_more: boolean };
+type PointWire = { result_record_id: number; ballot_id?: number | null; ballot_kind?: BallotKind; scope_key?: string; oik_id?: number | null; party_id?: number | null; candidate_id?: number | null; candidate_name?: string | null; party_affiliation?: string | null; is_winner?: boolean; uik_number: string; tik_name?: string | null; region_name: string; registered_voters: number; ballots_counted: number; party_votes: number; turnout_percent?: number | null; party_percent?: number | null; match_status: MatchStatus; matching_method?: string | null; validation_status?: string | null; special_type?: string | null; is_deg?: boolean; flags?: string[] };
+type PageWire = { items: PointWire[]; offset: number; limit: number; total: number | null; has_more: boolean };
 type MemberWire = { full_name: string; role: string | null; nominator: string | null };
 type PartyResultWire = { party_id: number; name: string; votes: number; percent: number | null };
 type CandidateResultWire = { candidate_id: number; full_name: string; party_affiliation: string | null; votes: number; percent: number | null; is_winner: boolean };
@@ -54,7 +54,7 @@ function queryFor(state: AnalyticalState, metadata: FilterMetadata): URLSearchPa
   state.matchStatuses.forEach((value) => params.append("match_status", value));
   if (state.turnoutMin > 0) params.set("turnout_min", String(state.turnoutMin)); if (state.turnoutMax < 100) params.set("turnout_max", String(state.turnoutMax));
   if (state.resultMin > 0) params.set("result_min", String(state.resultMin)); if (state.resultMax < 100) params.set("result_max", String(state.resultMax));
-  params.set("limit", "20000");
+  params.set("limit", "100000");
   return params;
 }
 
@@ -71,7 +71,7 @@ function pointFromWire(wire: PointWire, parties: Map<string, Party>): Point {
   const uikId = String(wire.result_record_id);
   const seriesId = candidateKey || String(wire.party_id);
   const missingFlags = [wire.turnout_percent === null ? "missing_turnout" : "", wire.party_percent === null ? "missing_result" : ""].filter(Boolean);
-  return { id: `${uikId}:${seriesId}`, uikId, uikNumber: wire.uik_number, tikId: wire.tik_name || "", tikName: wire.tik_name || "TIK not recorded", regionId: wire.region_name, regionName: wire.region_name, partyId: seriesId, partyName: wire.candidate_name || party?.name || `Option ${seriesId}`, ballotId: String(wire.ballot_id || ""), ballotKind: wire.ballot_kind || "party_list", districtId: wire.oik_id == null ? null : String(wire.oik_id), candidateId: wire.candidate_id == null ? null : String(wire.candidate_id), affiliation: wire.party_affiliation || null, winner: wire.is_winner || false, registeredVoters: wire.registered_voters, ballotsIssued: wire.ballots_counted, turnout: wire.turnout_percent ?? 0, partyVotes: wire.party_votes, partyShare: wire.party_percent ?? 0, specialFlags: [...wire.flags, ...missingFlags, ...(wire.special_type ? [wire.special_type] : []), ...(wire.is_deg ? ["deg"] : [])].filter((value, index, all) => all.indexOf(value) === index), matchStatus: wire.match_status, matchingMethod: wire.matching_method, validationStatus: wire.validation_status };
+  return { id: `${uikId}:${seriesId}`, uikId, uikNumber: wire.uik_number, tikId: wire.tik_name || "", tikName: wire.tik_name || "TIK not recorded", regionId: wire.region_name, regionName: wire.region_name, partyId: seriesId, partyName: wire.candidate_name || party?.name || `Option ${seriesId}`, ballotId: String(wire.ballot_id || ""), ballotKind: wire.ballot_kind || "party_list", districtId: wire.oik_id == null ? null : String(wire.oik_id), candidateId: wire.candidate_id == null ? null : String(wire.candidate_id), affiliation: wire.party_affiliation || null, winner: wire.is_winner || false, registeredVoters: wire.registered_voters, ballotsIssued: wire.ballots_counted, turnout: wire.turnout_percent ?? 0, partyVotes: wire.party_votes, partyShare: wire.party_percent ?? 0, specialFlags: [...(wire.flags || []), ...missingFlags, ...(wire.special_type ? [wire.special_type] : []), ...(wire.is_deg ? ["deg"] : [])].filter((value, index, all) => all.indexOf(value) === index), matchStatus: wire.match_status, matchingMethod: wire.matching_method, validationStatus: wire.validation_status };
 }
 
 export const api: ApiClient = {
@@ -88,11 +88,14 @@ export const api: ApiClient = {
     const params = queryFor(state, metadata);
     const parties = new Map(metadata.parties.map((party) => [party.id, party]));
     const points: Point[] = [];
-    for (let offset = 0; ; offset += 20000) {
+    let total: number | null = null;
+    for (let offset = 0; ; offset += 100000) {
       params.set("offset", String(offset));
+      params.set("include_total", String(offset === 0));
       const page = await get<PageWire>(`/points?${params}`, signal);
+      total = page.total ?? total;
       points.push(...page.items.map((wire) => pointFromWire(wire, parties)));
-      onProgress?.([...points], page.total);
+      onProgress?.([...points], total ?? points.length);
       if (!page.has_more) break;
     }
     return points;

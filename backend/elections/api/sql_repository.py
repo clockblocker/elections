@@ -4,7 +4,7 @@ from __future__ import annotations
 
 from functools import lru_cache
 
-from sqlalchemy import case, func, or_, select
+from sqlalchemy import case, func, literal, or_, select
 from sqlalchemy.orm import Session, aliased, joinedload, selectinload, sessionmaker
 
 from elections import models
@@ -51,11 +51,15 @@ def _uik_label(value: str | None) -> str:
 
 
 def _flags(record: models.ResultRecord) -> list[str]:
+    return _flags_from_values(record.special_type, record.is_deg)
+
+
+def _flags_from_values(special_type: object, is_deg: bool) -> list[str]:
     flags: list[str] = []
-    special_type = _enum_value(record.special_type)
-    if special_type != models.SpecialType.NONE.value:
-        flags.append(special_type)
-    if record.is_deg and models.SpecialType.DEG.value not in flags:
+    special_value = _enum_value(special_type)
+    if special_value != models.SpecialType.NONE.value:
+        flags.append(special_value)
+    if is_deg and models.SpecialType.DEG.value not in flags:
         flags.append(models.SpecialType.DEG.value)
     return flags
 
@@ -373,20 +377,12 @@ class SqlElectionRepository:
             ),
             else_=None,
         )
-        matching_method = (
-            select(models.MatchEvidence.method)
-            .where(
-                models.MatchEvidence.result_record_id == models.ResultRecord.id,
-                models.MatchEvidence.selected.is_(True),
-            )
-            .limit(1)
-            .scalar_subquery()
-        )
         try:
             ballot_kinds = [models.BallotKind(value) for value in filters.ballot_kinds]
         except ValueError:
             ballot_kinds = []
-        conditions = [models.Ballot.kind.in_(ballot_kinds or [models.BallotKind.PARTY_LIST])]
+        selected_ballot_kinds = ballot_kinds or [models.BallotKind.PARTY_LIST]
+        conditions = [models.Ballot.kind.in_(selected_ballot_kinds)]
         if filters.ballot_ids:
             conditions.append(models.Ballot.id.in_(filters.ballot_ids))
         if filters.oik_ids:
@@ -397,7 +393,11 @@ class SqlElectionRepository:
             conditions.append(models.Vote.candidate_id.in_(filters.candidate_ids))
         if filters.affiliations:
             conditions.append(models.Candidate.party_affiliation.in_(filters.affiliations))
-        is_winner = _winner_expression()
+        is_winner = (
+            _winner_expression()
+            if models.BallotKind.SINGLE_MEMBER in selected_ballot_kinds
+            else literal(False)
+        )
         if filters.winner is not None:
             conditions.append(is_winner if filters.winner else ~is_winner)
         if filters.regions:
@@ -423,91 +423,111 @@ class SqlElectionRepository:
         if filters.result_max is not None:
             conditions.append(result_percent <= filters.result_max)
 
-        base = (
+        def with_point_joins(statement):
+            return (
+                statement.select_from(models.ResultRecord)
+                .join(models.Ballot, models.Ballot.id == models.ResultRecord.ballot_id)
+                .outerjoin(
+                    models.BallotAccounting,
+                    models.BallotAccounting.result_record_id == models.ResultRecord.id,
+                )
+                .join(models.Vote, models.Vote.result_record_id == models.ResultRecord.id)
+                .outerjoin(models.Candidate, models.Candidate.id == models.Vote.candidate_id)
+                .where(*conditions)
+            )
+
+        count_statement = with_point_joins(select(func.count()))
+        page_statement = with_point_joins(
             select(
-                models.ResultRecord,
-                models.Ballot,
-                models.Vote.option_id,
-                models.Candidate,
+                models.ResultRecord.id.label("result_record_id"),
+                models.Ballot.id.label("ballot_id"),
+                models.Ballot.kind.label("ballot_kind"),
+                models.Ballot.scope_key.label("scope_key"),
+                models.Ballot.oik_id.label("oik_id"),
+                models.Vote.option_id.label("party_id"),
+                models.Candidate.id.label("candidate_id"),
+                models.Candidate.full_name.label("candidate_name"),
+                models.Candidate.party_affiliation.label("party_affiliation"),
                 is_winner.label("is_winner"),
+                models.ResultRecord.uik_number.label("uik_number"),
+                models.ResultRecord.tik_name.label("tik_name"),
+                models.ResultRecord.region_name.label("region_name"),
                 registered_voters.label("registered_voters"),
                 accounted_ballots.label("accounted_ballots"),
-                models.Vote.votes,
+                models.Vote.votes.label("party_votes"),
                 turnout.label("turnout"),
                 result_percent.label("result_percent"),
-                matching_method.label("matching_method"),
+                models.ResultRecord.match_status.label("match_status"),
+                models.ResultRecord.validation_status.label("validation_status"),
+                models.ResultRecord.special_type.label("special_type"),
+                models.ResultRecord.is_deg.label("is_deg"),
             )
-            .join(models.Ballot, models.Ballot.id == models.ResultRecord.ballot_id)
-            .outerjoin(
-                models.BallotAccounting,
-                models.BallotAccounting.result_record_id == models.ResultRecord.id,
-            )
-            .join(models.Vote, models.Vote.result_record_id == models.ResultRecord.id)
-            .outerjoin(models.Candidate, models.Candidate.id == models.Vote.candidate_id)
-            .where(*conditions)
         )
-        count_statement = select(func.count()).select_from(base.order_by(None).subquery())
         page_statement = (
-            base.order_by(
+            page_statement
+            .order_by(
                 models.ResultRecord.id,
                 models.Vote.option_id,
                 models.Vote.candidate_id,
             )
             .offset(filters.offset)
-            .limit(filters.limit)
+            .limit(filters.limit if filters.include_total else filters.limit + 1)
         )
         with self._sessions() as session:
-            total = session.scalar(count_statement) or 0
-            rows = session.execute(page_statement).all()
+            total = (session.scalar(count_statement) or 0) if filters.include_total else None
+            rows = session.execute(page_statement).mappings().all()
+            if total is None:
+                has_more = len(rows) > filters.limit
+                rows = rows[: filters.limit]
+            else:
+                has_more = filters.offset + len(rows) < total
             items = [
-                ScatterPoint(
-                    result_record_id=record.id,
-                    ballot_id=ballot.id,
-                    ballot_kind=_enum_value(ballot.kind),
-                    scope_key=ballot.scope_key,
-                    oik_id=ballot.oik_id,
-                    party_id=party_id,
-                    candidate_id=candidate.id if candidate else None,
-                    candidate_name=candidate.full_name if candidate else None,
-                    party_affiliation=candidate.party_affiliation if candidate else None,
-                    is_winner=bool(candidate_is_winner),
-                    uik_number=_uik_label(record.uik_number),
-                    tik_name=record.tik_name,
-                    region_name=record.region_name,
-                    registered_voters=registered_voters,
-                    ballots_counted=ballots_counted,
-                    party_votes=party_votes,
-                    turnout_percent=float(turnout_value) if turnout_value is not None else None,
-                    party_percent=(
-                        float(result_percent_value) if result_percent_value is not None else None
+                # Database constraints and the explicit projection establish these types.
+                # Avoid re-validating ~100k trusted rows one model at a time.
+                ScatterPoint.model_construct(
+                    result_record_id=row["result_record_id"],
+                    ballot_id=row["ballot_id"],
+                    ballot_kind=_enum_value(row["ballot_kind"]),
+                    scope_key=row["scope_key"],
+                    oik_id=row["oik_id"],
+                    party_id=row["party_id"],
+                    candidate_id=row["candidate_id"],
+                    candidate_name=row["candidate_name"],
+                    party_affiliation=row["party_affiliation"],
+                    is_winner=bool(row["is_winner"]),
+                    uik_number=_uik_label(row["uik_number"]),
+                    tik_name=row["tik_name"],
+                    region_name=row["region_name"],
+                    registered_voters=row["registered_voters"],
+                    ballots_counted=row["accounted_ballots"],
+                    party_votes=row["party_votes"],
+                    turnout_percent=(
+                        float(row["turnout"]) if row["turnout"] is not None else None
                     ),
-                    match_status=_enum_value(record.match_status),
-                    matching_method=method,
-                    validation_status=_enum_value(record.validation_status),
-                    special_type=_enum_value(record.special_type),
-                    is_deg=record.is_deg,
-                    flags=_flags(record),
+                    party_percent=(
+                        float(row["result_percent"])
+                        if row["result_percent"] is not None
+                        else None
+                    ),
+                    match_status=_enum_value(row["match_status"]),
+                    matching_method=None,
+                    validation_status=_enum_value(row["validation_status"]),
+                    special_type=(
+                        None
+                        if _enum_value(row["special_type"]) == models.SpecialType.NONE.value
+                        else _enum_value(row["special_type"])
+                    ),
+                    is_deg=row["is_deg"],
+                    flags=_flags_from_values(row["special_type"], row["is_deg"]),
                 )
-                for (
-                    record,
-                    ballot,
-                    party_id,
-                    candidate,
-                    candidate_is_winner,
-                    registered_voters,
-                    ballots_counted,
-                    party_votes,
-                    turnout_value,
-                    result_percent_value,
-                    method,
-                ) in rows
+                for row in rows
             ]
-        return PointPage(
+        return PointPage.model_construct(
             items=items,
             offset=filters.offset,
             limit=filters.limit,
             total=total,
-            has_more=filters.offset + len(items) < total,
+            has_more=has_more,
         )
 
     def get_uik(self, result_record_id: int) -> UikDetail | None:

@@ -121,8 +121,9 @@ class PointFilters(ApiModel):
     turnout_max: Percentage | None = None
     result_min: Percentage | None = None
     result_max: Percentage | None = None
+    include_total: bool = True
     offset: int = Field(default=0, ge=0)
-    limit: int = Field(default=5_000, ge=1, le=20_000)
+    limit: int = Field(default=100_000, ge=1, le=100_000)
 
 
 class ScatterPoint(ApiModel):
@@ -156,7 +157,7 @@ class PointPage(ApiModel):
     items: list[ScatterPoint]
     offset: int
     limit: int
-    total: int
+    total: int | None
     has_more: bool
 
 

@@ -2,8 +2,12 @@ import { expect, test } from "@playwright/test";
 
 test("reconciled UIK data survives filter reset and opens evidence", async ({ page }) => {
   const consoleErrors: string[] = [];
+  const detailRequests: string[] = [];
   page.on("console", (message) => {
     if (message.type() === "error") consoleErrors.push(message.text());
+  });
+  page.on("request", (request) => {
+    if (/\/api\/v1\/uiks\/\d+$/.test(request.url())) detailRequests.push(request.url());
   });
 
   await page.goto("/?party=2&region=missing-region&turnoutMin=99");
@@ -26,19 +30,23 @@ test("reconciled UIK data survives filter reset and opens evidence", async ({ pa
   await expect(
     page.getByRole("checkbox", { name: /ЕДИНАЯ РОССИЯ/i }),
   ).toBeChecked();
-  await expect(page.getByText("Loading 20,000 of 96,325…")).toBeVisible();
-  await expect(page.getByText("20,000 UIK–party observations")).toBeVisible();
   await expect(page.getByText("96,325 UIK–party observations")).toBeVisible();
   await expect(page.getByLabel("96,325 precinct observations. Turnout on x-axis; party result on y-axis."))
     .toBeVisible();
+  expect(detailRequests).toEqual([]);
 
   await page.getByLabel("Find UIK").fill("592");
+  const detailResponse = page.waitForResponse((response) =>
+    /\/api\/v1\/uiks\/\d+$/.test(response.url()) && response.ok(),
+  );
   await page.getByRole("button", { name: "Search precinct" }).click();
+  await detailResponse;
 
   await expect(page.getByRole("heading", { name: "UIK 592" })).toBeVisible();
   await expect(page.getByRole("heading", { name: "Hierarchy" })).toBeVisible();
   await expect(page.getByRole("heading", { name: "Ballot accounting" })).toBeVisible();
   await expect(page.getByRole("heading", { name: "Sources" })).toBeVisible();
+  expect(detailRequests).toHaveLength(1);
   expect(consoleErrors).toEqual([]);
 });
 

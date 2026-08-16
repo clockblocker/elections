@@ -13,7 +13,7 @@ cp .env.example .env
 docker compose up --build
 ```
 
-The browser opens at <http://localhost:5173>, FastAPI at <http://localhost:8000>, and OpenAPI at <http://localhost:8000/docs>. MySQL data persists in the `mysql-data` volume. Stop services with `docker compose down`; add `-v` only when you intentionally want to erase the local database.
+The browser opens at <http://localhost:45173>, FastAPI at <http://localhost:8000>, and OpenAPI at <http://localhost:8000/docs>. MySQL data persists in the `mysql-data` volume. Stop services with `docker compose down`; add `-v` only when you intentionally want to erase the local database.
 
 Health checks gate startup in dependency order: MySQL, migrated FastAPI, then Vite. `make dev`, `make down`, `make rebuild-db`, `make test`, and `make validate` provide short aliases.
 

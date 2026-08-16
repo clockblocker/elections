@@ -4,7 +4,7 @@ from __future__ import annotations
 
 from typing import Annotated, Literal
 
-from fastapi import APIRouter, Depends, HTTPException, Query, Request, status
+from fastapi import APIRouter, Depends, HTTPException, Query, Request, Response, status
 from pydantic import Field
 
 from elections.api.repository import ElectionRepository
@@ -111,6 +111,8 @@ def special_types(repository: Repository) -> list[SpecialType]:
 @router.get(
     "/points",
     response_model=PointPage,
+    response_model_exclude_none=True,
+    response_model_exclude_defaults=True,
     summary="List compact UIK-party scatterplot points",
 )
 def points(
@@ -134,9 +136,10 @@ def points(
     turnout_max: Annotated[float | None, Query(ge=0, le=100)] = None,
     result_min: Annotated[float | None, Query(ge=0, le=100)] = None,
     result_max: Annotated[float | None, Query(ge=0, le=100)] = None,
+    include_total: bool = True,
     offset: Annotated[int, Query(ge=0)] = 0,
-    limit: Annotated[int, Query(ge=1, le=20_000)] = 5_000,
-) -> PointPage:
+    limit: Annotated[int, Query(ge=1, le=100_000)] = 100_000,
+) -> Response:
     if turnout_min is not None and turnout_max is not None and turnout_min > turnout_max:
         raise HTTPException(
             status_code=status.HTTP_422_UNPROCESSABLE_CONTENT,
@@ -147,7 +150,7 @@ def points(
             status_code=status.HTTP_422_UNPROCESSABLE_CONTENT,
             detail="result_min must not exceed result_max",
         )
-    return repository.list_points(
+    page = repository.list_points(
         PointFilters(
             ballot_kinds=ballot_kind or [],
             ballot_ids=ballot_id or [],
@@ -166,9 +169,14 @@ def points(
             turnout_max=turnout_max,
             result_min=result_min,
             result_max=result_max,
+            include_total=include_total,
             offset=offset,
             limit=limit,
         )
+    )
+    return Response(
+        content=page.model_dump_json(exclude_none=True, exclude_defaults=True),
+        media_type="application/json",
     )
 
 

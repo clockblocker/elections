@@ -15,7 +15,7 @@ npx playwright install chromium
 npm run test:e2e
 ```
 
-Override the target with `PLAYWRIGHT_BASE_URL` when the UI is not on port 5173.
+Override the target with `PLAYWRIGHT_BASE_URL` when the UI is not on port 45173.
 
 The analytical state (filters and selection) is encoded in the URL. Point size, grid visibility, and contrast are cosmetic preferences kept in local storage. Chart navigation is entirely local after point data loads. CSV and JSON exports include the API source version and active filters; the JSON also records the displayed formulas.
 
