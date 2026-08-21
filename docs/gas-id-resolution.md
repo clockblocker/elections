@@ -1,6 +1,79 @@
-# GAS commission-ID resolution research
+# Official GAS scraping path and commission-ID resolution
 
 Research date: 15 August 2026.
+Live-path verification: 21 August 2026.
+
+## Default official scraping path
+
+Use the current CEC entry point at <http://www.izbirkom.ru/> as the canonical discovery source.
+Its published `env.js` identifies two first-party data paths:
+
+- `http://apps.cikrf.ru/service/ik-inp-service-pbcopy` for the current JSON API;
+- `http://old.izbirkom.ru` for elections served by the legacy GAS result application.
+
+Do not use the retired `www.vybory.izbirkom.ru` hostname as the live default. It no longer
+resolves. Preserve it only as an original-source URL when working with historical captures.
+
+The proper scraper should follow the same routing decision as the current official frontend:
+
+1. Read `env.js` from `www.izbirkom.ru` and discover the service URLs instead of assuming that
+   the checked values will remain permanent.
+2. For the current JSON API, obtain a short-lived public API key through the published
+   `/challenge/get` and `/challenge/solve` flow. Send it as `X-Api-Key` together with the same
+   user-agent value as `X-Client-Fingerprint`; never commit or cache the key as project data.
+3. Enumerate elections with `/elections`. For elections supported by the new application, use
+   `/commissionClassifiers`, `/reports/242`, and related report endpoints.
+4. For legacy elections, retain the election parameters and request the corresponding
+   `old.izbirkom.ru/region/...` result pages. A lowest-level result page supplies the protocol
+   report links; for the 2021 State Duma election, `type=242` is the federal-party-list protocol
+   and `type=463` is the single-member-district protocol.
+5. Obtain the current commission directory from `/commissionOrg?subjectRfCode=<region>`, a
+   commission record from `/commissionOrg/<commission-uuid>`, and its current member roster from
+   `/reports/42?commissionOrgId=<commission-uuid>`.
+6. Preserve raw responses and provenance. Keep election `vrn`, result `tvd`, legacy commission
+   IDs, current commission UUIDs, and internal database IDs as distinct typed identifiers.
+
+This is the default official acquisition path. Preservation services remain fallbacks for a
+specific historical response, not the first choice while the publisher's corresponding live
+route is available. Access to these HTTP endpoints may require a network route on which the CEC
+hosts are reachable. The verification above used a Russian exit and made only targeted requests;
+no bulk scrape was launched.
+
+### Verified live 2021 path
+
+The current entry point's official legacy route returned the individual Altai UIK 592 page and
+its federal-party-list protocol report with HTTP 200:
+
+```text
+http://old.izbirkom.ru/region/altai-terr?action=show
+  &root=222000022
+  &tvd=9229002199809
+  &vrn=100100225883172
+  &region=22
+  &sub_region=22
+  &vibid=9229002199809
+  &type=242
+```
+
+The response contains the full protocol table and identifies the result node as `УИК №592`, but
+it contains no `action=ik` link, commission UUID, or commission-directory ID. The official live
+commission API separately returns UIK 592 and five current commission members.
+
+For this one UIK, the inspected official and preserved sources expose four different identities:
+
+| Namespace | Identifier |
+|---|---|
+| 2021 election result node / protocol `tvd` | `9229002199809` |
+| Preserved 14 September 2021 commission-directory ID | `9229002166846` |
+| Commission ID returned by the live legacy `ikTree` | `9229002248633` |
+| Current `/commissionOrg` UUID | `aacbac12-4846-4a7d-bb6c-8b8428b4c730` |
+
+None of the other three identifiers occurs in the live protocol response. The current
+`/commissionOrg/<id>` endpoint accepts the UUID and rejects all three numeric identifiers. Thus
+the official paths provide protocol data and a deterministic **current commission UUID → current
+members** join, but not a deterministic **historical protocol → historical commission → members**
+join. A scraper must not attach the current roster to a 2021 protocol as if it were the roster on
+election day.
 
 ## Conclusion
 
@@ -36,9 +109,10 @@ The investigation used only repository data/source code and preserved publisher 
   construction and records each `ikTree` child `id` as `iz_id`; see
   [`cik.py`](https://github.com/old-bibigon/parse-cik/blob/master/cik.py#L266-L304).
 
-The former GAS result and regional commission hosts returned NXDOMAIN during this research, so
-live requests could not fill preservation gaps. No national data, database, report, or temporary
-download was added to Git.
+The original `*.vybory.izbirkom.ru` hosts returned NXDOMAIN during the initial research. The later
+live-path verification found that the current official frontend publishes `old.izbirkom.ru` as
+the replacement legacy host; targeted individual result requests succeeded there. No national
+data, database, report, or bulk download was added to Git.
 
 ## Official result navigation
 
@@ -152,17 +226,17 @@ The non-constant sequences also rule out a justified arithmetic conversion. Acro
 currently heuristic-linked local result rows, neither the stored URL's `tvd` nor its election
 `vrn` equals the linked commission's `gas_vybory_id` once.
 
-## Preservation gap: individual UIK result pages
+## Individual UIK result-page verification
 
-No individual UIK result response was located for an exact-content check. Wayback availability
-was checked for the Altai UIK 592 leaf with no `type`, `type=0`, and `type=242`; Common Crawl
-2021-39, 2021-43, and 2021-49 exact queries also had no record. A 2016 Tatarstan leaf checked as a
-second historical case was likewise absent.
+The initial preservation search found no individual Altai UIK 592 response in Wayback or the
+checked Common Crawl indexes. The subsequent official live-path verification obtained both the
+individual UIK menu page and its `type=242` protocol response from `old.izbirkom.ru`.
 
-This means the research cannot assert that *all possible* individual UIK result pages never
-contained an `action=ik` link. It can assert that both inspected parent response shapes do not,
-and it cannot supply a genuine individual-page fixture containing such a link. Tests must not
-invent an anchor and present it as official evidence.
+The live protocol response contains `tvd=9229002199809`, the `УИК №592` label, and the complete
+result table. It contains zero `action=ik` or `action=ikTree` links and zero occurrences of the
+preserved 2021 commission ID, the live legacy commission ID, or the current commission UUID.
+This removes the individual-page preservation uncertainty for the inspected protocol shape and
+confirms that tests must not invent a result-to-commission anchor.
 
 ## Commission-snapshot integrity caveat
 
