@@ -20,7 +20,8 @@ try:
         reconcile,
         tree_endpoint,
     )
-    from .transport import FetchConfig, Fetcher, GlobalRateLimiter, ResponseStore
+    from .shared_rate import DEFAULT_COORDINATION_DIR, SharedRateLimiter
+    from .transport import FetchConfig, Fetcher, ResponseStore
 except ImportError:
     from common import decode_text, extract_tree_nodes, json_write
     from decode_script_result import decode_script_tables
@@ -33,7 +34,8 @@ except ImportError:
         reconcile,
         tree_endpoint,
     )
-    from transport import FetchConfig, Fetcher, GlobalRateLimiter, ResponseStore
+    from shared_rate import DEFAULT_COORDINATION_DIR, SharedRateLimiter
+    from transport import FetchConfig, Fetcher, ResponseStore
 
 
 DEFAULT_RAW = Path("data/raw/gas-duma-2021")
@@ -49,7 +51,9 @@ def _load(path: Path) -> dict[str, Any]:
 
 def _settings(args: argparse.Namespace) -> tuple[ResponseStore, Fetcher]:
     store = ResponseStore(args.raw_dir)
-    limiter = GlobalRateLimiter(args.rate, jitter=args.jitter)
+    limiter = SharedRateLimiter(
+        args.rate, coordination_dir=args.coordination_dir, jitter=args.jitter
+    )
     fetcher = Fetcher(
         store,
         limiter,
@@ -134,6 +138,7 @@ def plan(args: argparse.Namespace) -> int:
     result["concurrency"] = args.concurrency
     result["raw_dir"] = str(args.raw_dir)
     result["manifest"] = str(args.raw_dir / "manifest.json")
+    result["coordination_dir"] = str(args.coordination_dir)
     result["output_layout"] = "proper-data/2021-duma/protocol/{tic,uik}/{type}/{id}.ts"
     if result["hierarchy"]["complete"]:
         result["resume_command"] = (
@@ -522,6 +527,9 @@ def parser() -> argparse.ArgumentParser:
     common.add_argument("--backoff-initial", type=float, default=0.5)
     common.add_argument("--backoff-max", type=float, default=30.0)
     common.add_argument("--refresh", action="store_true")
+    common.add_argument(
+        "--coordination-dir", type=Path, default=DEFAULT_COORDINATION_DIR
+    )
     sub = result.add_subparsers(dest="command", required=True)
     command = sub.add_parser("discover", parents=[common])
     command.set_defaults(func=discover)

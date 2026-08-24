@@ -1,0 +1,83 @@
+{
+  "schema_version": 1,
+  "elections": [
+    {
+      "year": 1993,
+      "expected_contests": ["party", "candidate"],
+      "discovery_urls": [
+        "http://www.cikrf.ru/banners/vib_arhiv/gosduma/1993/index.html"
+      ],
+      "archive_urls": [
+        "https://web.archive.org/web/20100101000000id_/http://www.cikrf.ru/banners/vib_arhiv/gosduma/1993/index.html"
+      ]
+    },
+    {
+      "year": 1995,
+      "expected_contests": ["party", "candidate"],
+      "discovery_urls": [
+        "http://www.cikrf.ru/banners/vib_arhiv/gosduma/1995/index.html"
+      ],
+      "archive_urls": [
+        "https://web.archive.org/web/20100101000000id_/http://www.cikrf.ru/banners/vib_arhiv/gosduma/1995/index.html"
+      ]
+    },
+    {
+      "year": 1999,
+      "expected_contests": ["party", "candidate"],
+      "discovery_urls": [
+        "http://www.cikrf.ru/banners/vib_arhiv/gosduma/1999/index.html"
+      ],
+      "archive_urls": [
+        "https://web.archive.org/web/20100101000000id_/http://www.cikrf.ru/banners/vib_arhiv/gosduma/1999/index.html"
+      ]
+    },
+    {
+      "year": 2003,
+      "vrn": "100100095619",
+      "root_tvd": "100100095621",
+      "expected_contests": ["party", "candidate"],
+      "discovery_urls": [
+        "http://old.izbirkom.ru/region/izbirkom?action=show&global=1&vrn=100100095619&region=0&prver=0&pronetvd=0"
+      ],
+      "archive_urls": [
+        "https://web.archive.org/web/20031215000000id_/http://www.vybory.izbirkom.ru/region/region/izbirkom?action=show&root=1&tvd=100100095621&vrn=100100095619&region=0&global=1&sub_region=0&prver=0&pronetvd=0&vibid=100100095621&type=242"
+      ]
+    },
+    {
+      "year": 2007,
+      "vrn": "100100021960181",
+      "root_tvd": "100100021960186",
+      "expected_contests": ["party"],
+      "discovery_urls": [
+        "http://old.izbirkom.ru/region/izbirkom?action=show&global=1&vrn=100100021960181&region=0&prver=0&pronetvd=0"
+      ],
+      "archive_urls": [
+        "https://web.archive.org/web/20071205091639id_/http://www.vybory.izbirkom.ru/region/region/izbirkom?action=show&root=1&tvd=100100021960186&vrn=100100021960181&region=0&global=1&sub_region=0&prver=0&pronetvd=null&vibid=100100021960186&type=242"
+      ]
+    },
+    {
+      "year": 2011,
+      "vrn": "100100028713299",
+      "root_tvd": "100100028713304",
+      "expected_contests": ["party"],
+      "discovery_urls": [
+        "http://old.izbirkom.ru/region/izbirkom?action=show&global=1&vrn=100100028713299&region=0&prver=0&pronetvd=0"
+      ],
+      "archive_urls": [
+        "https://web.archive.org/web/20111210000000id_/http://www.vybory.izbirkom.ru/region/region/izbirkom?action=show&root=1&tvd=100100028713304&vrn=100100028713299&region=0&global=1&sub_region=0&prver=0&pronetvd=null&vibid=100100028713304&type=242"
+      ]
+    },
+    {
+      "year": 2016,
+      "vrn": "100100067795849",
+      "root_tvd": "100100067795854",
+      "expected_contests": ["party", "candidate"],
+      "discovery_urls": [
+        "http://old.izbirkom.ru/region/izbirkom?action=show&global=1&vrn=100100067795849&region=0&prver=0&pronetvd=0"
+      ],
+      "archive_urls": [
+        "https://web.archive.org/web/20160925000000id_/http://www.vybory.izbirkom.ru/region/region/izbirkom?action=show&root=1&tvd=100100067795854&vrn=100100067795849&region=0&global=1&sub_region=0&prver=0&pronetvd=0&vibid=100100067795854&type=242"
+      ]
+    }
+  ]
+}

@@ -186,3 +186,85 @@ determinism check. Unit tests use fake clocks and local fixtures, never the live
 The older focused tools (`extract_tree.py`, `probe_matrix.py`, `cdx_lookup.py`,
 `fetch_cdx.py`, both decoders, and `export_uik_results.py`) remain useful for individual
 pages. `duma2021.py` is the nationwide entry point.
+
+## Historical Duma reconnaissance (1993–2016)
+
+`historical.py` is the controlled, non-nationwide entry point for 1993, 1995, 1999,
+2003, 2007, 2011, and 2016. It shares `data/raw/.gas-rate-limit/` with `duma2021.py`, so
+separate processes reserve smoothly spaced slots from the same monotonic schedule.
+The OS releases the file lock when a process dies; a terminated process can waste one
+slot but cannot strand the lock or create a burst.
+
+Always inspect a dry run before network access. Discover the checked-in inventory and
+show exact archived-official entry URLs:
+
+```sh
+backend/.venv/bin/python proper-data/crawler/historical.py plan \
+  --source-mode archive-only --rate 10 --concurrency 2 \
+  --output reports/generated/gas-duma-history/archive-entry-plan.json
+```
+
+Probe one election or all known elections. The same command resumes from verified raw
+hashes after interruption:
+
+```sh
+backend/.venv/bin/python proper-data/crawler/historical.py probe \
+  --year 2011 --source-mode archive-only \
+  --report reports/generated/gas-duma-history/2011-entry.json
+
+backend/.venv/bin/python proper-data/crawler/historical.py probe \
+  --source-mode archive-only \
+  --report reports/generated/gas-duma-history/all-entries.json
+```
+
+Use `--source-mode live-only` to prohibit Wayback or `archive-fallback` to plan both
+classes. A live-host timeout is an observation about that route, not proof that the
+election is absent.
+
+The checked-in controlled matrix selects exact national, region, OIK, TIK, static, and
+workbook requests. It is also the reproducible way to choose regions, TIKs, and UIKs:
+copy the JSON, retain only evidence-derived exact URLs for the desired entities, dry-run
+it, then execute it. Never manufacture TVDs arithmetically.
+
+```sh
+backend/.venv/bin/python proper-data/crawler/historical.py probe-spec \
+  --spec proper-data/crawler/historical-probes.json \
+  --report reports/generated/gas-duma-history/core-probes.json --dry-run
+
+backend/.venv/bin/python proper-data/crawler/historical.py probe-spec \
+  --spec proper-data/crawler/historical-probes.json \
+  --report reports/generated/gas-duma-history/core-probes.json
+```
+
+Resume with the second command. Retry only absent, failed, or non-2xx observations:
+
+```sh
+backend/.venv/bin/python proper-data/crawler/historical.py probe-spec \
+  --spec proper-data/crawler/historical-probes.json --only-failures \
+  --report reports/generated/gas-duma-history/core-retry.json
+```
+
+Decode or classify preserved responses with no network access. Add
+`--direct-protocol` for a verified leaf/TIK protocol table:
+
+```sh
+backend/.venv/bin/python proper-data/crawler/historical.py classify \
+  --input data/raw/gas-duma-history/sha256/5f/5f27dd6c1efafd8a4356ad10d593365a02ed2f935273683377cbc06ae2e18087 \
+  --direct-protocol \
+  --output reports/generated/gas-duma-history/decoded-2011-aleut.json
+```
+
+Generate only verified sample TypeScript protocols, then validate the checked-in
+availability matrix and evidence hashes:
+
+```sh
+backend/.venv/bin/python proper-data/crawler/historical.py generate-samples \
+  --probe-report reports/generated/gas-duma-history/core-probes.json \
+  --year 2011 --output-root proper-data
+
+backend/.venv/bin/python proper-data/crawler/historical.py validate-matrix \
+  --matrix proper-data/historical-duma-availability.json
+```
+
+The human summary is `proper-data/HISTORICAL-DUMA-AVAILABILITY.md`; the JSON matrix is
+authoritative for readiness, missing elements, report semantics, and evidence hashes.

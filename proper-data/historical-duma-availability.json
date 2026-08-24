@@ -1,0 +1,194 @@
+{
+  "schema_version": 1,
+  "scope": "Russian State Duma elections excluding 2021",
+  "generated_from": "proper-data/crawler/historical-probes.json",
+  "earliest_official_result_year": 1993,
+  "earliest_official_machine_readable_protocol_year": 1995,
+  "probe_policy": {
+    "nationwide_crawl": false,
+    "maximum_rate_rps": 10,
+    "shared_coordination_dir": "data/raw/.gas-rate-limit"
+  },
+  "elections": [
+    {
+      "year": 1993,
+      "election_identifier": null,
+      "official_entry_urls": ["http://cikrf.ru/banners/vib_arhiv/gosduma/1993/index.html"],
+      "verified_official_hosts": ["cikrf.ru"],
+      "live_availability": "unreachable-from-probe-environment",
+      "archived_official_availability": "available-static-summary-only",
+      "page_decoder_families": ["plain-html-table"],
+      "character_encodings": ["utf-8"],
+      "hierarchy_extraction_method": "none-observed",
+      "observed_verified_reports": [
+        {"native_type": null, "semantic_role": "national-party-summary", "verified": true},
+        {"native_type": null, "semantic_role": "single-member-district-summary", "verified": true}
+      ],
+      "party_uik_results": "not-found",
+      "candidate_uik_results": "not-found",
+      "uik_to_tik": "not-found",
+      "successful_probe_counts": {"content": 2, "http_200": 2, "failed": 0},
+      "missing_elements": ["machine-readable protocols", "UIK results", "UIK-to-TIK hierarchy"],
+      "failure_reasons": ["official entry exposes aggregate HTML only"],
+      "readiness": "not-ready-for-uik-crawl",
+      "evidence": [
+        {"path": "data/raw/gas-duma-history/sha256/f3/f3b6c85ad2adee3b1b80794abd3dc3e9bbc56cec760329b9859e827022c9896a", "sha256": "f3b6c85ad2adee3b1b80794abd3dc3e9bbc56cec760329b9859e827022c9896a"},
+        {"path": "data/raw/gas-duma-history/sha256/e9/e96938fef5f0a1b480cd0fa1295f8a110c85bafa5b1aff9576e98b67b47e606c", "sha256": "e96938fef5f0a1b480cd0fa1295f8a110c85bafa5b1aff9576e98b67b47e606c"}
+      ]
+    },
+    {
+      "year": 1995,
+      "election_identifier": null,
+      "official_entry_urls": ["http://cikrf.ru/banners/vib_arhiv/gosduma/1995/index.html"],
+      "verified_official_hosts": ["cikrf.ru"],
+      "live_availability": "unreachable-from-probe-environment",
+      "archived_official_availability": "available-machine-readable-tik",
+      "page_decoder_families": ["plain-html-table", "ole-compound-spreadsheet"],
+      "character_encodings": ["utf-8", "binary-biff"],
+      "hierarchy_extraction_method": "spreadsheet-sheet-and-column-labels",
+      "observed_verified_reports": [
+        {"native_type": "1995-1-TIK-usech.xls", "semantic_role": "candidate-results-by-tik", "verified": true},
+        {"native_type": "1995-2-TIK-usech.xls", "semantic_role": "party-results-by-tik", "verified": true}
+      ],
+      "party_uik_results": "not-found",
+      "candidate_uik_results": "not-found",
+      "uik_to_tik": "not-found",
+      "successful_probe_counts": {"content": 2, "http_200": 2, "failed": 0},
+      "missing_elements": ["UIK protocols", "UIK-to-TIK hierarchy"],
+      "failure_reasons": ["published workbooks contain TIK columns, not UIK columns"],
+      "readiness": "ready-for-tik-only-import-not-uik-crawl",
+      "evidence": [
+        {"path": "data/raw/gas-duma-history/sha256/33/339bc90e4d4186e30501e223975cd99c2dd61dd7cfb539edb81fd944b20bee70", "sha256": "339bc90e4d4186e30501e223975cd99c2dd61dd7cfb539edb81fd944b20bee70"},
+        {"path": "data/raw/gas-duma-history/sha256/23/23f8116145a5587edcef5dead05397a26475213c686304a4ab5b3055f33bea00", "sha256": "23f8116145a5587edcef5dead05397a26475213c686304a4ab5b3055f33bea00"}
+      ]
+    },
+    {
+      "year": 1999,
+      "election_identifier": null,
+      "official_entry_urls": ["http://cikrf.ru/banners/vib_arhiv/gosduma/1999/index.html"],
+      "verified_official_hosts": ["cikrf.ru"],
+      "live_availability": "unreachable-from-probe-environment",
+      "archived_official_availability": "available-machine-readable-tik",
+      "page_decoder_families": ["plain-html-table", "ole-compound-spreadsheet"],
+      "character_encodings": ["utf-8", "binary-biff"],
+      "hierarchy_extraction_method": "spreadsheet-sheet-and-column-labels",
+      "observed_verified_reports": [
+        {"native_type": "1999-1-TIK-usech.xls", "semantic_role": "candidate-results-by-tik", "verified": true},
+        {"native_type": "1999-2-TIK-usech.xls", "semantic_role": "party-results-by-tik", "verified": true}
+      ],
+      "party_uik_results": "not-found",
+      "candidate_uik_results": "not-found",
+      "uik_to_tik": "not-found",
+      "successful_probe_counts": {"content": 2, "http_200": 2, "failed": 0},
+      "missing_elements": ["UIK protocols", "UIK-to-TIK hierarchy"],
+      "failure_reasons": ["published workbooks contain TIK columns, not UIK columns"],
+      "readiness": "ready-for-tik-only-import-not-uik-crawl",
+      "evidence": [
+        {"path": "data/raw/gas-duma-history/sha256/d9/d90455781de2bac0d2d673cbf158d31dcfc361bb5591c48c2addbd36a28153e3", "sha256": "d90455781de2bac0d2d673cbf158d31dcfc361bb5591c48c2addbd36a28153e3"},
+        {"path": "data/raw/gas-duma-history/sha256/6c/6c7522a5ef9a73b4a67d6107fb56d90a60b8fda13519997aa6bb532e16531588", "sha256": "6c7522a5ef9a73b4a67d6107fb56d90a60b8fda13519997aa6bb532e16531588"}
+      ]
+    },
+    {
+      "year": 2003,
+      "election_identifier": "100100095619",
+      "official_entry_urls": ["http://www.vybory.izbirkom.ru/region/region/izbirkom?vrn=100100095619"],
+      "verified_official_hosts": ["www.vybory.izbirkom.ru", "old.izbirkom.ru"],
+      "live_availability": "legacy-host-unreachable-from-probe-environment",
+      "archived_official_availability": "national-summary-available-deeper-sample-missing",
+      "page_decoder_families": ["plain-html-table"],
+      "character_encodings": ["windows-1251"],
+      "hierarchy_extraction_method": "exact-select-option-links",
+      "observed_verified_reports": [
+        {"native_type": 242, "semantic_role": "national-party-summary-with-region-links", "verified": true}
+      ],
+      "party_uik_results": "unresolved",
+      "candidate_uik_results": "unresolved-applicable",
+      "uik_to_tik": "unresolved",
+      "successful_probe_counts": {"content": 1, "http_200": 1, "failed": 2},
+      "missing_elements": ["live or archived regional pages", "candidate report registry", "UIK results", "UIK-to-TIK hierarchy"],
+      "failure_reasons": ["two exact region descendants returned archived 404 pages"],
+      "readiness": "blocked-on-regional-mirror-discovery",
+      "evidence": [
+        {"path": "data/raw/gas-duma-history/sha256/44/4465161a28bad6bc05e5994c3bbd97f1a304ea065baa15770cd511ccc968125c", "sha256": "4465161a28bad6bc05e5994c3bbd97f1a304ea065baa15770cd511ccc968125c"}
+      ]
+    },
+    {
+      "year": 2007,
+      "election_identifier": "100100021960181",
+      "official_entry_urls": ["http://www.vybory.izbirkom.ru/region/region/izbirkom?vrn=100100021960181"],
+      "verified_official_hosts": ["www.vybory.izbirkom.ru", "old.izbirkom.ru"],
+      "live_availability": "legacy-host-unreachable-from-probe-environment",
+      "archived_official_availability": "national-and-region-level-partly-available",
+      "page_decoder_families": ["plain-html-table"],
+      "character_encodings": ["windows-1251"],
+      "hierarchy_extraction_method": "exact-select-option-links",
+      "observed_verified_reports": [
+        {"native_type": 242, "semantic_role": "party-summary-at-national-or-region-selected-level", "verified": true},
+        {"native_type": 233, "semantic_role": "linked-party-aggregate-report", "verified": false}
+      ],
+      "party_uik_results": "unresolved",
+      "candidate_uik_results": "not-applicable-party-list-only-election",
+      "uik_to_tik": "unresolved",
+      "successful_probe_counts": {"content": 2, "http_200": 3, "failed": 4},
+      "missing_elements": ["captured TIK descendants", "UIK results", "UIK-to-TIK hierarchy"],
+      "failure_reasons": ["generic-host TIK descendants returned archived 404 pages"],
+      "readiness": "blocked-on-regional-mirror-discovery",
+      "evidence": [
+        {"path": "data/raw/gas-duma-history/sha256/ae/ae259cb9e6118838736564ec04f42b96c1863c448a2902127244675c73b10008", "sha256": "ae259cb9e6118838736564ec04f42b96c1863c448a2902127244675c73b10008"},
+        {"path": "data/raw/gas-duma-history/sha256/47/47ae410234c2f96f989db60485e1f0fdcd3ad997a660b7e6923195f365dbe0e7", "sha256": "47ae410234c2f96f989db60485e1f0fdcd3ad997a660b7e6923195f365dbe0e7"}
+      ]
+    },
+    {
+      "year": 2011,
+      "election_identifier": "100100028713299",
+      "official_entry_urls": ["http://www.vybory.izbirkom.ru/region/region/izbirkom?vrn=100100028713299"],
+      "verified_official_hosts": ["www.vybory.izbirkom.ru", "old.izbirkom.ru"],
+      "live_availability": "legacy-host-unreachable-from-probe-environment",
+      "archived_official_availability": "national-region-oik-and-tik-summary-available",
+      "page_decoder_families": ["plain-html-table"],
+      "character_encodings": ["windows-1251"],
+      "hierarchy_extraction_method": "exact-select-option-links-plus-regional-handoff",
+      "observed_verified_reports": [
+        {"native_type": 242, "semantic_role": "party-summary; semantic level depends on selected entity", "verified": true},
+        {"native_type": 233, "semantic_role": "linked-party-aggregate-report", "verified": false}
+      ],
+      "party_uik_results": "unresolved-regional-handoff-not-captured",
+      "candidate_uik_results": "not-applicable-party-list-only-election",
+      "uik_to_tik": "partly-recoverable-to-tik-no-uik-list",
+      "successful_probe_counts": {"content": 6, "http_200": 7, "failed": 8},
+      "missing_elements": ["regional-mirror UIK navigation", "UIK-column report", "direct UIK protocol"],
+      "failure_reasons": ["central pages explicitly hand UIK navigation to regional sites; guessed generic and regional archive URLs were not captured"],
+      "readiness": "tik-probe-complete-uik-crawl-not-ready",
+      "evidence": [
+        {"path": "data/raw/gas-duma-history/sha256/5f/5f27dd6c1efafd8a4356ad10d593365a02ed2f935273683377cbc06ae2e18087", "sha256": "5f27dd6c1efafd8a4356ad10d593365a02ed2f935273683377cbc06ae2e18087"},
+        {"path": "data/raw/gas-duma-history/sha256/18/18e8aa946a4c58b3c78d131b9d89e4e829350c7793feabec38f0661eb04e8f91", "sha256": "18e8aa946a4c58b3c78d131b9d89e4e829350c7793feabec38f0661eb04e8f91"},
+        {"path": "proper-data/2011-duma/protocol/tic/242/2412000214202.ts", "sha256": "5f27dd6c1efafd8a4356ad10d593365a02ed2f935273683377cbc06ae2e18087"}
+      ]
+    },
+    {
+      "year": 2016,
+      "election_identifier": "100100067795849",
+      "official_entry_urls": ["http://www.vybory.izbirkom.ru/region/region/izbirkom?vrn=100100067795849"],
+      "verified_official_hosts": ["www.vybory.izbirkom.ru", "old.izbirkom.ru"],
+      "live_availability": "legacy-host-unreachable-from-probe-environment",
+      "archived_official_availability": "national-summary-and-oik-navigation-partly-available",
+      "page_decoder_families": ["plain-html-table"],
+      "character_encodings": ["windows-1251"],
+      "hierarchy_extraction_method": "exact-select-option-links",
+      "observed_verified_reports": [
+        {"native_type": 242, "semantic_role": "national-party-summary-or hierarchy navigation depending on entity", "verified": true},
+        {"native_type": 233, "semantic_role": "linked-party-aggregate-report", "verified": false}
+      ],
+      "party_uik_results": "unresolved",
+      "candidate_uik_results": "unresolved-applicable",
+      "uik_to_tik": "unresolved-below-oik",
+      "successful_probe_counts": {"content": 1, "http_200": 3, "failed": 3},
+      "missing_elements": ["captured TIK descendants", "candidate report registry", "UIK results", "UIK-to-TIK hierarchy"],
+      "failure_reasons": ["captured generic-host pages stop at OIK navigation and guessed descendants return archived 404 pages"],
+      "readiness": "blocked-on-regional-mirror-and-candidate-report-discovery",
+      "evidence": [
+        {"path": "data/raw/gas-duma-history/sha256/b6/b6f82f9fdc3c4a07169a170b56aa9033bed719fba739a971ec3e5a07ec5979e3", "sha256": "b6f82f9fdc3c4a07169a170b56aa9033bed719fba739a971ec3e5a07ec5979e3"}
+      ]
+    }
+  ]
+}

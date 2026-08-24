@@ -1,0 +1,364 @@
+{
+  "schema_version": 1,
+  "requests": [
+    {
+      "year": 1993,
+      "request_class": "official-static-result",
+      "contest": "party",
+      "expected_granularity": "national-summary",
+      "url": "https://web.archive.org/web/20110520004359id_/http://cikrf.ru/banners/vib_arhiv/gosduma/1993/1993_itogi_FS_obshefed_okrug.html"
+    },
+    {
+      "year": 1993,
+      "request_class": "official-static-result",
+      "contest": "candidate",
+      "expected_granularity": "district-summary",
+      "url": "https://web.archive.org/web/20110520004359id_/http://cikrf.ru/banners/vib_arhiv/gosduma/1993/1993_itogi_FS_GD.html"
+    },
+    {
+      "year": 1995,
+      "request_class": "official-machine-readable-protocol",
+      "contest": "candidate",
+      "expected_granularity": "tik",
+      "url": "https://web.archive.org/web/20101224031159id_/http://cikrf.ru/banners/vib_arhiv/gosduma/1995/files/1995-1-TIK-usech.xls"
+    },
+    {
+      "year": 1995,
+      "request_class": "official-machine-readable-protocol",
+      "contest": "party",
+      "expected_granularity": "tik",
+      "url": "https://web.archive.org/web/20101224031159id_/http://cikrf.ru/banners/vib_arhiv/gosduma/1995/files/1995-2-TIK-usech.xls"
+    },
+    {
+      "year": 1999,
+      "request_class": "official-machine-readable-protocol",
+      "contest": "candidate",
+      "expected_granularity": "tik",
+      "url": "https://web.archive.org/web/20110520004409id_/http://cikrf.ru/banners/vib_arhiv/gosduma/1999/files/1999-1-TIK-usech.xls"
+    },
+    {
+      "year": 1999,
+      "request_class": "official-machine-readable-protocol",
+      "contest": "party",
+      "expected_granularity": "tik",
+      "url": "https://web.archive.org/web/20110520004409id_/http://cikrf.ru/banners/vib_arhiv/gosduma/1999/files/1999-2-TIK-usech.xls"
+    },
+    {
+      "year": 2003,
+      "election_vrn": "100100095619",
+      "request_class": "gas-national-summary",
+      "contest": "party",
+      "expected_granularity": "region",
+      "url": "https://web.archive.org/web/20110515064215id_/http://www.vybory.izbirkom.ru/region/region/izbirkom?action=show&root=1&tvd=100100095621&vrn=100100095619&region=0&global=1&sub_region=0&prver=0&pronetvd=0&vibid=100100095621&type=242"
+    },
+    {
+      "year": 2007,
+      "election_vrn": "100100021960181",
+      "request_class": "gas-national-summary",
+      "contest": "party",
+      "expected_granularity": "region",
+      "url": "https://web.archive.org/web/20071204132403id_/http://www.vybory.izbirkom.ru/region/region/izbirkom?action=show&root=1&tvd=100100021960186&vrn=100100021960181&region=0&global=1&sub_region=0&prver=0&pronetvd=null&vibid=100100021960186&type=242"
+    },
+    {
+      "year": 2011,
+      "election_vrn": "100100028713299",
+      "request_class": "gas-national-summary",
+      "contest": "party",
+      "expected_granularity": "region",
+      "url": "https://web.archive.org/web/20111211011923id_/http://www.vybory.izbirkom.ru/region/region/izbirkom?action=show&root=1&tvd=100100028713304&vrn=100100028713299&region=0&global=1&sub_region=0&prver=0&pronetvd=null&vibid=100100028713304&type=242"
+    },
+    {
+      "year": 2016,
+      "election_vrn": "100100067795849",
+      "request_class": "gas-national-summary",
+      "contest": "party",
+      "expected_granularity": "region",
+      "url": "https://web.archive.org/web/20160918194739id_/http://www.vybory.izbirkom.ru/region/region/izbirkom?action=show&root=1&tvd=100100067795854&vrn=100100067795849&region=0&global=1&sub_region=0&prver=0&pronetvd=0&vibid=100100067795854&type=242"
+    },
+    {
+      "year": 2003,
+      "election_vrn": "100100095619",
+      "request_class": "gas-region-summary",
+      "contest": "party",
+      "expected_granularity": "tik",
+      "region_label": "Камчатская область",
+      "url": "https://web.archive.org/web/20110515064215id_/http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=1000049&tvd=100100095670&vrn=100100095619&prver=0&pronetvd=0&region=0&sub_region=0&type=242&vibid=100100095670"
+    },
+    {
+      "year": 2003,
+      "election_vrn": "100100095619",
+      "request_class": "gas-region-summary",
+      "contest": "party",
+      "expected_granularity": "tik",
+      "region_label": "Город Москва",
+      "url": "https://web.archive.org/web/20110515064215id_/http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=1000068&tvd=100100095689&vrn=100100095619&prver=0&pronetvd=0&region=0&sub_region=0&type=242&vibid=100100095689"
+    },
+    {
+      "year": 2007,
+      "election_vrn": "100100021960181",
+      "request_class": "gas-region-summary",
+      "contest": "party",
+      "expected_granularity": "tik",
+      "region_label": "Камчатский край",
+      "url": "https://web.archive.org/web/20071204132403id_/http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=1000179&tvd=100100021960365&vrn=100100021960181&prver=0&pronetvd=null&region=0&sub_region=0&type=242&vibid=100100021960365"
+    },
+    {
+      "year": 2007,
+      "election_vrn": "100100021960181",
+      "request_class": "gas-region-summary",
+      "contest": "party",
+      "expected_granularity": "tik",
+      "region_label": "Город Москва",
+      "url": "https://web.archive.org/web/20071204132403id_/http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=1000151&tvd=100100021960337&vrn=100100021960181&prver=0&pronetvd=null&region=0&sub_region=0&type=242&vibid=100100021960337"
+    },
+    {
+      "year": 2011,
+      "election_vrn": "100100028713299",
+      "request_class": "gas-region-summary",
+      "contest": "party",
+      "expected_granularity": "tik",
+      "region_label": "Камчатский край",
+      "url": "https://web.archive.org/web/20111211011923id_/http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=1000175&tvd=100100028713483&vrn=100100028713299&prver=0&pronetvd=null&region=0&sub_region=0&type=242&vibid=100100028713483"
+    },
+    {
+      "year": 2011,
+      "election_vrn": "100100028713299",
+      "request_class": "gas-region-summary",
+      "contest": "party",
+      "expected_granularity": "tik",
+      "region_label": "Город Москва",
+      "url": "https://web.archive.org/web/20111211011923id_/http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=1000149&tvd=100100028713457&vrn=100100028713299&prver=0&pronetvd=null&region=0&sub_region=0&type=242&vibid=100100028713457"
+    },
+    {
+      "year": 2016,
+      "election_vrn": "100100067795849",
+      "request_class": "gas-region-summary",
+      "contest": "party",
+      "expected_granularity": "tik",
+      "region_label": "Камчатский край",
+      "url": "https://web.archive.org/web/20160918194739id_/http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=1000300&tvd=100100067796154&vrn=100100067795849&prver=0&pronetvd=0&region=0&sub_region=0&type=242&vibid=100100067796154"
+    },
+    {
+      "year": 2016,
+      "election_vrn": "100100067795849",
+      "request_class": "gas-region-summary",
+      "contest": "party",
+      "expected_granularity": "tik",
+      "region_label": "город Москва",
+      "url": "https://web.archive.org/web/20160918194739id_/http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=1000259&tvd=100100067796113&vrn=100100067795849&prver=0&pronetvd=0&region=0&sub_region=0&type=242&vibid=100100067796113"
+    },
+    {
+      "year": 2007,
+      "election_vrn": "100100021960181",
+      "request_class": "gas-tik-summary",
+      "contest": "party",
+      "expected_granularity": "uik-navigation",
+      "region_label": "Камчатский край",
+      "entity_label": "Алеутская",
+      "entity_tvd": "2412000110839",
+      "url": "https://web.archive.org/web/20071205080049id_/http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=412000001&tvd=2412000110839&vrn=100100021960181&prver=0&pronetvd=null&region=0&sub_region=0&type=242&vibid=2412000110839"
+    },
+    {
+      "year": 2007,
+      "election_vrn": "100100021960181",
+      "request_class": "gas-tik-summary",
+      "contest": "party",
+      "expected_granularity": "uik-navigation",
+      "region_label": "Камчатский край",
+      "entity_label": "Петропавловск-Камчатская городская",
+      "entity_tvd": "2412000110844",
+      "url": "https://web.archive.org/web/20071205080049id_/http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=412000006&tvd=2412000110844&vrn=100100021960181&prver=0&pronetvd=null&region=0&sub_region=0&type=242&vibid=2412000110844"
+    },
+    {
+      "year": 2007,
+      "election_vrn": "100100021960181",
+      "request_class": "gas-oik-navigation",
+      "contest": "party",
+      "expected_granularity": "tik-navigation",
+      "region_label": "Город Москва",
+      "entity_label": "Город Москва - Восточная",
+      "entity_tvd": "100100021960338",
+      "url": "https://web.archive.org/web/20071205075702id_/http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=1000152&tvd=100100021960338&vrn=100100021960181&prver=0&pronetvd=null&region=0&sub_region=0&type=242&vibid=100100021960338"
+    },
+    {
+      "year": 2007,
+      "election_vrn": "100100021960181",
+      "request_class": "gas-oik-navigation",
+      "contest": "party",
+      "expected_granularity": "tik-navigation",
+      "region_label": "Город Москва",
+      "entity_label": "Город Москва - Донская",
+      "entity_tvd": "100100021960339",
+      "url": "https://web.archive.org/web/20071205075702id_/http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=1000153&tvd=100100021960339&vrn=100100021960181&prver=0&pronetvd=null&region=0&sub_region=0&type=242&vibid=100100021960339"
+    },
+    {
+      "year": 2011,
+      "election_vrn": "100100028713299",
+      "request_class": "gas-tik-summary",
+      "contest": "party",
+      "expected_granularity": "uik-navigation",
+      "region_label": "Камчатский край",
+      "entity_label": "Алеутская",
+      "entity_tvd": "2412000214202",
+      "url": "https://web.archive.org/web/20111211041142id_/http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=412000001&tvd=2412000214202&vrn=100100028713299&prver=0&pronetvd=null&region=0&sub_region=0&type=242&vibid=2412000214202"
+    },
+    {
+      "year": 2011,
+      "election_vrn": "100100028713299",
+      "request_class": "gas-tik-summary",
+      "contest": "party",
+      "expected_granularity": "uik-navigation",
+      "region_label": "Камчатский край",
+      "entity_label": "Петропавловск-Камчатская городская",
+      "entity_tvd": "2412000214207",
+      "url": "https://web.archive.org/web/20111211041142id_/http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=412000006&tvd=2412000214207&vrn=100100028713299&prver=0&pronetvd=null&region=0&sub_region=0&type=242&vibid=2412000214207"
+    },
+    {
+      "year": 2011,
+      "election_vrn": "100100028713299",
+      "request_class": "gas-oik-navigation",
+      "contest": "party",
+      "expected_granularity": "tik-navigation",
+      "region_label": "Город Москва",
+      "entity_label": "Город Москва - Восточная",
+      "entity_tvd": "100100028713458",
+      "url": "https://web.archive.org/web/20111211041349id_/http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=1000150&tvd=100100028713458&vrn=100100028713299&prver=0&pronetvd=null&region=0&sub_region=0&type=242&vibid=100100028713458"
+    },
+    {
+      "year": 2011,
+      "election_vrn": "100100028713299",
+      "request_class": "gas-oik-navigation",
+      "contest": "party",
+      "expected_granularity": "tik-navigation",
+      "region_label": "Город Москва",
+      "entity_label": "Город Москва - Донская",
+      "entity_tvd": "100100028713459",
+      "url": "https://web.archive.org/web/20111211041349id_/http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=1000151&tvd=100100028713459&vrn=100100028713299&prver=0&pronetvd=null&region=0&sub_region=0&type=242&vibid=100100028713459"
+    },
+    {
+      "year": 2016,
+      "election_vrn": "100100067795849",
+      "request_class": "gas-oik-navigation",
+      "contest": "party-and-candidate",
+      "expected_granularity": "tik-navigation",
+      "region_label": "Камчатский край",
+      "entity_label": "Камчатский край - Камчатский",
+      "entity_tvd": "100100067796155",
+      "url": "https://web.archive.org/web/20170615182136id_/http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=1000301&tvd=100100067796155&vrn=100100067795849&prver=0&pronetvd=0&region=0&sub_region=0&type=242&vibid=100100067796155"
+    },
+    {
+      "year": 2016,
+      "election_vrn": "100100067795849",
+      "request_class": "gas-oik-navigation",
+      "contest": "party-and-candidate",
+      "expected_granularity": "tik-navigation",
+      "region_label": "город Москва",
+      "entity_label": "Город Москва - Бабушкинский",
+      "entity_tvd": "100100067796114",
+      "url": "https://web.archive.org/web/20170615182028id_/http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=1000260&tvd=100100067796114&vrn=100100067795849&prver=0&pronetvd=0&region=0&sub_region=0&type=242&vibid=100100067796114"
+    },
+    {
+      "year": 2016,
+      "election_vrn": "100100067795849",
+      "request_class": "gas-oik-navigation",
+      "contest": "party-and-candidate",
+      "expected_granularity": "tik-navigation",
+      "region_label": "город Москва",
+      "entity_label": "Город Москва - Кунцевский",
+      "entity_tvd": "100100067796115",
+      "url": "https://web.archive.org/web/20170615182028id_/http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=1000261&tvd=100100067796115&vrn=100100067795849&prver=0&pronetvd=0&region=0&sub_region=0&type=242&vibid=100100067796115"
+    },
+    {
+      "year": 2011,
+      "election_vrn": "100100028713299",
+      "request_class": "gas-tik-regional-navigation",
+      "contest": "party",
+      "expected_granularity": "uik-navigation",
+      "region_label": "Камчатский край",
+      "entity_label": "Алеутская",
+      "entity_tvd": "2412000214202",
+      "url": "https://web.archive.org/web/20111212002825id_/http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=412000001&tvd=2412000214202&vrn=100100028713299&prver=0&pronetvd=null&region=91&sub_region=91&type=242&vibid=2412000214202"
+    },
+    {
+      "year": 2011,
+      "election_vrn": "100100028713299",
+      "request_class": "gas-tik-column-report",
+      "contest": "party",
+      "expected_granularity": "uik-columns",
+      "region_label": "Камчатский край",
+      "entity_label": "Алеутская",
+      "entity_tvd": "2412000214202",
+      "report_type": 233,
+      "url": "https://web.archive.org/web/20111212002825id_/http://www.vybory.izbirkom.ru/region/region/izbirkom?action=show&root=412000001&tvd=2412000214202&vrn=100100028713299&region=0&global=true&sub_region=0&prver=0&pronetvd=null&type=233"
+    },
+    {
+      "year": 2011,
+      "election_vrn": "100100028713299",
+      "request_class": "gas-tik-regional-navigation",
+      "contest": "party",
+      "expected_granularity": "uik-navigation",
+      "region_label": "Камчатский край",
+      "entity_label": "Петропавловск-Камчатская городская",
+      "entity_tvd": "2412000214207",
+      "url": "https://web.archive.org/web/20111212002836id_/http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=412000006&tvd=2412000214207&vrn=100100028713299&prver=0&pronetvd=null&region=91&sub_region=91&type=242&vibid=2412000214207"
+    },
+    {
+      "year": 2011,
+      "election_vrn": "100100028713299",
+      "request_class": "gas-tik-column-report",
+      "contest": "party",
+      "expected_granularity": "uik-columns",
+      "region_label": "Камчатский край",
+      "entity_label": "Петропавловск-Камчатская городская",
+      "entity_tvd": "2412000214207",
+      "report_type": 233,
+      "url": "https://web.archive.org/web/20111212002836id_/http://www.vybory.izbirkom.ru/region/region/izbirkom?action=show&root=412000006&tvd=2412000214207&vrn=100100028713299&region=0&global=true&sub_region=0&prver=0&pronetvd=null&type=233"
+    },
+    {
+      "year": 2011,
+      "election_vrn": "100100028713299",
+      "request_class": "gas-tik-regional-navigation",
+      "contest": "party",
+      "expected_granularity": "uik-navigation",
+      "region_label": "Город Москва",
+      "entity_label": "район Богородское",
+      "entity_tvd": "2772000306450",
+      "url": "https://web.archive.org/web/20111213195917id_/http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=772000001&tvd=2772000306450&vrn=100100028713299&prver=0&pronetvd=null&region=77&sub_region=77&type=242&vibid=2772000306450"
+    },
+    {
+      "year": 2011,
+      "election_vrn": "100100028713299",
+      "request_class": "gas-tik-column-report",
+      "contest": "party",
+      "expected_granularity": "uik-columns",
+      "region_label": "Город Москва",
+      "entity_label": "район Богородское",
+      "entity_tvd": "2772000306450",
+      "report_type": 233,
+      "url": "https://web.archive.org/web/20111213195917id_/http://www.vybory.izbirkom.ru/region/region/izbirkom?action=show&root=772000001&tvd=2772000306450&vrn=100100028713299&region=0&global=true&sub_region=0&prver=0&pronetvd=null&type=233"
+    },
+    {
+      "year": 2011,
+      "election_vrn": "100100028713299",
+      "request_class": "gas-tik-regional-navigation",
+      "contest": "party",
+      "expected_granularity": "uik-navigation",
+      "region_label": "Город Москва",
+      "entity_label": "район Лефортово",
+      "entity_tvd": "2772000306462",
+      "url": "https://web.archive.org/web/20111213195920id_/http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=772000013&tvd=2772000306462&vrn=100100028713299&prver=0&pronetvd=null&region=77&sub_region=77&type=242&vibid=2772000306462"
+    },
+    {
+      "year": 2011,
+      "election_vrn": "100100028713299",
+      "request_class": "gas-tik-column-report",
+      "contest": "party",
+      "expected_granularity": "uik-columns",
+      "region_label": "Город Москва",
+      "entity_label": "район Лефортово",
+      "entity_tvd": "2772000306462",
+      "report_type": 233,
+      "url": "https://web.archive.org/web/20111213195920id_/http://www.vybory.izbirkom.ru/region/region/izbirkom?action=show&root=772000013&tvd=2772000306462&vrn=100100028713299&region=0&global=true&sub_region=0&prver=0&pronetvd=null&type=233"
+    }
+  ]
+}
