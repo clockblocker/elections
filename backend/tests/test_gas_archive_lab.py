@@ -3,14 +3,15 @@ from __future__ import annotations
 import sys
 from pathlib import Path
 
-sys.path.insert(0, str(Path(__file__).resolve().parents[2]))
+sys.path.insert(0, str(Path(__file__).resolve().parents[2] / "proper-data"))
 
-from tools.gas_archive_lab.common import extract_tree_nodes  # noqa: E402
-from tools.gas_archive_lab.export_uik_results import (  # noqa: E402
+from crawler.common import extract_tree_nodes  # noqa: E402
+from crawler.decode_script_result import _semantics  # noqa: E402
+from crawler.export_uik_results import (  # noqa: E402
     indexed_uiks,
     transpose_table,
 )
-from tools.gas_archive_lab.probe_matrix import replace_query, variants  # noqa: E402
+from crawler.probe_matrix import replace_query, variants  # noqa: E402
 
 
 def test_extract_tree_nodes_preserves_evidence_without_inferring_oik() -> None:
@@ -75,3 +76,15 @@ def test_transpose_table_joins_uiks_to_exact_parent() -> None:
             "candidate_votes": {"Candidate A": 7},
         }
     ]
+
+
+def test_script_decoder_identifies_randomized_operation_names() -> None:
+    script = """
+    var abc = function(a,b,c) { c.getElementsByClassName(a)[0].innerHTML = b; } ;
+    var def = function(a,b,c) { var v=c.getElementsByClassName(a)[0].innerHTML.split('');
+      v.splice(b, 1); } ;
+    var ghi = function(a,b,c) { var x=c.getElementsByClassName(a)[0];
+      x.style.position = 'absolute'; } ;
+    """
+
+    assert _semantics(script) == {"abc": "replace", "def": "remove", "ghi": "overlay"}
