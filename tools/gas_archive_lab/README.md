@@ -101,3 +101,18 @@ A recovered result source is usable only when all of these hold:
 3. Election VRN and ballot/report type match 2021 Duma results.
 4. Region, OIK, TIK, and UIK identities come from page evidence or a reconciled mapping.
 5. Candidate/party totals reconcile upward to an official protocol.
+
+## 6. Export an evidence-linked UIK table
+
+Once a TIK summary page and its hierarchy have been decoded, transpose its UIK
+columns and join them to the exact GAS UIK nodes:
+
+```sh
+python3 tools/gas_archive_lab/export_uik_results.py decoded.json \
+  --tree tree.json --tik-tvd <exact-tik-id> --kind candidate \
+  --source-url '<archived official URL>' --source-sha256 <sha256> \
+  --output reports/generated/gas-archive-lab/uik-results.json
+```
+
+The exporter refuses a table UIK that is absent from the official hierarchy. Run it
+separately for `candidate` and `party` tables; do not infer one ballot from the other.

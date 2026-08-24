@@ -6,6 +6,10 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parents[2]))
 
 from tools.gas_archive_lab.common import extract_tree_nodes  # noqa: E402
+from tools.gas_archive_lab.export_uik_results import (  # noqa: E402
+    indexed_uiks,
+    transpose_table,
+)
 from tools.gas_archive_lab.probe_matrix import replace_query, variants  # noqa: E402
 
 
@@ -45,3 +49,29 @@ def test_matrix_includes_live_and_wayback_path_variants() -> None:
     assert any(strategy.startswith("wayback:") for strategy, _ in candidates)
     assert any("/region/region/izbirkom" in candidate for _, candidate in candidates)
     assert any("www.1.vybory.izbirkom.ru" in candidate for _, candidate in candidates)
+
+
+def test_transpose_table_joins_uiks_to_exact_parent() -> None:
+    tree = {
+        "nodes": [
+            {"node_id": "u1", "parent_id": "tik", "text": "УИК №118", "url": "u1"},
+            {"node_id": "u2", "parent_id": "other", "text": "УИК №119", "url": "u2"},
+        ]
+    }
+    uiks = indexed_uiks(tree, "tik")
+    rows = [["", "", "Сумма", "УИК №118"]]
+    rows.extend([[str(i), f"metric {i}", "10", str(i)] for i in range(1, 13)])
+    rows.append(["13", "Candidate A", "20", "7"])
+
+    records = transpose_table({"rows": rows}, uiks, option_kind="candidate")
+
+    assert records == [
+        {
+            "uik_number": 118,
+            "uik_tvd": "u1",
+            "tik_tvd": "tik",
+            "official_uik_url": "u1",
+            "accounting": {f"metric {i}": i for i in range(1, 13)},
+            "candidate_votes": {"Candidate A": 7},
+        }
+    ]
