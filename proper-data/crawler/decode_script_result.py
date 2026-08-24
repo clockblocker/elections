@@ -18,13 +18,16 @@ except ImportError:  # Direct script execution.
 
 FUNCTION_START = re.compile(r"\bvar\s+(\w+)\s*=\s*function\s*\(")
 ARGUMENT = re.compile(r"'(?:\\.|[^'])*'|-?\d+|false|true|[A-Za-z_]\w*")
+STYLE_RULE = re.compile(r"\.([A-Za-z_]\w*)\s*\{([^{}]*)\}")
 
 
 def _functions(script: str) -> dict[str, str]:
     starts = list(FUNCTION_START.finditer(script))
     return {
         match.group(1): script[
-            match.start() : starts[index + 1].start() if index + 1 < len(starts) else len(script)
+            match.start() : starts[index + 1].start()
+            if index + 1 < len(starts)
+            else len(script)
         ]
         for index, match in enumerate(starts)
     }
@@ -76,20 +79,83 @@ def _put(element: Any, value: str) -> None:
     element.text = value
 
 
+def _is_hidden_style(style: str) -> bool:
+    compact = re.sub(r"\s+", "", style).casefold()
+    return any(
+        signal in compact
+        for signal in (
+            "display:none",
+            "font-size:0",
+            "opacity:0",
+            "color:transparent",
+            "top:-999",
+            "left:-999",
+            "translatex(-999",
+            "z-index:-999",
+        )
+    )
+
+
+def _strip_hidden(document: Any, table: Any) -> None:
+    hidden = {
+        name
+        for style in document.xpath("//style")
+        for name, declarations in STYLE_RULE.findall(style.text or "")
+        if _is_hidden_style(declarations)
+    }
+    for element in list(table.xpath(".//*")):
+        classes = set((element.get("class") or "").split())
+        if classes & hidden or _is_hidden_style(element.get("style") or ""):
+            parent = element.getparent()
+            if parent is not None:
+                if element.tail:
+                    previous = element.getprevious()
+                    if previous is None:
+                        parent.text = (parent.text or "") + element.tail
+                    else:
+                        previous.tail = (previous.tail or "") + element.tail
+                parent.remove(element)
+
+
 def decode_script_tables(source: str) -> list[list[list[str]]]:
     document = lxml_html.fromstring(source)
     scripts = [element.text or "" for element in document.xpath("//script")]
+    table_names = {
+        classes[-1]
+        for element in document.xpath(
+            '//table[contains(concat(" ", @class, " "), " table-striped ")]'
+        )
+        if (classes := (element.get("class") or "").split())
+    }
     decoded: list[list[list[str]]] = []
-    for table in document.xpath('//table[contains(concat(" ", @class, " "), " table-striped ")]'):
+    for table in document.xpath(
+        '//table[contains(concat(" ", @class, " "), " table-striped ")]'
+    ):
         classes = (table.get("class") or "").split()
         if not classes:
             continue
         table_name = classes[-1]
-        script = next((value for value in scripts if f"var {table_name} =" in value), None)
-        if script is None:
-            continue
-        semantics = _semantics(script)
-        if not semantics:
+        script = next(
+            (
+                value
+                for value in scripts
+                if f"var {table_name} =" in value
+                or f"getElementsByClassName('{table_name}')" in value
+            ),
+            None,
+        )
+        semantics = _semantics(script) if script is not None else {}
+        if script is None or not semantics:
+            _strip_hidden(document, table)
+            rows = [
+                [
+                    " ".join(cell.text_content().split())
+                    for cell in row.xpath("./th|./td")
+                ]
+                for row in table.xpath(".//tr")
+            ]
+            if rows:
+                decoded.append(rows)
             continue
         main_start = script.find("var a = function")
         main = script[max(main_start, 0) :]
@@ -110,6 +176,12 @@ def decode_script_tables(source: str) -> list[list[list[str]]]:
         for match in call.finditer(main):
             operation = semantics[match.group(1)]
             arguments = _arguments(match.group(2))
+            if (
+                arguments
+                and arguments[-1] in table_names
+                and arguments[-1] != table_name
+            ):
+                continue
             if operation == "replace":
                 class_name, value, _ = arguments
                 for element in by_class(class_name):
@@ -119,7 +191,11 @@ def decode_script_tables(source: str) -> list[list[list[str]]]:
                 for element in by_class(class_name):
                     element = _leaf(element)
                     value = _text(element)
-                    changed = value[:index] if index < 0 else value[:index] + value[index + 1 :]
+                    changed = (
+                        value[:index]
+                        if index < 0
+                        else value[:index] + value[index + 1 :]
+                    )
                     _put(element, changed)
             elif operation == "swap":
                 left, right, _ = arguments
@@ -128,7 +204,9 @@ def decode_script_tables(source: str) -> list[list[list[str]]]:
                 _put(first, second_value)
                 _put(second, first_value)
             elif operation == "insert":
-                char_index, source, destination_index, destination, dot_index, _ = arguments
+                char_index, source, destination_index, destination, dot_index, _ = (
+                    arguments
+                )
                 source_element = _leaf(cells[source])
                 target = _leaf(cells[destination])
                 value = _text(target)
@@ -146,6 +224,7 @@ def decode_script_tables(source: str) -> list[list[list[str]]]:
                 if overlays:
                     _put(_leaf(cells[destination]), _text(_leaf(overlays[0])))
 
+        _strip_hidden(document, table)
         rows = [
             [" ".join(cell.text_content().split()) for cell in row.xpath("./th|./td")]
             for row in table.xpath(".//tr")
@@ -155,7 +234,9 @@ def decode_script_tables(source: str) -> list[list[list[str]]]:
 
 
 def main() -> int:
-    parser = argparse.ArgumentParser(description="Apply GAS's inline JavaScript table decoder")
+    parser = argparse.ArgumentParser(
+        description="Apply GAS's inline JavaScript table decoder"
+    )
     parser.add_argument("html", type=Path)
     parser.add_argument("--output", type=Path, required=True)
     args = parser.parse_args()
@@ -180,7 +261,9 @@ def main() -> int:
         "rows": rows,
     }
     json_write(args.output, result)
-    print(json.dumps({"output": str(args.output), "rows": len(rows), "columns": maximum}))
+    print(
+        json.dumps({"output": str(args.output), "rows": len(rows), "columns": maximum})
+    )
     return 0
 
 

@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "requests": [
+    {
+      "region": "93",
+      "tik_tvd": "2932000698068",
+      "entity_id": "2932000698068",
+      "report_type": 233,
+      "url": "http://old.izbirkom.ru/region/region/crimea?action=show&tvd=100100225883744&vrn=100100225883172&region=93&global=null&sub_region=93&prver=0&pronetvd=null&vibid=2932000698068&type=233",
+      "source_path": "data/raw/gas-archive-lab/cik-live-entry/kerch-2932000698068-party.html",
+      "retrieved_at": "2026-08-24T06:02:52Z",
+      "provenance": "live-official"
+    },
+    {
+      "region": "93",
+      "tik_tvd": "2932000698068",
+      "entity_id": "2932000698068",
+      "report_type": 464,
+      "url": "http://old.izbirkom.ru/region/region/crimea?action=show&tvd=100100225883744&vrn=100100225883172&region=93&global=null&sub_region=93&prver=0&pronetvd=null&vibid=2932000698068&type=464",
+      "source_path": "data/raw/gas-archive-lab/cik-live-entry/kerch-2932000698068-candidate.html",
+      "retrieved_at": "2026-08-24T06:02:52Z",
+      "provenance": "live-official"
+    },
+    {
+      "region": "22",
+      "tik_tvd": "22220002523282",
+      "entity_id": "22220002523282",
+      "report_type": 464,
+      "url": "https://web.archive.org/web/20211222172438id_/http://www.altai-terr.vybory.izbirkom.ru/region/region/altai-terr?action=show&tvd=100100225883455&vrn=100100225883172&region=22&global=null&sub_region=22&prver=0&pronetvd=null&vibid=22220002523282&type=464",
+      "provenance": "wayback"
+    },
+    {
+      "region": "93",
+      "tik_tvd": "2932000698074",
+      "entity_id": "4934010278164",
+      "report_type": 242,
+      "url": "http://old.izbirkom.ru/region/region/crimea?action=show&tvd=100100225883744&vrn=100100225883172&region=93&global=null&sub_region=93&prver=0&pronetvd=null&vibid=4934010278164&type=242",
+      "source_path": "data/raw/gas-archive-lab/cik-live-entry/kerch-uik-118-party.html",
+      "retrieved_at": "2026-08-24T06:03:25Z",
+      "provenance": "live-official"
+    }
+  ]
+}

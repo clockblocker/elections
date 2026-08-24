@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import hashlib
 import json
+import os
 import re
 import urllib.parse
 import urllib.request
@@ -52,7 +53,9 @@ def decode_text(payload: bytes) -> tuple[str, str]:
     return payload.decode("utf-8", errors="replace"), "utf-8-replacement"
 
 
-def extract_tree_nodes(payload: bytes, source_url: str = "") -> tuple[list[TreeNode], str]:
+def extract_tree_nodes(
+    payload: bytes, source_url: str = "", parent_id: str | None = None
+) -> tuple[list[TreeNode], str]:
     html, encoding = decode_text(payload)
     base_parser = BaseParser()
     base_parser.feed(html)
@@ -93,7 +96,18 @@ def extract_tree_nodes(payload: bytes, source_url: str = "") -> tuple[list[TreeN
             tree, _ = decoder.raw_decode(html[match.end() :])
         except json.JSONDecodeError:
             continue
-        visit(tree, None)
+        visit(tree, parent_id)
+    if not nodes:
+        stripped = html.strip()
+        if stripped.startswith(("{", "[")):
+            try:
+                tree = json.loads(stripped)
+            except json.JSONDecodeError:
+                pass
+            else:
+                values = tree if isinstance(tree, list) else [tree]
+                for value in values:
+                    visit(value, parent_id)
     return nodes, encoding
 
 
@@ -112,8 +126,24 @@ def safe_name(url: str, suffix: str = ".bin") -> str:
 def json_write(path: Path, value: Any) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
     temporary = path.with_name(f".{path.name}.part")
-    temporary.write_text(json.dumps(value, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    temporary.write_text(
+        json.dumps(value, ensure_ascii=False, indent=2) + "\n", encoding="utf-8"
+    )
     temporary.replace(path)
+
+
+def atomic_write(path: Path, payload: bytes) -> None:
+    """Durably publish bytes without exposing a partial response."""
+    path.parent.mkdir(parents=True, exist_ok=True)
+    temporary = path.with_name(f".{path.name}.{os.getpid()}.part")
+    try:
+        with temporary.open("wb") as stream:
+            stream.write(payload)
+            stream.flush()
+            os.fsync(stream.fileno())
+        temporary.replace(path)
+    finally:
+        temporary.unlink(missing_ok=True)
 
 
 def opener() -> urllib.request.OpenerDirector:

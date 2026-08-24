@@ -5,7 +5,11 @@ export type VoteMap = Readonly<Record<string, number>>;
 export type ProtocolSource = Readonly<{
   url: string;
   sha256: string;
-  sourceReportType: 233 | 464;
+  sourceReportType: 233 | 242 | 463 | 464;
+  derivation?: "direct" | "extracted-tic-column";
+  retrievedAt?: string;
+  finalUrl?: string;
+  provenance?: "live-official" | "wayback";
 }>;
 
 export type UikProtocol = Readonly<{
