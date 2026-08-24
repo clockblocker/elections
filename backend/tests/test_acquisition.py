@@ -50,8 +50,7 @@ def _complete_fixture(tmp_path: Path) -> Path:
     oik2 = tmp_path / "oik2.html"
     tik1 = tmp_path / "tik1.html"
     index.write_text(
-        '<a href="oik1.html">ОИК №1 Адыгейская</a>'
-        '<a href="oik2.html">ОИК №2 Башкортостанская</a>',
+        '<a href="oik1.html">ОИК №1 Адыгейская</a><a href="oik2.html">ОИК №2 Башкортостанская</a>',
         encoding="utf-8",
     )
     oik1.write_text('<a href="tik1.html">ТИК Центральная</a>', encoding="utf-8")
@@ -138,15 +137,54 @@ def test_missing_source_is_never_silently_omitted(tmp_path: Path) -> None:
     )
     oik1.write_text("УИК №1", encoding="utf-8")
 
-    report = acquire_snapshot(
-        _plan(tmp_path, index), tmp_path / "raw", tmp_path / "snapshot.json"
-    )
+    report = acquire_snapshot(_plan(tmp_path, index), tmp_path / "raw", tmp_path / "snapshot.json")
 
     assert report["coverage"]["missing_oiks"] == 1
     assert any(
-        gap["status"] == "unavailable" and gap.get("oik_number") == 2
-        for gap in report["gaps"]
+        gap["status"] == "unavailable" and gap.get("oik_number") == 2 for gap in report["gaps"]
     )
+
+
+def test_embedded_cec_tree_does_not_invent_oik_from_internal_root_id(tmp_path: Path) -> None:
+    index = tmp_path / "index.html"
+    region = tmp_path / "region.html"
+    oik = tmp_path / "oik.html"
+    index.write_text(
+        '<base href="' + tmp_path.as_uri() + '/">'
+        '<script>tvdTreeJson = {"text":"Fixture Region","href":"region.html",'
+        '"children":[]};</script>',
+        encoding="utf-8",
+    )
+    region.write_text(
+        '<base href="' + tmp_path.as_uri() + '/">'
+        '<script>tvdTreeJson = {"text":"Fixture OIK","href":'
+        '"oik.html?root=1000001","children":[]};</script>',
+        encoding="utf-8",
+    )
+    oik.write_text("УИК №11", encoding="utf-8")
+    plan = _plan(tmp_path, index, oiks=1)
+    document = json.loads(plan.read_text(encoding="utf-8"))
+    document["report_type"] = 463
+    plan.write_text(json.dumps(document), encoding="utf-8")
+
+    report = acquire_snapshot(plan, tmp_path / "raw", tmp_path / "snapshot.json")
+
+    assert report["coverage"]["covered_oiks"] == 0
+    assert all(row["oik_number"] is None for row in report["payloads"])
+    assert any(row["uik_numbers"] == [] for row in report["payloads"])
+
+
+def test_max_pages_bounds_discovery_probe(tmp_path: Path) -> None:
+    index = _complete_fixture(tmp_path)
+    report = acquire_snapshot(
+        _plan(tmp_path, index),
+        tmp_path / "raw",
+        tmp_path / "snapshot.json",
+        max_pages=1,
+    )
+
+    assert report["run"]["network_requests"] == 1
+    assert any("max_pages=1" in gap.get("detail", "") for gap in report["gaps"])
 
 
 def test_changed_preserved_payload_requires_force(tmp_path: Path) -> None:

@@ -60,13 +60,33 @@ The committed source manifest pins the preserved party-list CSV and 14 September
 the Git-ignored `data/raw/` directory. An existing changed file fails verification;
 `--force` is required to replace it.
 
-`acquire-single-member` crawls the dated CEC preservation snapshot at no more than one
-request per second. It writes unchanged responses below
+`acquire-single-member` crawls the dated CEC preservation snapshot at no more than ten
+requests per second (0.1 seconds between requests). It writes unchanged responses below
 `data/raw/duma-2021-single-member-cec/` and writes the checksummed provenance and gap
 manifest to `reports/generated/single-member-snapshot.json`. The command is resumable:
 files whose size and SHA-256 still match the manifest are parsed for further discovery but
 are not downloaded again. A changed local payload stops the run; use `--force` only when
 intentionally replacing the whole snapshot.
+
+Use `--max-pages` for a bounded discovery probe before a national run.
+
+For the UIK-results-only workflow, use the verified party-list CSV as the identity
+inventory. This avoids depending on commission membership and avoids interpreting the
+CEC's internal tree IDs as OIK numbers:
+
+```sh
+elections-data download --artifact duma-2021-party-list-results
+elections-data import-results
+elections-data acquire-single-member \
+  --party-list-archive data/raw/2021.csv.zip \
+  --max-pages 10 --allow-gaps
+elections-data import-single-member
+```
+
+Remove `--max-pages` and `--allow-gaps` for the complete run. `make rebuild-uik-data`
+performs the same workflow and deliberately omits commissions, GAS-ID resolution, and
+commission matching. `--live` selects the original CEC URLs; configure the HTTP(S) proxy
+in the process environment when the portal requires a Russian network path.
 
 The command returns a non-zero status when any of the 225 expected OIKs lacks a
 checksum-preserved payload (status `preserved` or `redirected`) or when the gap report contains
@@ -83,7 +103,9 @@ payloads and the generated run manifest are intentionally Git-ignored; the commi
 acquisition plan is the reproducible recipe.
 
 `import-single-member` accepts checksum-preserved payloads (status `preserved` or
-`redirected`), verifies their byte size and SHA-256 again, parses the transposed CEC HTML tables, and stores district-scoped
+`redirected`), verifies their byte size and SHA-256 again, deobfuscates 2021 CEC pages
+from their separately preserved and checksummed TTF fonts, parses both transposed and
+single-UIK vertical result tables, and stores district-scoped
 candidate votes without changing party-list rows. Parser failures and source gaps remain
 explicit in its machine-readable output; redirected responses remain listed as source
 gaps even when their preserved bytes can be imported. Rerunning it replaces records per source artifact

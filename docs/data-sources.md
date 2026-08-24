@@ -62,9 +62,12 @@ same Wayback timestamp before they are fetched.
 
 `data/single-member-sources-2021.json` is the committed acquisition plan. It explicitly
 enumerates OIK numbers 1 through 225, pins the election identifier and capture timestamp,
-limits discovery to the preservation host, and sets a one-request-per-second crawl rate.
-The national seed is only a discovery page; OIK coverage is credited only when an
-OIK-scoped response is preserved.
+limits discovery to the preservation host, and sets a ten-request-per-second crawl rate.
+The national seed is only a discovery page. For production UIK acquisition, the
+checksum-pinned party-list CSV supplies the actual `(region, OIK, TIK, UIK, URL)`
+inventory and `--party-list-archive` turns each distinct TIK URL into a `type=463`
+single-member result seed. OIK coverage is credited only when an OIK-scoped response is
+preserved; opaque CEC `root` identifiers are never treated as OIK numbers.
 
 Raw responses are stored byte-for-byte below
 `data/raw/duma-2021-single-member-cec/`. The generated
@@ -73,6 +76,8 @@ Raw responses are stored byte-for-byte below
 - an explicit `expected_oiks` list and `coverage.by_oik` entries for all 225 districts;
 - each payload's OIK/TIK/UIK hints, original and final URL, retrieval time, relative raw
   path, byte size, media type, HTTP status, and SHA-256;
+- for obfuscated 2021 pages, the archived font URL, path, size, and SHA-256 needed to
+  reproduce visible digits without running publisher JavaScript;
 - `unavailable`, `malformed`, `redirected`, and `inconsistent` gap records instead of
   silently dropping source material.
 

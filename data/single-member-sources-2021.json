@@ -251,6 +251,7 @@
   "allowed_hosts": [
     "web.archive.org"
   ],
-  "rate_limit_seconds": 1.0,
+  "rate_limit_seconds": 0.1,
+  "report_type": 463,
   "max_pages": 20000
 }

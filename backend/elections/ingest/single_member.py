@@ -36,8 +36,9 @@ from elections.models import (
     ValidationStatus,
     Vote,
 )
-from elections.sources import Artifact, SourceError, verify_artifact
+from elections.sources import Artifact, SourceError, sha256_file, verify_artifact
 
+from .cec_deobfuscate import deobfuscate_cec_html, font_url
 from .single_member_html import parse_single_member_html
 
 
@@ -407,6 +408,20 @@ def _decode_html(path: Path) -> str:
     raise ValueError(f"cannot decode HTML payload {path} as UTF-8 or Windows-1251")
 
 
+def _decoded_payload_html(path: Path, payload: dict[str, Any], raw_dir: Path) -> str:
+    html = _decode_html(path)
+    if font_url(html) is None:
+        return html
+    font_path = _payload_path(raw_dir, payload.get("font_path"))
+    if not font_path.is_file():
+        raise SourceError(f"preserved CEC font is missing: {font_path}")
+    expected_size = payload.get("font_size_bytes")
+    expected_hash = clean(payload.get("font_sha256"))
+    if expected_size != font_path.stat().st_size or expected_hash != sha256_file(font_path):
+        raise SourceError(f"preserved CEC font failed verification: {font_path}")
+    return deobfuscate_cec_html(html, font_path.read_bytes())
+
+
 def _region_hints(document: dict[str, Any]) -> dict[str, str]:
     hints: dict[str, str] = {}
     collections: list[Any] = [
@@ -606,7 +621,7 @@ def import_single_member_snapshot(
             if not region:
                 raise ValueError("payload lacks region_name and has no manifest region hint")
             district = parse_single_member_html(
-                _decode_html(path),
+                _decoded_payload_html(path, payload, raw_dir),
                 region_name=region,
                 oik_code=str(oik_number),
                 oik_name=clean(payload.get("oik_name")),
@@ -641,9 +656,7 @@ def import_single_member_snapshot(
             snapshot_source_ids.add(source.id)
     _clear_source_rows(session, snapshot_source_ids)
     affected_oik_codes = {
-        str(payload["oik_number"])
-        for payload in payloads
-        if payload.get("oik_number") is not None
+        str(payload["oik_number"]) for payload in payloads if payload.get("oik_number") is not None
     }
     affected_ballots = list(
         session.scalars(
@@ -720,15 +733,17 @@ def import_single_member_snapshot(
         for field in ("source_rows", "imported_records", "rejected_records", "vote_rows"):
             totals[field] += stats[field]
 
-    imported_results = list(
-        session.scalars(
-            select(ResultRecord).where(ResultRecord.source_artifact_id.in_(imported_source_ids))
+    imported_results = (
+        list(
+            session.scalars(
+                select(ResultRecord).where(ResultRecord.source_artifact_id.in_(imported_source_ids))
+            )
         )
-    ) if imported_source_ids else []
+        if imported_source_ids
+        else []
+    )
     tik_keys = {
-        (record.ballot_id, record.tik_name)
-        for record in imported_results
-        if record.tik_name
+        (record.ballot_id, record.tik_name) for record in imported_results if record.tik_name
     }
     uik_keys = {
         (record.ballot_id, record.tik_name or "", record.uik_number)

@@ -18,7 +18,7 @@ from elections.ingest.results import import_results
 from elections.ingest.single_member import import_single_member_snapshot
 from elections.matching import match_results
 from elections.models import Ballot, BallotKind
-from elections.sources import download_all, load_manifest
+from elections.sources import download_all, download_artifact, load_manifest
 from elections.validation import (
     load_published_totals,
     load_single_member_published_totals,
@@ -87,6 +87,7 @@ def build_parser() -> argparse.ArgumentParser:
     download.add_argument("--manifest", type=Path, default=DEFAULT_MANIFEST)
     download.add_argument("--raw-dir", type=Path, default=DEFAULT_RAW_DIR)
     download.add_argument("--force", action="store_true")
+    download.add_argument("--artifact", help="download one manifest artifact instead of all")
 
     acquire = subparsers.add_parser(
         "acquire-single-member",
@@ -98,6 +99,17 @@ def build_parser() -> argparse.ArgumentParser:
     acquire.add_argument("--force", action="store_true")
     acquire.add_argument("--rate-limit", type=float)
     acquire.add_argument("--timeout", type=float, default=120)
+    acquire.add_argument("--max-pages", type=int, help="bound discovery for a probe run")
+    acquire.add_argument(
+        "--party-list-archive",
+        type=Path,
+        help="seed correctly scoped OIK/TIK/UIK pages from the verified 2021 CSV ZIP",
+    )
+    acquire.add_argument(
+        "--live",
+        action="store_true",
+        help="request original CEC URLs (normally through the configured Russian proxy)",
+    )
     acquire.add_argument("--verify-only", action="store_true")
     acquire.add_argument(
         "--allow-gaps", action="store_true", help="return success while retaining explicit gaps"
@@ -163,12 +175,18 @@ def build_parser() -> argparse.ArgumentParser:
 def main(argv: list[str] | None = None) -> int:
     args = build_parser().parse_args(argv)
     if args.command == "download":
-        _json(
-            {
-                key: str(path)
-                for key, path in download_all(args.manifest, args.raw_dir, force=args.force).items()
+        if args.artifact:
+            artifacts = load_manifest(args.manifest)
+            if args.artifact not in artifacts:
+                raise SystemExit(f"unknown artifact key {args.artifact!r}")
+            result = {
+                args.artifact: download_artifact(
+                    artifacts[args.artifact], args.raw_dir, force=args.force
+                )
             }
-        )
+        else:
+            result = download_all(args.manifest, args.raw_dir, force=args.force)
+        _json({key: str(path) for key, path in result.items()})
         return 0
     if args.command == "acquire-single-member":
         if args.verify_only:
@@ -183,6 +201,9 @@ def main(argv: list[str] | None = None) -> int:
             force=args.force,
             rate_limit_seconds=args.rate_limit,
             timeout=args.timeout,
+            max_pages=args.max_pages,
+            party_list_archive=args.party_list_archive,
+            use_live_sources=args.live,
         )
         _json(
             {

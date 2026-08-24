@@ -1,6 +1,6 @@
 SINGLE_MEMBER_TOTALS ?= data/published-single-member-totals-2021.json
 
-.PHONY: dev down rebuild-db rebuild-data test test-e2e validate verify-complete
+.PHONY: dev down rebuild-db rebuild-data rebuild-uik-data test test-e2e validate verify-complete
 
 dev:
 	docker compose up --build --wait
@@ -33,6 +33,16 @@ rebuild-data:
 		--published-totals data/published-totals-2021.json \
 		--single-member-published-totals "$(SINGLE_MEMBER_TOTALS)"
 	docker compose run --rm api elections-data verify-complete
+
+# UIK result workflow only: no commission-member archive, GAS-ID resolution, or matching.
+rebuild-uik-data:
+	docker compose run --rm api elections-data migrate
+	docker compose run --rm api elections-data download \
+		--artifact duma-2021-party-list-results
+	docker compose run --rm api elections-data import-results
+	docker compose run --rm api elections-data acquire-single-member \
+		--party-list-archive data/raw/2021.csv.zip
+	docker compose run --rm api elections-data import-single-member
 
 test:
 	docker compose run --rm api pytest

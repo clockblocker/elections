@@ -82,9 +82,7 @@ def test_parses_deg_as_an_explicit_special_protocol() -> None:
 def test_rejects_partially_numeric_candidate_row() -> None:
     rows = ["<tr><th>Показатель</th><th>УИК № 10</th><th>УИК № 11</th></tr>"]
     for index, field in enumerate(ACCOUNTING_FIELDS, start=1):
-        rows.append(
-            f"<tr><td>{RUSSIAN_LABELS[field]}</td><td>{index}</td><td>{index}</td></tr>"
-        )
+        rows.append(f"<tr><td>{RUSSIAN_LABELS[field]}</td><td>{index}</td><td>{index}</td></tr>")
     rows.append("<tr><td>1. Иванов Иван Иванович</td><td>7</td><td>—</td></tr>")
 
     with pytest.raises(ValueError, match="candidate row 1 contains a non-integer"):
@@ -96,3 +94,25 @@ def test_rejects_partially_numeric_candidate_row() -> None:
             tik_name="Central TIK",
             source_url="https://example.test/source",
         )
+
+
+def test_parses_vertical_single_uik_cec_layout() -> None:
+    rows = ["<tr><td>Наименование комиссии</td><td><b>УИК №5003</b></td></tr>"]
+    for index, field in enumerate(ACCOUNTING_FIELDS, start=1):
+        rows.append(
+            f"<tr><td>{index}</td><td>{RUSSIAN_LABELS[field]}</td><td><b>{index * 10}</b></td></tr>"
+        )
+    rows.append("<tr><td>13</td><td>Иванов Иван Иванович</td><td><b>77</b></td></tr>")
+
+    district = parse_single_member_html(
+        f"<html><table>{''.join(rows)}</table></html>",
+        region_name="Test Region",
+        oik_code="198",
+        oik_name="OIK 198",
+        tik_name="Sokol",
+        source_url="https://example.test/uik-5003",
+    )
+
+    assert district["candidates"][0]["position"] == 1
+    assert district["protocols"][0]["uik_number"] == "5003"
+    assert district["protocols"][0]["votes"] == {"1": 77}

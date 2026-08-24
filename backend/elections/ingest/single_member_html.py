@@ -102,6 +102,37 @@ def _label(row: list[str], first_value_column: int) -> str:
     return candidates[-1] if candidates else ""
 
 
+def _single_uik_rows(
+    rows: list[list[str]], header_index: int, uik: str
+) -> tuple[dict[str, int], list[tuple[int, str, dict[str, int]]]] | None:
+    """Parse the vertical layout used when a CEC page is scoped to one UIK."""
+    accounting: dict[str, int] = {}
+    candidates: list[tuple[int, str, dict[str, int]]] = []
+    for row in rows[header_index + 1 :]:
+        if len(row) < 2:
+            continue
+        numeric_cells = [(index, _integer(cell)) for index, cell in enumerate(row)]
+        numeric_cells = [(index, value) for index, value in numeric_cells if value is not None]
+        labels = [cell for cell in row if cell and _integer(cell) is None]
+        if not numeric_cells or not labels:
+            continue
+        value = numeric_cells[-1][1]
+        label = labels[-1]
+        field = _accounting_field(label)
+        if field:
+            accounting[field] = value
+        elif len(accounting) == len(ACCOUNTING_FIELDS):
+            normalized = _normalized(label)
+            if not any(token in normalized for token in ("итого", "число голосов")):
+                position = len(candidates) + 1
+                match = _LEADING_POSITION.match(label)
+                full_name = match.group(2).strip() if match else label.strip()
+                candidates.append((position, full_name, {uik: value}))
+    if set(accounting) != set(ACCOUNTING_FIELDS) or not candidates:
+        return None
+    return accounting, candidates
+
+
 def parse_single_member_html(
     html: str,
     *,
@@ -120,10 +151,20 @@ def parse_single_member_html(
     if len(set(identifiers)) != len(identifiers):
         raise ValueError("single-member HTML contains duplicate UIK/special columns")
     first_value_column = min(uik_columns)
-    accounting: dict[str, dict[str, int]] = {uik: {} for uik in uik_columns.values()}
-    candidate_rows: list[tuple[int, str, dict[str, int]]] = []
+    if len(uik_columns) == 1:
+        uik = next(iter(uik_columns.values()))
+        vertical = _single_uik_rows(parser.rows, header_index, uik)
+        if vertical is not None:
+            single_accounting, candidate_rows = vertical
+            accounting = {uik: single_accounting}
+        else:
+            accounting = {uik: {}}
+            candidate_rows = []
+    else:
+        accounting = {uik: {} for uik in uik_columns.values()}
+        candidate_rows = []
     next_position = 1
-    for row in parser.rows[header_index + 1 :]:
+    for row in [] if candidate_rows else parser.rows[header_index + 1 :]:
         if len(row) <= max(uik_columns):
             continue
         values: dict[str, int] = {}

@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import csv
 import hashlib
 import json
 import os
@@ -8,6 +9,7 @@ import time
 import urllib.error
 import urllib.parse
 import urllib.request
+import zipfile
 from collections import deque
 from collections.abc import Callable, Iterable
 from dataclasses import dataclass, field
@@ -27,6 +29,7 @@ BLOCKING_GAP_STATUSES = {"unavailable", "malformed", "inconsistent"}
 _OIK_RE = re.compile(r"(?:ОИК|одномандат\w*\s+избирательн\w*\s+округ\w*)\s*№?\s*(\d+)", re.I)
 _TIK_RE = re.compile(r"\bТИК\b[^\n<]{0,160}", re.I)
 _UIK_RE = re.compile(r"\bУИК\s*№?\s*(\d+)\b", re.I)
+_FONT_RE = re.compile(r'url\("\./([^"]+\.ttf)"\)')
 
 
 @dataclass(frozen=True)
@@ -49,6 +52,7 @@ class PendingPage:
 class Link:
     url: str
     text: str
+    hierarchy: bool = False
 
 
 class _LinkParser(HTMLParser):
@@ -58,10 +62,13 @@ class _LinkParser(HTMLParser):
         self._url: str | None = None
         self._text: list[str] = []
         self.all_text: list[str] = []
+        self.base_url: str | None = None
 
     def handle_starttag(self, tag: str, attrs: list[tuple[str, str | None]]) -> None:
         values = dict(attrs)
-        if tag.casefold() == "a" and values.get("href"):
+        if tag.casefold() == "base" and values.get("href"):
+            self.base_url = values["href"]
+        elif tag.casefold() == "a" and values.get("href"):
             self._url = values["href"]
             self._text = []
         elif tag.casefold() == "option" and values.get("value"):
@@ -158,6 +165,35 @@ def _decoded_html(payload: bytes, media_type: str) -> str | None:
     return payload.decode("utf-8", errors="replace")
 
 
+def _tree_links(html: str, base_url: str) -> list[Link]:
+    """Extract links rendered client-side from the CEC's embedded hierarchy JSON."""
+    marker = re.compile(r"\btvdTreeJson\s*=\s*(?=\{)")
+    decoder = json.JSONDecoder()
+    links: list[Link] = []
+
+    def visit(node: Any) -> None:
+        if isinstance(node, dict):
+            href = node.get("href")
+            if isinstance(href, str) and href:
+                links.append(
+                    Link(
+                        urllib.parse.urljoin(base_url, href),
+                        str(node.get("text") or ""),
+                        hierarchy=True,
+                    )
+                )
+            for child in node.get("children", []):
+                visit(child)
+
+    for match in marker.finditer(html):
+        try:
+            tree, _ = decoder.raw_decode(html[match.end() :])
+        except json.JSONDecodeError:
+            continue
+        visit(tree)
+    return links
+
+
 def _parse_links(payload: bytes, media_type: str, base_url: str) -> tuple[list[Link], str]:
     html = _decoded_html(payload, media_type)
     if html is None:
@@ -167,7 +203,11 @@ def _parse_links(payload: bytes, media_type: str, base_url: str) -> tuple[list[L
         parser.feed(html)
     except Exception as exc:
         raise SourceError(f"malformed HTML from {base_url}: {exc}") from exc
-    links = [Link(urllib.parse.urljoin(base_url, item.url), item.text) for item in parser.links]
+    document_base = urllib.parse.urljoin(base_url, parser.base_url or "")
+    links = [
+        Link(urllib.parse.urljoin(document_base, item.url), item.text) for item in parser.links
+    ]
+    links.extend(_tree_links(html, document_base))
     return links, " ".join(" ".join(parser.all_text).split())
 
 
@@ -199,7 +239,62 @@ def _scope_from_link(
             tik_name=parent.tik_name,
             uik_numbers=uik_matches,
         )
+    if link.hierarchy and parent.oik_number is None:
+        return parent
     return None
+
+
+def _party_list_pages(
+    path: Path, plan: dict[str, Any], *, use_live_sources: bool = False
+) -> list[PendingPage]:
+    """Derive correctly scoped TIK result URLs from the verified 2021 UIK inventory."""
+    try:
+        with zipfile.ZipFile(path) as archive:
+            members = [name for name in archive.namelist() if name.casefold().endswith(".csv")]
+            if len(members) != 1:
+                raise SourceError(f"{path} must contain exactly one CSV")
+            with archive.open(members[0]) as source:
+                rows = csv.DictReader(line.decode("utf-8") for line in source)
+                grouped: dict[tuple[str, int, str, str], set[int]] = {}
+                for row in rows:
+                    match = _OIK_RE.search(row.get("oik", ""))
+                    uik_match = _UIK_RE.search(row.get("uik", ""))
+                    url = row.get("url", "").strip()
+                    if not match or not uik_match or not url:
+                        continue
+                    key = (
+                        row.get("region", "").strip(),
+                        int(match.group(1)),
+                        row.get("tik", "").strip(),
+                        url,
+                    )
+                    grouped.setdefault(key, set()).add(int(uik_match.group(1)))
+    except (OSError, UnicodeDecodeError, zipfile.BadZipFile) as exc:
+        raise SourceError(f"cannot read party-list UIK inventory {path}: {exc}") from exc
+    pages = []
+    for (region, oik, tik, url), uiks in sorted(grouped.items()):
+        scope = Scope(oik, region, f"ОИК №{oik}", tik, tuple(sorted(uiks)))
+        typed = _with_report_type(url, plan, scope)
+        source_url = typed if use_live_sources else _rewrite_discovered(typed, plan)
+        pages.append(PendingPage(source_url, scope, "tik"))
+    if not pages:
+        raise SourceError(f"party-list UIK inventory {path} yielded no crawl seeds")
+    return pages
+
+
+def _with_report_type(url: str, plan: dict[str, Any], scope: Scope) -> str:
+    if scope.oik_number is None:
+        return url
+    report_type = plan.get("report_type")
+    if report_type is None:
+        return url
+    parts = urllib.parse.urlsplit(url)
+    query = urllib.parse.parse_qsl(parts.query, keep_blank_values=True)
+    if not any(key == "type" for key, _ in query):
+        query.append(("type", str(report_type)))
+    return urllib.parse.urlunsplit(
+        (parts.scheme, parts.netloc, parts.path, urllib.parse.urlencode(query), parts.fragment)
+    )
 
 
 def _page_scope(scope: Scope, text: str) -> Scope:
@@ -230,8 +325,10 @@ def _is_crawlable(url: str, plan: dict[str, Any]) -> bool:
     if parts.scheme == "file":
         return True
     hosts = {str(value).casefold() for value in plan.get("allowed_hosts", [])}
-    return parts.scheme in {"http", "https"} and parts.hostname is not None and (
-        not hosts or parts.hostname.casefold() in hosts
+    return (
+        parts.scheme in {"http", "https"}
+        and parts.hostname is not None
+        and (not hosts or parts.hostname.casefold() in hosts)
     )
 
 
@@ -321,6 +418,13 @@ def _record_for_payload(
     }
 
 
+def _font_source_url(page_url: str, final_url: str, relative_font: str) -> str:
+    archive = re.match(r"(https?://web\.archive\.org/web/\d+(?:id_)?/)(https?://.*)", final_url)
+    if archive:
+        return archive.group(1) + urllib.parse.urljoin(archive.group(2), relative_font)
+    return urllib.parse.urljoin(final_url or page_url, relative_font)
+
+
 def _coverage(expected: list[dict[str, Any]], payloads: list[dict[str, Any]]) -> dict[str, Any]:
     preserved = [item for item in payloads if item["status"] in PRESERVED_STATUSES]
     by_number: dict[int, dict[str, Any]] = {}
@@ -398,6 +502,9 @@ def acquire_snapshot(
     force: bool = False,
     rate_limit_seconds: float | None = None,
     timeout: float = 120,
+    max_pages: int | None = None,
+    party_list_archive: Path | None = None,
+    use_live_sources: bool = False,
     opener: Callable[..., BinaryIO] = urllib.request.urlopen,
     sleeper: Callable[[float], None] = time.sleep,
 ) -> dict[str, Any]:
@@ -413,7 +520,9 @@ def acquire_snapshot(
 
     queue: deque[PendingPage] = deque()
     expected_by_number = {item["number"]: item for item in plan["expected_oiks"]}
-    for seed in plan["seeds"]:
+    if party_list_archive is not None:
+        queue.extend(_party_list_pages(party_list_archive, plan, use_live_sources=use_live_sources))
+    for seed in [] if party_list_archive is not None else plan["seeds"]:
         scope = Scope(
             oik_number=seed.get("oik_number"),
             region_name=seed.get("region_name"),
@@ -427,19 +536,21 @@ def acquire_snapshot(
     gaps: list[dict[str, Any]] = []
     network_requests = 0
     reused_payloads = 0
-    max_pages = int(plan.get("max_pages", 20_000))
+    page_limit = int(max_pages) if max_pages is not None else int(plan.get("max_pages", 20_000))
+    if page_limit < 1:
+        raise SourceError("max_pages must be positive")
     while queue:
         page = queue.popleft()
         canonical = _canonical_url(page.url)
         if canonical in seen:
             continue
         seen.add(canonical)
-        if len(seen) > max_pages:
+        if len(seen) > page_limit:
             gaps.append(
                 {
                     "status": "inconsistent",
                     "source_url": page.url,
-                    "detail": f"discovery exceeded max_pages={max_pages}",
+                    "detail": f"discovery exceeded max_pages={page_limit}",
                 }
             )
             break
@@ -506,6 +617,50 @@ def acquire_snapshot(
                 continue
             payload = target.read_bytes()
 
+        html = _decoded_html(payload, media_type)
+        font_match = _FONT_RE.search(html or "")
+        if font_match:
+            font_target = target.with_suffix(".ttf")
+            font_source = _font_source_url(page.url, record["final_url"], font_match.group(1))
+            font_valid = (
+                font_target.is_file()
+                and record.get("font_sha256") == sha256_file(font_target)
+                and record.get("font_size_bytes") == font_target.stat().st_size
+            )
+            if not font_valid:
+                if network_requests and delay:
+                    sleeper(delay)
+                network_requests += 1
+                partial_font = font_target.with_name(f".{font_target.name}.part")
+                try:
+                    font_response, _, _, _ = _open_response(opener, font_source, timeout)
+                    with font_response, partial_font.open("wb") as output:
+                        while chunk := font_response.read(1024 * 1024):
+                            output.write(chunk)
+                    if partial_font.stat().st_size == 0:
+                        raise SourceError("empty CEC font response")
+                    os.replace(partial_font, font_target)
+                except (OSError, SourceError, urllib.error.URLError) as exc:
+                    partial_font.unlink(missing_ok=True)
+                    record["status"] = "malformed"
+                    gaps.append(
+                        {
+                            "oik_number": page.scope.oik_number,
+                            "source_url": page.url,
+                            "status": "malformed",
+                            "detail": f"cannot preserve CEC deobfuscation font: {exc}",
+                        }
+                    )
+            if font_target.is_file():
+                record.update(
+                    {
+                        "font_source_url": font_source,
+                        "font_path": _relative_path(font_target, raw_dir),
+                        "font_size_bytes": font_target.stat().st_size,
+                        "font_sha256": sha256_file(font_target),
+                    }
+                )
+
         try:
             links, text = _parse_links(payload, media_type, record["final_url"])
         except SourceError as exc:
@@ -559,7 +714,8 @@ def acquire_snapshot(
             child_scope = _scope_from_link(scope, link, expected_by_number)
             if child_scope is None:
                 continue
-            child_url = _rewrite_discovered(link.url, plan)
+            child_url = _with_report_type(link.url, plan, child_scope)
+            child_url = _rewrite_discovered(child_url, plan)
             if not _is_crawlable(child_url, plan):
                 gaps.append(
                     {
@@ -574,9 +730,17 @@ def acquire_snapshot(
             relation = (
                 "uik"
                 if child_scope.uik_numbers
-                else "tik" if child_scope.tik_name else "oik"
+                else "tik"
+                if child_scope.tik_name
+                else "oik"
+                if child_scope.oik_number is not None
+                else "index"
             )
-            queue.append(PendingPage(child_url, child_scope, relation))
+            pending = PendingPage(child_url, child_scope, relation)
+            if child_scope.oik_number is not None and scope.oik_number is None:
+                queue.appendleft(pending)
+            else:
+                queue.append(pending)
 
     expected = plan["expected_oiks"]
     coverage = _coverage(expected, payloads)
@@ -676,9 +840,7 @@ def verify_snapshot(
     if require_complete and coverage["missing_oiks"]:
         failures.append(f"{coverage['missing_oiks']} expected OIKs have no preserved payload")
     if require_complete:
-        blockers = [
-            gap for gap in document["gaps"] if gap["status"] in BLOCKING_GAP_STATUSES
-        ]
+        blockers = [gap for gap in document["gaps"] if gap["status"] in BLOCKING_GAP_STATUSES]
         if blockers:
             failures.append(f"gap report contains {len(blockers)} blocking entries")
     if failures:
