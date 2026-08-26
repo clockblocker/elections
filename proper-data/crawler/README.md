@@ -178,7 +178,7 @@ missing types, failed URLs/error classes, live/Wayback counts, and reconciliatio
 ```sh
 backend/.venv/bin/python -m unittest discover -s proper-data/crawler/tests -v
 backend/.venv/bin/ruff check proper-data/crawler
-npm exec tsc -- --project proper-data/tsconfig.json --noEmit
+frontend/node_modules/.bin/tsc --project proper-data/tsconfig.json --noEmit
 git diff --check
 git grep -nEi '(https?://[^/[:space:]]+:[^/@[:space:]]+@|BEGIN (RSA |OPENSSH )?PRIVATE KEY|api[_-]?key|proxy[^[:space:]]*password)' -- proper-data/crawler proper-data/2021-duma
 ```
@@ -224,27 +224,66 @@ Use `--source-mode live-only` to prohibit Wayback or `archive-fallback` to plan 
 classes. A live-host timeout is an observation about that route, not proof that the
 election is absent.
 
-The checked-in controlled matrix selects exact national, region, OIK, TIK, static, and
-workbook requests. It is also the reproducible way to choose regions, TIKs, and UIKs:
-copy the JSON, retain only evidence-derived exact URLs for the desired entities, dry-run
-it, then execute it. Never manufacture TVDs arithmetically.
+The checked-in controlled matrix selects exact national, region, OIK, TIK, hierarchy,
+static, and workbook requests. `probe-spec` honors `--source-mode`; exact live-only
+hierarchy endpoints are omitted from archive-only plans when no capture has been
+verified. To choose different regions or TIKs, copy the JSON and retain only exact
+evidence-derived URLs. Never manufacture TVDs arithmetically.
 
 ```sh
 backend/.venv/bin/python proper-data/crawler/historical.py probe-spec \
   --spec proper-data/crawler/historical-probes.json \
-  --report reports/generated/gas-duma-history/core-probes.json --dry-run
+  --source-mode live-only --rate 5 --concurrency 2 \
+  --raw-dir data/raw/gas-duma-history-live \
+  --report reports/generated/gas-duma-history/live-core-probes.json --dry-run
 
 backend/.venv/bin/python proper-data/crawler/historical.py probe-spec \
   --spec proper-data/crawler/historical-probes.json \
-  --report reports/generated/gas-duma-history/core-probes.json
+  --source-mode live-only --rate 5 --concurrency 2 \
+  --raw-dir data/raw/gas-duma-history-live \
+  --report reports/generated/gas-duma-history/live-core-probes.json
 ```
 
 Resume with the second command. Retry only absent, failed, or non-2xx observations:
 
 ```sh
 backend/.venv/bin/python proper-data/crawler/historical.py probe-spec \
-  --spec proper-data/crawler/historical-probes.json --only-failures \
+  --spec proper-data/crawler/historical-probes.json --source-mode live-only \
+  --raw-dir data/raw/gas-duma-history-live --only-failures \
   --report reports/generated/gas-duma-history/core-retry.json
+```
+
+After hierarchy probes succeed, build the deterministic protocol sample spec offline.
+The checked-in selection registry chooses Kamchatka and Moscow, two TIKs per region,
+every applicable contest, and up to three UIKs per TIK (all UIKs when fewer exist):
+
+```sh
+backend/.venv/bin/python proper-data/crawler/historical.py make-sample-spec \
+  --hierarchy-report reports/generated/gas-duma-history/live-core-probes.json \
+  --selections proper-data/crawler/historical-protocol-selections.json \
+  --output reports/generated/gas-duma-history/live-protocol-probe-spec.json
+
+backend/.venv/bin/python proper-data/crawler/historical.py probe-spec \
+  --spec reports/generated/gas-duma-history/live-protocol-probe-spec.json \
+  --source-mode live-only --rate 5 --concurrency 2 \
+  --raw-dir data/raw/gas-duma-history-live \
+  --report reports/generated/gas-duma-history/live-protocol-probes.json --dry-run
+
+backend/.venv/bin/python proper-data/crawler/historical.py probe-spec \
+  --spec reports/generated/gas-duma-history/live-protocol-probe-spec.json \
+  --source-mode live-only --rate 5 --concurrency 2 \
+  --raw-dir data/raw/gas-duma-history-live \
+  --report reports/generated/gas-duma-history/live-protocol-probes.json
+```
+
+Resume with the same command. Retry only failed identities with `--only-failures`.
+Validate election/type identity, hierarchy versus UIK headers, aggregate arithmetic,
+and direct UIK/TIK rows against the paired aggregate report without network access:
+
+```sh
+backend/.venv/bin/python proper-data/crawler/historical.py validate-samples \
+  --probe-report reports/generated/gas-duma-history/live-protocol-probes.json \
+  --output reports/generated/gas-duma-history/live-protocol-validation.json
 ```
 
 Decode or classify preserved responses with no network access. Add
@@ -252,7 +291,7 @@ Decode or classify preserved responses with no network access. Add
 
 ```sh
 backend/.venv/bin/python proper-data/crawler/historical.py classify \
-  --input data/raw/gas-duma-history/sha256/5f/5f27dd6c1efafd8a4356ad10d593365a02ed2f935273683377cbc06ae2e18087 \
+  --input data/raw/gas-duma-history-live/sha256/84/84891d562e218ea23c2e0bbc1a58a6b3517d36077b6104fc75f1c0bef82238f8 \
   --direct-protocol \
   --output reports/generated/gas-duma-history/decoded-2011-aleut.json
 ```
@@ -262,8 +301,8 @@ availability matrix and evidence hashes:
 
 ```sh
 backend/.venv/bin/python proper-data/crawler/historical.py generate-samples \
-  --probe-report reports/generated/gas-duma-history/core-probes.json \
-  --year 2011 --output-root proper-data
+  --probe-report reports/generated/gas-duma-history/live-protocol-probes.json \
+  --output-root proper-data
 
 backend/.venv/bin/python proper-data/crawler/historical.py validate-matrix \
   --matrix proper-data/historical-duma-availability.json

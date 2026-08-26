@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "uik_sample_size": 3,
+  "selections": [
+    {"year": 2003, "election_vrn": "100100095619", "pronetvd": "0", "region_label": "Камчатская область", "tik_label": "Алеутская", "tik_tvd": "241200066971", "contests": [{"contest": "party", "direct_type": 430, "column_type": 431}, {"contest": "candidate", "direct_type": 428, "column_type": 429}]},
+    {"year": 2003, "election_vrn": "100100095619", "pronetvd": "0", "region_label": "Камчатская область", "tik_label": "Петропавловск-Камчатская городская", "tik_tvd": "241200066966", "contests": [{"contest": "party", "direct_type": 430, "column_type": 431}, {"contest": "candidate", "direct_type": 428, "column_type": 429}]},
+    {"year": 2003, "election_vrn": "100100095619", "pronetvd": "0", "region_label": "Город Москва", "tik_label": "Район Лефортово", "tik_tvd": "377300170415", "contests": [{"contest": "party", "direct_type": 430, "column_type": 431}, {"contest": "candidate", "direct_type": 428, "column_type": 429}]},
+    {"year": 2003, "election_vrn": "100100095619", "pronetvd": "0", "region_label": "Город Москва", "tik_label": "Нижегородский район", "tik_tvd": "377300170417", "contests": [{"contest": "party", "direct_type": 430, "column_type": 431}, {"contest": "candidate", "direct_type": 428, "column_type": 429}]},
+    {"year": 2007, "election_vrn": "100100021960181", "pronetvd": "null", "region_label": "Камчатский край", "tik_label": "Алеутская", "tik_tvd": "2412000110839", "contests": [{"contest": "party", "direct_type": 242, "column_type": 233}]},
+    {"year": 2007, "election_vrn": "100100021960181", "pronetvd": "null", "region_label": "Камчатский край", "tik_label": "Петропавловск-Камчатская городская", "tik_tvd": "2412000110844", "contests": [{"contest": "party", "direct_type": 242, "column_type": 233}]},
+    {"year": 2007, "election_vrn": "100100021960181", "pronetvd": "null", "region_label": "Город Москва", "tik_label": "район Богородское", "tik_tvd": "2772000200305", "contests": [{"contest": "party", "direct_type": 242, "column_type": 233}]},
+    {"year": 2007, "election_vrn": "100100021960181", "pronetvd": "null", "region_label": "Город Москва", "tik_label": "район Восточное Измайлово", "tik_tvd": "2772000200304", "contests": [{"contest": "party", "direct_type": 242, "column_type": 233}]},
+    {"year": 2011, "election_vrn": "100100028713299", "pronetvd": "null", "region_label": "Камчатский край", "tik_label": "Алеутская", "tik_tvd": "2412000214202", "contests": [{"contest": "party", "direct_type": 242, "column_type": 233}]},
+    {"year": 2011, "election_vrn": "100100028713299", "pronetvd": "null", "region_label": "Камчатский край", "tik_label": "Петропавловск-Камчатская городская", "tik_tvd": "2412000214207", "contests": [{"contest": "party", "direct_type": 242, "column_type": 233}]},
+    {"year": 2011, "election_vrn": "100100028713299", "pronetvd": "null", "region_label": "Город Москва", "tik_label": "район Богородское", "tik_tvd": "2772000306450", "contests": [{"contest": "party", "direct_type": 242, "column_type": 233}]},
+    {"year": 2011, "election_vrn": "100100028713299", "pronetvd": "null", "region_label": "Город Москва", "tik_label": "район Лефортово", "tik_tvd": "2772000306462", "contests": [{"contest": "party", "direct_type": 242, "column_type": 233}]},
+    {"year": 2016, "election_vrn": "100100067795849", "pronetvd": "0", "region_label": "Камчатский край", "tik_label": "Алеутская", "tik_tvd": "2412000368066", "contests": [{"contest": "party", "direct_type": 242, "column_type": 233}, {"contest": "candidate", "direct_type": 463, "column_type": 464}]},
+    {"year": 2016, "election_vrn": "100100067795849", "pronetvd": "0", "region_label": "Камчатский край", "tik_label": "Петропавловск-Камчатская городская", "tik_tvd": "2412000368069", "contests": [{"contest": "party", "direct_type": 242, "column_type": 233}, {"contest": "candidate", "direct_type": 463, "column_type": 464}]},
+    {"year": 2016, "election_vrn": "100100067795849", "pronetvd": "0", "region_label": "город Москва", "tik_label": "район Богородское", "tik_tvd": "27720001659695", "contests": [{"contest": "party", "direct_type": 242, "column_type": 233}, {"contest": "candidate", "direct_type": 463, "column_type": 464}]},
+    {"year": 2016, "election_vrn": "100100067795849", "pronetvd": "0", "region_label": "город Москва", "tik_label": "район Кунцево", "tik_tvd": "27720001659701", "contests": [{"contest": "party", "direct_type": 242, "column_type": 233}, {"contest": "candidate", "direct_type": 463, "column_type": 464}]}
+  ]
+}

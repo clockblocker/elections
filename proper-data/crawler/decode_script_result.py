@@ -53,7 +53,18 @@ def _arguments(source: str) -> list[Any]:
     result: list[Any] = []
     for token in ARGUMENT.findall(source):
         if token.startswith("'"):
-            result.append(ast.literal_eval(token))
+            try:
+                result.append(ast.literal_eval(token))
+            except (SyntaxError, ValueError):
+                # Some live GAS pages contain literal formatting newlines inside a
+                # JavaScript replacement string. Browsers effectively expose the
+                # surrounding whitespace as text; protocol cells normalize it away.
+                result.append(
+                    token[1:-1]
+                    .replace("\\'", "'")
+                    .replace("\\\\", "\\")
+                    .strip()
+                )
         elif token in {"false", "true"}:
             result.append(token == "true")
         elif re.fullmatch(r"-?\d+", token):
@@ -159,19 +170,22 @@ def decode_script_tables(source: str) -> list[list[list[str]]]:
             continue
         main_start = script.find("var a = function")
         main = script[max(main_start, 0) :]
-        resize = main.find("window.addEventListener")
-        if resize >= 0:
-            main = main[:resize]
         call = re.compile(
-            r"\b(" + "|".join(map(re.escape, semantics)) + r")\((.*?)\)\s*;"
+            r"\b(" + "|".join(map(re.escape, semantics)) + r")\((.*?)\)\s*;",
+            re.DOTALL,
         )
         cells = table.xpath(".//td")
+        class_index: dict[str, list[Any]] = collections.defaultdict(list)
+        for element in table.iterdescendants():
+            for class_name in (element.get("class") or "").split():
+                class_index[class_name].append(element)
 
-        def by_class(name: str, current_table: Any = table) -> list[Any]:
-            return current_table.xpath(
-                './/*[contains(concat(" ", normalize-space(@class), " "), $value)]',
-                value=f" {name} ",
-            )
+        def by_class(
+            name: str, class_lookup: dict[str, list[Any]] = class_index
+        ) -> list[Any]:
+            # A result page can execute thousands of randomized operations. A DOM
+            # scan per operation makes decoding quadratic in table size.
+            return class_lookup.get(name, [])
 
         for match in call.finditer(main):
             operation = semantics[match.group(1)]

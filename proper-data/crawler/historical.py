@@ -107,10 +107,10 @@ def classify_page(payload: bytes) -> dict[str, Any]:
     )
     if has_script_decoder:
         family = "randomized-inline-javascript"
-    elif has_font:
-        family = "custom-font-obfuscated"
     elif plain_tables:
         family = "plain-html-table"
+    elif has_font:
+        family = "custom-font-obfuscated"
     elif nodes:
         family = "client-json-hierarchy"
     elif "<frameset" in lower or "<frame " in lower:
@@ -186,6 +186,61 @@ def make_plan(rows: list[dict[str, Any]], args: argparse.Namespace) -> dict[str,
         "source_mode": args.source_mode,
         "requests": requests,
     }
+
+
+def live_official_url(request: dict[str, Any]) -> str:
+    """Return the exact live official counterpart of a checked-in probe URL."""
+    explicit = request.get("live_url")
+    if explicit:
+        return str(explicit)
+    archive_url = str(request["url"])
+    parsed = urllib.parse.urlsplit(archive_url)
+    if parsed.netloc != "web.archive.org":
+        return archive_url
+    match = re.match(r"^/web/[^/]+/(https?://.*)$", parsed.path)
+    if not match:
+        raise ValueError(f"cannot recover official URL from archive URL: {archive_url}")
+    embedded = match.group(1)
+    if parsed.query:
+        embedded = f"{embedded}?{parsed.query}"
+    if parsed.fragment:
+        embedded = f"{embedded}#{parsed.fragment}"
+    official = urllib.parse.urlsplit(embedded)
+    if official.netloc.casefold() == "www.vybory.izbirkom.ru":
+        official = official._replace(netloc="old.izbirkom.ru")
+    return urllib.parse.urlunsplit(official)
+
+
+def spec_requests(
+    requests: list[dict[str, Any]], source_mode: str
+) -> list[dict[str, Any]]:
+    """Expand checked-in evidence requests into selected live/archive variants."""
+    result: list[dict[str, Any]] = []
+    for request in requests:
+        candidate_url = str(request["url"])
+        archive_url = request.get("archive_url")
+        if urllib.parse.urlsplit(candidate_url).netloc == "web.archive.org":
+            archive_url = candidate_url
+        live_url = live_official_url(request)
+        if source_mode == "live-only":
+            variants = (("live-official", live_url),)
+        elif source_mode == "archive-only":
+            variants = (("archived-official", str(archive_url)),) if archive_url else ()
+        else:
+            variants = (("live-official", live_url),)
+            if archive_url:
+                variants += (("archived-official", str(archive_url)),)
+        for source_variant, url in variants:
+            result.append(
+                {
+                    **request,
+                    "url": url,
+                    "official_url": live_url,
+                    "archive_url": str(archive_url) if archive_url else None,
+                    "source_variant": source_variant,
+                }
+            )
+    return result
 
 
 def plan(args: argparse.Namespace) -> int:
@@ -293,6 +348,7 @@ def probe_spec(args: argparse.Namespace) -> int:
         isinstance(row, dict) for row in requests
     ):
         raise TypeError(f"{args.spec} has no requests array")
+    requests = spec_requests(requests, args.source_mode)
     plan_data = {
         "schema_version": 1,
         "mode": "dry-run" if args.dry_run else "controlled-probe",
@@ -309,6 +365,7 @@ def probe_spec(args: argparse.Namespace) -> int:
             Counter(str(row.get("request_class", "unspecified")) for row in requests)
         ),
         "nationwide_crawl": False,
+        "source_mode": args.source_mode,
         "requests": requests,
     }
     if args.dry_run:
@@ -355,6 +412,9 @@ def probe_spec(args: argparse.Namespace) -> int:
             "request_class": request.get("request_class"),
             "contest": request.get("contest"),
             "expected_granularity": request.get("expected_granularity"),
+            "source_variant": request.get("source_variant"),
+            "official_url": request.get("official_url"),
+            "archive_url": request.get("archive_url"),
         }
         if record.get("body_path"):
             payload = (store.root / record["body_path"]).read_bytes()
@@ -390,6 +450,362 @@ def probe_spec(args: argparse.Namespace) -> int:
         )
     )
     return 0
+
+
+def build_sample_requests(
+    selections: list[dict[str, Any]],
+    observations: list[dict[str, Any]],
+    store_root: Path,
+    uik_sample_size: int,
+) -> list[dict[str, Any]]:
+    result: list[dict[str, Any]] = []
+    for selection in selections:
+        tik_tvd = str(selection["tik_tvd"])
+        evidence = next(
+            (
+                row
+                for row in reversed(observations)
+                if isinstance(row, dict)
+                and row.get("request_class") == "gas-hierarchy-children"
+                and row.get("expected_granularity") == "uik-navigation"
+                and str(row.get("entity_tvd")) == tik_tvd
+                and int(row.get("status", 0)) == 200
+                and row.get("body_path")
+            ),
+            None,
+        )
+        if evidence is None:
+            raise ValueError(f"no preserved UIK hierarchy for TIK {tik_tvd}")
+        nodes, _ = extract_tree_nodes(
+            (store_root / str(evidence["body_path"])).read_bytes(),
+            str(evidence["url"]),
+            tik_tvd,
+        )
+        uiks = [node for node in nodes if node.is_uik and node.tvd and node.root]
+        if not uiks:
+            raise ValueError(f"hierarchy for TIK {tik_tvd} has no UIKs")
+        roots = {node.root for node in uiks}
+        if len(roots) != 1:
+            raise ValueError(f"hierarchy for TIK {tik_tvd} has conflicting roots")
+        root = next(iter(roots))
+        base = "http://old.izbirkom.ru/region/region/izbirkom"
+        common = {
+            "action": "show",
+            "root": root,
+            "vrn": str(selection["election_vrn"]),
+            "global": "true",
+            "prver": "0",
+            "pronetvd": str(selection["pronetvd"]),
+        }
+
+        def url(parameters: dict[str, str], base_url: str = base) -> str:
+            return f"{base_url}?{urllib.parse.urlencode(parameters)}"
+
+        shared = {
+            "year": int(selection["year"]),
+            "election_vrn": str(selection["election_vrn"]),
+            "region_label": selection["region_label"],
+            "entity_label": selection["tik_label"],
+            "entity_tvd": tik_tvd,
+            "hierarchy_evidence_path": evidence["body_path"],
+            "hierarchy_evidence_sha256": evidence["sha256"],
+        }
+        for contest in selection["contests"]:
+            direct_type = int(contest["direct_type"])
+            column_type = int(contest["column_type"])
+            contest_name = str(contest["contest"])
+            result.extend(
+                [
+                    {
+                        **shared,
+                        "request_class": "gas-tik-direct-protocol",
+                        "contest": contest_name,
+                        "expected_granularity": "tik-direct",
+                        "report_type": direct_type,
+                        "url": url(
+                            {
+                                **common,
+                                "tvd": tik_tvd,
+                                "region": "0",
+                                "sub_region": "0",
+                                "vibid": tik_tvd,
+                                "type": str(direct_type),
+                            }
+                        ),
+                    },
+                    {
+                        **shared,
+                        "request_class": "gas-tik-column-report",
+                        "contest": contest_name,
+                        "expected_granularity": "uik-columns",
+                        "report_type": column_type,
+                        "url": url(
+                            {
+                                **common,
+                                "tvd": tik_tvd,
+                                "region": "0",
+                                "sub_region": "0",
+                                "type": str(column_type),
+                            }
+                        ),
+                    },
+                ]
+            )
+            for node in uiks[:uik_sample_size]:
+                result.append(
+                    {
+                        **shared,
+                        "request_class": "gas-uik-direct-protocol",
+                        "contest": contest_name,
+                        "expected_granularity": "uik-direct",
+                        "report_type": direct_type,
+                        "uik_label": node.text,
+                        "uik_tvd": node.tvd,
+                        "url": url(
+                            {
+                                **common,
+                                "root": str(node.root),
+                                "tvd": str(node.tvd),
+                                "region": str(node.region),
+                                "sub_region": str(node.sub_region),
+                                "vibid": str(node.tvd),
+                                "type": str(direct_type),
+                            }
+                        ),
+                    }
+                )
+    return result
+
+
+def make_sample_spec(args: argparse.Namespace) -> int:
+    selections_data = load_object(args.selections)
+    rows = selections_data.get("selections")
+    if not isinstance(rows, list) or not all(isinstance(row, dict) for row in rows):
+        raise TypeError(f"{args.selections} has no selections array")
+    hierarchy_report = load_object(args.hierarchy_report)
+    observations = hierarchy_report.get("observations")
+    if not isinstance(observations, list):
+        raise TypeError(f"{args.hierarchy_report} has no observations array")
+    store_root = Path(str(hierarchy_report.get("plan", {}).get("raw_dir", DEFAULT_RAW)))
+    sample_size = int(selections_data.get("uik_sample_size", 3))
+    requests = build_sample_requests(rows, observations, store_root, sample_size)
+    result = {
+        "schema_version": 1,
+        "generated_from": {
+            "selections": str(args.selections),
+            "hierarchy_report": str(args.hierarchy_report),
+        },
+        "nationwide_crawl": False,
+        "uik_sample_size": sample_size,
+        "requests": requests,
+    }
+    json_write(args.output, result)
+    print(
+        json.dumps(
+            {
+                "output": str(args.output),
+                "requests": len(requests),
+                "years": dict(Counter(str(row["year"]) for row in requests)),
+                "classes": dict(Counter(row["request_class"] for row in requests)),
+            },
+            ensure_ascii=False,
+            indent=2,
+        )
+    )
+    return 0
+
+
+def _integer(value: str) -> int | None:
+    match = INTEGER_RE.match(value)
+    return int(match.group(1)) if match else None
+
+
+def _uik_number(label: str) -> int | None:
+    match = re.search(r"УИК\s*(?:№\s*)?(\d+)", label, re.IGNORECASE)
+    return int(match.group(1)) if match else None
+
+
+def _result_table(payload: bytes) -> tuple[str, list[list[str]]]:
+    source, _ = decode_text(payload)
+    tables = decode_script_tables(source)
+    if not tables:
+        raise ValueError("page has no decoded result table")
+    table = max(
+        tables,
+        key=lambda value: (
+            any("УИК" in cell for row in value for cell in row),
+            max((len(row) for row in value), default=0),
+            len(value),
+        ),
+    )
+    return source, table
+
+
+def validate_sample_observations(
+    report: dict[str, Any], store_root: Path
+) -> dict[str, Any]:
+    observations = report.get("observations")
+    if not isinstance(observations, list):
+        raise TypeError("protocol probe report has no observations array")
+    failures: list[dict[str, Any]] = []
+    summaries: dict[tuple[int, str], Counter[str]] = {}
+    columns: dict[tuple[int, str, str], dict[str, Any]] = {}
+
+    def summary(row: dict[str, Any]) -> Counter[str]:
+        key = (int(row["year"]), str(row["contest"]))
+        return summaries.setdefault(key, Counter())
+
+    for row in observations:
+        if not isinstance(row, dict):
+            continue
+        stats = summary(row)
+        stats["requests"] += 1
+        if int(row.get("status", 0)) != 200 or not row.get("body_path"):
+            failures.append({"url": row.get("url"), "reason": "non-200 response"})
+            continue
+        query = urllib.parse.parse_qs(urllib.parse.urlsplit(str(row["url"])).query)
+        if query.get("vrn", [None])[0] != str(row["election_vrn"]):
+            failures.append({"url": row["url"], "reason": "election VRN mismatch"})
+        if query.get("type", [None])[0] != str(row["report_type"]):
+            failures.append({"url": row["url"], "reason": "report type mismatch"})
+        payload = (store_root / str(row["body_path"])).read_bytes()
+        if row["request_class"] == "gas-tik-column-report":
+            source, table = _result_table(payload)
+            width = max((len(value) for value in table), default=0)
+            header = next(
+                (value for value in table if any("УИК" in cell for cell in value)),
+                None,
+            )
+            labels = header[3:] if header else []
+            if len(labels) != width - 3:
+                marker = source.find("<nobr>Сумма</nobr>")
+                end = source.find("</thead>", marker)
+                labels = re.findall(
+                    r"УИК\s*(?:№\s*)?\d+", source[marker:end], re.IGNORECASE
+                )
+            evidence_path = store_root / str(row["hierarchy_evidence_path"])
+            nodes, _ = extract_tree_nodes(
+                evidence_path.read_bytes(), parent_id=str(row["entity_tvd"])
+            )
+            hierarchy_numbers = [
+                _uik_number(node.text) for node in nodes if node.is_uik
+            ]
+            header_numbers = [_uik_number(label) for label in labels]
+            if header_numbers != hierarchy_numbers:
+                failures.append(
+                    {
+                        "url": row["url"],
+                        "reason": "UIK columns do not match hierarchy evidence",
+                        "header_uiks": header_numbers,
+                        "hierarchy_uiks": hierarchy_numbers,
+                    }
+                )
+            row_sums_checked = 0
+            for values in table:
+                if len(values) != width or not values[0].isdigit():
+                    continue
+                numbers = [_integer(value) for value in values[2:]]
+                if None in numbers or numbers[0] != sum(numbers[1:]):
+                    failures.append(
+                        {
+                            "url": row["url"],
+                            "reason": "aggregate row does not equal UIK sum",
+                            "label": values[1],
+                        }
+                    )
+                else:
+                    row_sums_checked += 1
+            stats["column_reports"] += 1
+            stats["uik_columns"] += len(labels)
+            stats["aggregate_rows_reconciled"] += row_sums_checked
+            columns[(int(row["year"]), str(row["entity_tvd"]), str(row["contest"]))] = {
+                "labels": labels,
+                "table": table,
+                "width": width,
+            }
+        else:
+            protocol = extract_direct_protocol(
+                payload,
+                commission_name=str(row.get("uik_label") or row["entity_label"]),
+            )
+            if not protocol["validation"]["vote_sum_matches_valid_ballots"]:
+                failures.append(
+                    {"url": row["url"], "reason": "votes do not match valid ballots"}
+                )
+            stats[
+                "direct_uik_protocols"
+                if row["request_class"] == "gas-uik-direct-protocol"
+                else "direct_tik_protocols"
+            ] += 1
+
+    for row in observations:
+        if not isinstance(row, dict) or row.get("request_class") not in {
+            "gas-uik-direct-protocol",
+            "gas-tik-direct-protocol",
+        }:
+            continue
+        if int(row.get("status", 0)) != 200 or not row.get("body_path"):
+            continue
+        key = (int(row["year"]), str(row["entity_tvd"]), str(row["contest"]))
+        aggregate = columns.get(key)
+        if aggregate is None:
+            failures.append({"url": row["url"], "reason": "no paired column report"})
+            continue
+        protocol = extract_direct_protocol(
+            (store_root / str(row["body_path"])).read_bytes(),
+            commission_name=str(row.get("uik_label") or row["entity_label"]),
+        )
+        direct = {**protocol["accounting"], **protocol["votes"]}
+        if row["request_class"] == "gas-uik-direct-protocol":
+            wanted = _uik_number(str(row["uik_label"]))
+            indices = [
+                index
+                for index, label in enumerate(aggregate["labels"])
+                if _uik_number(label) == wanted
+            ]
+            if not indices:
+                failures.append({"url": row["url"], "reason": "UIK column missing"})
+                continue
+            column_index = indices[0] + 3
+        else:
+            column_index = 2
+        compared = 0
+        mismatched: list[str] = []
+        for values in aggregate["table"]:
+            if len(values) <= column_index or values[1] not in direct:
+                continue
+            compared += 1
+            if _integer(values[column_index]) != direct[values[1]]:
+                mismatched.append(values[1])
+        if mismatched:
+            failures.append(
+                {
+                    "url": row["url"],
+                    "reason": "direct protocol differs from aggregate column",
+                    "labels": mismatched,
+                }
+            )
+        else:
+            summary(row)["direct_aggregate_rows_reconciled"] += compared
+
+    return {
+        "schema_version": 1,
+        "valid": not failures,
+        "failures": failures,
+        "summaries": [
+            {"year": year, "contest": contest, **dict(sorted(values.items()))}
+            for (year, contest), values in sorted(summaries.items())
+        ],
+    }
+
+
+def validate_samples(args: argparse.Namespace) -> int:
+    report = load_object(args.probe_report)
+    store_root = Path(str(report.get("plan", {}).get("raw_dir", DEFAULT_RAW)))
+    result = validate_sample_observations(report, store_root)
+    json_write(args.output, result)
+    print(json.dumps(result, ensure_ascii=False, indent=2))
+    return 0 if result["valid"] else 1
 
 
 def classify_saved(args: argparse.Namespace) -> int:
@@ -473,34 +889,53 @@ def archive_timestamp(url: str) -> str | None:
     return None
 
 
-def extract_direct_protocol(payload: bytes) -> dict[str, Any]:
+def extract_direct_protocol(
+    payload: bytes, *, commission_name: str = ""
+) -> dict[str, Any]:
     source, encoding = decode_text(payload)
     document = lxml_html.fromstring(source)
-    commission_name = ""
+    decoded_tables = decode_script_tables(source)
+    if decoded_tables:
+        tables = decoded_tables
+    else:
+        tables = [
+            [
+                [
+                    " ".join(
+                        (
+                            cell.xpath("string(.//b[1])")
+                            if index == 2 and cell.xpath(".//b[1]")
+                            else cell.text_content()
+                        ).split()
+                    )
+                    for index, cell in enumerate(row.xpath("./th|./td"))
+                ]
+                for row in table.xpath(".//tr")
+            ]
+            for table in document.xpath("//table")
+        ]
     numbered: dict[int, tuple[str, int]] = {}
-    for row in document.xpath("//tr"):
-        cells = row.xpath("./th|./td")
-        if len(cells) < 2:
-            continue
-        values = [" ".join(cell.text_content().split()) for cell in cells]
-        if values[0] == "Наименование Избирательной комиссии" and len(values) > 1:
-            commission_name = values[1]
-            continue
-        if len(cells) < 3 or not values[0].isdigit():
-            continue
-        label = values[1]
-        bold = " ".join(cells[2].xpath("string(.//b[1])").split())
-        match = INTEGER_RE.match(bold or values[2])
-        if not label or not match:
-            continue
-        number = int(values[0])
-        candidate = (label, int(match.group(1)))
-        previous = numbered.get(number)
-        if previous is not None and previous != candidate:
-            raise ValueError(
-                f"conflicting protocol row {number}: {previous} vs {candidate}"
-            )
-        numbered[number] = candidate
+    for table in tables:
+        for values in table:
+            if len(values) < 2:
+                continue
+            if values[0] == "Наименование Избирательной комиссии":
+                commission_name = commission_name or values[1]
+                continue
+            if len(values) < 3 or not values[0].isdigit():
+                continue
+            label = values[1]
+            match = INTEGER_RE.match(values[2])
+            if not label or not match:
+                continue
+            number = int(values[0])
+            candidate = (label, int(match.group(1)))
+            previous = numbered.get(number)
+            if previous is not None and previous != candidate:
+                raise ValueError(
+                    f"conflicting protocol row {number}: {previous} vs {candidate}"
+                )
+            numbered[number] = candidate
     if not commission_name or len(numbered) < 3:
         raise ValueError("page has no direct commission protocol")
     accounting = {
@@ -519,9 +954,9 @@ def extract_direct_protocol(payload: bytes) -> dict[str, Any]:
         (
             label
             for label in accounting
-            if label.casefold().startswith(
-                "число действительных избирательных бюллетеней"
-            )
+            if "действительных" in label.casefold()
+            and "бюллетен" in label.casefold()
+            and "недействительных" not in label.casefold()
         ),
         None,
     )
@@ -550,34 +985,67 @@ def generate_samples(args: argparse.Namespace) -> int:
     if not isinstance(observations, list):
         raise TypeError(f"{args.probe_report} has no observations array")
     store_root = Path(str(report.get("plan", {}).get("raw_dir", DEFAULT_RAW)))
+    direct_classes = {
+        "gas-tik-summary",
+        "gas-tik-direct-protocol",
+        "gas-uik-direct-protocol",
+    }
+    selected_years = set(args.year)
     generated = 0
-    for row in observations:
+    generated_years: set[int] = set()
+    relations: dict[int, dict[str, dict[str, Any]]] = {}
+    destinations: set[Path] = set()
+    sortable = [row for row in observations if isinstance(row, dict)]
+    sortable.sort(
+        key=lambda row: (
+            int(row.get("year", 0)),
+            str(row.get("request_class", "")),
+            int(row.get("report_type", 0)),
+            str(row.get("entity_tvd", "")),
+            str(row.get("uik_tvd", "")),
+        )
+    )
+    for row in sortable:
         if (
-            not isinstance(row, dict)
-            or row.get("request_class") != "gas-tik-summary"
+            row.get("request_class") not in direct_classes
             or int(row.get("status", 0)) != 200
             or not row.get("body_path")
         ):
             continue
         year = int(row["year"])
-        if args.year and year not in set(args.year):
+        if selected_years and year not in selected_years:
             continue
         report_type = int(
-            urllib.parse.parse_qs(urllib.parse.urlsplit(str(row["url"])).query)["type"][
-                0
-            ]
+            row.get("report_type")
+            or urllib.parse.parse_qs(urllib.parse.urlsplit(str(row["url"])).query)[
+                "type"
+            ][0]
         )
-        entity_tvd = str(row["entity_tvd"])
-        protocol = extract_direct_protocol((store_root / row["body_path"]).read_bytes())
+        is_uik = row.get("request_class") == "gas-uik-direct-protocol"
+        level = "uik" if is_uik else "tik"
+        entity_tvd = str(row["uik_tvd"] if is_uik else row["entity_tvd"])
+        commission_name = str(
+            row.get("uik_label") if is_uik else row.get("entity_label") or ""
+        )
+        protocol = extract_direct_protocol(
+            (store_root / row["body_path"]).read_bytes(),
+            commission_name=commission_name,
+        )
+        extraction_method = (
+            "randomized-inline-javascript-direct-protocol"
+            if row.get("family") == "randomized-inline-javascript"
+            else "plain-html-direct-protocol"
+        )
         value = {
             "election": f"{year}-duma",
             "electionVrn": str(row["election_vrn"]),
-            "protocol": "party",
+            "protocol": str(row.get("contest") or "party"),
             "reportType": report_type,
             "commission": {
-                "level": "tik",
+                "level": level,
                 "name": protocol["commission_name"],
                 "tvd": entity_tvd,
+                "tikTvd": str(row["entity_tvd"]) if is_uik else None,
                 "region": row.get("region_label"),
             },
             "accounting": protocol["accounting"],
@@ -591,32 +1059,115 @@ def generate_samples(args: argparse.Namespace) -> int:
                 "sha256": row["sha256"],
                 "provenance": row.get("provenance"),
                 "encoding": protocol["encoding"],
-                "extractionMethod": "plain-html-direct-protocol",
+                "extractionMethod": extraction_method,
                 "derivation": "direct",
+                "hierarchyEvidence": {
+                    "path": row.get("hierarchy_evidence_path"),
+                    "sha256": row.get("hierarchy_evidence_sha256"),
+                }
+                if row.get("hierarchy_evidence_sha256")
+                else None,
             },
         }
         destination = (
             args.output_root
             / f"{year}-duma"
             / "protocol"
-            / "tic"
+            / ("uik" if is_uik else "tic")
             / str(report_type)
             / f"{entity_tvd}.ts"
         )
-        declaration = f"duma_{year}_tic_{report_type}_{entity_tvd}"
+        if destination in destinations:
+            raise ValueError(f"duplicate generated protocol destination: {destination}")
+        destinations.add(destination)
+        declaration = f"duma_{year}_{level}_{report_type}_{entity_tvd}"
+        protocol_type = "HistoricalUikProtocol" if is_uik else "HistoricalTikProtocol"
         content = (
             "// This file is autogenerated by proper-data/crawler/historical.py.\n"
             "// Do not edit it manually.\n\n"
-            'import type { HistoricalTikProtocol } from "../../types";\n\n'
-            f"export const {declaration} = {_ts_literal(value)} satisfies HistoricalTikProtocol;\n"
+            f'import type {{ {protocol_type} }} from "../../types";\n\n'
+            f"export const {declaration} = {_ts_literal(value)} satisfies {protocol_type};\n"
         )
         atomic_write(destination, content.encode("utf-8"))
         generated += 1
+        generated_years.add(year)
+        if is_uik:
+            relations.setdefault(year, {})[entity_tvd] = {
+                "uikTvd": entity_tvd,
+                "uikNumber": _uik_number(str(row["uik_label"])),
+                "tikTvd": str(row["entity_tvd"]),
+                "tikName": row["entity_label"],
+                "region": row.get("region_label"),
+                "hierarchyEvidence": {
+                    "path": row.get("hierarchy_evidence_path"),
+                    "sha256": row.get("hierarchy_evidence_sha256"),
+                },
+            }
     if not generated:
-        raise ValueError("no verified direct TIK protocols matched")
+        raise ValueError("no verified direct protocols matched")
+    for year in sorted(generated_years):
+        types = f'''// This file is autogenerated by proper-data/crawler/historical.py.
+// Do not edit it manually.
+
+export type HistoricalProtocolSource = Readonly<{{
+  requestedUrl: string;
+  finalUrl: string | null;
+  retrievedAt: string | null;
+  archiveCaptureTimestamp: string | null;
+  sha256: string;
+  provenance: "live-official" | "wayback";
+  encoding: string;
+  extractionMethod: "plain-html-direct-protocol" | "randomized-inline-javascript-direct-protocol";
+  derivation: "direct";
+  hierarchyEvidence: Readonly<{{ path: string | null; sha256: string | null }}> | null;
+}}>;
+
+type HistoricalProtocol = Readonly<{{
+  election: "{year}-duma";
+  electionVrn: string;
+  protocol: "party" | "candidate";
+  reportType: number;
+  accounting: Readonly<Record<string, number>>;
+  votes: Readonly<Record<string, number>>;
+  validation: Readonly<{{
+    vote_sum: number;
+    valid_ballots: number | null;
+    vote_sum_matches_valid_ballots: boolean;
+  }}>;
+  source: HistoricalProtocolSource;
+}}>;
+
+export type HistoricalTikProtocol = HistoricalProtocol & Readonly<{{
+  commission: Readonly<{{ level: "tik"; name: string; tvd: string; tikTvd: null; region: string | null }}>;
+}}>;
+
+export type HistoricalUikProtocol = HistoricalProtocol & Readonly<{{
+  commission: Readonly<{{ level: "uik"; name: string; tvd: string; tikTvd: string; region: string | null }}>;
+}}>;
+'''
+        atomic_write(
+            args.output_root / f"{year}-duma" / "protocol" / "types.ts",
+            types.encode("utf-8"),
+        )
+        relation_value = [relations[year][key] for key in sorted(relations.get(year, {}))]
+        relation_source = (
+            "// This file is autogenerated by proper-data/crawler/historical.py.\n"
+            "// Do not edit it manually.\n\n"
+            f"export const duma_{year}_uik_to_tik = "
+            f"{_ts_literal(relation_value)} as const;\n"
+        )
+        atomic_write(
+            args.output_root / f"{year}-duma" / "uik-to-tik.ts",
+            relation_source.encode("utf-8"),
+        )
     print(
         json.dumps(
-            {"generated": generated, "output_root": str(args.output_root)}, indent=2
+            {
+                "generated_protocols": generated,
+                "years": sorted(generated_years),
+                "output_root": str(args.output_root),
+            },
+            indent=2,
         )
     )
     return 0
@@ -666,6 +1217,15 @@ def parser() -> argparse.ArgumentParser:
     command.add_argument("--year", type=int, action="append", default=[])
     command.add_argument("--output-root", type=Path, default=Path("proper-data"))
     command.set_defaults(func=generate_samples)
+    command = sub.add_parser("make-sample-spec")
+    command.add_argument("--hierarchy-report", type=Path, required=True)
+    command.add_argument("--selections", type=Path, required=True)
+    command.add_argument("--output", type=Path, required=True)
+    command.set_defaults(func=make_sample_spec)
+    command = sub.add_parser("validate-samples")
+    command.add_argument("--probe-report", type=Path, required=True)
+    command.add_argument("--output", type=Path, required=True)
+    command.set_defaults(func=validate_samples)
     command = sub.add_parser("classify")
     command.add_argument("--input", type=Path, required=True)
     command.add_argument("--direct-protocol", action="store_true")

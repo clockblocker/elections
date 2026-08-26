@@ -6,6 +6,7 @@
       "request_class": "official-static-result",
       "contest": "party",
       "expected_granularity": "national-summary",
+      "live_url": "http://www.cikrf.ru/banners/vib_arhiv/gosduma/1993/1993_itogi_FS_obshefed_okrug.php",
       "url": "https://web.archive.org/web/20110520004359id_/http://cikrf.ru/banners/vib_arhiv/gosduma/1993/1993_itogi_FS_obshefed_okrug.html"
     },
     {
@@ -13,6 +14,7 @@
       "request_class": "official-static-result",
       "contest": "candidate",
       "expected_granularity": "district-summary",
+      "live_url": "http://www.cikrf.ru/banners/vib_arhiv/gosduma/1993/1993_itogi_FS_GD.php",
       "url": "https://web.archive.org/web/20110520004359id_/http://cikrf.ru/banners/vib_arhiv/gosduma/1993/1993_itogi_FS_GD.html"
     },
     {
@@ -20,6 +22,7 @@
       "request_class": "official-machine-readable-protocol",
       "contest": "candidate",
       "expected_granularity": "tik",
+      "live_url": "http://www.cikrf.ru/banners/vib_arhiv/gosduma/1995/files/1995-1-TIK-usech.xls",
       "url": "https://web.archive.org/web/20101224031159id_/http://cikrf.ru/banners/vib_arhiv/gosduma/1995/files/1995-1-TIK-usech.xls"
     },
     {
@@ -27,6 +30,7 @@
       "request_class": "official-machine-readable-protocol",
       "contest": "party",
       "expected_granularity": "tik",
+      "live_url": "http://www.cikrf.ru/banners/vib_arhiv/gosduma/1995/files/1995-2-TIK-usech.xls",
       "url": "https://web.archive.org/web/20101224031159id_/http://cikrf.ru/banners/vib_arhiv/gosduma/1995/files/1995-2-TIK-usech.xls"
     },
     {
@@ -34,6 +38,7 @@
       "request_class": "official-machine-readable-protocol",
       "contest": "candidate",
       "expected_granularity": "tik",
+      "live_url": "http://www.cikrf.ru/banners/vib_arhiv/gosduma/1999/files/1999-1-TIK-usech.xls",
       "url": "https://web.archive.org/web/20110520004409id_/http://cikrf.ru/banners/vib_arhiv/gosduma/1999/files/1999-1-TIK-usech.xls"
     },
     {
@@ -41,6 +46,7 @@
       "request_class": "official-machine-readable-protocol",
       "contest": "party",
       "expected_granularity": "tik",
+      "live_url": "http://www.cikrf.ru/banners/vib_arhiv/gosduma/1999/files/1999-2-TIK-usech.xls",
       "url": "https://web.archive.org/web/20110520004409id_/http://cikrf.ru/banners/vib_arhiv/gosduma/1999/files/1999-2-TIK-usech.xls"
     },
     {
@@ -359,6 +365,371 @@
       "entity_tvd": "2772000306462",
       "report_type": 233,
       "url": "https://web.archive.org/web/20111213195920id_/http://www.vybory.izbirkom.ru/region/region/izbirkom?action=show&root=772000013&tvd=2772000306462&vrn=100100028713299&region=0&global=true&sub_region=0&prver=0&pronetvd=null&type=233"
+    },
+    {
+      "year": 2003,
+      "election_vrn": "100100095619",
+      "request_class": "gas-hierarchy-root",
+      "contest": "all",
+      "expected_granularity": "region-navigation",
+      "url": "http://old.izbirkom.ru/tvdTree?vrn=100100095619"
+    },
+    {
+      "year": 2007,
+      "election_vrn": "100100021960181",
+      "request_class": "gas-hierarchy-root",
+      "contest": "all",
+      "expected_granularity": "region-navigation",
+      "url": "http://old.izbirkom.ru/tvdTree?vrn=100100021960181"
+    },
+    {
+      "year": 2011,
+      "election_vrn": "100100028713299",
+      "request_class": "gas-hierarchy-root",
+      "contest": "all",
+      "expected_granularity": "region-navigation",
+      "url": "http://old.izbirkom.ru/tvdTree?vrn=100100028713299"
+    },
+    {
+      "year": 2016,
+      "election_vrn": "100100067795849",
+      "request_class": "gas-hierarchy-root",
+      "contest": "all",
+      "expected_granularity": "region-navigation",
+      "url": "http://old.izbirkom.ru/tvdTree?vrn=100100067795849"
+    },
+    {
+      "year": 2003,
+      "election_vrn": "100100095619",
+      "request_class": "gas-hierarchy-children",
+      "contest": "all",
+      "expected_granularity": "district-or-tik-navigation",
+      "region_label": "Камчатская область",
+      "entity_tvd": "100100095670",
+      "url": "http://old.izbirkom.ru/region/izbirkom?action=tvdTree&tvdchildren=true&vrn=100100095619&tvd=100100095670"
+    },
+    {
+      "year": 2003,
+      "election_vrn": "100100095619",
+      "request_class": "gas-hierarchy-children",
+      "contest": "all",
+      "expected_granularity": "district-or-tik-navigation",
+      "region_label": "Город Москва",
+      "entity_tvd": "100100095689",
+      "url": "http://old.izbirkom.ru/region/izbirkom?action=tvdTree&tvdchildren=true&vrn=100100095619&tvd=100100095689"
+    },
+    {
+      "year": 2007,
+      "election_vrn": "100100021960181",
+      "request_class": "gas-hierarchy-children",
+      "contest": "all",
+      "expected_granularity": "district-or-tik-navigation",
+      "region_label": "Камчатский край",
+      "entity_tvd": "100100021960365",
+      "url": "http://old.izbirkom.ru/region/izbirkom?action=tvdTree&tvdchildren=true&vrn=100100021960181&tvd=100100021960365"
+    },
+    {
+      "year": 2007,
+      "election_vrn": "100100021960181",
+      "request_class": "gas-hierarchy-children",
+      "contest": "all",
+      "expected_granularity": "district-or-tik-navigation",
+      "region_label": "Город Москва",
+      "entity_tvd": "100100021960337",
+      "url": "http://old.izbirkom.ru/region/izbirkom?action=tvdTree&tvdchildren=true&vrn=100100021960181&tvd=100100021960337"
+    },
+    {
+      "year": 2011,
+      "election_vrn": "100100028713299",
+      "request_class": "gas-hierarchy-children",
+      "contest": "all",
+      "expected_granularity": "district-or-tik-navigation",
+      "region_label": "Камчатский край",
+      "entity_tvd": "100100028713483",
+      "url": "http://old.izbirkom.ru/region/izbirkom?action=tvdTree&tvdchildren=true&vrn=100100028713299&tvd=100100028713483"
+    },
+    {
+      "year": 2011,
+      "election_vrn": "100100028713299",
+      "request_class": "gas-hierarchy-children",
+      "contest": "all",
+      "expected_granularity": "district-or-tik-navigation",
+      "region_label": "Город Москва",
+      "entity_tvd": "100100028713457",
+      "url": "http://old.izbirkom.ru/region/izbirkom?action=tvdTree&tvdchildren=true&vrn=100100028713299&tvd=100100028713457"
+    },
+    {
+      "year": 2016,
+      "election_vrn": "100100067795849",
+      "request_class": "gas-hierarchy-children",
+      "contest": "all",
+      "expected_granularity": "district-or-tik-navigation",
+      "region_label": "Камчатский край",
+      "entity_tvd": "100100067796154",
+      "url": "http://old.izbirkom.ru/region/izbirkom?action=tvdTree&tvdchildren=true&vrn=100100067795849&tvd=100100067796154"
+    },
+    {
+      "year": 2016,
+      "election_vrn": "100100067795849",
+      "request_class": "gas-hierarchy-children",
+      "contest": "all",
+      "expected_granularity": "district-or-tik-navigation",
+      "region_label": "город Москва",
+      "entity_tvd": "100100067796113",
+      "url": "http://old.izbirkom.ru/region/izbirkom?action=tvdTree&tvdchildren=true&vrn=100100067795849&tvd=100100067796113"
+    },
+    {
+      "year": 2003,
+      "election_vrn": "100100095619",
+      "request_class": "gas-hierarchy-children",
+      "contest": "all",
+      "expected_granularity": "tik-navigation",
+      "region_label": "Камчатская область",
+      "entity_label": "Камчатский",
+      "entity_tvd": "100100095671",
+      "url": "http://old.izbirkom.ru/region/izbirkom?action=tvdTree&tvdchildren=true&vrn=100100095619&tvd=100100095671"
+    },
+    {
+      "year": 2003,
+      "election_vrn": "100100095619",
+      "request_class": "gas-hierarchy-children",
+      "contest": "all",
+      "expected_granularity": "tik-navigation",
+      "region_label": "Город Москва",
+      "entity_label": "Автозаводский",
+      "entity_tvd": "100100095690",
+      "url": "http://old.izbirkom.ru/region/izbirkom?action=tvdTree&tvdchildren=true&vrn=100100095619&tvd=100100095690"
+    },
+    {
+      "year": 2003,
+      "election_vrn": "100100095619",
+      "request_class": "gas-hierarchy-children",
+      "contest": "all",
+      "expected_granularity": "tik-navigation",
+      "region_label": "Город Москва",
+      "entity_label": "Бабушкинский",
+      "entity_tvd": "100100095691",
+      "url": "http://old.izbirkom.ru/region/izbirkom?action=tvdTree&tvdchildren=true&vrn=100100095619&tvd=100100095691"
+    },
+    {
+      "year": 2007,
+      "election_vrn": "100100021960181",
+      "request_class": "gas-hierarchy-children",
+      "contest": "party",
+      "expected_granularity": "uik-navigation",
+      "region_label": "Камчатский край",
+      "entity_label": "Алеутская",
+      "entity_tvd": "2412000110839",
+      "url": "http://old.izbirkom.ru/region/izbirkom?action=tvdTree&tvdchildren=true&vrn=100100021960181&tvd=2412000110839"
+    },
+    {
+      "year": 2007,
+      "election_vrn": "100100021960181",
+      "request_class": "gas-hierarchy-children",
+      "contest": "party",
+      "expected_granularity": "uik-navigation",
+      "region_label": "Камчатский край",
+      "entity_label": "Петропавловск-Камчатская городская",
+      "entity_tvd": "2412000110844",
+      "url": "http://old.izbirkom.ru/region/izbirkom?action=tvdTree&tvdchildren=true&vrn=100100021960181&tvd=2412000110844"
+    },
+    {
+      "year": 2007,
+      "election_vrn": "100100021960181",
+      "request_class": "gas-hierarchy-children",
+      "contest": "party",
+      "expected_granularity": "tik-navigation",
+      "region_label": "Город Москва",
+      "entity_label": "Город Москва - Восточная",
+      "entity_tvd": "100100021960338",
+      "url": "http://old.izbirkom.ru/region/izbirkom?action=tvdTree&tvdchildren=true&vrn=100100021960181&tvd=100100021960338"
+    },
+    {
+      "year": 2011,
+      "election_vrn": "100100028713299",
+      "request_class": "gas-hierarchy-children",
+      "contest": "party",
+      "expected_granularity": "uik-navigation",
+      "region_label": "Камчатский край",
+      "entity_label": "Алеутская",
+      "entity_tvd": "2412000214202",
+      "url": "http://old.izbirkom.ru/region/izbirkom?action=tvdTree&tvdchildren=true&vrn=100100028713299&tvd=2412000214202"
+    },
+    {
+      "year": 2011,
+      "election_vrn": "100100028713299",
+      "request_class": "gas-hierarchy-children",
+      "contest": "party",
+      "expected_granularity": "uik-navigation",
+      "region_label": "Камчатский край",
+      "entity_label": "Петропавловск-Камчатская городская",
+      "entity_tvd": "2412000214207",
+      "url": "http://old.izbirkom.ru/region/izbirkom?action=tvdTree&tvdchildren=true&vrn=100100028713299&tvd=2412000214207"
+    },
+    {
+      "year": 2016,
+      "election_vrn": "100100067795849",
+      "request_class": "gas-hierarchy-children",
+      "contest": "party-and-candidate",
+      "expected_granularity": "tik-navigation",
+      "region_label": "Камчатский край",
+      "entity_label": "Камчатский край - Камчатский",
+      "entity_tvd": "100100067796155",
+      "url": "http://old.izbirkom.ru/region/izbirkom?action=tvdTree&tvdchildren=true&vrn=100100067795849&tvd=100100067796155"
+    },
+    {
+      "year": 2016,
+      "election_vrn": "100100067795849",
+      "request_class": "gas-hierarchy-children",
+      "contest": "party-and-candidate",
+      "expected_granularity": "tik-navigation",
+      "region_label": "город Москва",
+      "entity_label": "Город Москва - Бабушкинский",
+      "entity_tvd": "100100067796114",
+      "url": "http://old.izbirkom.ru/region/izbirkom?action=tvdTree&tvdchildren=true&vrn=100100067795849&tvd=100100067796114"
+    },
+    {
+      "year": 2016,
+      "election_vrn": "100100067795849",
+      "request_class": "gas-hierarchy-children",
+      "contest": "party-and-candidate",
+      "expected_granularity": "tik-navigation",
+      "region_label": "город Москва",
+      "entity_label": "Город Москва - Кунцевский",
+      "entity_tvd": "100100067796115",
+      "url": "http://old.izbirkom.ru/region/izbirkom?action=tvdTree&tvdchildren=true&vrn=100100067795849&tvd=100100067796115"
+    },
+    {
+      "year": 2003,
+      "election_vrn": "100100095619",
+      "request_class": "gas-hierarchy-children",
+      "contest": "party-and-candidate",
+      "expected_granularity": "uik-navigation",
+      "region_label": "Камчатская область",
+      "entity_label": "Алеутская",
+      "entity_tvd": "241200066971",
+      "url": "http://old.izbirkom.ru/region/izbirkom?action=tvdTree&tvdchildren=true&vrn=100100095619&tvd=241200066971"
+    },
+    {
+      "year": 2003,
+      "election_vrn": "100100095619",
+      "request_class": "gas-hierarchy-children",
+      "contest": "party-and-candidate",
+      "expected_granularity": "uik-navigation",
+      "region_label": "Камчатская область",
+      "entity_label": "Петропавловск-Камчатская городская",
+      "entity_tvd": "241200066966",
+      "url": "http://old.izbirkom.ru/region/izbirkom?action=tvdTree&tvdchildren=true&vrn=100100095619&tvd=241200066966"
+    },
+    {
+      "year": 2003,
+      "election_vrn": "100100095619",
+      "request_class": "gas-hierarchy-children",
+      "contest": "party-and-candidate",
+      "expected_granularity": "uik-navigation",
+      "region_label": "Город Москва",
+      "entity_label": "Район Лефортово",
+      "entity_tvd": "377300170415",
+      "url": "http://old.izbirkom.ru/region/izbirkom?action=tvdTree&tvdchildren=true&vrn=100100095619&tvd=377300170415"
+    },
+    {
+      "year": 2003,
+      "election_vrn": "100100095619",
+      "request_class": "gas-hierarchy-children",
+      "contest": "party-and-candidate",
+      "expected_granularity": "uik-navigation",
+      "region_label": "Город Москва",
+      "entity_label": "Нижегородский район",
+      "entity_tvd": "377300170417",
+      "url": "http://old.izbirkom.ru/region/izbirkom?action=tvdTree&tvdchildren=true&vrn=100100095619&tvd=377300170417"
+    },
+    {
+      "year": 2007,
+      "election_vrn": "100100021960181",
+      "request_class": "gas-hierarchy-children",
+      "contest": "party",
+      "expected_granularity": "uik-navigation",
+      "region_label": "Город Москва",
+      "entity_label": "район Богородское",
+      "entity_tvd": "2772000200305",
+      "url": "http://old.izbirkom.ru/region/izbirkom?action=tvdTree&tvdchildren=true&vrn=100100021960181&tvd=2772000200305"
+    },
+    {
+      "year": 2007,
+      "election_vrn": "100100021960181",
+      "request_class": "gas-hierarchy-children",
+      "contest": "party",
+      "expected_granularity": "uik-navigation",
+      "region_label": "Город Москва",
+      "entity_label": "район Восточное Измайлово",
+      "entity_tvd": "2772000200304",
+      "url": "http://old.izbirkom.ru/region/izbirkom?action=tvdTree&tvdchildren=true&vrn=100100021960181&tvd=2772000200304"
+    },
+    {
+      "year": 2011,
+      "election_vrn": "100100028713299",
+      "request_class": "gas-hierarchy-children",
+      "contest": "party",
+      "expected_granularity": "uik-navigation",
+      "region_label": "Город Москва",
+      "entity_label": "район Богородское",
+      "entity_tvd": "2772000306450",
+      "url": "http://old.izbirkom.ru/region/izbirkom?action=tvdTree&tvdchildren=true&vrn=100100028713299&tvd=2772000306450"
+    },
+    {
+      "year": 2011,
+      "election_vrn": "100100028713299",
+      "request_class": "gas-hierarchy-children",
+      "contest": "party",
+      "expected_granularity": "uik-navigation",
+      "region_label": "Город Москва",
+      "entity_label": "район Лефортово",
+      "entity_tvd": "2772000306462",
+      "url": "http://old.izbirkom.ru/region/izbirkom?action=tvdTree&tvdchildren=true&vrn=100100028713299&tvd=2772000306462"
+    },
+    {
+      "year": 2016,
+      "election_vrn": "100100067795849",
+      "request_class": "gas-hierarchy-children",
+      "contest": "party-and-candidate",
+      "expected_granularity": "uik-navigation",
+      "region_label": "Камчатский край",
+      "entity_label": "Алеутская",
+      "entity_tvd": "2412000368066",
+      "url": "http://old.izbirkom.ru/region/izbirkom?action=tvdTree&tvdchildren=true&vrn=100100067795849&tvd=2412000368066"
+    },
+    {
+      "year": 2016,
+      "election_vrn": "100100067795849",
+      "request_class": "gas-hierarchy-children",
+      "contest": "party-and-candidate",
+      "expected_granularity": "uik-navigation",
+      "region_label": "Камчатский край",
+      "entity_label": "Петропавловск-Камчатская городская",
+      "entity_tvd": "2412000368069",
+      "url": "http://old.izbirkom.ru/region/izbirkom?action=tvdTree&tvdchildren=true&vrn=100100067795849&tvd=2412000368069"
+    },
+    {
+      "year": 2016,
+      "election_vrn": "100100067795849",
+      "request_class": "gas-hierarchy-children",
+      "contest": "party-and-candidate",
+      "expected_granularity": "uik-navigation",
+      "region_label": "город Москва",
+      "entity_label": "район Богородское",
+      "entity_tvd": "27720001659695",
+      "url": "http://old.izbirkom.ru/region/izbirkom?action=tvdTree&tvdchildren=true&vrn=100100067795849&tvd=27720001659695"
+    },
+    {
+      "year": 2016,
+      "election_vrn": "100100067795849",
+      "request_class": "gas-hierarchy-children",
+      "contest": "party-and-candidate",
+      "expected_granularity": "uik-navigation",
+      "region_label": "город Москва",
+      "entity_label": "район Кунцево",
+      "entity_tvd": "27720001659701",
+      "url": "http://old.izbirkom.ru/region/izbirkom?action=tvdTree&tvdchildren=true&vrn=100100067795849&tvd=27720001659701"
     }
   ]
 }
