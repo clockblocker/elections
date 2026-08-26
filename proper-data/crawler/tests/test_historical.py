@@ -10,6 +10,7 @@ CRAWLER = Path(__file__).parents[1]
 FIXTURES = Path(__file__).parent / "fixtures"
 sys.path.insert(0, str(CRAWLER))
 
+from decode_script_result import decode_script_tables
 from historical import (
     _uik_number,
     build_sample_requests,
@@ -19,7 +20,6 @@ from historical import (
     make_plan,
     spec_requests,
 )
-from decode_script_result import decode_script_tables
 from shared_rate import SharedRateLimiter
 
 
