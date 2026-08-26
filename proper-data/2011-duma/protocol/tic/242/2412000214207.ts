@@ -3,7 +3,7 @@
 
 import type { HistoricalTikProtocol } from "../../types";
 
-export const duma_2011_tic_242_2412000214207 = {
+export const duma_2011_tik_242_2412000214207 = {
   "election": "2011-duma",
   "electionVrn": "100100028713299",
   "protocol": "party",
@@ -12,6 +12,7 @@ export const duma_2011_tic_242_2412000214207 = {
     "level": "tik",
     "name": "Петропавловск-Камчатская городская",
     "tvd": "2412000214207",
+    "tikTvd": null,
     "region": "Камчатский край"
   },
   "accounting": {
@@ -49,14 +50,18 @@ export const duma_2011_tic_242_2412000214207 = {
     "vote_sum_matches_valid_ballots": true
   },
   "source": {
-    "requestedUrl": "https://web.archive.org/web/20111211041142id_/http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=412000006&tvd=2412000214207&vrn=100100028713299&prver=0&pronetvd=null&region=0&sub_region=0&type=242&vibid=2412000214207",
-    "finalUrl": "https://web.archive.org/web/20111212002836id_/http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=412000006&tvd=2412000214207&vrn=100100028713299&prver=0&pronetvd=null&region=0&sub_region=0&type=242&vibid=2412000214207",
-    "retrievedAt": "2026-08-24T07:14:15.207663+00:00",
-    "archiveCaptureTimestamp": "20111212002836",
-    "sha256": "18e8aa946a4c58b3c78d131b9d89e4e829350c7793feabec38f0661eb04e8f91",
-    "provenance": "wayback",
+    "requestedUrl": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=412000006&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=2412000214207&region=0&sub_region=0&vibid=2412000214207&type=242",
+    "finalUrl": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=412000006&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=2412000214207&region=0&sub_region=0&vibid=2412000214207&type=242",
+    "retrievedAt": "2026-08-26T07:35:14.216389+00:00",
+    "archiveCaptureTimestamp": null,
+    "sha256": "81861c8a8078e039d1e79e426fbb561e49986443034ec8447bc04b294a92f113",
+    "provenance": "live-official",
     "encoding": "windows-1251",
-    "extractionMethod": "plain-html-direct-protocol",
-    "derivation": "direct"
+    "extractionMethod": "randomized-inline-javascript-direct-protocol",
+    "derivation": "direct",
+    "hierarchyEvidence": {
+      "path": "sha256/49/49900df23ac2d0a1d2389a4bc71aa6bfc0b167d8a694717f286bd9a1436d38ce",
+      "sha256": "49900df23ac2d0a1d2389a4bc71aa6bfc0b167d8a694717f286bd9a1436d38ce"
+    }
   }
 } satisfies HistoricalTikProtocol;

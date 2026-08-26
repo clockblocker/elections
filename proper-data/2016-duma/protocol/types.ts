@@ -15,7 +15,7 @@ export type HistoricalProtocolSource = Readonly<{
 }>;
 
 type HistoricalProtocol = Readonly<{
-  election: "2011-duma";
+  election: "2016-duma";
   electionVrn: string;
   protocol: "party" | "candidate";
   reportType: number;
