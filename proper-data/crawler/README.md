@@ -259,6 +259,87 @@ Use `--source-mode live-only` to prohibit Wayback or `archive-fallback` to plan 
 classes. A live-host timeout is an observation about that route, not proof that the
 election is absent.
 
+## Nationwide historical Duma crawls (2003–2016)
+
+`historical_nationwide.py` promotes the verified 2003, 2007, 2011, and 2016 formats
+into the same restartable hierarchy → plan → crawl → build → validate workflow used
+for 2021. Election identities and the verified report-type semantics are checked in
+`historical-nationwide.json`. Every request uses the shared global rate scheduler and
+the raw manifest remains the atomic restart checkpoint.
+
+For each `YEAR` in `2003 2007 2011 2016`, run:
+
+```sh
+backend/.venv/bin/python proper-data/crawler/historical_nationwide.py discover \
+  --year YEAR --raw-dir data/raw/gas-duma-YEAR \
+  --output reports/generated/gas-duma-YEAR/hierarchy.json
+
+backend/.venv/bin/python proper-data/crawler/historical_nationwide.py plan \
+  --year YEAR --raw-dir data/raw/gas-duma-YEAR \
+  --hierarchy reports/generated/gas-duma-YEAR/hierarchy.json \
+  --output reports/generated/gas-duma-YEAR/plan.json
+
+backend/.venv/bin/python proper-data/crawler/historical_nationwide.py crawl \
+  --year YEAR --raw-dir data/raw/gas-duma-YEAR \
+  --plan reports/generated/gas-duma-YEAR/plan.json \
+  --report reports/generated/gas-duma-YEAR/crawl.json
+
+backend/.venv/bin/python proper-data/crawler/historical_nationwide.py build \
+  --year YEAR --raw-dir data/raw/gas-duma-YEAR \
+  --hierarchy reports/generated/gas-duma-YEAR/hierarchy.json \
+  --crawl-report reports/generated/gas-duma-YEAR/crawl.json \
+  --output reports/generated/gas-duma-YEAR/protocols.json
+
+backend/.venv/bin/python proper-data/crawler/historical_nationwide.py recover-gaps \
+  --year YEAR --raw-dir data/raw/gas-duma-YEAR \
+  --hierarchy reports/generated/gas-duma-YEAR/hierarchy.json \
+  --protocols reports/generated/gas-duma-YEAR/protocols.json \
+  --report reports/generated/gas-duma-YEAR/direct-recovery.json
+
+backend/.venv/bin/python proper-data/crawler/generate_historical_typescript.py \
+  reports/generated/gas-duma-YEAR/protocols.json \
+  --output proper-data/YEAR-duma --shard-size 250
+
+backend/.venv/bin/python proper-data/crawler/historical_nationwide.py validate \
+  --year YEAR --raw-dir data/raw/gas-duma-YEAR \
+  --hierarchy reports/generated/gas-duma-YEAR/hierarchy.json \
+  --protocols reports/generated/gas-duma-YEAR/protocols.json \
+  --recovery-report reports/generated/gas-duma-YEAR/direct-recovery.json \
+  --output proper-data/YEAR-duma/coverage.json
+```
+
+Discovery refuses promotion unless the recursive hierarchy is complete and every TIK
+has an evidence-linked official URL for every contest in that election. URLs exposed
+by TIK navigation are retained verbatim. When the older 2003 interface does not expose
+its verified leaf report types there, the URL is derived only from that TIK's exact
+hierarchy ID, the unique UIK root below it, and checked-in election/type semantics;
+the plan records `official-hierarchy-derived` provenance. Historical
+accounting rows are separated by their official `Число ...` labels rather than the
+2021-specific fixed row count. The offline build transposes each TIK's UIK columns,
+reconciles every aggregate row, and reports missing hierarchy UIKs without silently
+dropping them. Generated TypeScript is deterministically sharded by region in the
+same logical layout as 2021.
+
+### Completed nationwide historical run (2026-08-26)
+
+All four requested elections completed recursive discovery, result acquisition,
+failure-only retries, offline transposition, reconciliation, direct gap recovery,
+regional TypeScript generation, and coverage reporting. Every planned TIK result URL
+ultimately produced a validated HTTP 200 result table.
+
+| Year | Regions | TIKs | Hierarchy UIKs | Complete UIKs | Partial UIKs | Missing from columns | Reconciliation |
+| --- | ---: | ---: | ---: | ---: | ---: | ---: | --- |
+| 2003 | 89 | 2,757 | 95,396 | 95,090 both contests | 121 | 185 | 324 displayed aggregate-row differences across 19 TIKs |
+| 2007 | 86 | 2,750 | 96,246 | 96,193 party | 0 | 53 | 5 displayed aggregate-row differences across 3 TIKs |
+| 2011 | 84 | 2,746 | 95,400 | 95,225 party | 0 | 175 | passed in every TIK |
+| 2016 | 85 | 2,820 | 96,889 | 96,869 both contests | 3 | 17 | passed in every TIK |
+
+Recovery fetched every missing contest/UIK endpoint. They returned official navigation
+documents rather than protocol tables, so none was promoted. The coverage JSON files
+retain the failed recovery URL, response hash, status, and validation reason. The 2003
+and 2007 reconciliation differences are also preserved exactly as displayed by the
+official TIK tables; generation does not rewrite either the aggregate or UIK values.
+
 The checked-in controlled matrix selects exact national, region, OIK, TIK, hierarchy,
 static, and workbook requests. `probe-spec` honors `--source-mode`; exact live-only
 hierarchy endpoints are omitted from archive-only plans when no capture has been

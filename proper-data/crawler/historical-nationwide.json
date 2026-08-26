@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "elections": {
+    "2003": {
+      "election_vrn": "100100095619",
+      "root_url": "http://old.izbirkom.ru/tvdTree?vrn=100100095619",
+      "contests": {
+        "party": {"tic": 431, "uik": 430},
+        "candidate": {"tic": 429, "uik": 428}
+      }
+    },
+    "2007": {
+      "election_vrn": "100100021960181",
+      "root_url": "http://old.izbirkom.ru/tvdTree?vrn=100100021960181",
+      "contests": {
+        "party": {"tic": 233, "uik": 242}
+      }
+    },
+    "2011": {
+      "election_vrn": "100100028713299",
+      "root_url": "http://old.izbirkom.ru/tvdTree?vrn=100100028713299",
+      "contests": {
+        "party": {"tic": 233, "uik": 242}
+      }
+    },
+    "2016": {
+      "election_vrn": "100100067795849",
+      "root_url": "http://old.izbirkom.ru/tvdTree?vrn=100100067795849",
+      "contests": {
+        "party": {"tic": 233, "uik": 242},
+        "candidate": {"tic": 464, "uik": 463}
+      }
+    }
+  }
+}

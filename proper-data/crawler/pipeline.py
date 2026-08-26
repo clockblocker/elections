@@ -23,7 +23,7 @@ REPORT_KIND = {
     464: ("tic", "candidate"),
     463: ("uik", "candidate"),
 }
-UIK_RE = re.compile(r"^УИК\s*№?\s*(\d+)$", re.IGNORECASE)
+UIK_RE = re.compile(r"^(?:УИК|Участок)\s*№?\s*(\d+)$", re.IGNORECASE)
 LINK_RE = re.compile(r"href=[\"']([^\"']+)[\"']", re.IGNORECASE)
 
 
@@ -210,7 +210,13 @@ def make_plan(
     }
 
 
-def extract_report_links(payload: bytes, source_url: str) -> list[dict[str, Any]]:
+def extract_report_links(
+    payload: bytes,
+    source_url: str,
+    *,
+    election_vrn: str = DUMA_VRN,
+    report_kind: dict[int, tuple[str, str]] = REPORT_KIND,
+) -> list[dict[str, Any]]:
     source, _ = decode_text(payload)
     result = []
     for escaped in LINK_RE.findall(source):
@@ -220,7 +226,7 @@ def extract_report_links(payload: bytes, source_url: str) -> list[dict[str, Any]
             report_type = int(query.get("type", ""))
         except ValueError:
             continue
-        if report_type in REPORT_KIND and query.get("vrn") == DUMA_VRN:
+        if report_type in report_kind and query.get("vrn") == election_vrn:
             result.append({"report_type": report_type, "url": url})
     return sorted(
         {item["url"]: item for item in result}.values(), key=lambda item: item["url"]
@@ -228,7 +234,11 @@ def extract_report_links(payload: bytes, source_url: str) -> list[dict[str, Any]
 
 
 def classify_result(
-    payload: bytes, requested_type: int | None = None
+    payload: bytes,
+    requested_type: int | None = None,
+    *,
+    election_vrn: str = DUMA_VRN,
+    report_kind: dict[int, tuple[str, str]] = REPORT_KIND,
 ) -> dict[str, Any]:
     source, encoding = decode_text(payload)
     lower = source.casefold()
@@ -277,7 +287,7 @@ def classify_result(
     )
     # Legacy navigation contains an "error" menu label on otherwise valid pages;
     # a decoded protocol table is stronger evidence than that ambient word.
-    election_vrn_matches = DUMA_VRN in source
+    election_vrn_matches = election_vrn in source
     valid = bool(rows and has_accounting and numeric_valid and election_vrn_matches)
     if valid:
         error_signals = []
@@ -289,7 +299,7 @@ def classify_result(
         if party and not candidate
         else "unknown"
     )
-    expected = REPORT_KIND.get(requested_type or -1)
+    expected = report_kind.get(requested_type or -1)
     kind_matches = bool(
         expected
         and expected[1] == ballot

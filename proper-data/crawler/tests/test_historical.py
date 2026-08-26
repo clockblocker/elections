@@ -11,6 +11,7 @@ FIXTURES = Path(__file__).parent / "fixtures"
 sys.path.insert(0, str(CRAWLER))
 
 from decode_script_result import decode_script_tables
+from generate_historical_typescript import generate as generate_historical_typescript
 from historical import (
     _uik_number,
     build_sample_requests,
@@ -20,6 +21,8 @@ from historical import (
     make_plan,
     spec_requests,
 )
+from historical_nationwide import report_kind, transpose
+from pipeline import UIK_RE as NATIONWIDE_UIK_RE
 from shared_rate import SharedRateLimiter
 
 
@@ -35,6 +38,120 @@ class FakeClock:
 
 
 class HistoricalFamilyTests(unittest.TestCase):
+    def test_nationwide_typescript_generation_uses_historical_types(self):
+        source = {
+            "official_url": "http://old.izbirkom.ru/result",
+            "sha256": "a" * 64,
+            "provenance": "live-official",
+        }
+        dataset = {
+            "election": "2007-duma",
+            "contests": {"party": {"tic": 233, "uik": 242}},
+            "records": [
+                {
+                    "region": "1",
+                    "uik_number": 1,
+                    "uik_tvd": "u1",
+                    "tik_tvd": "t1",
+                    "tik_name": "Test TIK",
+                    "party_accounting": {"Число избирателей": 10},
+                    "party_votes": {"1. Партия": 10},
+                }
+            ],
+            "sources": [
+                {
+                    "tik_tvd": "t1",
+                    "tik_name": "Test TIK",
+                    "region": "1",
+                    "party": source,
+                }
+            ],
+            "tik_protocols": [
+                {
+                    "tik_tvd": "t1",
+                    "party": {
+                        "uik_count": 1,
+                        "uik_tvds": ["u1"],
+                        "accounting": {"Число избирателей": 10},
+                        "votes": {"1. Партия": 10},
+                    },
+                }
+            ],
+            "relations": [
+                {
+                    "region": "1",
+                    "uik_number": 1,
+                    "uik_tvd": "u1",
+                    "tik_tvd": "t1",
+                    "tik_name": "Test TIK",
+                }
+            ],
+        }
+        with tempfile.TemporaryDirectory() as temporary:
+            output = Path(temporary)
+            stale = output / "protocol" / "tic" / "242" / "sample.ts"
+            stale.parent.mkdir(parents=True)
+            stale.write_text("stale", encoding="utf-8")
+            result = generate_historical_typescript(dataset, output)
+            types = (output / "protocol" / "types.ts").read_text(encoding="utf-8")
+            shard = (
+                output / "protocol" / "uik" / "242" / "region-1-part-001.ts"
+            ).read_text(encoding="utf-8")
+        self.assertEqual(result["uiks"], 1)
+        self.assertIn('election: "2007-duma"', types)
+        self.assertIn('"sourceReportType": 233', shard)
+        self.assertFalse(stale.exists())
+
+    def test_nationwide_hierarchy_accepts_uchastok_uik_label(self):
+        match = NATIONWIDE_UIK_RE.fullmatch("Участок  №5031")
+        self.assertIsNotNone(match)
+        self.assertEqual(match.group(1), "5031")
+
+    def test_nationwide_transpose_detects_variable_accounting_rows(self):
+        rows = [
+            ["", "", "Сумма", "УИК №1", "УИК №2"],
+            ["1", "Число избирателей", "30", "10", "20"],
+            ["2", "Число бюллетеней", "25", "10", "15"],
+            ["3", "Число строка 3", "25", "10", "15"],
+            ["4", "Число строка 4", "25", "10", "15"],
+            ["5", "Число строка 5", "25", "10", "15"],
+            ["6", "Число строка 6", "25", "10", "15"],
+            ["7", "Число строка 7", "25", "10", "15"],
+            ["8", "Число строка 8", "25", "10", "15"],
+            ["9", "Число строка 9", "25", "10", "15"],
+            ["10", "Число строка 10", "25", "10", "15"],
+            ["11", "Число строка 11", "25", "10", "15"],
+            ["12", "Число строка 12", "25", "10", "15"],
+            ["13", "Число строка 13", "25", "10", "15"],
+            ["14", "1. Партия", "25", "10 40%", "15 60%"],
+        ]
+        uiks = {
+            1: {"node_id": "u1", "parent_id": "t1"},
+            2: {"node_id": "u2", "parent_id": "t1"},
+        }
+        records, aggregate = transpose(rows, uiks, "party")
+        self.assertEqual(len(records[0]["accounting"]), 13)
+        self.assertEqual(records[1]["party_votes"], {"1. Партия": 15})
+        self.assertEqual(aggregate["votes"], {"1. Партия": 25})
+
+    def test_nationwide_report_kind_uses_election_configuration(self):
+        self.assertEqual(
+            report_kind(
+                {
+                    "contests": {
+                        "party": {"tic": 431, "uik": 430},
+                        "candidate": {"tic": 429, "uik": 428},
+                    }
+                }
+            ),
+            {
+                431: ("tic", "party"),
+                430: ("uik", "party"),
+                429: ("tic", "candidate"),
+                428: ("uik", "candidate"),
+            },
+        )
+
     def fixture_payload(self) -> bytes:
         return (
             (FIXTURES / "historical_plain.html")

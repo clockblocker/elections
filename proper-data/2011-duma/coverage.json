@@ -1,0 +1,2738 @@
+{
+  "schema_version": 1,
+  "election": "2011-duma",
+  "regions": [
+    {
+      "region": "1",
+      "discovered_tik_count": 9,
+      "discovered_uik_count": 263,
+      "uiks_with_party_results": 263,
+      "uiks_with_known_tik": 263,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "10",
+      "discovered_tik_count": 20,
+      "discovered_uik_count": 552,
+      "uiks_with_party_results": 545,
+      "uiks_with_known_tik": 552,
+      "missing_report_types": [
+        "party"
+      ],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "11",
+      "discovered_tik_count": 21,
+      "discovered_uik_count": 668,
+      "uiks_with_party_results": 668,
+      "uiks_with_known_tik": 668,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "12",
+      "discovered_tik_count": 18,
+      "discovered_uik_count": 561,
+      "uiks_with_party_results": 561,
+      "uiks_with_known_tik": 561,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "13",
+      "discovered_tik_count": 25,
+      "discovered_uik_count": 822,
+      "uiks_with_party_results": 822,
+      "uiks_with_known_tik": 822,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "14",
+      "discovered_tik_count": 35,
+      "discovered_uik_count": 812,
+      "uiks_with_party_results": 812,
+      "uiks_with_known_tik": 812,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "15",
+      "discovered_tik_count": 10,
+      "discovered_uik_count": 368,
+      "uiks_with_party_results": 368,
+      "uiks_with_known_tik": 368,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "16",
+      "discovered_tik_count": 65,
+      "discovered_uik_count": 2855,
+      "uiks_with_party_results": 2855,
+      "uiks_with_known_tik": 2855,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "17",
+      "discovered_tik_count": 19,
+      "discovered_uik_count": 183,
+      "uiks_with_party_results": 183,
+      "uiks_with_known_tik": 183,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "18",
+      "discovered_tik_count": 34,
+      "discovered_uik_count": 1199,
+      "uiks_with_party_results": 1199,
+      "uiks_with_known_tik": 1199,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "19",
+      "discovered_tik_count": 13,
+      "discovered_uik_count": 392,
+      "uiks_with_party_results": 392,
+      "uiks_with_known_tik": 392,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "2",
+      "discovered_tik_count": 11,
+      "discovered_uik_count": 244,
+      "uiks_with_party_results": 244,
+      "uiks_with_known_tik": 244,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "20",
+      "discovered_tik_count": 20,
+      "discovered_uik_count": 456,
+      "uiks_with_party_results": 456,
+      "uiks_with_known_tik": 456,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "21",
+      "discovered_tik_count": 28,
+      "discovered_uik_count": 1176,
+      "uiks_with_party_results": 1176,
+      "uiks_with_known_tik": 1176,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "22",
+      "discovered_tik_count": 75,
+      "discovered_uik_count": 1856,
+      "uiks_with_party_results": 1856,
+      "uiks_with_known_tik": 1856,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "23",
+      "discovered_tik_count": 59,
+      "discovered_uik_count": 2717,
+      "uiks_with_party_results": 2717,
+      "uiks_with_known_tik": 2717,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "24",
+      "discovered_tik_count": 70,
+      "discovered_uik_count": 2186,
+      "uiks_with_party_results": 2186,
+      "uiks_with_known_tik": 2186,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "25",
+      "discovered_tik_count": 38,
+      "discovered_uik_count": 1478,
+      "uiks_with_party_results": 1477,
+      "uiks_with_known_tik": 1478,
+      "missing_report_types": [
+        "party"
+      ],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "26",
+      "discovered_tik_count": 37,
+      "discovered_uik_count": 1282,
+      "uiks_with_party_results": 1282,
+      "uiks_with_known_tik": 1282,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "27",
+      "discovered_tik_count": 23,
+      "discovered_uik_count": 813,
+      "uiks_with_party_results": 809,
+      "uiks_with_known_tik": 813,
+      "missing_report_types": [
+        "party"
+      ],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "28",
+      "discovered_tik_count": 29,
+      "discovered_uik_count": 782,
+      "uiks_with_party_results": 781,
+      "uiks_with_known_tik": 782,
+      "missing_report_types": [
+        "party"
+      ],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "29",
+      "discovered_tik_count": 31,
+      "discovered_uik_count": 981,
+      "uiks_with_party_results": 981,
+      "uiks_with_known_tik": 981,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "3",
+      "discovered_tik_count": 69,
+      "discovered_uik_count": 3528,
+      "uiks_with_party_results": 3528,
+      "uiks_with_known_tik": 3528,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "30",
+      "discovered_tik_count": 16,
+      "discovered_uik_count": 579,
+      "uiks_with_party_results": 579,
+      "uiks_with_known_tik": 579,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "31",
+      "discovered_tik_count": 22,
+      "discovered_uik_count": 1253,
+      "uiks_with_party_results": 1253,
+      "uiks_with_known_tik": 1253,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "32",
+      "discovered_tik_count": 34,
+      "discovered_uik_count": 1124,
+      "uiks_with_party_results": 1124,
+      "uiks_with_known_tik": 1124,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "33",
+      "discovered_tik_count": 23,
+      "discovered_uik_count": 962,
+      "uiks_with_party_results": 959,
+      "uiks_with_known_tik": 962,
+      "missing_report_types": [
+        "party"
+      ],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "34",
+      "discovered_tik_count": 46,
+      "discovered_uik_count": 1651,
+      "uiks_with_party_results": 1650,
+      "uiks_with_known_tik": 1651,
+      "missing_report_types": [
+        "party"
+      ],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "35",
+      "discovered_tik_count": 28,
+      "discovered_uik_count": 1019,
+      "uiks_with_party_results": 1019,
+      "uiks_with_known_tik": 1019,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "36",
+      "discovered_tik_count": 39,
+      "discovered_uik_count": 1684,
+      "uiks_with_party_results": 1684,
+      "uiks_with_known_tik": 1684,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "37",
+      "discovered_tik_count": 30,
+      "discovered_uik_count": 719,
+      "uiks_with_party_results": 719,
+      "uiks_with_known_tik": 719,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "38",
+      "discovered_tik_count": 45,
+      "discovered_uik_count": 1868,
+      "uiks_with_party_results": 1868,
+      "uiks_with_known_tik": 1868,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "39",
+      "discovered_tik_count": 24,
+      "discovered_uik_count": 545,
+      "uiks_with_party_results": 542,
+      "uiks_with_known_tik": 545,
+      "missing_report_types": [
+        "party"
+      ],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "4",
+      "discovered_tik_count": 25,
+      "discovered_uik_count": 834,
+      "uiks_with_party_results": 834,
+      "uiks_with_known_tik": 834,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "40",
+      "discovered_tik_count": 28,
+      "discovered_uik_count": 725,
+      "uiks_with_party_results": 725,
+      "uiks_with_known_tik": 725,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "42",
+      "discovered_tik_count": 47,
+      "discovered_uik_count": 1742,
+      "uiks_with_party_results": 1742,
+      "uiks_with_known_tik": 1742,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "43",
+      "discovered_tik_count": 48,
+      "discovered_uik_count": 1263,
+      "uiks_with_party_results": 1209,
+      "uiks_with_known_tik": 1263,
+      "missing_report_types": [
+        "party"
+      ],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "44",
+      "discovered_tik_count": 30,
+      "discovered_uik_count": 656,
+      "uiks_with_party_results": 656,
+      "uiks_with_known_tik": 656,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "45",
+      "discovered_tik_count": 27,
+      "discovered_uik_count": 1175,
+      "uiks_with_party_results": 1175,
+      "uiks_with_known_tik": 1175,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "46",
+      "discovered_tik_count": 35,
+      "discovered_uik_count": 1153,
+      "uiks_with_party_results": 1153,
+      "uiks_with_known_tik": 1153,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "47",
+      "discovered_tik_count": 18,
+      "discovered_uik_count": 968,
+      "uiks_with_party_results": 968,
+      "uiks_with_known_tik": 968,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "48",
+      "discovered_tik_count": 23,
+      "discovered_uik_count": 877,
+      "uiks_with_party_results": 877,
+      "uiks_with_known_tik": 877,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "49",
+      "discovered_tik_count": 10,
+      "discovered_uik_count": 111,
+      "uiks_with_party_results": 111,
+      "uiks_with_known_tik": 111,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "5",
+      "discovered_tik_count": 54,
+      "discovered_uik_count": 1900,
+      "uiks_with_party_results": 1900,
+      "uiks_with_known_tik": 1900,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "50",
+      "discovered_tik_count": 74,
+      "discovered_uik_count": 3441,
+      "uiks_with_party_results": 3369,
+      "uiks_with_known_tik": 3441,
+      "missing_report_types": [
+        "party"
+      ],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "51",
+      "discovered_tik_count": 17,
+      "discovered_uik_count": 593,
+      "uiks_with_party_results": 590,
+      "uiks_with_known_tik": 593,
+      "missing_report_types": [
+        "party"
+      ],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "52",
+      "discovered_tik_count": 61,
+      "discovered_uik_count": 2321,
+      "uiks_with_party_results": 2321,
+      "uiks_with_known_tik": 2321,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "53",
+      "discovered_tik_count": 22,
+      "discovered_uik_count": 545,
+      "uiks_with_party_results": 545,
+      "uiks_with_known_tik": 545,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "54",
+      "discovered_tik_count": 44,
+      "discovered_uik_count": 2035,
+      "uiks_with_party_results": 2034,
+      "uiks_with_known_tik": 2035,
+      "missing_report_types": [
+        "party"
+      ],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "55",
+      "discovered_tik_count": 37,
+      "discovered_uik_count": 1843,
+      "uiks_with_party_results": 1842,
+      "uiks_with_known_tik": 1843,
+      "missing_report_types": [
+        "party"
+      ],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "56",
+      "discovered_tik_count": 49,
+      "discovered_uik_count": 1811,
+      "uiks_with_party_results": 1811,
+      "uiks_with_known_tik": 1811,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "57",
+      "discovered_tik_count": 30,
+      "discovered_uik_count": 755,
+      "uiks_with_party_results": 755,
+      "uiks_with_known_tik": 755,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "58",
+      "discovered_tik_count": 33,
+      "discovered_uik_count": 1135,
+      "uiks_with_party_results": 1135,
+      "uiks_with_known_tik": 1135,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "6",
+      "discovered_tik_count": 8,
+      "discovered_uik_count": 130,
+      "uiks_with_party_results": 130,
+      "uiks_with_known_tik": 130,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "60",
+      "discovered_tik_count": 26,
+      "discovered_uik_count": 650,
+      "uiks_with_party_results": 650,
+      "uiks_with_known_tik": 650,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "61",
+      "discovered_tik_count": 62,
+      "discovered_uik_count": 2595,
+      "uiks_with_party_results": 2593,
+      "uiks_with_known_tik": 2595,
+      "missing_report_types": [
+        "party"
+      ],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "62",
+      "discovered_tik_count": 32,
+      "discovered_uik_count": 1057,
+      "uiks_with_party_results": 1057,
+      "uiks_with_known_tik": 1057,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "63",
+      "discovered_tik_count": 47,
+      "discovered_uik_count": 1745,
+      "uiks_with_party_results": 1744,
+      "uiks_with_known_tik": 1745,
+      "missing_report_types": [
+        "party"
+      ],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "64",
+      "discovered_tik_count": 47,
+      "discovered_uik_count": 1822,
+      "uiks_with_party_results": 1818,
+      "uiks_with_known_tik": 1822,
+      "missing_report_types": [
+        "party"
+      ],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "65",
+      "discovered_tik_count": 20,
+      "discovered_uik_count": 450,
+      "uiks_with_party_results": 448,
+      "uiks_with_known_tik": 450,
+      "missing_report_types": [
+        "party"
+      ],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "66",
+      "discovered_tik_count": 80,
+      "discovered_uik_count": 2533,
+      "uiks_with_party_results": 2533,
+      "uiks_with_known_tik": 2533,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "67",
+      "discovered_tik_count": 29,
+      "discovered_uik_count": 811,
+      "uiks_with_party_results": 811,
+      "uiks_with_known_tik": 811,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "68",
+      "discovered_tik_count": 32,
+      "discovered_uik_count": 951,
+      "uiks_with_party_results": 951,
+      "uiks_with_known_tik": 951,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "69",
+      "discovered_tik_count": 46,
+      "discovered_uik_count": 1257,
+      "uiks_with_party_results": 1257,
+      "uiks_with_known_tik": 1257,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "7",
+      "discovered_tik_count": 13,
+      "discovered_uik_count": 356,
+      "uiks_with_party_results": 356,
+      "uiks_with_known_tik": 356,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "70",
+      "discovered_tik_count": 23,
+      "discovered_uik_count": 777,
+      "uiks_with_party_results": 777,
+      "uiks_with_known_tik": 777,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "71",
+      "discovered_tik_count": 29,
+      "discovered_uik_count": 1147,
+      "uiks_with_party_results": 1147,
+      "uiks_with_known_tik": 1147,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "72",
+      "discovered_tik_count": 29,
+      "discovered_uik_count": 1138,
+      "uiks_with_party_results": 1138,
+      "uiks_with_known_tik": 1138,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "73",
+      "discovered_tik_count": 29,
+      "discovered_uik_count": 994,
+      "uiks_with_party_results": 994,
+      "uiks_with_known_tik": 994,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "74",
+      "discovered_tik_count": 51,
+      "discovered_uik_count": 2239,
+      "uiks_with_party_results": 2236,
+      "uiks_with_known_tik": 2239,
+      "missing_report_types": [
+        "party"
+      ],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "76",
+      "discovered_tik_count": 26,
+      "discovered_uik_count": 909,
+      "uiks_with_party_results": 909,
+      "uiks_with_known_tik": 909,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "77",
+      "discovered_tik_count": 125,
+      "discovered_uik_count": 3374,
+      "uiks_with_party_results": 3374,
+      "uiks_with_known_tik": 3374,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "78",
+      "discovered_tik_count": 30,
+      "discovered_uik_count": 1860,
+      "uiks_with_party_results": 1848,
+      "uiks_with_known_tik": 1860,
+      "missing_report_types": [
+        "party"
+      ],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "79",
+      "discovered_tik_count": 6,
+      "discovered_uik_count": 142,
+      "uiks_with_party_results": 142,
+      "uiks_with_known_tik": 142,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "8",
+      "discovered_tik_count": 14,
+      "discovered_uik_count": 253,
+      "uiks_with_party_results": 253,
+      "uiks_with_known_tik": 253,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "83",
+      "discovered_tik_count": 2,
+      "discovered_uik_count": 51,
+      "uiks_with_party_results": 51,
+      "uiks_with_known_tik": 51,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "86",
+      "discovered_tik_count": 22,
+      "discovered_uik_count": 655,
+      "uiks_with_party_results": 655,
+      "uiks_with_known_tik": 655,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "87",
+      "discovered_tik_count": 7,
+      "discovered_uik_count": 57,
+      "uiks_with_party_results": 57,
+      "uiks_with_known_tik": 57,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "89",
+      "discovered_tik_count": 13,
+      "discovered_uik_count": 209,
+      "uiks_with_party_results": 209,
+      "uiks_with_known_tik": 209,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "9",
+      "discovered_tik_count": 12,
+      "discovered_uik_count": 246,
+      "uiks_with_party_results": 246,
+      "uiks_with_known_tik": 246,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "90",
+      "discovered_tik_count": 54,
+      "discovered_uik_count": 1894,
+      "uiks_with_party_results": 1894,
+      "uiks_with_known_tik": 1894,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "91",
+      "discovered_tik_count": 14,
+      "discovered_uik_count": 306,
+      "uiks_with_party_results": 306,
+      "uiks_with_known_tik": 306,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "92",
+      "discovered_tik_count": 38,
+      "discovered_uik_count": 955,
+      "uiks_with_party_results": 955,
+      "uiks_with_known_tik": 955,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "99",
+      "discovered_tik_count": 2,
+      "discovered_uik_count": 376,
+      "uiks_with_party_results": 376,
+      "uiks_with_known_tik": 376,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    }
+  ],
+  "summary": {
+    "regions": 84,
+    "tiks": 2746,
+    "uiks": 95400,
+    "complete_uiks": 95225,
+    "missing_hierarchy_uiks": 175,
+    "incomplete_uiks": 0,
+    "reconciliation_failures": 0,
+    "build_errors": 0,
+    "duplicate_conflicts": 0,
+    "direct_recovery_requests": 175,
+    "direct_recovery_valid": 0
+  },
+  "failed_direct_recovery": [
+    {
+      "entity_id": "4104011155010",
+      "tik_tvd": "2102000278645",
+      "region": "10",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000020&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=4104011155010&region=10&sub_region=10&vibid=4104011155010&type=242",
+      "status": 200,
+      "sha256": "7c093dd0d440eda1be379f05f88248282078520bfb72bd30fe621384431c9e5b",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "4104011155012",
+      "tik_tvd": "2102000278645",
+      "region": "10",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000020&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=4104011155012&region=10&sub_region=10&vibid=4104011155012&type=242",
+      "status": 200,
+      "sha256": "e637d657b8eaa36af46efa4f955a05dd5d7ec2f77b9554405855312472584570",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "4104011155017",
+      "tik_tvd": "2102000278645",
+      "region": "10",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000020&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=4104011155017&region=10&sub_region=10&vibid=4104011155017&type=242",
+      "status": 200,
+      "sha256": "0095a10e1dfb31dfeaca4d70fb3c8b158006b68eea40146efac0b3dff9408cde",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "4104011155022",
+      "tik_tvd": "2102000278645",
+      "region": "10",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000020&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=4104011155022&region=10&sub_region=10&vibid=4104011155022&type=242",
+      "status": 403,
+      "sha256": "23a550f2e10c7ecb4238c37c869b4c1b027961d3ddf3213b576c1656de0a4b78",
+      "validation_error": null
+    },
+    {
+      "entity_id": "4104011155029",
+      "tik_tvd": "2102000278645",
+      "region": "10",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000020&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=4104011155029&region=10&sub_region=10&vibid=4104011155029&type=242",
+      "status": 200,
+      "sha256": "ee0c79423371c2e3df0f9da63059d2b76f9e62179439bf6762fbd921e8520b90",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "4104011155043",
+      "tik_tvd": "2102000278645",
+      "region": "10",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000020&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=4104011155043&region=10&sub_region=10&vibid=4104011155043&type=242",
+      "status": 200,
+      "sha256": "8fece0fe8168388c9ae2697f23a22782d0c3ef0c54c3c7df7d6d001d233b6220",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "4104011155052",
+      "tik_tvd": "2102000278645",
+      "region": "10",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000020&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=4104011155052&region=10&sub_region=10&vibid=4104011155052&type=242",
+      "status": 200,
+      "sha256": "e29c9a56a8ae70a5cdb322f2eddc472c0f221f1836435537cfe99d3ad67def14",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "4254019157800",
+      "tik_tvd": "2252000334294",
+      "region": "25",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=252000020&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=4254019157800&region=25&sub_region=25&vibid=4254019157800&type=242",
+      "status": 200,
+      "sha256": "8751340b5bb9114790d20bbd77384783edfcf6d82f6eaf1d9f02f27cdd769951",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "4274013130952",
+      "tik_tvd": "2272000274344",
+      "region": "27",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=272000022&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=4274013130952&region=27&sub_region=27&vibid=4274013130952&type=242",
+      "status": 200,
+      "sha256": "72a9aeaca909060a22ace49c220779e129f88f7a6d8ac73f61a176f9312242cd",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "4274013130953",
+      "tik_tvd": "2272000274344",
+      "region": "27",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=272000022&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=4274013130953&region=27&sub_region=27&vibid=4274013130953&type=242",
+      "status": 200,
+      "sha256": "8c80c1b9f5dee847422143c4ebb40ab73acb5cab2ccf81a33863a45a48a515f8",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "4274013130957",
+      "tik_tvd": "2272000274344",
+      "region": "27",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=272000022&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=4274013130957&region=27&sub_region=27&vibid=4274013130957&type=242",
+      "status": 200,
+      "sha256": "ed2bdb45a143a37dc06e9f445bed3fbb528ebda388d4ea489a23742b52aad0ba",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "4274013130958",
+      "tik_tvd": "2272000274344",
+      "region": "27",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=272000022&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=4274013130958&region=27&sub_region=27&vibid=4274013130958&type=242",
+      "status": 200,
+      "sha256": "7d1801a0f7f77ad7edf9f4b8108fa2c57d1c6cc14c4cfe02e17ec4292c205393",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "4284000121001",
+      "tik_tvd": "2282000359968",
+      "region": "28",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=282000026&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=4284000121001&region=28&sub_region=28&vibid=4284000121001&type=242",
+      "status": 200,
+      "sha256": "521460b563780f2b5747b4c2a8c91bc09ac82bcb32efeede9fc20b716d0e9400",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "4334002129158",
+      "tik_tvd": "2332000342124",
+      "region": "33",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000001&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=4334002129158&region=33&sub_region=33&vibid=4334002129158&type=242",
+      "status": 200,
+      "sha256": "53aaa0aefed54d74ce2ff256f8933042fc42caa53263f0adf84d21944e501378",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "4334001238272",
+      "tik_tvd": "2332000342153",
+      "region": "33",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000008&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=4334001238272&region=33&sub_region=33&vibid=4334001238272&type=242",
+      "status": 200,
+      "sha256": "0d0383e410bce3883aece4434d061991ba957259f09e51448c1c76a0ae88a7ba",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "4334001238273",
+      "tik_tvd": "2332000342153",
+      "region": "33",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=332000008&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=4334001238273&region=33&sub_region=33&vibid=4334001238273&type=242",
+      "status": 200,
+      "sha256": "e191288dfb0ad67990d0049912402626a422d2287b6e5bd3f7cbde05a1d62e92",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "4344043121566",
+      "tik_tvd": "2342000459630",
+      "region": "34",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=342000015&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=4344043121566&region=34&sub_region=34&vibid=4344043121566&type=242",
+      "status": 200,
+      "sha256": "317797446b20853bcc54e5b074e218a5ad1cb3aa53011a380d5cc27374493684",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "439400995717",
+      "tik_tvd": "2392000243528",
+      "region": "39",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=392000019&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=439400995717&region=39&sub_region=39&vibid=439400995717&type=242",
+      "status": 200,
+      "sha256": "239107b4c52694786f1f2934dc45f2b6aa34bd06985e9c833f4da0b1177bb058",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "439400995738",
+      "tik_tvd": "2392000243528",
+      "region": "39",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=392000019&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=439400995738&region=39&sub_region=39&vibid=439400995738&type=242",
+      "status": 200,
+      "sha256": "950f408ab3adbe8c5e7370e00bff1d56b9cedfc90a1c2723c0af6502cf6d675c",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "439400995740",
+      "tik_tvd": "2392000243528",
+      "region": "39",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=392000019&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=439400995740&region=39&sub_region=39&vibid=439400995740&type=242",
+      "status": 200,
+      "sha256": "4efef8b8b6362a6cee9a0d2bf5cb3d41753e9b63f8d7d88a20eecf772e139e1d",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "443401796297",
+      "tik_tvd": "7437000293784",
+      "region": "43",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000029&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=443401796297&region=43&sub_region=43&vibid=443401796297&type=242",
+      "status": 200,
+      "sha256": "ac41288de0afa88863ee7671f73028bce155a71e0789475e4e09d49db0c79beb",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "443401796298",
+      "tik_tvd": "7437000293784",
+      "region": "43",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000029&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=443401796298&region=43&sub_region=43&vibid=443401796298&type=242",
+      "status": 200,
+      "sha256": "fef38f79f2d0b63669a5180fb8042016a22a8009ec8c11bd020214ee6fa36bf0",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "443401796299",
+      "tik_tvd": "7437000293784",
+      "region": "43",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000029&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=443401796299&region=43&sub_region=43&vibid=443401796299&type=242",
+      "status": 200,
+      "sha256": "9bfbbe39d660f25f851b381e9a2c970b180d2059c6774d6cfc3ebd411ead927e",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "443401796300",
+      "tik_tvd": "7437000293784",
+      "region": "43",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000029&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=443401796300&region=43&sub_region=43&vibid=443401796300&type=242",
+      "status": 200,
+      "sha256": "a83e15b52c09a012c1557d1d4c536e48316a9fe2de9f9711188e88fb6f9ac983",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "443401796301",
+      "tik_tvd": "7437000293784",
+      "region": "43",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000029&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=443401796301&region=43&sub_region=43&vibid=443401796301&type=242",
+      "status": 200,
+      "sha256": "8e3d7fc78540efec4d9398783a900eef231f207b733c6eb603dabe65cbf00c8f",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "443401796302",
+      "tik_tvd": "7437000293784",
+      "region": "43",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000029&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=443401796302&region=43&sub_region=43&vibid=443401796302&type=242",
+      "status": 200,
+      "sha256": "33cc6915a3239110a2363cd86996d93d8280d5124eb25cfd4551ae8c658ea305",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "443401796303",
+      "tik_tvd": "7437000293784",
+      "region": "43",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000029&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=443401796303&region=43&sub_region=43&vibid=443401796303&type=242",
+      "status": 200,
+      "sha256": "4e511d49e1186816d5dba40e952cb3bdd461b5866773cda1c1b7f42a727b85e9",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "443401796304",
+      "tik_tvd": "7437000293784",
+      "region": "43",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000029&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=443401796304&region=43&sub_region=43&vibid=443401796304&type=242",
+      "status": 200,
+      "sha256": "6f4f2d14b2d83e8eb3f24096e37893207b8b1083a4f01451f8729988bc07d5ab",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "443401796305",
+      "tik_tvd": "7437000293784",
+      "region": "43",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000029&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=443401796305&region=43&sub_region=43&vibid=443401796305&type=242",
+      "status": 200,
+      "sha256": "69c230df54d1256593d9f87f1d375841261a6b47f02a746b76a8895e01f818e3",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "443401796306",
+      "tik_tvd": "7437000293784",
+      "region": "43",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000029&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=443401796306&region=43&sub_region=43&vibid=443401796306&type=242",
+      "status": 200,
+      "sha256": "fd8b8841d06bf1679b64ef3dac4a0d0c680fa1d057df2b744f65e492ff7857ed",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "443401796307",
+      "tik_tvd": "7437000293784",
+      "region": "43",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000029&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=443401796307&region=43&sub_region=43&vibid=443401796307&type=242",
+      "status": 200,
+      "sha256": "860d3d2d61c7f489eff8850e7d5307ff9402d305d6cd93de94547666895e1f1a",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "443401796308",
+      "tik_tvd": "7437000293784",
+      "region": "43",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000029&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=443401796308&region=43&sub_region=43&vibid=443401796308&type=242",
+      "status": 200,
+      "sha256": "c06f0fb3561d9618e12f2c09c09fe1c7dc1f0787a71cdd02e7fb9f4c63d093a2",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "443401796309",
+      "tik_tvd": "7437000293784",
+      "region": "43",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000029&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=443401796309&region=43&sub_region=43&vibid=443401796309&type=242",
+      "status": 200,
+      "sha256": "5b46727602207fdb97e801813cd8bd4fb6c80377f23bb8cf3813d1f790eea113",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "443401796310",
+      "tik_tvd": "7437000293784",
+      "region": "43",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000029&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=443401796310&region=43&sub_region=43&vibid=443401796310&type=242",
+      "status": 200,
+      "sha256": "6937d693e2aa3135f19e7f63a55d98341d1b167655689edb60f1a33fb4663e84",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "443401796311",
+      "tik_tvd": "7437000293784",
+      "region": "43",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000029&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=443401796311&region=43&sub_region=43&vibid=443401796311&type=242",
+      "status": 200,
+      "sha256": "fb797db08c013c58b11be29338e12b6f84f0b67eacaaea3378ab29de708fd68d",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "443401796312",
+      "tik_tvd": "7437000293784",
+      "region": "43",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000029&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=443401796312&region=43&sub_region=43&vibid=443401796312&type=242",
+      "status": 200,
+      "sha256": "81c74882df47cc50a1c21046dac3b2adbd970cbf26df560cfe2d551883589e83",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "443401796313",
+      "tik_tvd": "7437000293784",
+      "region": "43",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000029&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=443401796313&region=43&sub_region=43&vibid=443401796313&type=242",
+      "status": 200,
+      "sha256": "96569a3a145b9d6685899b3fba144d2985b6a1795ae3d37d4160a37cf2b4943f",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "443401796314",
+      "tik_tvd": "7437000293784",
+      "region": "43",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000029&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=443401796314&region=43&sub_region=43&vibid=443401796314&type=242",
+      "status": 200,
+      "sha256": "a2a7998c8701063af05be7b74d4a5ee6db2dd8636e6c858b46c9d5b12694fbab",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "443401796315",
+      "tik_tvd": "7437000293784",
+      "region": "43",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000029&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=443401796315&region=43&sub_region=43&vibid=443401796315&type=242",
+      "status": 200,
+      "sha256": "6169bee36524255281ea23c697910470083b7ea19f64d649a45fa8c8eef2e558",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "443401796316",
+      "tik_tvd": "7437000293784",
+      "region": "43",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000029&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=443401796316&region=43&sub_region=43&vibid=443401796316&type=242",
+      "status": 200,
+      "sha256": "e3b30b301dfe901719f1435b99a50ece392abcee5708e957956a4c9abdcc8a08",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "443401796317",
+      "tik_tvd": "7437000293784",
+      "region": "43",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000029&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=443401796317&region=43&sub_region=43&vibid=443401796317&type=242",
+      "status": 200,
+      "sha256": "634a84a0a8322b81c907129af0571e8148ed022eef954816758731333b1d7243",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "443401796318",
+      "tik_tvd": "7437000293784",
+      "region": "43",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000029&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=443401796318&region=43&sub_region=43&vibid=443401796318&type=242",
+      "status": 200,
+      "sha256": "148d9e8dd5dbb099282e0b7ee573b93a88c1051fca4b6822d3c8baf16b6050f1",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "443401796319",
+      "tik_tvd": "7437000293784",
+      "region": "43",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000029&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=443401796319&region=43&sub_region=43&vibid=443401796319&type=242",
+      "status": 200,
+      "sha256": "7f01a8f8d4370a128daa7cf8ed3cf8903631eec195bda155578997c64778eafd",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "443401796320",
+      "tik_tvd": "7437000293784",
+      "region": "43",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000029&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=443401796320&region=43&sub_region=43&vibid=443401796320&type=242",
+      "status": 200,
+      "sha256": "9955ca5364ca93e4b781078d6c329a10336e541991f7a84bd4852bbee7f473d0",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "443401796321",
+      "tik_tvd": "7437000293784",
+      "region": "43",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000029&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=443401796321&region=43&sub_region=43&vibid=443401796321&type=242",
+      "status": 200,
+      "sha256": "bd05038054b0ce1f1036036ea26711e7033bb282e4c6be3d7c66035eb753ff07",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "443401796322",
+      "tik_tvd": "7437000293784",
+      "region": "43",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000029&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=443401796322&region=43&sub_region=43&vibid=443401796322&type=242",
+      "status": 200,
+      "sha256": "6deba72c044071506b42e133b0e2560bfe170db71f1348994a679e9fb8a90aee",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "443401796323",
+      "tik_tvd": "7437000293784",
+      "region": "43",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000029&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=443401796323&region=43&sub_region=43&vibid=443401796323&type=242",
+      "status": 200,
+      "sha256": "c6f6a402e5e2041e3b3dc62ceeb6f12c776c97eea56cc972cf8feac044880a3f",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "443401796324",
+      "tik_tvd": "7437000293784",
+      "region": "43",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000029&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=443401796324&region=43&sub_region=43&vibid=443401796324&type=242",
+      "status": 200,
+      "sha256": "3787556f3749ad28f208e090bfa2066ebf445f2d753b4c60d9aeaded4bd827a4",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "443401796325",
+      "tik_tvd": "7437000293784",
+      "region": "43",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000029&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=443401796325&region=43&sub_region=43&vibid=443401796325&type=242",
+      "status": 200,
+      "sha256": "b04bf81dacd8cec210dd5806f52a15fb4e0d04eabe1b12841c10c687edd3441b",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "443401796326",
+      "tik_tvd": "7437000293784",
+      "region": "43",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000029&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=443401796326&region=43&sub_region=43&vibid=443401796326&type=242",
+      "status": 200,
+      "sha256": "39e6c0193fb79fb7a0ad090ebdf3b3d1029e1597076eaa3c20c8aca7e54675d9",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "443401796327",
+      "tik_tvd": "7437000293784",
+      "region": "43",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000029&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=443401796327&region=43&sub_region=43&vibid=443401796327&type=242",
+      "status": 200,
+      "sha256": "f6c992abeecf11ceb1de343ac33c8d9382f0f47e2e379f15b0bf8795ad8f21a0",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "443401796328",
+      "tik_tvd": "7437000293784",
+      "region": "43",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000029&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=443401796328&region=43&sub_region=43&vibid=443401796328&type=242",
+      "status": 200,
+      "sha256": "12b1035d1197f4e42f9e9dde6efc814c3d58c172b6bbc832d3597c2025c43927",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "443401796329",
+      "tik_tvd": "7437000293784",
+      "region": "43",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000029&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=443401796329&region=43&sub_region=43&vibid=443401796329&type=242",
+      "status": 200,
+      "sha256": "b0ea514ae484646571346da7664b6da9897ebcbca356207df3df6f7124090b15",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "443401796330",
+      "tik_tvd": "7437000293784",
+      "region": "43",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000029&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=443401796330&region=43&sub_region=43&vibid=443401796330&type=242",
+      "status": 200,
+      "sha256": "0d324403ca3d7816db7ef39683a844f201ab158448ea92c99cf1424ffdfbea49",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "443401796331",
+      "tik_tvd": "7437000293784",
+      "region": "43",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000029&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=443401796331&region=43&sub_region=43&vibid=443401796331&type=242",
+      "status": 200,
+      "sha256": "bb938ed743e20eaa260031bbca66c2f7335e3dba4fc81726d002d1d23217ebf2",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "443401796332",
+      "tik_tvd": "7437000293784",
+      "region": "43",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000029&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=443401796332&region=43&sub_region=43&vibid=443401796332&type=242",
+      "status": 200,
+      "sha256": "6c20f867d50c7e13ef18253e5cdcb1953fb666e947f390fbb896dd0bed8facd1",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "443401796333",
+      "tik_tvd": "7437000293784",
+      "region": "43",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000029&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=443401796333&region=43&sub_region=43&vibid=443401796333&type=242",
+      "status": 200,
+      "sha256": "95a7d170d690e057de8b8154bb5273eb670963738205d64b750a071135936442",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "443401796334",
+      "tik_tvd": "7437000293784",
+      "region": "43",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000029&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=443401796334&region=43&sub_region=43&vibid=443401796334&type=242",
+      "status": 200,
+      "sha256": "3df13e1bb3b1801502dcd2ad801579c71c6ec02081d605d3507f3570937a8b50",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "443401796335",
+      "tik_tvd": "7437000293784",
+      "region": "43",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000029&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=443401796335&region=43&sub_region=43&vibid=443401796335&type=242",
+      "status": 200,
+      "sha256": "449ec84e328778f37647c2d3fda6f231223014fae704d19d6aeccfb040347f00",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "443401796336",
+      "tik_tvd": "7437000293784",
+      "region": "43",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000029&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=443401796336&region=43&sub_region=43&vibid=443401796336&type=242",
+      "status": 200,
+      "sha256": "c9c8bede5fe31b0a3d7e0e0c2023332a91df67aa35897ac67bf5af6381dc702d",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "443401796337",
+      "tik_tvd": "7437000293784",
+      "region": "43",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000029&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=443401796337&region=43&sub_region=43&vibid=443401796337&type=242",
+      "status": 200,
+      "sha256": "1c0b96b587c1dda7becd1e4b12d7b2277fa2276102a077eca223ea1718dbdb79",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "4434033103279",
+      "tik_tvd": "7437000293795",
+      "region": "43",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000040&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=4434033103279&region=43&sub_region=43&vibid=4434033103279&type=242",
+      "status": 200,
+      "sha256": "743169073b8e88470aa3dec10be8f7518a53bff0d7f87276cd5a985dc7d7ea37",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "4434033103280",
+      "tik_tvd": "7437000293795",
+      "region": "43",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000040&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=4434033103280&region=43&sub_region=43&vibid=4434033103280&type=242",
+      "status": 200,
+      "sha256": "c038e7399ac8ca4e8e8b7fae37dd42414360af4ecf0fb78a705d25d6b71084cd",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "4434033103281",
+      "tik_tvd": "7437000293795",
+      "region": "43",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000040&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=4434033103281&region=43&sub_region=43&vibid=4434033103281&type=242",
+      "status": 200,
+      "sha256": "3cf047780134e64ec60b885d2f01dc8899404e7dbdae8b325b8a76e0c99110c6",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "4434033103282",
+      "tik_tvd": "7437000293795",
+      "region": "43",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000040&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=4434033103282&region=43&sub_region=43&vibid=4434033103282&type=242",
+      "status": 200,
+      "sha256": "9f9225cf0399a5fcc8810e5529f40b15d4c2b506e1d33251649b9b1a62c9e806",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "4434033103285",
+      "tik_tvd": "7437000293795",
+      "region": "43",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000040&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=4434033103285&region=43&sub_region=43&vibid=4434033103285&type=242",
+      "status": 200,
+      "sha256": "8cb0931f1aea538bfc6886293a75919ee6d040e8a02538856dba32745768330e",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "4434033103291",
+      "tik_tvd": "7437000293795",
+      "region": "43",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000040&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=4434033103291&region=43&sub_region=43&vibid=4434033103291&type=242",
+      "status": 200,
+      "sha256": "2fa3c37d999ffc4d8775cffdb120ddf89d692227c6dcd34f0d4f7bcc78f961aa",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "4434033103292",
+      "tik_tvd": "7437000293795",
+      "region": "43",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000040&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=4434033103292&region=43&sub_region=43&vibid=4434033103292&type=242",
+      "status": 200,
+      "sha256": "9c8a81414a433e52632232e367d732b836928e7489f2ce2366a04de3166a4fe3",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "4434033103293",
+      "tik_tvd": "7437000293795",
+      "region": "43",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000040&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=4434033103293&region=43&sub_region=43&vibid=4434033103293&type=242",
+      "status": 200,
+      "sha256": "ce69e2b5dbcae992ab9579145a66f7cb608787c62eed4cfa060d0f869c51188f",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "4434033103294",
+      "tik_tvd": "7437000293795",
+      "region": "43",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000040&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=4434033103294&region=43&sub_region=43&vibid=4434033103294&type=242",
+      "status": 200,
+      "sha256": "df1d575d75d173959fd3871d55d0bf3b59e8d1d69895519dcad97887d0251145",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "4434033103295",
+      "tik_tvd": "7437000293795",
+      "region": "43",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000040&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=4434033103295&region=43&sub_region=43&vibid=4434033103295&type=242",
+      "status": 200,
+      "sha256": "cd188d3f7623e333071acda0842c7777482eaae54d9db0a7195bb1c156d29869",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "4434033103296",
+      "tik_tvd": "7437000293795",
+      "region": "43",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000040&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=4434033103296&region=43&sub_region=43&vibid=4434033103296&type=242",
+      "status": 200,
+      "sha256": "7a56cc13bd8086c6ead35c8d26c198959a91a2dd4f46f6f18752a656786f6c5f",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "4434033103297",
+      "tik_tvd": "7437000293795",
+      "region": "43",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000040&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=4434033103297&region=43&sub_region=43&vibid=4434033103297&type=242",
+      "status": 200,
+      "sha256": "6c7eeea682b4b98f6c86da1969bc34b4bec118b609f10165a62889c04f77aa52",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "4434033103298",
+      "tik_tvd": "7437000293795",
+      "region": "43",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000040&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=4434033103298&region=43&sub_region=43&vibid=4434033103298&type=242",
+      "status": 200,
+      "sha256": "2fb887a9f2aa7f3a9b77fe87cb3bcd3833b70522e20eae8d1baaa0d845c8a5bb",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "4504016102232",
+      "tik_tvd": "7507000503433",
+      "region": "50",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=502000002&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=4504016102232&region=50&sub_region=50&vibid=4504016102232&type=242",
+      "status": 200,
+      "sha256": "67178acdb593c4cce4c3df43b3e587b1bc1c6182c1099d6bba0e2984ff579aae",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "4504016102233",
+      "tik_tvd": "7507000503433",
+      "region": "50",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=502000002&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=4504016102233&region=50&sub_region=50&vibid=4504016102233&type=242",
+      "status": 200,
+      "sha256": "c8c8a508173e104d141ac947cbf9be27696d5b433d32518addfd263aecbbde39",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "4504016102234",
+      "tik_tvd": "7507000503433",
+      "region": "50",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=502000002&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=4504016102234&region=50&sub_region=50&vibid=4504016102234&type=242",
+      "status": 200,
+      "sha256": "538b7f5060738e614d0b6b4462b0c26936b9113d9d8885de785114f116655de9",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "4504016102235",
+      "tik_tvd": "7507000503433",
+      "region": "50",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=502000002&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=4504016102235&region=50&sub_region=50&vibid=4504016102235&type=242",
+      "status": 200,
+      "sha256": "4df13d821f08a587895d4b4f20eb4f58fdb270e01459c382fd189ebaec8c5028",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "4504016102236",
+      "tik_tvd": "7507000503433",
+      "region": "50",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=502000002&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=4504016102236&region=50&sub_region=50&vibid=4504016102236&type=242",
+      "status": 200,
+      "sha256": "64cc2ece41b1cc031509ee58173bff50589e441e7f44330202421ec6ebb6ed16",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "4504016102237",
+      "tik_tvd": "7507000503433",
+      "region": "50",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=502000002&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=4504016102237&region=50&sub_region=50&vibid=4504016102237&type=242",
+      "status": 200,
+      "sha256": "e1313dfd572143d51ac2d4126f86acc52be8f6f2426069a58bed2e4b164f1504",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "4504016102238",
+      "tik_tvd": "7507000503433",
+      "region": "50",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=502000002&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=4504016102238&region=50&sub_region=50&vibid=4504016102238&type=242",
+      "status": 200,
+      "sha256": "5014a633abe303556096aab7b812cbc0e7a8b3b483156f9021bac952a6ffd2c6",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "4504016102239",
+      "tik_tvd": "7507000503433",
+      "region": "50",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=502000002&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=4504016102239&region=50&sub_region=50&vibid=4504016102239&type=242",
+      "status": 200,
+      "sha256": "8e27ce725fa93172bd90e2685f6d9a2115a59f138dc78aef0bd1763f217127fb",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "4504016102240",
+      "tik_tvd": "7507000503433",
+      "region": "50",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=502000002&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=4504016102240&region=50&sub_region=50&vibid=4504016102240&type=242",
+      "status": 200,
+      "sha256": "3e7636c72326d8a7f147eaf32412c768b7128dafba36a95f0766c61785f32a5d",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "4504016102241",
+      "tik_tvd": "7507000503433",
+      "region": "50",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=502000002&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=4504016102241&region=50&sub_region=50&vibid=4504016102241&type=242",
+      "status": 200,
+      "sha256": "7f4832abb380ae67847799c955934b97558a5f83bf821cae51dec89d2554e346",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "4504016102242",
+      "tik_tvd": "7507000503433",
+      "region": "50",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=502000002&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=4504016102242&region=50&sub_region=50&vibid=4504016102242&type=242",
+      "status": 200,
+      "sha256": "5dd21a0daab7e37249c92df5184a547dee6ef67092c633d2dacc5964463936b6",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "4504016102243",
+      "tik_tvd": "7507000503433",
+      "region": "50",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=502000002&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=4504016102243&region=50&sub_region=50&vibid=4504016102243&type=242",
+      "status": 200,
+      "sha256": "57c5e4ba913d10bca32c4bf2c6c21d02e1d23ac7079b477c1fa1c9d44a35d55d",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "4504016102244",
+      "tik_tvd": "7507000503433",
+      "region": "50",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=502000002&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=4504016102244&region=50&sub_region=50&vibid=4504016102244&type=242",
+      "status": 200,
+      "sha256": "63d571939b5d9084626146433663bedbc0457d30b41fe11e395738fb5cca3458",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "4504016102245",
+      "tik_tvd": "7507000503433",
+      "region": "50",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=502000002&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=4504016102245&region=50&sub_region=50&vibid=4504016102245&type=242",
+      "status": 200,
+      "sha256": "a002d7d3e0c72093b255e2b4327fdac3aeb219b3a75912462876341899a2116a",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "4504016102246",
+      "tik_tvd": "7507000503433",
+      "region": "50",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=502000002&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=4504016102246&region=50&sub_region=50&vibid=4504016102246&type=242",
+      "status": 200,
+      "sha256": "0f45a1df07e89b7c409897a13088e32ab3638fab0fc3c7424066c40bb50de9ce",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "4504016102247",
+      "tik_tvd": "7507000503433",
+      "region": "50",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=502000002&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=4504016102247&region=50&sub_region=50&vibid=4504016102247&type=242",
+      "status": 200,
+      "sha256": "e0dfdaee5b328779c338f84e7446950a0587b2d08d648500c0257db98334f1c6",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "4504016102248",
+      "tik_tvd": "7507000503433",
+      "region": "50",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=502000002&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=4504016102248&region=50&sub_region=50&vibid=4504016102248&type=242",
+      "status": 200,
+      "sha256": "98b7e6a107cf6b91b88ce04b1373b0b54f8292b5c56fb8bb68f489b85a037414",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "4504016102249",
+      "tik_tvd": "7507000503433",
+      "region": "50",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=502000002&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=4504016102249&region=50&sub_region=50&vibid=4504016102249&type=242",
+      "status": 200,
+      "sha256": "e6b607218247c802c88e280ac50565f6d977df437781c43a8d48d8bc27df3b93",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "4504016102250",
+      "tik_tvd": "7507000503433",
+      "region": "50",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=502000002&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=4504016102250&region=50&sub_region=50&vibid=4504016102250&type=242",
+      "status": 200,
+      "sha256": "924b7fd22636b0148885a5f42ef97b39cfe9877652cba31fddcabbd630a21dbd",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "4504016102251",
+      "tik_tvd": "7507000503433",
+      "region": "50",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=502000002&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=4504016102251&region=50&sub_region=50&vibid=4504016102251&type=242",
+      "status": 200,
+      "sha256": "f5ec14a509c04a12087695a746d73d1473db2a3a0ef78caedfd3e0d79f01d38c",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "4504016102252",
+      "tik_tvd": "7507000503433",
+      "region": "50",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=502000002&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=4504016102252&region=50&sub_region=50&vibid=4504016102252&type=242",
+      "status": 200,
+      "sha256": "92bca02c63645797a5564fe61aa8ed5e355b5e847e865d204a126c6ee591b1e5",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "4504016102253",
+      "tik_tvd": "7507000503433",
+      "region": "50",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=502000002&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=4504016102253&region=50&sub_region=50&vibid=4504016102253&type=242",
+      "status": 200,
+      "sha256": "ebaf0a749e8f478885b0b639fdafcfa19a33d18628b01ea6b123af60d4c8e17d",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "4504016102254",
+      "tik_tvd": "7507000503433",
+      "region": "50",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=502000002&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=4504016102254&region=50&sub_region=50&vibid=4504016102254&type=242",
+      "status": 200,
+      "sha256": "4ea32103cbd2ec59f9716458ceb5d7d5304d811d752f8ccf41d8fe458737fb93",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "4504016102255",
+      "tik_tvd": "7507000503433",
+      "region": "50",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=502000002&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=4504016102255&region=50&sub_region=50&vibid=4504016102255&type=242",
+      "status": 200,
+      "sha256": "52a1207ca4e39e98b78063dcef2d9c22455727ead9ace0f80c1854817ec54be0",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "4504016102256",
+      "tik_tvd": "7507000503433",
+      "region": "50",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=502000002&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=4504016102256&region=50&sub_region=50&vibid=4504016102256&type=242",
+      "status": 200,
+      "sha256": "7245f0987fa7c769e31abfc3d0306cbfa0ab3f4d9ff2f6b54a62fa1dab2856f9",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "4504016102257",
+      "tik_tvd": "7507000503433",
+      "region": "50",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=502000002&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=4504016102257&region=50&sub_region=50&vibid=4504016102257&type=242",
+      "status": 200,
+      "sha256": "16915b36a034d5b9f20a843a05b3b13be5426a9db76d74c8dd640795e2a14315",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "4504016102258",
+      "tik_tvd": "7507000503433",
+      "region": "50",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=502000002&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=4504016102258&region=50&sub_region=50&vibid=4504016102258&type=242",
+      "status": 200,
+      "sha256": "835fae226926f707779d23f7e7914c0d7bfdd788b76c502903f862dee72d4784",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "4504016102259",
+      "tik_tvd": "7507000503433",
+      "region": "50",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=502000002&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=4504016102259&region=50&sub_region=50&vibid=4504016102259&type=242",
+      "status": 200,
+      "sha256": "0e49039103fb6d8902a71e3620d0e455f3f6f1f4dc519f024265793d0e1496ff",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "4504016102260",
+      "tik_tvd": "7507000503433",
+      "region": "50",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=502000002&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=4504016102260&region=50&sub_region=50&vibid=4504016102260&type=242",
+      "status": 200,
+      "sha256": "bf5dd9b84ebddcbdaf5f32ce322daedbfbdfc370a536b7b1dbc4184f10f26122",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "4504016102261",
+      "tik_tvd": "7507000503433",
+      "region": "50",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=502000002&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=4504016102261&region=50&sub_region=50&vibid=4504016102261&type=242",
+      "status": 403,
+      "sha256": "a763366dbcba5e3947501c4d78ecc2b5e658166ac0460ae9e5c6b3bb5ff7b642",
+      "validation_error": null
+    },
+    {
+      "entity_id": "4504016102262",
+      "tik_tvd": "7507000503433",
+      "region": "50",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=502000002&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=4504016102262&region=50&sub_region=50&vibid=4504016102262&type=242",
+      "status": 200,
+      "sha256": "6f8106d377d885eb568b48cc8a29ca98c920fb3c268cb83fc361eea6d5f57802",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "4504016102263",
+      "tik_tvd": "7507000503433",
+      "region": "50",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=502000002&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=4504016102263&region=50&sub_region=50&vibid=4504016102263&type=242",
+      "status": 200,
+      "sha256": "a97d0189975a03d42dfec17cb05a739faf236524dee44ce2c59534bc405942ed",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "4504016102264",
+      "tik_tvd": "7507000503433",
+      "region": "50",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=502000002&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=4504016102264&region=50&sub_region=50&vibid=4504016102264&type=242",
+      "status": 200,
+      "sha256": "260f844ba929c96c96fa2473316905bb200a23b1faf77e1dc7d7b94453410031",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "4504016102265",
+      "tik_tvd": "7507000503433",
+      "region": "50",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=502000002&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=4504016102265&region=50&sub_region=50&vibid=4504016102265&type=242",
+      "status": 200,
+      "sha256": "72cb991e5727a368927805138bfa21b107f9700b7f3399e46b705db496dd21d0",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "4504016102266",
+      "tik_tvd": "7507000503433",
+      "region": "50",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=502000002&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=4504016102266&region=50&sub_region=50&vibid=4504016102266&type=242",
+      "status": 200,
+      "sha256": "b8dda5393e0f009ee449639db328abecae7312151cee12bd2088aa5260514e50",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "4504016102267",
+      "tik_tvd": "7507000503433",
+      "region": "50",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=502000002&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=4504016102267&region=50&sub_region=50&vibid=4504016102267&type=242",
+      "status": 200,
+      "sha256": "3669379ddbcc2591ccfc162517a13e2f770054693c13282827172492241c5276",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "4504016102268",
+      "tik_tvd": "7507000503433",
+      "region": "50",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=502000002&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=4504016102268&region=50&sub_region=50&vibid=4504016102268&type=242",
+      "status": 200,
+      "sha256": "908673eeec9d646ef0d1f2d4ed8b5482ffd38be1ad43c0353414fe589add66d3",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "4504016102269",
+      "tik_tvd": "7507000503433",
+      "region": "50",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=502000002&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=4504016102269&region=50&sub_region=50&vibid=4504016102269&type=242",
+      "status": 200,
+      "sha256": "247f6f199782fd51fdf090b84a2e338b0b3211739d5dfe24aae504c3ee479808",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "4504016102270",
+      "tik_tvd": "7507000503433",
+      "region": "50",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=502000002&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=4504016102270&region=50&sub_region=50&vibid=4504016102270&type=242",
+      "status": 200,
+      "sha256": "04808a9b0bad84804c0c2f7602f12aa13ce1bd01e002e075dc6c07beeebded41",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "4504016102271",
+      "tik_tvd": "7507000503433",
+      "region": "50",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=502000002&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=4504016102271&region=50&sub_region=50&vibid=4504016102271&type=242",
+      "status": 200,
+      "sha256": "ceef78c8410776a256b38299ba96e1416ff2f6bd745f7574282f0634bb94ab47",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "4504016102272",
+      "tik_tvd": "7507000503433",
+      "region": "50",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=502000002&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=4504016102272&region=50&sub_region=50&vibid=4504016102272&type=242",
+      "status": 200,
+      "sha256": "eeacb409ec955d2c79565435580c14e2cb284b1e5a879acb00959e684055ee95",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "4504016102273",
+      "tik_tvd": "7507000503433",
+      "region": "50",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=502000002&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=4504016102273&region=50&sub_region=50&vibid=4504016102273&type=242",
+      "status": 200,
+      "sha256": "b5b03374c702734d5ea3ba6ac07ef1360cb4769c77a655af95442db4363e3917",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "4504016102274",
+      "tik_tvd": "7507000503433",
+      "region": "50",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=502000002&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=4504016102274&region=50&sub_region=50&vibid=4504016102274&type=242",
+      "status": 200,
+      "sha256": "9617cfd5b2bb2b5061fb686986cf966f2ceea72a348b0dba493c5a4b2ee6a798",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "4504016102275",
+      "tik_tvd": "7507000503433",
+      "region": "50",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=502000002&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=4504016102275&region=50&sub_region=50&vibid=4504016102275&type=242",
+      "status": 200,
+      "sha256": "74fb4cd583ec183cfe991d7b4c9d39395f4da240543df4c192cfc3e59c88f5a5",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "4504016102276",
+      "tik_tvd": "7507000503433",
+      "region": "50",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=502000002&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=4504016102276&region=50&sub_region=50&vibid=4504016102276&type=242",
+      "status": 200,
+      "sha256": "a6dad7937374d43827c8cda4f9d487686c613a59542beebbd236364397c9a0a3",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "4504016102277",
+      "tik_tvd": "7507000503433",
+      "region": "50",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=502000002&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=4504016102277&region=50&sub_region=50&vibid=4504016102277&type=242",
+      "status": 200,
+      "sha256": "a80c05955d2f8b17ed98a7d5c06de166aaa17dd2e5ada7dcd1d7b24d53673d14",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "4504016102278",
+      "tik_tvd": "7507000503433",
+      "region": "50",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=502000002&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=4504016102278&region=50&sub_region=50&vibid=4504016102278&type=242",
+      "status": 200,
+      "sha256": "4feddc13a77a2e94ec53f8911d1a78e22ec8c6792452a1d3ffd526ab498fd2eb",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "4504016102279",
+      "tik_tvd": "7507000503433",
+      "region": "50",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=502000002&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=4504016102279&region=50&sub_region=50&vibid=4504016102279&type=242",
+      "status": 200,
+      "sha256": "d69d7d868af8e5c326075fa8de7b5bd5266d394c89bd169edb932d7aae908270",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "4504016102280",
+      "tik_tvd": "7507000503433",
+      "region": "50",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=502000002&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=4504016102280&region=50&sub_region=50&vibid=4504016102280&type=242",
+      "status": 200,
+      "sha256": "ac3b4e45f5aea076d14f741c5410ef30b045adc27954072e4d95484ee2c105bb",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "4504016102281",
+      "tik_tvd": "7507000503433",
+      "region": "50",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=502000002&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=4504016102281&region=50&sub_region=50&vibid=4504016102281&type=242",
+      "status": 200,
+      "sha256": "d3c303c11fb6b6a08595ce5e844b3e1a76ef4d90fb4a7707c83a4fecc5b3e943",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "4504016102282",
+      "tik_tvd": "7507000503433",
+      "region": "50",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=502000002&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=4504016102282&region=50&sub_region=50&vibid=4504016102282&type=242",
+      "status": 200,
+      "sha256": "3cd9b3571d7ce10a457d800050143aa007ef6d0f5e50913981157fe5de46c1f1",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "4504016102283",
+      "tik_tvd": "7507000503433",
+      "region": "50",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=502000002&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=4504016102283&region=50&sub_region=50&vibid=4504016102283&type=242",
+      "status": 200,
+      "sha256": "0f8979a70811366271b7ae5def2f357e787cf22bebb8e6421a38390d724b0d0c",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "4504016102284",
+      "tik_tvd": "7507000503433",
+      "region": "50",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=502000002&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=4504016102284&region=50&sub_region=50&vibid=4504016102284&type=242",
+      "status": 200,
+      "sha256": "0a33d53945604ebcd835e2f2706e453f4b5a4697dae12ad9cd2516ee39c0eedf",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "4504016102285",
+      "tik_tvd": "7507000503433",
+      "region": "50",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=502000002&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=4504016102285&region=50&sub_region=50&vibid=4504016102285&type=242",
+      "status": 200,
+      "sha256": "2d3fee4da0513bcc5a1121c58a35503eb4b3e0e3f0f9a87baa1db7ced9951e4b",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "4504016102286",
+      "tik_tvd": "7507000503433",
+      "region": "50",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=502000002&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=4504016102286&region=50&sub_region=50&vibid=4504016102286&type=242",
+      "status": 200,
+      "sha256": "b3f89c2a78c4b8fde702dfc3ffec69b4c0012ef2808137c21a34c8a5dd84d043",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "4504016102287",
+      "tik_tvd": "7507000503433",
+      "region": "50",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=502000002&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=4504016102287&region=50&sub_region=50&vibid=4504016102287&type=242",
+      "status": 200,
+      "sha256": "dac3dd1e83266dded6808e244d872b172ef3544470ac38ff6105ff8625024b72",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "4504016102288",
+      "tik_tvd": "7507000503433",
+      "region": "50",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=502000002&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=4504016102288&region=50&sub_region=50&vibid=4504016102288&type=242",
+      "status": 200,
+      "sha256": "8e409f43add877ccfc45a4bef44824e3e03ea294849090100889d36a3b4e82ce",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "4504016102289",
+      "tik_tvd": "7507000503433",
+      "region": "50",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=502000002&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=4504016102289&region=50&sub_region=50&vibid=4504016102289&type=242",
+      "status": 200,
+      "sha256": "a20785efe0f77131083e821d5a559003ec798579350c9e3abe6fb06fe766387c",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "4504016102290",
+      "tik_tvd": "7507000503433",
+      "region": "50",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=502000002&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=4504016102290&region=50&sub_region=50&vibid=4504016102290&type=242",
+      "status": 200,
+      "sha256": "6724bfd05634c8218efe57e3c731e0f20cdee6c997d95ae16d658a24e94a9c04",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "4504016102291",
+      "tik_tvd": "7507000503433",
+      "region": "50",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=502000002&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=4504016102291&region=50&sub_region=50&vibid=4504016102291&type=242",
+      "status": 200,
+      "sha256": "4b3c2d1fba68bec8b2f35ddcf9ff4ee47685f152374f88df6ef6d224efcea78d",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "4504016102292",
+      "tik_tvd": "7507000503433",
+      "region": "50",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=502000002&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=4504016102292&region=50&sub_region=50&vibid=4504016102292&type=242",
+      "status": 200,
+      "sha256": "ad5605485435953dde453e2938e51ceddd110e2fc15fa44fc9ad011ab0df573d",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "4504016102293",
+      "tik_tvd": "7507000503433",
+      "region": "50",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=502000002&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=4504016102293&region=50&sub_region=50&vibid=4504016102293&type=242",
+      "status": 200,
+      "sha256": "c803a466d2e763e85275bd785be48382537971e3f261d2ad147b8456535fae19",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "4504016102294",
+      "tik_tvd": "7507000503433",
+      "region": "50",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=502000002&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=4504016102294&region=50&sub_region=50&vibid=4504016102294&type=242",
+      "status": 200,
+      "sha256": "a69953eb61a8866c182207d5035a9ee48f8fbdcfd9444b173e7f79803912617a",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "4504016102295",
+      "tik_tvd": "7507000503433",
+      "region": "50",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=502000002&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=4504016102295&region=50&sub_region=50&vibid=4504016102295&type=242",
+      "status": 200,
+      "sha256": "0e2291121771c5d4571798ab3e42fcc380233733beb8a5ee771c12dca2708b8f",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "4504016102296",
+      "tik_tvd": "7507000503433",
+      "region": "50",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=502000002&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=4504016102296&region=50&sub_region=50&vibid=4504016102296&type=242",
+      "status": 200,
+      "sha256": "5e5ada4be8fd01e666110ca8b69ed6724d1f6df678a8707758139f7f0c8b2914",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "4504016102297",
+      "tik_tvd": "7507000503433",
+      "region": "50",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=502000002&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=4504016102297&region=50&sub_region=50&vibid=4504016102297&type=242",
+      "status": 200,
+      "sha256": "920822b3c9271ffbc6d7b66466b7495b41381095183e74d3770d494c282ef671",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "4504016102298",
+      "tik_tvd": "7507000503433",
+      "region": "50",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=502000002&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=4504016102298&region=50&sub_region=50&vibid=4504016102298&type=242",
+      "status": 200,
+      "sha256": "4a7bb7a08f53b142e264618d803951ef5818fa5ee4a0d187ac34e73bf2d9bba5",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "4504016102299",
+      "tik_tvd": "7507000503433",
+      "region": "50",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=502000002&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=4504016102299&region=50&sub_region=50&vibid=4504016102299&type=242",
+      "status": 200,
+      "sha256": "4e31f17d249b707178f6e7dcaa9b11f733eb55b497491a02d6a242c6f5a342b7",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "4504016102300",
+      "tik_tvd": "7507000503433",
+      "region": "50",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=502000002&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=4504016102300&region=50&sub_region=50&vibid=4504016102300&type=242",
+      "status": 200,
+      "sha256": "b5cbc55425ded743a06efeb6012493eaa04d3df41dd12db5895d7f21e40fe3aa",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "4504016102301",
+      "tik_tvd": "7507000503433",
+      "region": "50",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=502000002&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=4504016102301&region=50&sub_region=50&vibid=4504016102301&type=242",
+      "status": 200,
+      "sha256": "25daefeecff410d274ba507ee4a041b343b2bb463f4820b7c78ab4fb93189756",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "4504016102302",
+      "tik_tvd": "7507000503433",
+      "region": "50",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=502000002&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=4504016102302&region=50&sub_region=50&vibid=4504016102302&type=242",
+      "status": 200,
+      "sha256": "727634ed6a9b7804394d3fce07792f770daae34005718047d3dca59d8f6218d1",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "4504016102303",
+      "tik_tvd": "7507000503433",
+      "region": "50",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=502000002&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=4504016102303&region=50&sub_region=50&vibid=4504016102303&type=242",
+      "status": 200,
+      "sha256": "7d9ecfd2a71b4bec6fab7554dedadf8ccceb608ed2210485e0a48078e4a4b6f2",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "4514012160205",
+      "tik_tvd": "2512000214209",
+      "region": "51",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000012&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=4514012160205&region=51&sub_region=51&vibid=4514012160205&type=242",
+      "status": 200,
+      "sha256": "cb48ef0d7378bb5db753d0f6b225d1b9439e7c32de6bac68c0011320806e95ae",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "4514012160208",
+      "tik_tvd": "2512000214209",
+      "region": "51",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000012&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=4514012160208&region=51&sub_region=51&vibid=4514012160208&type=242",
+      "status": 200,
+      "sha256": "9403b2e3cbf2b0a2600d40caabb24fe265afff54e2372613e9417cdf04f18abf",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "4514012160217",
+      "tik_tvd": "2512000214209",
+      "region": "51",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000012&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=4514012160217&region=51&sub_region=51&vibid=4514012160217&type=242",
+      "status": 200,
+      "sha256": "fae620e0cd18b1d0d6e5fb4dd82b6861555d8385bebb62cb6cb02868aa87f19f",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "4544021107846",
+      "tik_tvd": "2542000384539",
+      "region": "54",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=542000008&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=4544021107846&region=54&sub_region=54&vibid=4544021107846&type=242",
+      "status": 200,
+      "sha256": "e2eb6579ec30cba259e525bef8122f393dd884345ba9c9efb6bb899a91f169ad",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "455402697972",
+      "tik_tvd": "2552000296255",
+      "region": "55",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=552000040&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=455402697972&region=55&sub_region=55&vibid=455402697972&type=242",
+      "status": 200,
+      "sha256": "bc0f0391787db652e68111fb12140c7ad5a37c808c28a2f4095e48893afc6feb",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "461404585874",
+      "tik_tvd": "2612000430086",
+      "region": "61",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000052&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=461404585874&region=61&sub_region=61&vibid=461404585874&type=242",
+      "status": 200,
+      "sha256": "057e8cd558a2c64a7d75d073fa5c95600e9d08fde8d270cc1b96917841262322",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "4614002157560",
+      "tik_tvd": "2612000430094",
+      "region": "61",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000060&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=4614002157560&region=61&sub_region=61&vibid=4614002157560&type=242",
+      "status": 200,
+      "sha256": "9ce1e7e1e464e55651195f2c84e301f994c4b9d64a68f2374aa7867d1ee2b303",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "4634038125419",
+      "tik_tvd": "2632000343571",
+      "region": "63",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000042&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=4634038125419&region=63&sub_region=63&vibid=4634038125419&type=242",
+      "status": 200,
+      "sha256": "dc75e333cf4de0712b5659e24f9caf9e14497ddcad16818f650bf73f0ed824ea",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "4644037101161",
+      "tik_tvd": "2642000360384",
+      "region": "64",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=642000002&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=4644037101161&region=64&sub_region=64&vibid=4644037101161&type=242",
+      "status": 200,
+      "sha256": "bb25be5f0df9d5cd3527a6b87163970e397aed2c513d445eb5c4fb4100f1b5c6",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "4644037101192",
+      "tik_tvd": "2642000360384",
+      "region": "64",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=642000002&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=4644037101192&region=64&sub_region=64&vibid=4644037101192&type=242",
+      "status": 200,
+      "sha256": "146d1b44c1d0c2f8a5565b936a2b078774f305b2af8723441279f2cf08a52d42",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "4644037101199",
+      "tik_tvd": "2642000360384",
+      "region": "64",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=642000002&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=4644037101199&region=64&sub_region=64&vibid=4644037101199&type=242",
+      "status": 200,
+      "sha256": "9556a420669420a3cc246fdfeab17ea5bc8d50ce479bb962c9d762e02659b250",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "4644036112716",
+      "tik_tvd": "2642000360385",
+      "region": "64",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=642000003&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=4644036112716&region=64&sub_region=64&vibid=4644036112716&type=242",
+      "status": 200,
+      "sha256": "223d96aae3728bb739cb9633f4b6299e3916415cf73e952dfa9bbec807ed7292",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "465400492030",
+      "tik_tvd": "2652000192866",
+      "region": "65",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000004&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=465400492030&region=65&sub_region=65&vibid=465400492030&type=242",
+      "status": 200,
+      "sha256": "337efe80b0eaeb4daa4b0c3dc53f9c6b5681ebd95b6d00b1beef1def69ec5709",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "465400492039",
+      "tik_tvd": "2652000192866",
+      "region": "65",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=652000004&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=465400492039&region=65&sub_region=65&vibid=465400492039&type=242",
+      "status": 200,
+      "sha256": "f1afa08ddeb3eb12f6d045cf39fdf23894004cb884925a9c9eb078e829aeba4c",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "4744029152339",
+      "tik_tvd": "2742000352323",
+      "region": "74",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=742000008&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=4744029152339&region=74&sub_region=74&vibid=4744029152339&type=242",
+      "status": 200,
+      "sha256": "45402b1ad4e542b8e95e7a60f49d20f70d82fe56a641d3ca123abbf78c769c72",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "4744029152347",
+      "tik_tvd": "2742000352323",
+      "region": "74",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=742000008&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=4744029152347&region=74&sub_region=74&vibid=4744029152347&type=242",
+      "status": 200,
+      "sha256": "4da8b6d8994b55639d0e10bd7545a2e2831e4153d6b2bc3fa103122fea68e615",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "9749042103451",
+      "tik_tvd": "2742000352331",
+      "region": "74",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=742000016&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=9749042103451&region=74&sub_region=74&vibid=9749042103451&type=242",
+      "status": 200,
+      "sha256": "ea80995a82f73e350392125044f8e9187c5172c39618b8459a00eb54d56f7266",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "4784005120556",
+      "tik_tvd": "2782000259687",
+      "region": "78",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=782000013&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=4784005120556&region=78&sub_region=78&vibid=4784005120556&type=242",
+      "status": 200,
+      "sha256": "1a00f8e745305fec90c145888430a93854595ac1388eae41dad68a0a892d3d05",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "4784005120559",
+      "tik_tvd": "2782000259687",
+      "region": "78",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=782000013&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=4784005120559&region=78&sub_region=78&vibid=4784005120559&type=242",
+      "status": 200,
+      "sha256": "69dfc502de44a04cd0b915bca809fa48a0367b81f9bdf259c02a152569377217",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "4784005120571",
+      "tik_tvd": "2782000259687",
+      "region": "78",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=782000013&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=4784005120571&region=78&sub_region=78&vibid=4784005120571&type=242",
+      "status": 200,
+      "sha256": "30ed4c3a5d351e516dc9d4530cab94049df1989029ca1807dfc43cfc1e4c3174",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "4784005120575",
+      "tik_tvd": "2782000259687",
+      "region": "78",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=782000013&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=4784005120575&region=78&sub_region=78&vibid=4784005120575&type=242",
+      "status": 200,
+      "sha256": "e5db416749225b0e15291c784724508b26bb1b1b006e4347291a1c882e22ee69",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "4784005120576",
+      "tik_tvd": "2782000259687",
+      "region": "78",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=782000013&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=4784005120576&region=78&sub_region=78&vibid=4784005120576&type=242",
+      "status": 200,
+      "sha256": "4b7cf6105249fc683302da7211478b71f61dcb86bab01db473a746096a265863",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "4784005120587",
+      "tik_tvd": "2782000259687",
+      "region": "78",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=782000013&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=4784005120587&region=78&sub_region=78&vibid=4784005120587&type=242",
+      "status": 200,
+      "sha256": "5e490540784b006fdfa5cf5d8228c97a31b6d7ecff64dc8824a6bfeb7611c893",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "4784005120588",
+      "tik_tvd": "2782000259687",
+      "region": "78",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=782000013&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=4784005120588&region=78&sub_region=78&vibid=4784005120588&type=242",
+      "status": 200,
+      "sha256": "5ee685c777efc1ca4bb39f5574bb8058d1cfdcd7a0655323c88484c3f29cc490",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "4784005120596",
+      "tik_tvd": "2782000259687",
+      "region": "78",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=782000013&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=4784005120596&region=78&sub_region=78&vibid=4784005120596&type=242",
+      "status": 200,
+      "sha256": "309ae69c281fc0925d6d87545d1b769932ef54047513ea183f3c48685faf9637",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "4784001115757",
+      "tik_tvd": "2782000259699",
+      "region": "78",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=782000025&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=4784001115757&region=78&sub_region=78&vibid=4784001115757&type=242",
+      "status": 200,
+      "sha256": "b1f4033f319737567c34ee132b94f150c7f227930a72d681cf825222a131b673",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "478402795025",
+      "tik_tvd": "2782000259700",
+      "region": "78",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=782000026&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=478402795025&region=78&sub_region=78&vibid=478402795025&type=242",
+      "status": 200,
+      "sha256": "60e1f20fa259e95a099a6efa960e5894392f5f64fe53350be6d2d01e8dc3537f",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "478402795033",
+      "tik_tvd": "2782000259700",
+      "region": "78",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=782000026&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=478402795033&region=78&sub_region=78&vibid=478402795033&type=242",
+      "status": 200,
+      "sha256": "b6f7c04566ff3e44dcce54bdcb35ca77e5f5f27d47b82791113573bddd4b12d5",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "478402795594",
+      "tik_tvd": "2782000259700",
+      "region": "78",
+      "contest": "party",
+      "report_type": 242,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=782000026&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=478402795594&region=78&sub_region=78&vibid=478402795594&type=242",
+      "status": 200,
+      "sha256": "bb3a8d0e4578b7df62a9475862313a1d464f1b125271457e7c6175ee76601a3f",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    }
+  ]
+}

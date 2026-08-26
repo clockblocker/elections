@@ -1,8 +1,10 @@
 # Historical State Duma official-data reconnaissance
 
 Controlled official-source probes covered 1993, 1995, 1999, 2003, 2007, 2011, and
-2016. No nationwide historical crawl was started. Live official responses and errors
-are checksum-addressed under the ignored `data/raw/gas-duma-history-live/` tree.
+2016. Nationwide file-first crawls for 2003, 2007, 2011, and 2016 completed on
+2026-08-26. Live official responses and errors are checksum-addressed under the ignored
+per-year `data/raw/gas-duma-<year>/` trees; the earlier controlled evidence remains
+under `data/raw/gas-duma-history-live/`.
 
 The earliest recovered official election result is the CEC's 1993 static HTML archive.
 It contains national party results and single-member district summaries, but no
@@ -52,9 +54,10 @@ Readiness:
 - 1993 is aggregate-only and unavailable for a UIK crawl.
 - 1995 and 1999 are ready for a TIK-workbook importer, not a UIK crawl.
 - 2003, 2007, 2011, and 2016 have verified protocol formats, official UIK hierarchy,
-  direct pages, and UIK-column reports. Before a nationwide collection, the controlled
-  hierarchy traversal must be promoted into a recursive resumable planner and its
-  complete coverage gate must be enforced.
+  direct pages, and UIK-column reports. Their recursive resumable nationwide planner,
+  coverage gate, result crawls, retries, offline builds, recovery sweeps, and sharded
+  TypeScript generation have completed. Detailed final counts and official-source gaps
+  are in each `proper-data/<year>-duma/coverage.json` and in the crawler operator guide.
 
 The authoritative field-level matrix, evidence hashes, probe counts, missing elements,
 and readiness states are in `proper-data/historical-duma-availability.json`.
