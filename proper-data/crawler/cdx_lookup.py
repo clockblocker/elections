@@ -7,9 +7,9 @@ import urllib.request
 from pathlib import Path
 
 try:
-    from .common import json_write, opener
+    from .common import build_request, json_write, opener
 except ImportError:  # Direct script execution.
-    from common import json_write, opener
+    from common import build_request, json_write, opener
 
 
 CDX_URL = "https://web.archive.org/cdx/search/cdx"
@@ -40,7 +40,7 @@ def main() -> int:
         }
     )
     request_url = f"{CDX_URL}?{params}"
-    request = urllib.request.Request(request_url, headers={"User-Agent": "elections-gas-lab/0.1"})
+    request = build_request(request_url)
     with opener().open(request, timeout=args.timeout) as response:
         rows = json.loads(response.read())
     headings = rows[0] if rows else []

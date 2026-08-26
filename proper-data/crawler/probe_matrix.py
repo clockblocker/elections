@@ -12,6 +12,7 @@ from typing import Any
 
 try:
     from .common import (
+        build_request,
         decode_text,
         extract_tree_nodes,
         json_write,
@@ -21,6 +22,7 @@ try:
     )
 except ImportError:  # Direct script execution.
     from common import (
+        build_request,
         decode_text,
         extract_tree_nodes,
         json_write,
@@ -122,7 +124,7 @@ def main() -> int:
             time.sleep(wait)
         previous_start = time.monotonic()
         started = time.monotonic()
-        request = urllib.request.Request(url, headers={"User-Agent": "elections-gas-lab/0.1"})
+        request = build_request(url)
         try:
             response = client.open(request, timeout=args.timeout)
         except urllib.error.HTTPError as error:

@@ -8,10 +8,10 @@ import urllib.request
 from pathlib import Path
 
 try:
-    from .common import json_write, opener, safe_name, sha256_bytes
+    from .common import build_request, json_write, opener, safe_name, sha256_bytes
     from .probe_matrix import signals
 except ImportError:  # Direct script execution.
-    from common import json_write, opener, safe_name, sha256_bytes
+    from common import build_request, json_write, opener, safe_name, sha256_bytes
     from probe_matrix import signals
 
 
@@ -41,7 +41,7 @@ def main() -> int:
         if wait > 0:
             time.sleep(wait)
         previous_start = time.monotonic()
-        request = urllib.request.Request(url, headers={"User-Agent": "elections-gas-lab/0.1"})
+        request = build_request(url)
         try:
             response = client.open(request, timeout=args.timeout)
         except urllib.error.HTTPError as error:

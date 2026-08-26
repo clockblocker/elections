@@ -13,7 +13,13 @@ from pathlib import Path
 CRAWLER = Path(__file__).parents[1]
 sys.path.insert(0, str(CRAWLER))
 
-from common import atomic_write, extract_tree_nodes
+from common import (
+    DEFAULT_REQUEST_HEADERS,
+    _redact_proxy_error,
+    atomic_write,
+    build_request,
+    extract_tree_nodes,
+)
 from decode_script_result import decode_script_tables
 from generate_typescript import generate
 from pipeline import classify_result, hierarchy_summary, make_plan, reconcile
@@ -163,6 +169,20 @@ class RateLimiterTests(unittest.TestCase):
 
 
 class PersistenceAndRetryTests(unittest.TestCase):
+    def test_proxy_credentials_are_redacted_from_transport_errors(self):
+        proxy = "socks5h://crawler:topsecret@proxy.test:1080"
+        message = _redact_proxy_error(RuntimeError(f"failed via {proxy}"), proxy)
+        self.assertNotIn("crawler", message)
+        self.assertNotIn("topsecret", message)
+        self.assertIn("<configured proxy>", message)
+
+    def test_shared_request_uses_browser_compatible_headers(self):
+        request = build_request("http://example.test/")
+        self.assertEqual(
+            request.get_header("User-agent"), DEFAULT_REQUEST_HEADERS["User-Agent"]
+        )
+        self.assertIn("ru-RU", request.get_header("Accept-language"))
+
     def test_atomic_write_leaves_no_partial(self):
         with tempfile.TemporaryDirectory() as directory:
             path = Path(directory) / "nested" / "body"

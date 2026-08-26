@@ -15,9 +15,9 @@ from pathlib import Path
 from typing import Any
 
 try:
-    from .common import atomic_write, json_write, opener, sha256_bytes
+    from .common import atomic_write, build_request, json_write, opener, sha256_bytes
 except ImportError:
-    from common import atomic_write, json_write, opener, sha256_bytes
+    from common import atomic_write, build_request, json_write, opener, sha256_bytes
 
 
 RETRYABLE_STATUS = frozenset({429, 502, 503, 504})
@@ -175,7 +175,7 @@ class Fetcher:
         limiter: GlobalRateLimiter,
         config: FetchConfig | None = None,
         *,
-        client: urllib.request.OpenerDirector | None = None,
+        client: Any | None = None,
         clock: Callable[[], float] = time.monotonic,
         sleep: Callable[[float], None] = time.sleep,
         random_source: random.Random | None = None,
@@ -193,9 +193,7 @@ class Fetcher:
         for attempt in range(self.config.retries + 1):
             self.limiter.wait()
             started = self.clock()
-            request = urllib.request.Request(
-                url, headers={"User-Agent": "elections-gas-crawler/1.0"}
-            )
+            request = build_request(url)
             try:
                 response = self.client.open(request, timeout=self.config.timeout)
             except urllib.error.HTTPError as error:

@@ -47,9 +47,12 @@ are about 100 ms apart, not burst once per second. Concurrency defaults to six. 
 Permanent 4xx responses are not retried indefinitely.
 
 Every network command accepts `--rate`, `--concurrency`, `--timeout`, `--retries`,
-`--backoff-initial`, `--backoff-max`, and `--jitter`. `HTTP_PROXY` and `HTTPS_PROXY`
-are honored by `urllib`. Never place proxy credentials or access keys in this repo,
-commands copied into it, logs, fixtures, or generated files.
+`--backoff-initial`, `--backoff-max`, and `--jitter`. All crawler requests share a
+browser-compatible request profile. Set `PROPER_DATA_PROXY_URL` in the ignored root
+`.env` (or export it in the process environment) to route every HTTP and HTTPS request
+through one HTTP or SOCKS proxy; use `socks5h://` when DNS must also traverse the
+proxy. Never place proxy credentials or access keys in tracked files, logs, fixtures,
+or generated files.
 
 ## 1. Discover exact hierarchy IDs
 
