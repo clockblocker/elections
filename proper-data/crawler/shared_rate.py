@@ -67,31 +67,39 @@ class SharedRateLimiter:
 
     def wait(self) -> float:
         self.coordination_dir.mkdir(parents=True, exist_ok=True)
-        with self._thread_lock, self.lock_path.open("a+b") as lock:
-            fcntl.flock(lock.fileno(), fcntl.LOCK_EX)
-            now = self.clock()
-            state = self._read_state()
-            previous = float(state.get("next_monotonic", 0.0))
-            cooldown = float(state.get("cooldown_until", 0.0))
-            # A reboot resets monotonic time. Treat implausibly distant state as stale.
-            if previous > now + 86_400 or cooldown > now + 86_400:
-                previous = cooldown = 0.0
-            scheduled = max(now, previous, cooldown)
-            # Delay-only jitter cannot raise the shared long-run request rate.
-            scheduled += self.random.uniform(0, self.interval * self.jitter)
-            self._write_state(
-                {
-                    "schema_version": 1,
-                    "next_monotonic": scheduled + self.interval,
-                    "cooldown_until": cooldown,
-                    "owner_pid": os.getpid(),
-                }
-            )
-            fcntl.flock(lock.fileno(), fcntl.LOCK_UN)
-        remaining = scheduled - self.clock()
-        if remaining > 0:
-            self.sleep(remaining)
-        return scheduled
+        while True:
+            with self._thread_lock, self.lock_path.open("a+b") as lock:
+                fcntl.flock(lock.fileno(), fcntl.LOCK_EX)
+                now = self.clock()
+                state = self._read_state()
+                previous = float(state.get("next_monotonic", 0.0))
+                cooldown = float(state.get("cooldown_until", 0.0))
+                # A reboot resets monotonic time. Treat distant state as stale.
+                if previous > now + 86_400 or cooldown > now + 86_400:
+                    previous = cooldown = 0.0
+                scheduled = max(now, previous, cooldown)
+                # Delay-only jitter cannot raise the shared long-run request rate.
+                scheduled += self.random.uniform(0, self.interval * self.jitter)
+                self._write_state(
+                    {
+                        "schema_version": 1,
+                        "next_monotonic": scheduled + self.interval,
+                        "cooldown_until": cooldown,
+                        "owner_pid": os.getpid(),
+                    }
+                )
+                fcntl.flock(lock.fileno(), fcntl.LOCK_UN)
+            remaining = scheduled - self.clock()
+            if remaining > 0:
+                self.sleep(remaining)
+            # Recheck only cooldown: other processes may legitimately have reserved
+            # later slots, but a newly imposed backoff invalidates this launch.
+            with self._thread_lock, self.lock_path.open("a+b") as lock:
+                fcntl.flock(lock.fileno(), fcntl.LOCK_EX)
+                cooldown = float(self._read_state().get("cooldown_until", 0.0))
+                fcntl.flock(lock.fileno(), fcntl.LOCK_UN)
+            if cooldown <= self.clock():
+                return scheduled
 
     def penalize(self, seconds: float) -> None:
         if seconds <= 0:

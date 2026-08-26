@@ -167,6 +167,23 @@ class RateLimiterTests(unittest.TestCase):
             retry_after_seconds("Fri, 01 Jan 2021 00:00:07 GMT", now=now), 7
         )
 
+    def test_new_cooldown_invalidates_an_already_reserved_slot(self):
+        clock = FakeClock()
+        limiter = GlobalRateLimiter(10, clock=clock.monotonic)
+        limiter.wait()
+        first_sleep = True
+
+        def sleep(seconds):
+            nonlocal first_sleep
+            if first_sleep:
+                first_sleep = False
+                limiter.penalize(2)
+            clock.sleep(seconds)
+
+        limiter.sleep = sleep
+        self.assertEqual(limiter.wait(), 2)
+        self.assertEqual(clock.value, 2)
+
 
 class PersistenceAndRetryTests(unittest.TestCase):
     def test_proxy_credentials_are_redacted_from_transport_errors(self):
@@ -207,6 +224,24 @@ class PersistenceAndRetryTests(unittest.TestCase):
             self.assertEqual(client.calls, 1)
             self.assertEqual(first["sha256"], second["sha256"])
             self.assertTrue(second["cache_hit"])
+
+    def test_preserved_error_is_retried_on_the_next_run(self):
+        with tempfile.TemporaryDirectory() as directory:
+            store = ResponseStore(Path(directory))
+            clock = FakeClock()
+            client = FakeClient([FakeResponse(b"blocked", 403), FakeResponse(b"ok")])
+            fetcher = Fetcher(
+                store,
+                GlobalRateLimiter(10, clock=clock.monotonic, sleep=clock.sleep),
+                client=client,
+                clock=clock.monotonic,
+                sleep=clock.sleep,
+            )
+            first = fetcher.fetch("http://example.test/retry-next-run")
+            second = fetcher.fetch("http://example.test/retry-next-run")
+            self.assertEqual(first["status"], 403)
+            self.assertEqual(second["status"], 200)
+            self.assertEqual(client.calls, 2)
 
     def test_retry_and_global_backoff(self):
         with tempfile.TemporaryDirectory() as directory:
@@ -261,6 +296,13 @@ class DecodeAndHierarchyTests(unittest.TestCase):
         self.assertEqual(tables[0][0][0], "42")
         self.assertEqual(tables[0][1][1], "42")
 
+    def test_replacement_call_can_span_a_formatting_newline(self):
+        source = """<html><table class='table table-striped qz'><tr><td class='x'>obfuscated</td></tr></table><script>
+        var zzRandom = function(a,b,c){var x=document.getElementsByClassName(a); x[0].innerHTML = b;};
+        var qz = 1; var a = function(){zzRandom('x', '
+        39', qz);}; a();</script></html>"""
+        self.assertEqual(decode_script_tables(source)[0][0][0], "39")
+
     def test_css_hidden_decoys_are_not_promoted_as_numbers(self):
         source = """<style>.qq .decoy{position:absolute;left:-999999px}</style>
         <table class='table table-striped qq'><tr><td><span class='decoy'>x</span>12</td></tr></table>"""
@@ -294,7 +336,7 @@ class ValidationAndGenerationTests(unittest.TestCase):
         )
 
         def page(label):
-            return f"<table class='table table-striped qq'><tr><td></td><td></td><td>Сумма</td><td>УИК №7</td></tr>{accounting}<tr><td>13</td><td>{label}</td><td>1</td><td>1</td></tr></table><script>var rr=function(a,b,c){{var x=document.getElementsByClassName(a);x[0].innerHTML=b;}}; var qq=1; var a=function(){{}};</script>".encode()
+            return f"<html data-vrn='100100225883172'><table class='table table-striped qq'><tr><td></td><td></td><td>Сумма</td><td>УИК №7</td></tr>{accounting}<tr><td>13</td><td>{label}</td><td>1</td><td>1</td></tr></table><script>var rr=function(a,b,c){{var x=document.getElementsByClassName(a);x[0].innerHTML=b;}}; var qq=1; var a=function(){{}};</script></html>".encode()
 
         party = classify_result(page('Политическая партия "A"'), 233)
         candidate = classify_result(page("Иванов Иван Иванович"), 464)
@@ -338,6 +380,7 @@ class ValidationAndGenerationTests(unittest.TestCase):
             "uik_tvd": "uik",
             "tik_tvd": "tik",
             "tik_name": "TIK",
+            "region": "1",
             "party_accounting": {"registered": 10},
             "party_votes": {"A": 4},
             "candidate_accounting": {"registered": 10},
@@ -346,7 +389,15 @@ class ValidationAndGenerationTests(unittest.TestCase):
         }
         data = {
             "records": [record],
-            "sources": [{"tik_tvd": "tik", "party": source, "candidate": source}],
+            "sources": [
+                {
+                    "tik_tvd": "tik",
+                    "tik_name": "TIK",
+                    "region": "1",
+                    "party": source,
+                    "candidate": source,
+                }
+            ],
         }
         with tempfile.TemporaryDirectory() as directory:
             root = Path(directory)
@@ -364,6 +415,21 @@ class ValidationAndGenerationTests(unittest.TestCase):
             self.assertNotIn(b"password", joined)
             self.assertIn(b"extracted-tic-column", joined)
             self.assertIn(b'"derivation": "direct"', joined)
+
+        with tempfile.TemporaryDirectory() as directory:
+            root = Path(directory)
+            generate(data, root, shard_by_region=True)
+            before = {
+                str(p.relative_to(root)): p.read_bytes() for p in root.rglob("*.ts")
+            }
+            generate(data, root, shard_by_region=True)
+            after = {
+                str(p.relative_to(root)): p.read_bytes() for p in root.rglob("*.ts")
+            }
+            self.assertEqual(before, after)
+            self.assertIn("protocol/uik/242/region-1-part-001.ts", after)
+            self.assertIn("protocol/tic/464/region-1.ts", after)
+            self.assertIn("uik-to-tik/region-1.ts", after)
 
 
 if __name__ == "__main__":

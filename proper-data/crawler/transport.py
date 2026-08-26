@@ -47,17 +47,23 @@ class GlobalRateLimiter:
         self._cooldown_until = 0.0
 
     def wait(self) -> float:
-        with self._lock:
-            now = self.clock()
-            scheduled = max(now, self._next, self._cooldown_until)
-            # Jitter is delay-only so it cannot raise the long-run request rate.
-            delay = self.random.uniform(0, self.interval * self.jitter)
-            scheduled += delay
-            self._next = scheduled + self.interval
-        remaining = scheduled - self.clock()
-        if remaining > 0:
-            self.sleep(remaining)
-        return scheduled
+        while True:
+            with self._lock:
+                now = self.clock()
+                scheduled = max(now, self._next, self._cooldown_until)
+                # Jitter is delay-only so it cannot raise the long-run request rate.
+                delay = self.random.uniform(0, self.interval * self.jitter)
+                scheduled += delay
+                self._next = scheduled + self.interval
+            remaining = scheduled - self.clock()
+            if remaining > 0:
+                self.sleep(remaining)
+            # A retry in another worker may have imposed a cooldown after this slot
+            # was reserved. Discard the stale slot rather than launching through it.
+            with self._lock:
+                cooldown = self._cooldown_until
+            if cooldown <= self.clock():
+                return scheduled
 
     def penalize(self, seconds: float) -> None:
         if seconds <= 0:
@@ -187,7 +193,7 @@ class Fetcher:
     def fetch(self, url: str, *, refresh: bool = False) -> dict[str, Any]:
         if not refresh and (existing := self.store.verified(url)):
             status = int(existing.get("status", 0))
-            if status not in RETRYABLE_STATUS:
+            if 200 <= status < 400:
                 return {**existing, "cache_hit": True}
         last_error = ""
         for attempt in range(self.config.retries + 1):

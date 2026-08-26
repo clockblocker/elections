@@ -15,6 +15,7 @@ try:
     from .pipeline import (
         classify_result,
         coverage_report,
+        extract_report_links,
         hierarchy_summary,
         make_plan,
         reconcile,
@@ -29,6 +30,7 @@ except ImportError:
     from pipeline import (
         classify_result,
         coverage_report,
+        extract_report_links,
         hierarchy_summary,
         make_plan,
         reconcile,
@@ -70,8 +72,17 @@ def discover(args: argparse.Namespace) -> int:
     store, fetcher = _settings(args)
     root_payload = args.root_html.read_bytes()
     root_nodes, encoding = extract_tree_nodes(root_payload, args.root_url)
-    nodes = {node.node_id: node for node in root_nodes if node.node_id}
     selected_regions = set(args.region or [])
+    nodes = {
+        node.node_id: node
+        for node in root_nodes
+        if node.node_id
+        and (
+            not selected_regions
+            or node.parent_id is None
+            or node.region in selected_regions
+        )
+    }
     queue = [
         node
         for node in root_nodes
@@ -79,48 +90,126 @@ def discover(args: argparse.Namespace) -> int:
         and (not selected_regions or node.region in selected_regions)
     ]
     processed: set[str] = set()
-    while queue:
-        node = queue.pop(0)
-        if not node.node_id or node.node_id in processed:
-            continue
-        processed.add(node.node_id)
+
+    def expand(node: Any) -> tuple[Any, list[Any]]:
         record = fetcher.fetch(
             tree_endpoint({"vrn": node.vrn, "tvd": node.tvd}), refresh=args.refresh
         )
         if "body_path" not in record or int(record.get("status", 0)) != 200:
-            continue
+            return node, []
         children, _ = extract_tree_nodes(
             _body(store, record), record.get("final_url", ""), node.node_id
         )
-        for child in children:
-            if child.node_id == node.node_id:
+        return node, [child for child in children if child.node_id != node.node_id]
+
+    def next_pending() -> Any | None:
+        while queue:
+            node = queue.pop(0)
+            if not node.node_id or node.node_id in processed:
                 continue
-            nodes[child.node_id] = child
-            if child.load_on_demand:
-                queue.append(child)
-        if len(processed) % 25 == 0:
-            print(
-                json.dumps(
-                    {
-                        "hierarchy_requests": len(processed),
-                        "nodes": len(nodes),
-                        "pending": len(queue),
-                    }
-                ),
-                flush=True,
+            processed.add(node.node_id)
+            return node
+        return None
+
+    with concurrent.futures.ThreadPoolExecutor(max_workers=args.concurrency) as pool:
+        futures: dict[concurrent.futures.Future[Any], Any] = {}
+        while True:
+            while len(futures) < args.concurrency:
+                node = next_pending()
+                if node is None:
+                    break
+                futures[pool.submit(expand, node)] = node
+            if not futures:
+                break
+            done, _ = concurrent.futures.wait(
+                futures, return_when=concurrent.futures.FIRST_COMPLETED
             )
+            for future in done:
+                futures.pop(future)
+                _, children = future.result()
+                for child in children:
+                    if not child.node_id:
+                        continue
+                    nodes[child.node_id] = child
+                    if child.load_on_demand:
+                        queue.append(child)
+                if len(processed) % 25 == 0:
+                    print(
+                        json.dumps(
+                            {
+                                "hierarchy_requests": len(processed),
+                                "nodes": len(nodes),
+                                "pending": len(queue) + len(futures),
+                            }
+                        ),
+                        flush=True,
+                    )
     output_nodes = [vars(nodes[key]) for key in sorted(nodes)]
+    summary = hierarchy_summary(output_nodes)
+    by_id = {str(node["node_id"]): node for node in output_nodes}
+    tik_ids = sorted(
+        {str(item["tik_tvd"]) for item in summary["uik_to_tik"]}
+    )
+
+    def resolve_report_links(tik_id: str) -> tuple[str, dict[str, str]]:
+        node = by_id[tik_id]
+        record = fetcher.fetch(str(node["url"]), refresh=args.refresh)
+        if "body_path" not in record or int(record.get("status", 0)) != 200:
+            return tik_id, {}
+        links = extract_report_links(
+            _body(store, record), str(record.get("final_url", node["url"]))
+        )
+        return tik_id, {
+            str(item["report_type"]): str(item["url"])
+            for item in links
+            if int(item["report_type"]) in (233, 464)
+        }
+
+    report_links: dict[str, dict[str, str]] = {}
+    with concurrent.futures.ThreadPoolExecutor(max_workers=args.concurrency) as pool:
+        futures = [pool.submit(resolve_report_links, tik_id) for tik_id in tik_ids]
+        for index, future in enumerate(concurrent.futures.as_completed(futures), 1):
+            tik_id, links = future.result()
+            report_links[tik_id] = links
+            if index % 100 == 0 or index == len(futures):
+                print(
+                    json.dumps(
+                        {
+                            "report_link_requests": index,
+                            "total": len(futures),
+                            "resolved": sum(
+                                {"233", "464"}.issubset(value)
+                                for value in report_links.values()
+                            ),
+                        }
+                    ),
+                    flush=True,
+                )
+    links_complete = all(
+        {"233", "464"}.issubset(report_links.get(tik_id, {})) for tik_id in tik_ids
+    )
     result = {
         "schema_version": 1,
         "root_source": str(args.root_html),
         "root_encoding": encoding,
         "nodes": output_nodes,
-        **hierarchy_summary(output_nodes),
+        **summary,
+        "report_links": dict(sorted(report_links.items())),
+        "report_links_complete": links_complete,
     }
     json_write(args.output, result)
     print(
         json.dumps(
-            {key: result[key] for key in ("regions", "tiks", "uiks", "complete")},
+            {
+                key: result[key]
+                for key in (
+                    "regions",
+                    "tiks",
+                    "uiks",
+                    "complete",
+                    "report_links_complete",
+                )
+            },
             indent=2,
         )
     )
@@ -133,19 +222,33 @@ def plan(args: argparse.Namespace) -> int:
         hierarchy["nodes"],
         direct_uik=args.direct_uik,
         region_filter=set(args.region or []),
+        report_links=hierarchy.get("report_links"),
     )
     result["rate"] = args.rate
     result["concurrency"] = args.concurrency
     result["raw_dir"] = str(args.raw_dir)
     result["manifest"] = str(args.raw_dir / "manifest.json")
     result["coordination_dir"] = str(args.coordination_dir)
-    result["output_layout"] = "proper-data/2021-duma/protocol/{tic,uik}/{type}/{id}.ts"
-    if result["hierarchy"]["complete"]:
+    result["output_layout"] = (
+        "proper-data/2021-duma/protocol/{tic,uik}/{type}/"
+        "region-{region}[-part-{batch}].ts"
+    )
+    exact_links_complete = result["url_sources"].get(
+        "official-navigation", 0
+    ) == result["estimated_requests"]
+    result["exact_report_links_complete"] = exact_links_complete
+    result["ready"] = result["hierarchy"]["complete"] and exact_links_complete
+    if result["ready"]:
         result["resume_command"] = (
-            f"python3 proper-data/crawler/duma2021.py crawl --plan {args.output}"
+            "backend/.venv/bin/python proper-data/crawler/duma2021.py "
+            f"crawl --plan {args.output}"
         )
     else:
-        result["blocked_reason"] = "hierarchy has unresolved load-on-demand nodes"
+        result["blocked_reason"] = (
+            "hierarchy has unresolved load-on-demand nodes"
+            if not result["hierarchy"]["complete"]
+            else "official navigation report links are incomplete; resume discovery"
+        )
         result["resume_command"] = (
             "backend/.venv/bin/python proper-data/crawler/duma2021.py discover --root-html data/raw/duma-2021-single-member-cec/index/a52134a1b6d1e88209d6.html --output reports/generated/gas-duma-2021/hierarchy.json"
         )
@@ -155,6 +258,7 @@ def plan(args: argparse.Namespace) -> int:
         for key in (
             "hierarchy",
             "request_classes",
+            "url_sources",
             "estimated_requests",
             "rate",
             "concurrency",
@@ -170,9 +274,10 @@ def plan(args: argparse.Namespace) -> int:
 
 def crawl(args: argparse.Namespace) -> int:
     plan_data = _load(args.plan)
-    if not plan_data.get("hierarchy", {}).get("complete"):
+    if not plan_data.get("ready"):
         raise SystemExit(
-            "refusing crawl: hierarchy plan is incomplete; resume discovery first"
+            "refusing crawl: plan lacks a complete hierarchy or exact official "
+            "report links; resume discovery first"
         )
     store, fetcher = _settings(args)
     requests = plan_data["requests"]
@@ -184,11 +289,19 @@ def crawl(args: argparse.Namespace) -> int:
             or int(store.verified(item["url"]).get("status", 0)) not in range(200, 300)
         ]
     stats: Counter[str] = Counter()
+    decoded: Counter[str] = Counter()
+    retry_count = 0
+    permanent_failures = 0
     started = time.monotonic()
     observations: list[dict[str, Any]] = []
 
     def run(item: dict[str, Any]) -> dict[str, Any]:
-        record = fetcher.fetch(item["url"], refresh=args.refresh)
+        # ``--only-failures`` is an explicit new retry pass. Without this refresh,
+        # preserved permanent-4xx observations would be selected above and then
+        # immediately returned as cache hits by the generic resume behavior.
+        record = fetcher.fetch(
+            item["url"], refresh=args.refresh or args.only_failures
+        )
         classification = {}
         if record.get("body_path"):
             classification = classify_result(
@@ -196,33 +309,62 @@ def crawl(args: argparse.Namespace) -> int:
             )
         return {**item, **record, **classification}
 
+    total = len(requests)
+    request_iterator = iter(requests)
     with concurrent.futures.ThreadPoolExecutor(max_workers=args.concurrency) as pool:
-        futures = [pool.submit(run, item) for item in requests]
-        for index, future in enumerate(concurrent.futures.as_completed(futures), 1):
-            row = future.result()
-            observations.append(row)
-            stats[str(row.get("status", row.get("error_class", "error")))] += 1
-            if row.get("retry_count"):
-                stats["retries"] += int(row["retry_count"])
-            if index % args.progress_every == 0 or index == len(futures):
-                elapsed = max(0.001, time.monotonic() - started)
-                rps = index / elapsed
-                remaining = len(futures) - index
-                print(
-                    json.dumps(
-                        {
-                            "completed": index,
-                            "total": len(futures),
-                            "rolling_rps": round(rps, 2),
-                            "statuses": dict(stats),
-                            "valid_tables": sum(
-                                bool(item.get("valid_result")) for item in observations
-                            ),
-                            "eta_seconds": round(remaining / rps),
-                        }
-                    ),
-                    flush=True,
-                )
+        futures: set[concurrent.futures.Future[Any]] = set()
+        for _ in range(min(args.concurrency, total)):
+            futures.add(pool.submit(run, next(request_iterator)))
+        index = 0
+        while futures:
+            done, futures = concurrent.futures.wait(
+                futures, return_when=concurrent.futures.FIRST_COMPLETED
+            )
+            for future in done:
+                index += 1
+                row = future.result()
+                observations.append(row)
+                stats[str(row.get("status", row.get("error_class", "error")))] += 1
+                if row.get("retry_count"):
+                    retry_count += int(row["retry_count"])
+                status = int(row.get("status", 0))
+                if 400 <= status < 500 and status != 429:
+                    permanent_failures += 1
+                if row.get("valid_result"):
+                    ballot = str(row.get("ballot", "unknown"))
+                    decoded[f"{ballot}_tables"] += 1
+                    decoded[f"{ballot}_uiks"] += len(row.get("uik_numbers", []))
+                try:
+                    item = next(request_iterator)
+                except StopIteration:
+                    pass
+                else:
+                    futures.add(pool.submit(run, item))
+                if index % args.progress_every == 0 or index == total:
+                    elapsed = max(0.001, time.monotonic() - started)
+                    rps = index / elapsed
+                    remaining = total - index
+                    print(
+                        json.dumps(
+                            {
+                                "completed": index,
+                                "total": total,
+                                "rolling_rps": round(rps, 2),
+                                "statuses": dict(stats),
+                                "retries": retry_count,
+                                "permanent_failures": permanent_failures,
+                                "decoded_party_tables": decoded["party_tables"],
+                                "decoded_candidate_tables": decoded[
+                                    "candidate_tables"
+                                ],
+                                "party_uiks_covered": decoded["party_uiks"],
+                                "candidate_uiks_covered": decoded["candidate_uiks"],
+                                "reconciliation_failures": "pending-offline-build",
+                                "eta_seconds": round(remaining / rps),
+                            }
+                        ),
+                        flush=True,
+                    )
     observations.sort(key=lambda item: item["url"])
     json_write(
         args.report,
@@ -244,7 +386,10 @@ def crawl(args: argparse.Namespace) -> int:
 def validate(args: argparse.Namespace) -> int:
     hierarchy = _load(args.hierarchy)
     crawl_report = _load(args.crawl_report)
-    report = coverage_report(hierarchy["nodes"], crawl_report["observations"])
+    observations = list(crawl_report["observations"])
+    for path in args.additional_crawl_report or []:
+        observations.extend(_load(path)["observations"])
+    report = coverage_report(hierarchy["nodes"], observations)
     if args.protocols:
         protocols = _load(args.protocols)
         failed_tiks = {
@@ -309,6 +454,9 @@ def build(args: argparse.Namespace) -> int:
     """Transpose preserved TIK columns, pair ballots, and reconcile to TIK sums."""
     hierarchy = _load(args.hierarchy)
     crawl_report = _load(args.crawl_report)
+    observations = list(crawl_report["observations"])
+    for path in args.additional_crawl_report or []:
+        observations.extend(_load(path)["observations"])
     store = ResponseStore(args.raw_dir)
     tree = {"nodes": hierarchy["nodes"]}
     paired: defaultdict[str, dict[str, Any]] = defaultdict(dict)
@@ -317,7 +465,15 @@ def build(args: argparse.Namespace) -> int:
     direct: defaultdict[str, dict[str, Any]] = defaultdict(dict)
     conflicts: list[dict[str, Any]] = []
     tik_names = {str(node["node_id"]): str(node["text"]) for node in hierarchy["nodes"]}
-    for observation in crawl_report["observations"]:
+    relations = hierarchy.get(
+        "uik_to_tik", hierarchy_summary(hierarchy["nodes"])["uik_to_tik"]
+    )
+    relation_by_uik = {str(item["uik_tvd"]): item for item in relations}
+    region_by_tik = {
+        str(item["tik_tvd"]): str(item.get("region", "")) for item in relations
+    }
+    tik_protocols: defaultdict[str, dict[str, Any]] = defaultdict(dict)
+    for observation in observations:
         if args.tik and str(
             observation.get("tik_tvd") or observation.get("entity_id")
         ) not in set(args.tik):
@@ -356,17 +512,24 @@ def build(args: argparse.Namespace) -> int:
         )
         for record in records:
             item = paired[str(record["uik_tvd"])]
+            relation = relation_by_uik[str(record["uik_tvd"])]
             item.update(
                 {
                     "uik_number": record["uik_number"],
                     "uik_tvd": str(record["uik_tvd"]),
                     "tik_tvd": tik_tvd,
                     "tik_name": tik_names.get(tik_tvd, ""),
+                    "region": str(relation.get("region", "")),
                     f"{kind}_accounting": record["accounting"],
                     f"{kind}_votes": record[f"{kind}_votes"],
                 }
             )
         aggregate = _aggregate(rows)
+        tik_protocols[tik_tvd][kind] = {
+            **aggregate,
+            "uik_tvds": [str(record["uik_tvd"]) for record in records],
+            "uik_count": len(records),
+        }
         normalized = [
             {"accounting": record["accounting"], "votes": record[f"{kind}_votes"]}
             for record in records
@@ -410,23 +573,42 @@ def build(args: argparse.Namespace) -> int:
     complete = [
         record for _, record in sorted(paired.items()) if required.issubset(record)
     ]
+    available = [record for _, record in sorted(paired.items())]
     incomplete = [
         {"uik_tvd": key, "missing": sorted(required - set(record))}
         for key, record in sorted(paired.items())
         if not required.issubset(record)
     ]
+    missing_hierarchy_uiks = [
+        {**relation, "cause": "absent-from-tik-result-columns"}
+        for relation in relations
+        if str(relation["uik_tvd"]) not in paired
+    ]
     result = {
         "schema_version": 2,
         "election": "2021-duma",
-        "records": complete,
+        "records": available,
+        "complete_uik_count": len(complete),
         "sources": [
-            {"tik_tvd": key, **value}
+            {
+                "tik_tvd": key,
+                "tik_name": tik_names.get(key, ""),
+                "region": region_by_tik.get(key, ""),
+                **value,
+            }
             for key, value in sorted(sources.items())
+            if {"party", "candidate"}.issubset(value)
+        ],
+        "tik_protocols": [
+            {"tik_tvd": key, **value}
+            for key, value in sorted(tik_protocols.items())
             if {"party", "candidate"}.issubset(value)
         ],
         "reconciliation_failures": failures,
         "duplicate_conflicts": conflicts,
         "incomplete_uiks": incomplete,
+        "missing_hierarchy_uiks": missing_hierarchy_uiks,
+        "relations": relations,
     }
     json_write(args.output, result)
     print(
@@ -435,13 +617,14 @@ def build(args: argparse.Namespace) -> int:
                 "output": str(args.output),
                 "complete_uiks": len(complete),
                 "incomplete_uiks": len(incomplete),
+                "missing_hierarchy_uiks": len(missing_hierarchy_uiks),
                 "reconciliation_failures": len(failures),
                 "duplicate_conflicts": len(conflicts),
             },
             indent=2,
         )
     )
-    return 2 if incomplete or failures or conflicts else 0
+    return 2 if incomplete or missing_hierarchy_uiks or failures or conflicts else 0
 
 
 def probe(args: argparse.Namespace) -> int:
@@ -513,6 +696,112 @@ def probe(args: argparse.Namespace) -> int:
     return 0 if report["success"] else 2
 
 
+def recover_gaps(args: argparse.Namespace) -> int:
+    """Fetch exact direct protocols for UIKs absent from one or both TIK tables."""
+    hierarchy = _load(args.hierarchy)
+    protocols = _load(args.protocols)
+    target_ids = sorted(
+        {
+            str(item["uik_tvd"])
+            for item in protocols.get("missing_hierarchy_uiks", [])
+        }
+        | {
+            str(item["uik_tvd"])
+            for item in protocols.get("incomplete_uiks", [])
+        }
+    )
+    by_id = {str(item["node_id"]): item for item in hierarchy["nodes"]}
+    relations = {
+        str(item["uik_tvd"]): item
+        for item in hierarchy.get(
+            "uik_to_tik", hierarchy_summary(hierarchy["nodes"])["uik_to_tik"]
+        )
+    }
+    store, fetcher = _settings(args)
+
+    def recover(uik_tvd: str) -> list[dict[str, Any]]:
+        node = by_id[uik_tvd]
+        relation = relations[uik_tvd]
+        navigation = fetcher.fetch(str(node["url"]), refresh=args.refresh)
+        if "body_path" not in navigation:
+            return [
+                {
+                    "region": relation["region"],
+                    "tik_tvd": relation["tik_tvd"],
+                    "entity_id": uik_tvd,
+                    **navigation,
+                }
+            ]
+        links = extract_report_links(
+            _body(store, navigation), str(navigation.get("final_url", node["url"]))
+        )
+        observations = []
+        for link in links:
+            report_type = int(link["report_type"])
+            if report_type not in (242, 463):
+                continue
+            record = fetcher.fetch(str(link["url"]), refresh=args.refresh)
+            payload = _body(store, record) if record.get("body_path") else b""
+            observations.append(
+                {
+                    "region": relation["region"],
+                    "tik_tvd": relation["tik_tvd"],
+                    "entity_id": uik_tvd,
+                    "report_type": report_type,
+                    "url": link["url"],
+                    **record,
+                    **classify_result(payload, report_type),
+                }
+            )
+        return observations
+
+    observations: list[dict[str, Any]] = []
+    with concurrent.futures.ThreadPoolExecutor(max_workers=args.concurrency) as pool:
+        futures = [pool.submit(recover, uik_tvd) for uik_tvd in target_ids]
+        for index, future in enumerate(concurrent.futures.as_completed(futures), 1):
+            observations.extend(future.result())
+            print(
+                json.dumps(
+                    {
+                        "completed_uiks": index,
+                        "total_uiks": len(target_ids),
+                        "direct_observations": len(observations),
+                    }
+                ),
+                flush=True,
+            )
+    observations.sort(key=lambda item: str(item.get("url", item.get("requested_url"))))
+    result = {
+        "schema_version": 1,
+        "purpose": "recover-hierarchy-result-gaps",
+        "target_uiks": target_ids,
+        "observations": observations,
+    }
+    json_write(args.report, result)
+    valid = sum(
+        bool(item.get("valid_result") and item.get("kind_matches_requested_type"))
+        for item in observations
+    )
+    complete_observation_set = len(observations) == 2 * len(target_ids) and all(
+        item.get("status") == 200 for item in observations
+    )
+    print(
+        json.dumps(
+            {
+                "report": str(args.report),
+                "target_uiks": len(target_ids),
+                "observations": len(observations),
+                "valid_direct_protocols": valid,
+                "official_error_documents": sum(
+                    bool(item.get("error_signals")) for item in observations
+                ),
+            },
+            indent=2,
+        )
+    )
+    return 0 if complete_observation_set else 2
+
+
 def parser() -> argparse.ArgumentParser:
     result = argparse.ArgumentParser(
         description="Restartable official 2021 State Duma crawler"
@@ -558,6 +847,7 @@ def parser() -> argparse.ArgumentParser:
     command.set_defaults(func=validate)
     command.add_argument("--hierarchy", type=Path, required=True)
     command.add_argument("--crawl-report", type=Path, required=True)
+    command.add_argument("--additional-crawl-report", type=Path, action="append")
     command.add_argument("--protocols", type=Path)
     command.add_argument(
         "--output", type=Path, default=DEFAULT_REPORTS / "coverage.json"
@@ -566,6 +856,7 @@ def parser() -> argparse.ArgumentParser:
     command.set_defaults(func=build)
     command.add_argument("--hierarchy", type=Path, required=True)
     command.add_argument("--crawl-report", type=Path, required=True)
+    command.add_argument("--additional-crawl-report", type=Path, action="append")
     command.add_argument("--raw-dir", type=Path, default=DEFAULT_RAW)
     command.add_argument("--tik", action="append")
     command.add_argument(
@@ -575,6 +866,13 @@ def parser() -> argparse.ArgumentParser:
     command.set_defaults(func=probe)
     command.add_argument("--spec", type=Path, required=True)
     command.add_argument("--report", type=Path, default=DEFAULT_REPORTS / "probe.json")
+    command = sub.add_parser("recover-gaps", parents=[common])
+    command.set_defaults(func=recover_gaps)
+    command.add_argument("--hierarchy", type=Path, required=True)
+    command.add_argument("--protocols", type=Path, required=True)
+    command.add_argument(
+        "--report", type=Path, default=DEFAULT_REPORTS / "direct-recovery.json"
+    )
     return result
 
 

@@ -151,6 +151,7 @@ def make_plan(
     *,
     direct_uik: bool = False,
     region_filter: set[str] | None = None,
+    report_links: dict[str, dict[str, str]] | None = None,
 ) -> dict[str, Any]:
     summary = hierarchy_summary(nodes)
     by_id = {str(node["node_id"]): node for node in nodes if node.get("node_id")}
@@ -163,13 +164,17 @@ def make_plan(
             continue
         region = _region_ancestor(tik, by_id)
         for report_type in (233, 464):
+            exact_url = (report_links or {}).get(tik_id, {}).get(str(report_type))
             requests.append(
                 {
                     "class": f"tic-{report_type}",
                     "report_type": report_type,
                     "entity_id": tik_id,
                     "region": str(tik.get("region") or ""),
-                    "url": result_url(tik, region, report_type),
+                    "url": exact_url or result_url(tik, region, report_type),
+                    "url_source": (
+                        "official-navigation" if exact_url else "synthesized"
+                    ),
                 }
             )
     if direct_uik:
@@ -187,9 +192,11 @@ def make_plan(
                         "region": str(uik.get("region") or ""),
                         "tik_tvd": relation["tik_tvd"],
                         "url": result_url(uik, region, report_type),
+                        "url_source": "synthesized",
                     }
                 )
     counts = Counter(item["class"] for item in requests)
+    url_sources = Counter(item["url_source"] for item in requests)
     return {
         "schema_version": 1,
         "election_vrn": DUMA_VRN,
@@ -197,6 +204,7 @@ def make_plan(
             key: summary[key] for key in ("regions", "tiks", "uiks", "complete")
         },
         "request_classes": dict(sorted(counts.items())),
+        "url_sources": dict(sorted(url_sources.items())),
         "estimated_requests": len(requests),
         "requests": requests,
     }
@@ -269,7 +277,8 @@ def classify_result(
     )
     # Legacy navigation contains an "error" menu label on otherwise valid pages;
     # a decoded protocol table is stronger evidence than that ambient word.
-    valid = bool(rows and has_accounting and numeric_valid)
+    election_vrn_matches = DUMA_VRN in source
+    valid = bool(rows and has_accounting and numeric_valid and election_vrn_matches)
     if valid:
         error_signals = []
     level = "tic-column-report" if uik_headers else "uik-direct-protocol"
@@ -296,6 +305,7 @@ def classify_result(
         "row_count": len(rows),
         "column_count": max(map(len, rows), default=0),
         "numeric_cells_valid": numeric_valid,
+        "election_vrn_matches": election_vrn_matches,
         "uik_numbers": uik_headers,
         "error_signals": error_signals,
     }
@@ -383,12 +393,39 @@ def coverage_report(
             row["failed_urls"].append(
                 {
                     "url": observation.get("requested_url"),
-                    "error_class": observation.get("error_class", "validation"),
+                    "error_class": observation.get("error_class")
+                    or (
+                        "official-error-document"
+                        if observation.get("error_signals")
+                        else "validation"
+                    ),
                 }
             )
     output = []
     for key in sorted(regions):
         row = regions[key]
+        missing_uiks = []
+        for relation in relations:
+            if relation["region"] != key:
+                continue
+            missing_kinds = [
+                kind
+                for kind, covered in (
+                    ("party", row["party_uiks"]),
+                    ("candidate", row["candidate_uiks"]),
+                )
+                if relation["uik_tvd"] not in covered
+            ]
+            if missing_kinds:
+                missing_uiks.append(
+                    {
+                        "uik_number": relation["uik_number"],
+                        "uik_tvd": relation["uik_tvd"],
+                        "tik_tvd": relation["tik_tvd"],
+                        "missing_report_types": missing_kinds,
+                        "cause": "absent-from-tik-result-columns",
+                    }
+                )
         output.append(
             {
                 "region": key,
@@ -405,6 +442,7 @@ def coverage_report(
                     )
                     if values != row["uik_ids"]
                 ],
+                "missing_uiks": missing_uiks,
                 "failed_urls": row["failed_urls"],
                 "provenance": dict(row["provenance"]),
                 "reconciliation_status": "not-run",
