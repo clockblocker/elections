@@ -57,8 +57,14 @@ def source(raw: dict[str, Any], source_type: int) -> dict[str, Any]:
     return result
 
 
-def ballot_name(contest: str) -> str:
-    return "party" if contest == "party" else "single-member"
+def ballot_name(dataset: dict[str, Any], contest: str) -> str:
+    if contest == "party":
+        return "party"
+    return (
+        "presidential"
+        if str(dataset["election"]).endswith("-president")
+        else "single-member"
+    )
 
 
 def uik_value(
@@ -73,7 +79,7 @@ def uik_value(
         "election": dataset["election"],
         "level": "uik",
         "reportType": int(types["uik"]),
-        "ballot": ballot_name(contest),
+        "ballot": ballot_name(dataset, contest),
         "uikNumber": record["uik_number"],
         "uikTvd": str(record["uik_tvd"]),
         "tikTvd": str(record["tik_tvd"]),
@@ -100,14 +106,17 @@ def tik_value(
         "election": dataset["election"],
         "level": "tic",
         "reportType": int(types["tic"]),
-        "ballot": ballot_name(contest),
+        "ballot": ballot_name(dataset, contest),
         "tikTvd": tik_tvd,
         "tikName": tik_sources[tik_tvd].get("tik_name", ""),
         "uikCount": aggregate["uik_count"],
         "accounting": aggregate["accounting"],
         "votes": aggregate["votes"],
         "uikTvds": aggregate["uik_tvds"],
-        "source": source(tik_sources[tik_tvd][contest], int(types["tic"])),
+        "source": source(
+            tik_sources[tik_tvd][contest],
+            int(tik_sources[tik_tvd][contest].get("report_type", types["tic"])),
+        ),
     }
 
 
@@ -126,7 +135,9 @@ def write_types(dataset: dict[str, Any], output: Path) -> None:
         for value in dataset["contests"].values()
         for report_type in (value["tic"], value["uik"])
     )
-    ballots = " | ".join(f'"{ballot_name(contest)}"' for contest in dataset["contests"])
+    ballots = " | ".join(
+        f'"{ballot_name(dataset, contest)}"' for contest in dataset["contests"]
+    )
     content = f'''// Generated protocol files use these structural contracts. No database is involved.
 
 export type VoteMap = Readonly<Record<string, number>>;
@@ -203,7 +214,8 @@ def generate(
 
     expected: set[Path] = set()
     roots: list[Path] = []
-    year = dataset["election"].split("-", 1)[0]
+    year, election_kind = dataset["election"].split("-", 1)
+    declaration_prefix = identifier(f"{election_kind}_{year}")
     for region in sorted(
         records_by_region,
         key=lambda value: (int(value) if value.isdigit() else 999, value),
@@ -223,7 +235,7 @@ def generate(
                 write_protocol(
                     path,
                     identifier(
-                        f"duma_{year}_uik_{types['uik']}_region_{region}_part_{part:03d}"
+                        f"{declaration_prefix}_uik_{types['uik']}_region_{region}_part_{part:03d}"
                     ),
                     "UikProtocol",
                     [
@@ -235,7 +247,9 @@ def generate(
             expected.add(path)
             write_protocol(
                 path,
-                identifier(f"duma_{year}_tic_{types['tic']}_region_{region}"),
+                identifier(
+                    f"{declaration_prefix}_tic_{types['tic']}_region_{region}"
+                ),
                 "TicProtocol",
                 [
                     tik_value(dataset, tik_tvd, tik_sources, official, contest)
@@ -254,7 +268,7 @@ def generate(
         relation_groups,
         key=lambda value: (int(value) if value.isdigit() else 999, value),
     ):
-        name = identifier(f"duma_{year}_uik_to_tik_region_{region}")
+        name = identifier(f"{declaration_prefix}_uik_to_tik_region_{region}")
         names.append(name)
         path = relation_root / f"region-{region}.ts"
         relation_expected.add(path)
@@ -286,7 +300,7 @@ def generate(
         "// Do not edit it manually.\n\n"
         'import type { UikTikRelation } from "./protocol/types";\n'
         + "\n".join(imports)
-        + f"\n\nexport const duma_{year}_uik_to_tik = [\n  ..."
+        + f"\n\nexport const {declaration_prefix}_uik_to_tik = [\n  ..."
         + ",\n  ...".join(names)
         + "\n] satisfies readonly UikTikRelation[];\n"
     )
@@ -311,7 +325,7 @@ def generate(
 
 def main() -> int:
     parser = argparse.ArgumentParser(
-        description="Generate sharded historical Duma TypeScript protocols"
+        description="Generate sharded historical election TypeScript protocols"
     )
     parser.add_argument("dataset", type=Path)
     parser.add_argument("--output", type=Path, required=True)

@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import email.utils
 import json
+import os
 import random
 import threading
 import time
@@ -100,13 +101,17 @@ class FetchConfig:
 
 
 class ResponseStore:
-    """Content-addressed raw bodies plus an atomically replaced request index."""
+    """Content-addressed bodies plus a crash-safe, compacted request index."""
+
+    COMPACT_EVERY = 5_000
 
     def __init__(self, root: Path) -> None:
         self.root = root
         self.bodies = root / "sha256"
         self.index_path = root / "manifest.json"
+        self.journal_path = root / "manifest.journal.ndjson"
         self._lock = threading.Lock()
+        self._journal_entries = 0
         self._index: dict[str, dict[str, Any]] = self._read_index()
 
     @staticmethod
@@ -114,10 +119,50 @@ class ResponseStore:
         return sha256_bytes(url.encode("utf-8"))
 
     def _read_index(self) -> dict[str, dict[str, Any]]:
-        if not self.index_path.exists():
-            return {}
-        value = json.loads(self.index_path.read_text(encoding="utf-8"))
-        return value.get("requests", {}) if isinstance(value, dict) else {}
+        requests: dict[str, dict[str, Any]] = {}
+        if self.index_path.exists():
+            value = json.loads(self.index_path.read_text(encoding="utf-8"))
+            if isinstance(value, dict):
+                requests.update(value.get("requests", {}))
+        if self.journal_path.exists():
+            lines = self.journal_path.read_text(encoding="utf-8").splitlines()
+            for index, line in enumerate(lines):
+                try:
+                    record = json.loads(line)
+                except json.JSONDecodeError:
+                    # A process may stop between an append and its fsync. Only the
+                    # final, partially written checkpoint is safe to disregard.
+                    if index != len(lines) - 1:
+                        raise
+                    continue
+                requests[str(record["request_id"])] = record
+                self._journal_entries += 1
+        return requests
+
+    def _checkpoint_locked(self, record: dict[str, Any]) -> None:
+        self.root.mkdir(parents=True, exist_ok=True)
+        with self.journal_path.open("a", encoding="utf-8") as checkpoint:
+            json.dump(record, checkpoint, ensure_ascii=False, separators=(",", ":"))
+            checkpoint.write("\n")
+            checkpoint.flush()
+            os.fsync(checkpoint.fileno())
+        self._journal_entries += 1
+        if self._journal_entries >= self.COMPACT_EVERY:
+            self._compact_locked()
+
+    def _compact_locked(self) -> None:
+        json_write(
+            self.index_path,
+            {"schema_version": 1, "requests": dict(sorted(self._index.items()))},
+        )
+        self.journal_path.unlink(missing_ok=True)
+        self._journal_entries = 0
+
+    def flush(self) -> None:
+        """Compact durable checkpoints into the canonical manifest."""
+        with self._lock:
+            if self._journal_entries or not self.index_path.exists():
+                self._compact_locked()
 
     def verified(self, url: str) -> dict[str, Any] | None:
         record = self._index.get(self.identity(url))
@@ -151,10 +196,7 @@ class ResponseStore:
             )
             record["observations"] = history
             self._index[record["request_id"]] = record
-            json_write(
-                self.index_path,
-                {"schema_version": 1, "requests": dict(sorted(self._index.items()))},
-            )
+            self._checkpoint_locked(record)
         return record
 
     def save_failure(self, url: str, metadata: dict[str, Any]) -> dict[str, Any]:
@@ -167,10 +209,7 @@ class ResponseStore:
             )
             record["observations"] = history
             self._index[record["request_id"]] = record
-            json_write(
-                self.index_path,
-                {"schema_version": 1, "requests": dict(sorted(self._index.items()))},
-            )
+            self._checkpoint_locked(record)
         return record
 
 

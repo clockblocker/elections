@@ -328,6 +328,7 @@ def discover(args: argparse.Namespace) -> int:
         ),
     }
     result["complete"] = bool(summary["complete"] and not failures)
+    store.flush()
     json_write(args.output, result)
     print(
         json.dumps(
@@ -507,6 +508,7 @@ def crawl(args: argparse.Namespace) -> int:
                     flush=True,
                 )
     observations.sort(key=lambda item: item["url"])
+    store.flush()
     result = {
         "schema_version": 1,
         "plan": str(args.plan),
@@ -543,6 +545,31 @@ def decoded_rows(payload: bytes) -> tuple[str, list[list[str]]]:
     """Decode a result table and repair malformed 2003 text-only UIK headers."""
     source, _ = decode_text(payload)
     tables = decode_script_tables(source)
+    for values in tables:
+        if not values or not any(UIK_RE.fullmatch(cell.strip()) for cell in values[0]):
+            continue
+        width = len(values[0])
+        labels = next(
+            (
+                table
+                for table in tables
+                if table is not values
+                and len(table) == len(values)
+                and any(
+                    len(row) >= 2 and row[1].casefold().startswith("число ")
+                    for row in table
+                )
+            ),
+            None,
+        )
+        if labels is not None:
+            combined = [["", "", "Сумма", *values[0]]]
+            combined.extend(
+                [label[0], label[1], label[2], *value]
+                for label, value in zip(labels[1:], values[1:], strict=True)
+                if len(label) == 3 and len(value) == width
+            )
+            return source, combined
     rows = max(tables, key=lambda value: sum(map(len, value)), default=[])
     widths = Counter(map(len, rows))
     width = max(widths, key=lambda value: (widths[value], value), default=0)
@@ -685,6 +712,7 @@ def recover_gaps(args: argparse.Namespace) -> int:
                     flush=True,
                 )
     observations.sort(key=lambda item: item["url"])
+    store.flush()
     json_write(
         args.report,
         {
@@ -732,6 +760,7 @@ def build(args: argparse.Namespace) -> int:
     failures: list[dict[str, Any]] = []
     build_errors: list[dict[str, Any]] = []
     conflicts: list[dict[str, Any]] = []
+    aggregate_tiks: set[tuple[str, str]] = set()
     kinds = report_kind(hierarchy)
     for observation in observations:
         if not observation.get("valid_result") or not observation.get("body_path"):
@@ -739,6 +768,53 @@ def build(args: argparse.Namespace) -> int:
         report_type = int(observation["report_type"])
         level, configured_contest = kinds[report_type]
         contest = str(observation.get("contest") or configured_contest)
+        if str(observation.get("class", "")).startswith("tic-") and (
+            level == "uik" or observation.get("level") == "uik-direct-protocol"
+        ):
+            tik_tvd = str(observation["entity_id"])
+            payload = body(store, observation)
+            try:
+                protocol = extract_direct_protocol(
+                    payload, commission_name=tik_names.get(tik_tvd, "")
+                )
+            except ValueError:
+                _, rows = decoded_rows(payload)
+                data = [row for row in rows if len(row) >= 3 and row[1].strip()]
+                accounting = [
+                    row for row in data if row[1].casefold().startswith("число ")
+                ]
+                votes = [
+                    row
+                    for row in data
+                    if not row[1].casefold().startswith("число ")
+                    and re.match(r"\s*\d+", row[2])
+                ]
+                if len(accounting) < 10 or not votes:
+                    raise ValueError("page has no aggregate commission protocol")
+                protocol = {
+                    "accounting": {row[1]: number(row[2]) for row in accounting},
+                    "votes": {row[1]: number(row[2]) for row in votes},
+                }
+            uik_nodes = uiks_by_tik[tik_tvd]
+            tik_protocols[tik_tvd][contest] = {
+                "accounting": protocol["accounting"],
+                "votes": protocol["votes"],
+                "uik_count": len(uik_nodes),
+                "uik_tvds": [
+                    str(uik_nodes[number]["node_id"]) for number in sorted(uik_nodes)
+                ],
+            }
+            sources[tik_tvd][contest] = {
+                "official_url": observation["requested_url"],
+                "final_url": observation.get("final_url"),
+                "sha256": observation["sha256"],
+                "retrieved_at": observation.get("retrieved_at"),
+                "provenance": observation.get("provenance"),
+                "report_type": report_type,
+                "derivation": "direct",
+            }
+            aggregate_tiks.add((tik_tvd, contest))
+            continue
         if level == "uik":
             uik_tvd = str(observation["entity_id"])
             relation = relation_by_uik[uik_tvd]
@@ -834,6 +910,31 @@ def build(args: argparse.Namespace) -> int:
             "retrieved_at": observation.get("retrieved_at"),
             "provenance": observation.get("provenance"),
         }
+    for tik_tvd, contest in sorted(aggregate_tiks):
+        direct_records = [
+            record
+            for record in paired.values()
+            if str(record.get("tik_tvd")) == tik_tvd
+            and f"{contest}_accounting" in record
+            and f"{contest}_votes" in record
+        ]
+        failures.extend(
+            {
+                "tik_tvd": tik_tvd,
+                "report_type": sources[tik_tvd][contest]["report_type"],
+                **failure,
+            }
+            for failure in reconcile(
+                [
+                    {
+                        "accounting": record[f"{contest}_accounting"],
+                        "votes": record[f"{contest}_votes"],
+                    }
+                    for record in direct_records
+                ],
+                tik_protocols[tik_tvd][contest],
+            )
+        )
     required = {
         f"{contest}_{field}"
         for contest in hierarchy["contests"]
@@ -1034,9 +1135,7 @@ def parser() -> argparse.ArgumentParser:
     )
     common = argparse.ArgumentParser(add_help=False)
     common.add_argument("--config", type=Path, default=DEFAULT_CONFIG)
-    common.add_argument(
-        "--year", type=int, required=True, choices=(2003, 2007, 2011, 2016)
-    )
+    common.add_argument("--year", type=int, required=True)
     common.add_argument("--raw-dir", type=Path, required=True)
     common.add_argument("--rate", type=float, default=10.0)
     common.add_argument("--concurrency", type=int, default=6)

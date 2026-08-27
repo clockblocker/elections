@@ -21,7 +21,7 @@ from historical import (
     make_plan,
     spec_requests,
 )
-from historical_nationwide import report_kind, transpose
+from historical_nationwide import decoded_rows, report_kind, transpose
 from pipeline import UIK_RE as NATIONWIDE_UIK_RE
 from shared_rate import SharedRateLimiter
 
@@ -101,6 +101,82 @@ class HistoricalFamilyTests(unittest.TestCase):
         self.assertIn('election: "2007-duma"', types)
         self.assertIn('"sourceReportType": 233', shard)
         self.assertFalse(stale.exists())
+
+    def test_nationwide_typescript_generation_labels_presidential_ballot(self):
+        source = {
+            "official_url": "http://old.izbirkom.ru/result",
+            "sha256": "a" * 64,
+            "provenance": "live-official",
+        }
+        dataset = {
+            "election": "2018-president",
+            "contests": {"candidate": {"tic": 227, "uik": 226}},
+            "records": [
+                {
+                    "region": "1",
+                    "uik_number": 1,
+                    "uik_tvd": "u1",
+                    "tik_tvd": "t1",
+                    "tik_name": "Test TIK",
+                    "candidate_accounting": {"Число избирателей": 10},
+                    "candidate_votes": {"Путин В.В.": 10},
+                }
+            ],
+            "sources": [
+                {
+                    "tik_tvd": "t1",
+                    "tik_name": "Test TIK",
+                    "region": "1",
+                    "candidate": source,
+                }
+            ],
+            "tik_protocols": [
+                {
+                    "tik_tvd": "t1",
+                    "candidate": {
+                        "uik_count": 1,
+                        "uik_tvds": ["u1"],
+                        "accounting": {"Число избирателей": 10},
+                        "votes": {"Путин В.В.": 10},
+                    },
+                }
+            ],
+            "relations": [
+                {
+                    "region": "1",
+                    "uik_number": 1,
+                    "uik_tvd": "u1",
+                    "tik_tvd": "t1",
+                    "tik_name": "Test TIK",
+                }
+            ],
+        }
+        with tempfile.TemporaryDirectory() as temporary:
+            output = Path(temporary)
+            generate_historical_typescript(dataset, output)
+            types = (output / "protocol" / "types.ts").read_text(encoding="utf-8")
+            root = (output / "uik-to-tik.ts").read_text(encoding="utf-8")
+        self.assertIn('ballot: "presidential"', types)
+        self.assertIn("president_2018_uik_to_tik", root)
+
+    def test_nationwide_merges_split_presidential_column_tables(self):
+        payload = """<html data-vrn="100100084849062">
+        <table class="table-striped">
+          <tr><td></td><td>Сумма</td></tr>
+          <tr><td>1</td><td>Число избирателей</td><td>30</td></tr>
+          <tr><td>2</td><td>Число бюллетеней</td><td>25</td></tr>
+          <tr><td>3</td><td>Иванов Иван Иванович</td><td>25 100%</td></tr>
+        </table>
+        <table class="table-striped">
+          <tr><td>УИК №1</td><td>УИК №2</td></tr>
+          <tr><td>10</td><td>20</td></tr>
+          <tr><td>10</td><td>15</td></tr>
+          <tr><td>10 100%</td><td>15 100%</td></tr>
+        </table></html>""".encode()
+        _, rows = decoded_rows(payload)
+        self.assertEqual(rows[0], ["", "", "Сумма", "УИК №1", "УИК №2"])
+        self.assertEqual(rows[-1][1], "Иванов Иван Иванович")
+        self.assertEqual(rows[-1][3:], ["10 100%", "15 100%"])
 
     def test_nationwide_hierarchy_accepts_uchastok_uik_label(self):
         match = NATIONWIDE_UIK_RE.fullmatch("Участок  №5031")

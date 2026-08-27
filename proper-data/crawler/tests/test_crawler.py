@@ -225,6 +225,30 @@ class PersistenceAndRetryTests(unittest.TestCase):
             self.assertEqual(first["sha256"], second["sha256"])
             self.assertTrue(second["cache_hit"])
 
+    def test_response_journal_resumes_and_compacts(self):
+        with tempfile.TemporaryDirectory() as directory:
+            root = Path(directory)
+            first = ResponseStore(root)
+            first.save(
+                "http://example.test/checkpoint",
+                b"official bytes",
+                {"status": 200},
+            )
+            self.assertTrue(first.journal_path.is_file())
+
+            resumed = ResponseStore(root)
+            self.assertIsNotNone(
+                resumed.verified("http://example.test/checkpoint")
+            )
+            resumed.flush()
+
+            self.assertTrue(resumed.index_path.is_file())
+            self.assertFalse(resumed.journal_path.exists())
+            compacted = ResponseStore(root)
+            self.assertIsNotNone(
+                compacted.verified("http://example.test/checkpoint")
+            )
+
     def test_preserved_error_is_retried_on_the_next_run(self):
         with tempfile.TemporaryDirectory() as directory:
             store = ResponseStore(Path(directory))

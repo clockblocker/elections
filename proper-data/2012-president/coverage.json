@@ -1,0 +1,884 @@
+{
+  "schema_version": 1,
+  "election": "2012-president",
+  "regions": [
+    {
+      "region": "0",
+      "discovered_tik_count": 2,
+      "discovered_uik_count": 385,
+      "uiks_with_candidate_results": 385,
+      "uiks_with_known_tik": 385,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "1",
+      "discovered_tik_count": 9,
+      "discovered_uik_count": 264,
+      "uiks_with_candidate_results": 264,
+      "uiks_with_known_tik": 264,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "10",
+      "discovered_tik_count": 20,
+      "discovered_uik_count": 543,
+      "uiks_with_candidate_results": 543,
+      "uiks_with_known_tik": 543,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "11",
+      "discovered_tik_count": 21,
+      "discovered_uik_count": 660,
+      "uiks_with_candidate_results": 660,
+      "uiks_with_known_tik": 660,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "12",
+      "discovered_tik_count": 18,
+      "discovered_uik_count": 552,
+      "uiks_with_candidate_results": 552,
+      "uiks_with_known_tik": 552,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "13",
+      "discovered_tik_count": 25,
+      "discovered_uik_count": 802,
+      "uiks_with_candidate_results": 802,
+      "uiks_with_known_tik": 802,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "14",
+      "discovered_tik_count": 35,
+      "discovered_uik_count": 813,
+      "uiks_with_candidate_results": 813,
+      "uiks_with_known_tik": 813,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "15",
+      "discovered_tik_count": 10,
+      "discovered_uik_count": 371,
+      "uiks_with_candidate_results": 371,
+      "uiks_with_known_tik": 371,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "16",
+      "discovered_tik_count": 65,
+      "discovered_uik_count": 2853,
+      "uiks_with_candidate_results": 2853,
+      "uiks_with_known_tik": 2853,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "17",
+      "discovered_tik_count": 19,
+      "discovered_uik_count": 183,
+      "uiks_with_candidate_results": 183,
+      "uiks_with_known_tik": 183,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "18",
+      "discovered_tik_count": 34,
+      "discovered_uik_count": 1185,
+      "uiks_with_candidate_results": 1185,
+      "uiks_with_known_tik": 1185,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "19",
+      "discovered_tik_count": 13,
+      "discovered_uik_count": 395,
+      "uiks_with_candidate_results": 395,
+      "uiks_with_known_tik": 395,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "2",
+      "discovered_tik_count": 11,
+      "discovered_uik_count": 242,
+      "uiks_with_candidate_results": 242,
+      "uiks_with_known_tik": 242,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "20",
+      "discovered_tik_count": 20,
+      "discovered_uik_count": 454,
+      "uiks_with_candidate_results": 454,
+      "uiks_with_known_tik": 454,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "21",
+      "discovered_tik_count": 28,
+      "discovered_uik_count": 1176,
+      "uiks_with_candidate_results": 1176,
+      "uiks_with_known_tik": 1176,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "22",
+      "discovered_tik_count": 75,
+      "discovered_uik_count": 1862,
+      "uiks_with_candidate_results": 1862,
+      "uiks_with_known_tik": 1862,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "23",
+      "discovered_tik_count": 59,
+      "discovered_uik_count": 2713,
+      "uiks_with_candidate_results": 2713,
+      "uiks_with_known_tik": 2713,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "24",
+      "discovered_tik_count": 70,
+      "discovered_uik_count": 2174,
+      "uiks_with_candidate_results": 2174,
+      "uiks_with_known_tik": 2174,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "25",
+      "discovered_tik_count": 38,
+      "discovered_uik_count": 1587,
+      "uiks_with_candidate_results": 1587,
+      "uiks_with_known_tik": 1587,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "26",
+      "discovered_tik_count": 37,
+      "discovered_uik_count": 1265,
+      "uiks_with_candidate_results": 1265,
+      "uiks_with_known_tik": 1265,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "27",
+      "discovered_tik_count": 23,
+      "discovered_uik_count": 834,
+      "uiks_with_candidate_results": 833,
+      "uiks_with_known_tik": 834,
+      "missing_report_types": [
+        "candidate"
+      ],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "28",
+      "discovered_tik_count": 29,
+      "discovered_uik_count": 783,
+      "uiks_with_candidate_results": 783,
+      "uiks_with_known_tik": 783,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "29",
+      "discovered_tik_count": 31,
+      "discovered_uik_count": 984,
+      "uiks_with_candidate_results": 984,
+      "uiks_with_known_tik": 984,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "3",
+      "discovered_tik_count": 69,
+      "discovered_uik_count": 3509,
+      "uiks_with_candidate_results": 3509,
+      "uiks_with_known_tik": 3509,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "30",
+      "discovered_tik_count": 16,
+      "discovered_uik_count": 586,
+      "uiks_with_candidate_results": 586,
+      "uiks_with_known_tik": 586,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "31",
+      "discovered_tik_count": 22,
+      "discovered_uik_count": 1250,
+      "uiks_with_candidate_results": 1250,
+      "uiks_with_known_tik": 1250,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "32",
+      "discovered_tik_count": 34,
+      "discovered_uik_count": 1124,
+      "uiks_with_candidate_results": 1124,
+      "uiks_with_known_tik": 1124,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "33",
+      "discovered_tik_count": 23,
+      "discovered_uik_count": 940,
+      "uiks_with_candidate_results": 940,
+      "uiks_with_known_tik": 940,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "34",
+      "discovered_tik_count": 46,
+      "discovered_uik_count": 1653,
+      "uiks_with_candidate_results": 1653,
+      "uiks_with_known_tik": 1653,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "35",
+      "discovered_tik_count": 28,
+      "discovered_uik_count": 1040,
+      "uiks_with_candidate_results": 1040,
+      "uiks_with_known_tik": 1040,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "36",
+      "discovered_tik_count": 39,
+      "discovered_uik_count": 1680,
+      "uiks_with_candidate_results": 1680,
+      "uiks_with_known_tik": 1680,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "37",
+      "discovered_tik_count": 30,
+      "discovered_uik_count": 717,
+      "uiks_with_candidate_results": 717,
+      "uiks_with_known_tik": 717,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "38",
+      "discovered_tik_count": 45,
+      "discovered_uik_count": 1925,
+      "uiks_with_candidate_results": 1925,
+      "uiks_with_known_tik": 1925,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "39",
+      "discovered_tik_count": 24,
+      "discovered_uik_count": 551,
+      "uiks_with_candidate_results": 551,
+      "uiks_with_known_tik": 551,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "4",
+      "discovered_tik_count": 25,
+      "discovered_uik_count": 836,
+      "uiks_with_candidate_results": 836,
+      "uiks_with_known_tik": 836,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "40",
+      "discovered_tik_count": 28,
+      "discovered_uik_count": 723,
+      "uiks_with_candidate_results": 723,
+      "uiks_with_known_tik": 723,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "42",
+      "discovered_tik_count": 47,
+      "discovered_uik_count": 1718,
+      "uiks_with_candidate_results": 1718,
+      "uiks_with_known_tik": 1718,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "43",
+      "discovered_tik_count": 48,
+      "discovered_uik_count": 1211,
+      "uiks_with_candidate_results": 1211,
+      "uiks_with_known_tik": 1211,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "44",
+      "discovered_tik_count": 30,
+      "discovered_uik_count": 623,
+      "uiks_with_candidate_results": 623,
+      "uiks_with_known_tik": 623,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "45",
+      "discovered_tik_count": 27,
+      "discovered_uik_count": 1175,
+      "uiks_with_candidate_results": 1175,
+      "uiks_with_known_tik": 1175,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "46",
+      "discovered_tik_count": 35,
+      "discovered_uik_count": 1153,
+      "uiks_with_candidate_results": 1153,
+      "uiks_with_known_tik": 1153,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "47",
+      "discovered_tik_count": 18,
+      "discovered_uik_count": 989,
+      "uiks_with_candidate_results": 989,
+      "uiks_with_known_tik": 989,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "48",
+      "discovered_tik_count": 23,
+      "discovered_uik_count": 875,
+      "uiks_with_candidate_results": 875,
+      "uiks_with_known_tik": 875,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "49",
+      "discovered_tik_count": 10,
+      "discovered_uik_count": 103,
+      "uiks_with_candidate_results": 103,
+      "uiks_with_known_tik": 103,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "5",
+      "discovered_tik_count": 54,
+      "discovered_uik_count": 1900,
+      "uiks_with_candidate_results": 1899,
+      "uiks_with_known_tik": 1900,
+      "missing_report_types": [
+        "candidate"
+      ],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "50",
+      "discovered_tik_count": 74,
+      "discovered_uik_count": 3388,
+      "uiks_with_candidate_results": 3388,
+      "uiks_with_known_tik": 3388,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "51",
+      "discovered_tik_count": 17,
+      "discovered_uik_count": 624,
+      "uiks_with_candidate_results": 622,
+      "uiks_with_known_tik": 624,
+      "missing_report_types": [
+        "candidate"
+      ],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "52",
+      "discovered_tik_count": 61,
+      "discovered_uik_count": 2331,
+      "uiks_with_candidate_results": 2331,
+      "uiks_with_known_tik": 2331,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "53",
+      "discovered_tik_count": 22,
+      "discovered_uik_count": 545,
+      "uiks_with_candidate_results": 545,
+      "uiks_with_known_tik": 545,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "54",
+      "discovered_tik_count": 44,
+      "discovered_uik_count": 2032,
+      "uiks_with_candidate_results": 2032,
+      "uiks_with_known_tik": 2032,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "55",
+      "discovered_tik_count": 37,
+      "discovered_uik_count": 1847,
+      "uiks_with_candidate_results": 1847,
+      "uiks_with_known_tik": 1847,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "56",
+      "discovered_tik_count": 49,
+      "discovered_uik_count": 1812,
+      "uiks_with_candidate_results": 1812,
+      "uiks_with_known_tik": 1812,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "57",
+      "discovered_tik_count": 30,
+      "discovered_uik_count": 749,
+      "uiks_with_candidate_results": 749,
+      "uiks_with_known_tik": 749,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "58",
+      "discovered_tik_count": 33,
+      "discovered_uik_count": 1149,
+      "uiks_with_candidate_results": 1149,
+      "uiks_with_known_tik": 1149,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "6",
+      "discovered_tik_count": 8,
+      "discovered_uik_count": 130,
+      "uiks_with_candidate_results": 130,
+      "uiks_with_known_tik": 130,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "60",
+      "discovered_tik_count": 26,
+      "discovered_uik_count": 648,
+      "uiks_with_candidate_results": 648,
+      "uiks_with_known_tik": 648,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "61",
+      "discovered_tik_count": 62,
+      "discovered_uik_count": 2594,
+      "uiks_with_candidate_results": 2594,
+      "uiks_with_known_tik": 2594,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "62",
+      "discovered_tik_count": 32,
+      "discovered_uik_count": 1063,
+      "uiks_with_candidate_results": 1063,
+      "uiks_with_known_tik": 1063,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "63",
+      "discovered_tik_count": 47,
+      "discovered_uik_count": 1710,
+      "uiks_with_candidate_results": 1710,
+      "uiks_with_known_tik": 1710,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "64",
+      "discovered_tik_count": 47,
+      "discovered_uik_count": 1783,
+      "uiks_with_candidate_results": 1783,
+      "uiks_with_known_tik": 1783,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "65",
+      "discovered_tik_count": 20,
+      "discovered_uik_count": 445,
+      "uiks_with_candidate_results": 445,
+      "uiks_with_known_tik": 445,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "66",
+      "discovered_tik_count": 80,
+      "discovered_uik_count": 2537,
+      "uiks_with_candidate_results": 2537,
+      "uiks_with_known_tik": 2537,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "67",
+      "discovered_tik_count": 29,
+      "discovered_uik_count": 810,
+      "uiks_with_candidate_results": 810,
+      "uiks_with_known_tik": 810,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "68",
+      "discovered_tik_count": 32,
+      "discovered_uik_count": 952,
+      "uiks_with_candidate_results": 952,
+      "uiks_with_known_tik": 952,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "69",
+      "discovered_tik_count": 46,
+      "discovered_uik_count": 1259,
+      "uiks_with_candidate_results": 1259,
+      "uiks_with_known_tik": 1259,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "7",
+      "discovered_tik_count": 13,
+      "discovered_uik_count": 356,
+      "uiks_with_candidate_results": 356,
+      "uiks_with_known_tik": 356,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "70",
+      "discovered_tik_count": 23,
+      "discovered_uik_count": 777,
+      "uiks_with_candidate_results": 777,
+      "uiks_with_known_tik": 777,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "71",
+      "discovered_tik_count": 29,
+      "discovered_uik_count": 1135,
+      "uiks_with_candidate_results": 1135,
+      "uiks_with_known_tik": 1135,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "72",
+      "discovered_tik_count": 29,
+      "discovered_uik_count": 1128,
+      "uiks_with_candidate_results": 1128,
+      "uiks_with_known_tik": 1128,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "73",
+      "discovered_tik_count": 29,
+      "discovered_uik_count": 993,
+      "uiks_with_candidate_results": 993,
+      "uiks_with_known_tik": 993,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "74",
+      "discovered_tik_count": 51,
+      "discovered_uik_count": 2245,
+      "uiks_with_candidate_results": 2245,
+      "uiks_with_known_tik": 2245,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "76",
+      "discovered_tik_count": 26,
+      "discovered_uik_count": 906,
+      "uiks_with_candidate_results": 906,
+      "uiks_with_known_tik": 906,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "77",
+      "discovered_tik_count": 125,
+      "discovered_uik_count": 3386,
+      "uiks_with_candidate_results": 3386,
+      "uiks_with_known_tik": 3386,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "78",
+      "discovered_tik_count": 30,
+      "discovered_uik_count": 1942,
+      "uiks_with_candidate_results": 1937,
+      "uiks_with_known_tik": 1942,
+      "missing_report_types": [
+        "candidate"
+      ],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "79",
+      "discovered_tik_count": 6,
+      "discovered_uik_count": 144,
+      "uiks_with_candidate_results": 144,
+      "uiks_with_known_tik": 144,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "8",
+      "discovered_tik_count": 14,
+      "discovered_uik_count": 253,
+      "uiks_with_candidate_results": 253,
+      "uiks_with_known_tik": 253,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "83",
+      "discovered_tik_count": 2,
+      "discovered_uik_count": 51,
+      "uiks_with_candidate_results": 51,
+      "uiks_with_known_tik": 51,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "86",
+      "discovered_tik_count": 22,
+      "discovered_uik_count": 657,
+      "uiks_with_candidate_results": 657,
+      "uiks_with_known_tik": 657,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "87",
+      "discovered_tik_count": 7,
+      "discovered_uik_count": 57,
+      "uiks_with_candidate_results": 57,
+      "uiks_with_known_tik": 57,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "89",
+      "discovered_tik_count": 13,
+      "discovered_uik_count": 211,
+      "uiks_with_candidate_results": 211,
+      "uiks_with_known_tik": 211,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "9",
+      "discovered_tik_count": 12,
+      "discovered_uik_count": 246,
+      "uiks_with_candidate_results": 246,
+      "uiks_with_known_tik": 246,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "90",
+      "discovered_tik_count": 54,
+      "discovered_uik_count": 1890,
+      "uiks_with_candidate_results": 1890,
+      "uiks_with_known_tik": 1890,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "91",
+      "discovered_tik_count": 14,
+      "discovered_uik_count": 323,
+      "uiks_with_candidate_results": 323,
+      "uiks_with_known_tik": 323,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    },
+    {
+      "region": "92",
+      "discovered_tik_count": 38,
+      "discovered_uik_count": 955,
+      "uiks_with_candidate_results": 955,
+      "uiks_with_known_tik": 955,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    }
+  ],
+  "summary": {
+    "regions": 84,
+    "tiks": 2746,
+    "uiks": 95424,
+    "complete_uiks": 95415,
+    "missing_hierarchy_uiks": 9,
+    "incomplete_uiks": 0,
+    "reconciliation_failures": 0,
+    "build_errors": 0,
+    "duplicate_conflicts": 0,
+    "direct_recovery_requests": 9,
+    "direct_recovery_valid": 0
+  },
+  "failed_direct_recovery": [
+    {
+      "entity_id": "4274004116023",
+      "tik_tvd": "2272000305169",
+      "region": "27",
+      "contest": "candidate",
+      "report_type": 226,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=272000008&vrn=100100031793505&global=true&prver=0&pronetvd=null&tvd=4274004116023&region=27&sub_region=27&vibid=4274004116023&type=226",
+      "status": 200,
+      "sha256": "67d5a31a1dc24437234ad90067b4dbc74ecd9c50a0ea2e3e8fe59948ec96d796",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "4514012182063",
+      "tik_tvd": "2512000244998",
+      "region": "51",
+      "contest": "candidate",
+      "report_type": 226,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000012&vrn=100100031793505&global=true&prver=0&pronetvd=null&tvd=4514012182063&region=51&sub_region=51&vibid=4514012182063&type=226",
+      "status": 200,
+      "sha256": "87c38517267ccb70d81582c9b7918bbb9d121a10e0ba76b32c3a935620dcfe66",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "4514012182085",
+      "tik_tvd": "2512000244998",
+      "region": "51",
+      "contest": "candidate",
+      "report_type": 226,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000012&vrn=100100031793505&global=true&prver=0&pronetvd=null&tvd=4514012182085&region=51&sub_region=51&vibid=4514012182085&type=226",
+      "status": 200,
+      "sha256": "22665712a11460c466a582a8319fa2b134b8b4fb2ec15e1fd49a71f83b0150fd",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "4054036107181",
+      "tik_tvd": "2052000390400",
+      "region": "5",
+      "contest": "candidate",
+      "report_type": 226,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000013&vrn=100100031793505&global=true&prver=0&pronetvd=null&tvd=4054036107181&region=5&sub_region=5&vibid=4054036107181&type=226",
+      "status": 200,
+      "sha256": "0da63fe28dc335a6e870b14097ec6569d3a0b848d5d9dc907ce0cab1bb51edc8",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "4784005157694",
+      "tik_tvd": "2782000375413",
+      "region": "78",
+      "contest": "candidate",
+      "report_type": 226,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=782000003&vrn=100100031793505&global=true&prver=0&pronetvd=null&tvd=4784005157694&region=78&sub_region=78&vibid=4784005157694&type=226",
+      "status": 200,
+      "sha256": "05bb7c200d03805893390e93656d55e5b75dc3a1ec07296f51251a469c0a174b",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "4784005157709",
+      "tik_tvd": "2782000375413",
+      "region": "78",
+      "contest": "candidate",
+      "report_type": 226,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=782000003&vrn=100100031793505&global=true&prver=0&pronetvd=null&tvd=4784005157709&region=78&sub_region=78&vibid=4784005157709&type=226",
+      "status": 200,
+      "sha256": "a64de2b1141eb8c60809efa60f20dd0c6f8ef6ba3f098dd26ebb4d0c4cabec56",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "4784005157713",
+      "tik_tvd": "2782000375413",
+      "region": "78",
+      "contest": "candidate",
+      "report_type": 226,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=782000003&vrn=100100031793505&global=true&prver=0&pronetvd=null&tvd=4784005157713&region=78&sub_region=78&vibid=4784005157713&type=226",
+      "status": 200,
+      "sha256": "0359b0b0fbbe805b58551a7e81b9a2cd6787aec904688094aead228237aebfc6",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "4784005157720",
+      "tik_tvd": "2782000375413",
+      "region": "78",
+      "contest": "candidate",
+      "report_type": 226,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=782000003&vrn=100100031793505&global=true&prver=0&pronetvd=null&tvd=4784005157720&region=78&sub_region=78&vibid=4784005157720&type=226",
+      "status": 200,
+      "sha256": "7548cae0c0ea732d5863493c25f68472d581ea8eeb7b39653c2d117b3497a962",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    },
+    {
+      "entity_id": "4784005157729",
+      "tik_tvd": "2782000375413",
+      "region": "78",
+      "contest": "candidate",
+      "report_type": 226,
+      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=782000003&vrn=100100031793505&global=true&prver=0&pronetvd=null&tvd=4784005157729&region=78&sub_region=78&vibid=4784005157729&type=226",
+      "status": 200,
+      "sha256": "f2276ac57180da9b166ec7f2c7a0b23cab364876744607c9ac88b9adc1451a0d",
+      "validation_error": "ValueError: page has no direct commission protocol"
+    }
+  ]
+}

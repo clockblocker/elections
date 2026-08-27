@@ -1,6 +1,46 @@
 {
   "schema_version": 1,
   "elections": {
+    "2004": {
+      "election": "2004-president",
+      "election_vrn": "1001000882950",
+      "root_url": "http://old.izbirkom.ru/tvdTree?vrn=1001000882950&tvd=1001000882951",
+      "contests": {
+        "candidate": {"tic": 227, "uik": 226}
+      }
+    },
+    "2008": {
+      "election": "2008-president",
+      "election_vrn": "100100022176412",
+      "root_url": "http://old.izbirkom.ru/tvdTree?vrn=100100022176412&tvd=100100022249920",
+      "contests": {
+        "candidate": {"tic": 227, "uik": 226}
+      }
+    },
+    "2012": {
+      "election": "2012-president",
+      "election_vrn": "100100031793505",
+      "root_url": "http://old.izbirkom.ru/tvdTree?vrn=100100031793505&tvd=100100031793509",
+      "contests": {
+        "candidate": {"tic": 227, "uik": 226}
+      }
+    },
+    "2018": {
+      "election": "2018-president",
+      "election_vrn": "100100084849062",
+      "root_url": "http://old.izbirkom.ru/tvdTree?vrn=100100084849062&tvd=100100084849066",
+      "contests": {
+        "candidate": {"tic": 227, "uik": 226}
+      }
+    },
+    "2024": {
+      "election": "2024-president",
+      "election_vrn": "100100339410030",
+      "root_url": "http://old.izbirkom.ru/tvdTree?vrn=100100339410030&tvd=100100339410034",
+      "contests": {
+        "candidate": {"tic": 227, "uik": 226}
+      }
+    },
     "2003": {
       "election_vrn": "100100095619",
       "root_url": "http://old.izbirkom.ru/tvdTree?vrn=100100095619",

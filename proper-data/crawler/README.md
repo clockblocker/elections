@@ -31,14 +31,17 @@ ballots are rejected or reported; conflicts are never silently resolved.
 The default ignored raw root is:
 
 ```text
-data/raw/gas-duma-2021/manifest.json            atomic request checkpoint
+data/raw/gas-duma-2021/manifest.json            compacted request index
+data/raw/gas-duma-2021/manifest.journal.ndjson  per-response checkpoints
 data/raw/gas-duma-2021/sha256/ab/<full-hash>    exact response bytes
 ```
 
-The manifest records requested/final URL, retrieval time, status, content type, byte
+The index records requested/final URL, retrieval time, status, content type, byte
 length, SHA-256, elapsed time, retry count, source host, provenance, and failures.
-Bodies and indexes are published atomically. A restart verifies the indexed body hash
-before skipping it; `--refresh` overrides this. Error responses remain observations.
+Each observation is appended to an fsynced journal; the journal is periodically
+compacted into an atomically replaced manifest. A restart replays both and verifies
+the indexed body hash before skipping it; `--refresh` overrides this. Error responses
+remain observations.
 
 All workers and retries share one monotonic scheduler. At the default 10 RPS launches
 are about 100 ms apart, not burst once per second. Concurrency defaults to six. 429,
@@ -339,6 +342,50 @@ documents rather than protocol tables, so none was promoted. The coverage JSON f
 retain the failed recovery URL, response hash, status, and validation reason. The 2003
 and 2007 reconciliation differences are also preserved exactly as displayed by the
 official TIK tables; generation does not rewrite either the aggregate or UIK values.
+
+## Nationwide Russian presidential crawls (2004–2024)
+
+The same restartable nationwide workflow covers every Russian presidential election
+for which the official GAS archive exposes a recursive TIK/UIK hierarchy: 2004, 2008,
+2012, 2018, and 2024. Their checked-in VRNs, hierarchy roots, and verified presidential
+report types (`227` TIK columns and `226` direct UIK protocols) are in
+`historical-nationwide.json`. The 2000 election remains a separate static legacy
+archive and is not represented as a GAS UIK/TIK protocol crawl.
+
+For each `YEAR` in `2004 2008 2012 2018 2024`, use the historical nationwide commands
+above with `gas-president-YEAR` in the raw/report paths and generate into
+`proper-data/YEAR-president`. Each plan must be `ready`; every acquired table must
+validate as the configured presidential contest before the offline build can promote
+it. Gap recovery, reconciliation, deterministic TypeScript generation, coverage
+reporting, and the final checks are identical to the Duma workflow.
+
+The 2024 archive exposes TIK aggregate type-226 pages but withholds the type-227 UIK
+column tables, so that year uses hierarchy-derived type-226 direct UIK recovery for
+all 94,214 discovered precincts. Permanent HTTP-200 navigation/error documents are
+retained as gaps; transient non-2xx responses are failure-only retried and their full
+observation history remains in the raw manifest.
+
+### Completed nationwide presidential run (2026-08-27)
+
+All five GAS-backed presidential elections completed recursive discovery, result
+acquisition, failure-only retries, offline protocol construction, direct gap recovery,
+regional TypeScript generation, and coverage reporting. Every hierarchy and TIK is
+retained even when the official archive does not publish its underlying UIK protocol.
+
+| Year | Discovered regions | TIKs | Hierarchy UIKs | Complete UIKs | Missing official UIK protocols | Reconciliation differences |
+| --- | ---: | ---: | ---: | ---: | ---: | ---: |
+| 2004 | 91 | 2,757 | 95,847 | 95,774 | 73 | 383 |
+| 2008 | 85 | 2,750 | 96,625 | 96,612 | 13 | 0 |
+| 2012 | 85 | 2,746 | 95,424 | 95,415 | 9 | 0 |
+| 2018 | 87 | 2,778 | 97,715 | 97,695 | 20 | 0 |
+| 2024 | 91 | 2,909 | 94,214 | 91,946 | 2,268 | 1,380 |
+
+All five builds have zero parser/build errors and zero duplicate conflicts. The 2004
+differences include official aggregate-only TIK pages and the 2024 differences reflect
+comparison against the available 91,946-UIK subset; neither aggregate nor precinct
+values are rewritten to force agreement. Exact missing URLs, response hashes, status,
+validation result, and per-region reconciliation status are in each generated
+`coverage.json`.
 
 The checked-in controlled matrix selects exact national, region, OIK, TIK, hierarchy,
 static, and workbook requests. `probe-spec` honors `--source-mode`; exact live-only

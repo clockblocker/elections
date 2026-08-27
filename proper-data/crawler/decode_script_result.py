@@ -213,6 +213,8 @@ def decode_script_tables(source: str) -> list[list[list[str]]]:
                     _put(element, changed)
             elif operation == "swap":
                 left, right, _ = arguments
+                if int(left) >= len(cells) or int(right) >= len(cells):
+                    continue
                 first, second = _leaf(cells[int(left)]), _leaf(cells[int(right)])
                 first_value, second_value = _text(first), _text(second)
                 _put(first, second_value)
@@ -221,21 +223,26 @@ def decode_script_tables(source: str) -> list[list[list[str]]]:
                 char_index, source, destination_index, destination, dot_index, _ = (
                     arguments
                 )
+                if int(source) >= len(cells) or int(destination) >= len(cells):
+                    continue
                 source_element = _leaf(cells[source])
                 target = _leaf(cells[destination])
+                source_value = _text(source_element).strip()
+                if not -len(source_value) <= int(char_index) < len(source_value):
+                    continue
                 value = _text(target)
                 if dot_index is not False:
                     value = value[:dot_index] + "." + value[dot_index:]
                 value = (
                     value[:destination_index]
-                    + _text(source_element).strip()[char_index]
+                    + source_value[char_index]
                     + value[destination_index:]
                 )
                 _put(target, value)
             elif operation == "overlay":
                 class_name, destination, _ = arguments
                 overlays = by_class(class_name)
-                if overlays:
+                if overlays and int(destination) < len(cells):
                     _put(_leaf(cells[destination]), _text(_leaf(overlays[0])))
 
         _strip_hidden(document, table)
