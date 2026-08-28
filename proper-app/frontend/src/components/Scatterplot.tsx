@@ -251,13 +251,13 @@ export function Scatterplot({
 
   return <section className="plot-card">
     <div className="plot-head">
-      <div><span className="eyebrow">Physical UIK evidence field</span><h2>Turnout × party result</h2></div>
+      <div><span className="eyebrow">Physical UIK evidence field</span><h2>Turnout × option result</h2></div>
       <div className="plot-tools"><span className="gradient-key"><i /><small>P_sus · 0 · 50 · P1 95 · P2 99 · P3 99.9%+</small></span><button onClick={() => applyView(FULL)}>Reset view</button></div>
     </div>
     <div className="plot-shell" ref={shellRef} onPointerDown={onPointerDown} onPointerMove={onPointerMove} onPointerUp={onPointerUp} onPointerCancel={() => { dragRef.current = null; }} onPointerLeave={() => setHover(null)}>
-      <canvas ref={canvasRef} aria-label={`${plottedPoints.length.toLocaleString()} physical precinct points. Turnout on the horizontal axis and party result on the vertical axis.`} role="img" />
+      <canvas ref={canvasRef} aria-label={`${plottedPoints.length.toLocaleString()} physical precinct points. Turnout on the horizontal axis and option result on the vertical axis.`} role="img" />
       <span className="axis axis-x">Turnout · ballots found / registered voters · %</span>
-      <span className="axis axis-y">Party votes / valid ballots · %</span>
+      <span className="axis axis-y">Option votes / valid ballots · %</span>
       {hover && <div className="point-tooltip" style={{ left: Math.min(hover.x + 14, size.width - 230), top: Math.max(10, hover.y - 108) }}>
         <strong>UIK {hover.point.uikNumber}</strong><span>{hover.point.regionName}</span><span>{hover.point.tikName}</span>
         <div><b>{hover.point.turnout.toFixed(2)}%</b> turnout <b>{hover.point.result.toFixed(2)}%</b> result</div>

@@ -1,7 +1,7 @@
 import { resolve } from "node:path";
 import { closeDatabase } from "./db";
 import { errorResponse, json, parseId, regionFilters } from "./http";
-import { metadata, points, protocolDetail } from "./repository";
+import { elections, metadata, points, protocolDetail } from "./repository";
 
 const port = Number(process.env.PORT ?? 3001);
 const appOrigin = process.env.APP_ORIGIN ?? "http://localhost:5173";
@@ -17,6 +17,9 @@ function withCors(response: Response): Response {
 async function api(request: Request, url: URL): Promise<Response> {
   if (url.pathname === "/api/health") {
     return json({ status: "ok", runtime: "bun", database: "postgresql" });
+  }
+  if (url.pathname === "/api/elections") {
+    return json({ elections: await elections() });
   }
   const metaMatch = /^\/api\/elections\/([^/]+)\/meta$/.exec(url.pathname);
   if (metaMatch) {

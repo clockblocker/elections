@@ -1,4 +1,4 @@
-export interface PartyOption {
+export interface BallotOption {
   id: number;
   position: number;
   name: string;
@@ -7,7 +7,17 @@ export interface PartyOption {
   votes: string;
 }
 
+export interface ElectionSummary {
+  slug: string;
+  name: string;
+  electionDate: string;
+  ballot: { kind: "party-list" | "presidential"; name: string };
+  importedProtocols: number | null;
+  missingProtocols: number | null;
+}
+
 export interface Region {
+  key: string;
   code: string;
   name: string;
   precincts: number;
@@ -15,11 +25,12 @@ export interface Region {
 
 export interface Metadata {
   election: { slug: string; name: string; electionDate: string; scopeNote: string };
+  ballot: { kind: "party-list" | "presidential"; name: string };
   coverage: {
     regions: number; tiks: number; discoveredUiks: number; importedProtocols: number;
     missingProtocols: number; degPolicy: string; updatedAt: string;
   };
-  options: PartyOption[];
+  options: BallotOption[];
   regions: Region[];
   method: { slug: string; version: number; name: string; description: string; parameters: AnalysisParameters };
 }
@@ -30,6 +41,7 @@ export interface Point {
   uikTvd: string;
   tikTvd: string;
   tikName: string;
+  regionKey: string;
   regionCode: string;
   regionName: string;
   registeredVoters: number;

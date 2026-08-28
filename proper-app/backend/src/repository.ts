@@ -3,13 +3,33 @@ import type { ScatterPoint } from "./types";
 
 type Row = Record<string, unknown>;
 
+export async function elections(): Promise<Record<string, unknown>[]> {
+  const rows = await db.unsafe(`
+    SELECT e.slug, e.name, e.election_date, b.kind AS ballot_kind, b.name AS ballot_name,
+      c.imported_protocols, c.missing_protocols
+    FROM elections e
+    JOIN ballots b ON b.election_id = e.id
+    LEFT JOIN dataset_coverage c ON c.election_id = e.id
+    ORDER BY e.election_date DESC
+  `) as Row[];
+  return rows.map((row) => ({
+    slug: row.slug,
+    name: row.name,
+    electionDate: row.election_date,
+    ballot: { kind: row.ballot_kind, name: row.ballot_name },
+    importedProtocols: row.imported_protocols == null ? null : Number(row.imported_protocols),
+    missingProtocols: row.missing_protocols == null ? null : Number(row.missing_protocols)
+  }));
+}
+
 export async function metadata(slug: string): Promise<Record<string, unknown> | null> {
   const elections = await db.unsafe(`
     SELECT e.id, e.slug, e.name, e.election_date, e.scope_note,
       c.discovered_regions, c.discovered_tiks, c.discovered_uiks,
-      c.imported_party_protocols, c.missing_party_protocols, c.deg_policy,
-      c.updated_at
+      c.imported_protocols, c.missing_protocols, c.deg_policy, c.updated_at,
+      b.kind AS ballot_kind, b.name AS ballot_name
     FROM elections e LEFT JOIN dataset_coverage c ON c.election_id = e.id
+    JOIN ballots b ON b.election_id = e.id
     WHERE e.slug = $1
   `, [slug]) as Row[];
   if (!elections.length) return null;
@@ -24,11 +44,11 @@ export async function metadata(slug: string): Promise<Record<string, unknown> | 
     GROUP BY o.id ORDER BY o.position
   `, [slug]) as Row[];
   const regions = await db.unsafe(`
-    SELECT r.code, r.name, count(p.id)::integer AS precincts
+    SELECT r.tvd AS key, r.code, r.name, count(p.id)::integer AS precincts
     FROM regions r LEFT JOIN precincts p ON p.region_id = r.id
     JOIN elections e ON e.id = r.election_id
     WHERE e.slug = $1
-    GROUP BY r.id ORDER BY r.code::integer
+    GROUP BY r.id ORDER BY r.code::integer, r.name
   `, [slug]) as Row[];
   const methods = await db.unsafe("SELECT slug, version, name, description, parameters FROM analysis_methods WHERE slug = 'protocol-cloud-clt-v3'") as Row[];
   return {
@@ -38,12 +58,13 @@ export async function metadata(slug: string): Promise<Record<string, unknown> | 
       electionDate: election.election_date,
       scopeNote: election.scope_note
     },
+    ballot: { kind: election.ballot_kind, name: election.ballot_name },
     coverage: {
       regions: election.discovered_regions,
       tiks: election.discovered_tiks,
       discoveredUiks: election.discovered_uiks,
-      importedProtocols: election.imported_party_protocols,
-      missingProtocols: election.missing_party_protocols,
+      importedProtocols: election.imported_protocols,
+      missingProtocols: election.missing_protocols,
       degPolicy: election.deg_policy,
       updatedAt: election.updated_at
     },
@@ -51,7 +72,7 @@ export async function metadata(slug: string): Promise<Record<string, unknown> | 
       id: Number(option.id), position: Number(option.position), name: option.name,
       shortName: option.short_name, color: option.color, votes: String(option.votes)
     })),
-    regions: regions.map((region) => ({ code: region.code, name: region.name, precincts: Number(region.precincts) })),
+    regions: regions.map((region) => ({ key: region.key, code: region.code, name: region.name, precincts: Number(region.precincts) })),
     method: methods[0] ? {
       slug: methods[0].slug, version: Number(methods[0].version), name: methods[0].name,
       description: methods[0].description,
@@ -65,11 +86,11 @@ export async function points(slug: string, optionId: number, regions: string[]):
   let regionCondition = "";
   if (regions.length) {
     const regionParams = regions.map((region) => { values.push(region); return `$${values.length}`; });
-    regionCondition = `AND r.code IN (${regionParams.join(",")})`;
+    regionCondition = `AND (r.tvd IN (${regionParams.join(",")}) OR r.code IN (${regionParams.join(",")}))`;
   }
   const rows = await db.unsafe(`
     SELECT pr.id, x.uik_number, x.uik_tvd, t.tik_tvd, t.name AS tik_name,
-      r.code AS region_code, r.name AS region_name,
+      r.tvd AS region_key, r.code AS region_code, r.name AS region_name,
       a.registered_voters, a.valid_ballots,
       (a.portable_box_ballots + a.stationary_box_ballots) AS ballots_counted,
       v.votes AS option_votes,
@@ -93,6 +114,7 @@ export async function points(slug: string, optionId: number, regions: string[]):
     uikTvd: String(row.uik_tvd),
     tikTvd: String(row.tik_tvd),
     tikName: String(row.tik_name),
+    regionKey: String(row.region_key),
     regionCode: String(row.region_code),
     regionName: String(row.region_name),
     registeredVoters: Number(row.registered_voters),
@@ -107,7 +129,7 @@ export async function points(slug: string, optionId: number, regions: string[]):
 export async function protocolDetail(slug: string, protocolId: number): Promise<Record<string, unknown> | null> {
   const rows = await db.unsafe(`
     SELECT pr.id, x.uik_number, x.uik_tvd, t.tik_tvd, t.name AS tik_name,
-      r.code AS region_code, r.name AS region_name, s.url, s.final_url, s.sha256,
+      r.tvd AS region_key, r.code AS region_code, r.name AS region_name, s.url, s.final_url, s.sha256,
       s.provenance, s.source_report_type, s.derivation, s.retrieved_at,
       a.registered_voters, a.ballots_received, a.ballots_issued_early,
       a.ballots_issued_at_station, a.ballots_issued_outside, a.ballots_cancelled,
@@ -135,7 +157,7 @@ export async function protocolDetail(slug: string, protocolId: number): Promise<
     precinct: {
       uikNumber: Number(row.uik_number), uikTvd: row.uik_tvd,
       tikTvd: row.tik_tvd, tikName: row.tik_name,
-      regionCode: row.region_code, regionName: row.region_name,
+      regionKey: row.region_key, regionCode: row.region_code, regionName: row.region_name,
       kind: "physical"
     },
     accounting: {

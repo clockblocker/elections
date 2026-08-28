@@ -5,9 +5,12 @@ evidence-linked TypeScript shards in `../proper-data`, serves a Bun API, stores 
 records in PostgreSQL, renders a React research interface, and keeps the analytical
 method independently reproducible in Python.
 
-The first release is deliberately limited to the **2021 State Duma federal party-list
-ballot at physical UIKs**. Remote electronic voting (DEG) is outside the model and is
-neither merged into nor compared with physical precincts.
+The workbench covers every nationwide physical-UIK dataset currently in `proper-data`:
+State Duma federal party-list elections in 2003, 2007, 2011, 2016, and 2021, plus
+presidential elections in 2004, 2008, 2012, 2018, and 2024. Remote electronic voting
+(DEG) is outside the model and is never merged into or compared with physical
+precincts. Single-member State Duma ballots are district-specific, so they remain
+outside the nationwide option model.
 
 ## Native setup (no Docker)
 
@@ -50,11 +53,13 @@ bun run typecheck
 bun run build
 bun run db:migrate
 bun run db:import
+bun run --cwd backend db:import:one -- 2024-president
 .venv/bin/python -m unittest discover -s research/tests -v
 ```
 
-The import is idempotent and processes one generated shard at a time. The 732 MB source
-tree is never loaded as one JavaScript module.
+The import is idempotent and processes one generated shard at a time. Each election runs
+in its own Bun process so several gigabytes of generated source modules do not accumulate
+in one module cache. Use `db:import:one` when only one supported election needs refreshing.
 
 ## Analysis contract
 

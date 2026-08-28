@@ -20,11 +20,11 @@ export function ProtocolPanel({ point, estimate, detail, loading, onClose }: {
   onClose(): void;
 }) {
   if (!point) return <aside className="protocol-panel empty-panel">
-    <span className="panel-index">03</span><div><span className="eyebrow">Protocol evidence</span><h2>Select a dot</h2><p>Click a precinct to inspect its accounting, complete party result, and official source fingerprint.</p></div>
+    <span className="panel-index">03</span><div><span className="eyebrow">Protocol evidence</span><h2>Select a dot</h2><p>Click a precinct to inspect its accounting, complete ballot result, and official source fingerprint.</p></div>
   </aside>;
   return <aside className="protocol-panel">
     <header><div><span className="eyebrow">Pinned physical precinct</span><h2>UIK {point.uikNumber}</h2><p>{point.regionName}<br />{point.tikName}</p></div><button className="close" onClick={onClose} aria-label="Close protocol">×</button></header>
-    <div className="point-metrics"><div><span>Turnout</span><strong>{point.turnout === null ? "—" : `${percent.format(point.turnout)}%`}</strong></div><div><span>Result</span><strong>{point.result === null ? "—" : `${percent.format(point.result)}%`}</strong></div><div><span>Party votes</span><strong>{number.format(point.optionVotes)}</strong></div></div>
+    <div className="point-metrics"><div><span>Turnout</span><strong>{point.turnout === null ? "—" : `${percent.format(point.turnout)}%`}</strong></div><div><span>Result</span><strong>{point.result === null ? "—" : `${percent.format(point.result)}%`}</strong></div><div><span>Option votes</span><strong>{number.format(point.optionVotes)}</strong></div></div>
     {estimate?.status === "scored" && <section className="estimate-card clt-card">
       <div className="score-line"><span><small>P_sus grade</small><strong>{estimate.grade}</strong></span><b>{score.format(estimate.pSus ?? 0)}</b></div>
       <p>Election-wide protocol-core incompatibility—not a probability of fraud.</p>

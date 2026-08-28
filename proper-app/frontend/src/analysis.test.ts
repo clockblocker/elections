@@ -11,7 +11,7 @@ function point(
 ): Point {
   const ballotsCounted = Math.round(registeredVoters * turnout / 100);
   return {
-    id, regionCode, tikTvd, optionVotes, validBallots, turnout,
+    id, regionKey: regionCode, regionCode, tikTvd, optionVotes, validBallots, turnout,
     registeredVoters, ballotsCounted,
     result: validBallots > 0 ? 100 * optionVotes / validBallots : null,
     uikNumber: Number(id.replace(/\D/g, "")) || 1, uikTvd: id,

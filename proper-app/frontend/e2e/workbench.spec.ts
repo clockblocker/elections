@@ -10,8 +10,10 @@ test("loads the protocol-cloud screen, filters its display, and opens a scored p
   await expect(page.getByText("P_sus grades each complete UIK protocol", { exact: false })).toBeVisible();
   await expect(page.getByLabel("Core protocol fraction")).toHaveValue("0.5");
   await expect(page.getByLabel("P_sus review threshold")).toHaveValue("0.999");
+  await expect(page.getByLabel("Election").locator("option")).toHaveCount(10);
 
-  await page.getByLabel("Display geography").selectOption("77");
+  const moscow = page.getByLabel("Display geography").locator("option").filter({ hasText: "77 · город Москва" });
+  await page.getByLabel("Display geography").selectOption((await moscow.getAttribute("value"))!);
   await expect(page.getByText("3,658 plotted / 3,660 protocols")).toBeVisible();
   await expect(page.getByText("scores fixed to the all-UIK model", { exact: false })).toBeVisible();
 
@@ -26,4 +28,10 @@ test("loads the protocol-cloud screen, filters its display, and opens a scored p
   await expect(scoreCard.getByText("95% predictive interval")).toBeVisible();
   await expect(scoreCard.getByText("probability of fraud", { exact: false })).toBeVisible();
   await expect(page.getByRole("link", { name: /official source/i })).toBeVisible();
+
+  await page.getByLabel("Election").selectOption("2024-president");
+  await expect(page.getByLabel("Ballot")).toHaveValue("Presidential ballot");
+  await expect(page.getByLabel("Target candidate")).toContainText("Путин");
+  await expect(page.getByText("91,946 imported protocols")).toBeVisible();
+  await expect(page.getByRole("heading", { name: "Путин turnout × result field" })).toBeVisible();
 });

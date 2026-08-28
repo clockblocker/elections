@@ -1,4 +1,4 @@
-import type { Metadata, Point, ProtocolDetail } from "./types";
+import type { ElectionSummary, Metadata, Point, ProtocolDetail } from "./types";
 
 async function get<T>(path: string, signal?: AbortSignal): Promise<T> {
   const response = await fetch(path, { signal, headers: { accept: "application/json" } });
@@ -8,11 +8,12 @@ async function get<T>(path: string, signal?: AbortSignal): Promise<T> {
 }
 
 export const api = {
-  metadata: (signal?: AbortSignal) => get<Metadata>("/api/elections/2021-duma/meta", signal),
-  points: async (option: number, region: string | null, signal?: AbortSignal) => {
+  elections: async (signal?: AbortSignal) => (await get<{ elections: ElectionSummary[] }>("/api/elections", signal)).elections,
+  metadata: (election: string, signal?: AbortSignal) => get<Metadata>(`/api/elections/${encodeURIComponent(election)}/meta`, signal),
+  points: async (election: string, option: number, region: string | null, signal?: AbortSignal) => {
     const search = new URLSearchParams({ option: String(option) });
     if (region) search.set("region", region);
-    return (await get<{ points: Point[] }>(`/api/elections/2021-duma/points?${search}`, signal)).points;
+    return (await get<{ points: Point[] }>(`/api/elections/${encodeURIComponent(election)}/points?${search}`, signal)).points;
   },
-  protocol: (id: string, signal?: AbortSignal) => get<ProtocolDetail>(`/api/elections/2021-duma/protocols/${encodeURIComponent(id)}`, signal)
+  protocol: (election: string, id: string, signal?: AbortSignal) => get<ProtocolDetail>(`/api/elections/${encodeURIComponent(election)}/protocols/${encodeURIComponent(id)}`, signal)
 };

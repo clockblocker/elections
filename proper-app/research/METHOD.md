@@ -2,8 +2,10 @@
 
 `protocol-cloud-clt-v3` is a **protocol-level model-incompatibility screen**. It is not
 a finding of fraud and `P_sus` is not the probability that misconduct occurred. The
-current application covers the 2021 State Duma federal party-list ballot at physical
-UIKs; remote electronic voting (DEG) is outside the dataset, fit, and denominators.
+current application covers nationwide State Duma party-list and presidential ballots
+from 2003 through 2024 at physical UIKs. Remote electronic voting (DEG), where present,
+is outside the dataset, fit, and denominators. District-specific State Duma ballots are
+also outside this nationwide option model.
 
 The unit of observation is one complete physical UIK protocol. For a selected election
 and ballot option, every protocol that passes the accounting checks enters one nationwide
@@ -179,9 +181,9 @@ BY is conservative and accommodates arbitrary dependence **if** the marginal p-v
 are valid. It cannot repair a misspecified national Gaussian core, so `q` is exported as
 a separate diagnostic and does not define the grade or the default review queue.
 
-## 6. Observed 2021 validation check
+## 6. Observed 2021 reference validation check
 
-On the currently imported physical-UIK dataset for United Russia with default v3
+On the 2021 physical-UIK dataset for United Russia with default v3
 parameters, 121 protocols have both turnout and selected-option result at least 99%.
 Of those, 119 receive P3. The two exceptions are the tiny unanimous protocols with
 counts 4/4 and 1/1: the 4/4 protocol receives P1 (`P_sus` about 0.9890) and the 1/1
@@ -218,7 +220,7 @@ the two tiny protocols are ordinary.
   silently folded into the per-protocol grade.
 - Results are option-specific. Selecting the most anomalous option after inspection adds
   another multiple-testing layer not covered by the displayed BY value.
-- DEG and missing source protocols remain outside the model and are never imputed.
+- DEG, where present, and missing source protocols remain outside the model and are never imputed.
 
 ## 8. Required validation
 

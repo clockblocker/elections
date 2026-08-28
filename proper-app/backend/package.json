@@ -10,7 +10,8 @@
     "test": "bun test",
     "typecheck": "tsc --noEmit",
     "db:migrate": "bun src/migrate.ts",
-    "db:import": "bun src/import-2021.ts"
+    "db:import": "bun src/import-all.ts",
+    "db:import:one": "bun src/import-election.ts"
   },
   "devDependencies": {
     "@types/bun": "1.3.11",

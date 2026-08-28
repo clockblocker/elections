@@ -1,14 +1,30 @@
 import { describe, expect, test } from "bun:test";
-import { accountingValues, parseOption, placeholders, protocolArray } from "../src/import-helpers";
-import { ACCOUNTING_KEYS } from "../src/constants";
-import type { PartyProtocol } from "../src/types";
+import { electionConfig } from "../src/constants";
+import { accountingValues, ballotOptions, parseNumberedOption, placeholders, protocolArray } from "../src/import-helpers";
+import type { ElectionProtocol } from "../src/types";
 
-const accounting = Object.fromEntries(Object.values(ACCOUNTING_KEYS).map((key, index) => [key, index]));
-const protocol = { election: "2021-duma", ballot: "party", reportType: 242, accounting } as unknown as PartyProtocol;
+const accounting = {
+  "Число избирателей, внесенных в список": 0,
+  "Число полученных избирательных бюллетеней": 1,
+  "Число избирательных бюллетеней, выданных досрочно": 2,
+  "Число избирательных бюллетеней, выданных в день голосования": 3,
+  "Число избирательных бюллетеней, выданных вне помещения": 4,
+  "Число погашенных избирательных бюллетеней": 5,
+  "Число избирательных бюллетеней в переносных ящиках": 6,
+  "Число бюллетеней в стационарных ящиках для голосования": 7,
+  "Число недействительных избирательных бюллетеней": 8,
+  "Число действительных избирательных бюллетеней": 9,
+  "Число утраченных избирательных бюллетеней": 10,
+  "Число не учтенных при получении избирательных бюллетеней": 11
+};
+const protocol = {
+  election: "2004-president", level: "uik", ballot: "presidential", reportType: 226,
+  uikTvd: "uik", accounting, votes: { "gas:candidate-vibid:1": 20 }
+} as unknown as ElectionProtocol;
 
-describe("2021 import boundary", () => {
-  test("normalizes party labels", () => {
-    expect(parseOption('5. Всероссийская политическая партия "ЕДИНАЯ РОССИЯ"')).toEqual({
+describe("multi-election import boundary", () => {
+  test("normalizes the numbered 2021 party labels", () => {
+    expect(parseNumberedOption('5. Всероссийская политическая партия "ЕДИНАЯ РОССИЯ"')).toEqual({
       position: 5,
       name: 'Всероссийская политическая партия "ЕДИНАЯ РОССИЯ"',
       shortName: "Единая Россия",
@@ -16,7 +32,13 @@ describe("2021 import boundary", () => {
     });
   });
 
-  test("maps all twelve accounting fields in database order", () => {
+  test("resolves catalog-backed presidential candidates", () => {
+    expect(ballotOptions(protocol, electionConfig("2004-president"), {
+      candidates: [{ voteKey: "gas:candidate-vibid:1", fullName: "Путин Владимир Владимирович" }]
+    })[0]).toMatchObject({ position: 1, name: "Путин Владимир Владимирович", shortName: "Путин" });
+  });
+
+  test("maps historical accounting label variants in database order", () => {
     expect(accountingValues(protocol)).toEqual(Array.from({ length: 12 }, (_, index) => index));
   });
 
@@ -24,7 +46,8 @@ describe("2021 import boundary", () => {
     expect(placeholders(2, 3)).toBe("($1,$2,$3),($4,$5,$6)");
   });
 
-  test("rejects a wrong generated ballot", () => {
-    expect(() => protocolArray({ data: [{ ...protocol, ballot: "single-member" }] }, "bad.ts")).toThrow();
+  test("rejects a protocol for the wrong generated ballot", () => {
+    const config = electionConfig("2004-president");
+    expect(() => protocolArray({ data: [{ ...protocol, ballot: "party" }] }, "bad.ts", config)).toThrow();
   });
 });
